@@ -166,6 +166,9 @@ tags: [lookup]
 - 搅 --> 撹
 - 搁 --> 擱
 - 揽 --> 攬
+- 䖵 --> 昆
+- 𣈆 --> 晋
+- 暂 --> 暫
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

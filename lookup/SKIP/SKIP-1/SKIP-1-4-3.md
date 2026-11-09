@@ -41,6 +41,7 @@ tags:
 - 壯 --> 壮
 - 肠 --> 腸
 - 旷 --> 広
+- 时 --> 時
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.

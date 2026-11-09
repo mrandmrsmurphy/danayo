@@ -124,6 +124,7 @@ tags: [lookup]
 - 惡 --> 悪
 - 愤 --> 憤
 - 惩 --> 懲
+- 惺 --> 星
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought

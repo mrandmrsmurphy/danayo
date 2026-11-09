@@ -38,6 +38,7 @@ tags:
 15. <ruby>[蛤](../../characters/蛤.md)<rt>ㄍㄚㄆ</rt></ruby> - clam
 16. <ruby>[蛭](../../characters/蛭%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - leech
 17. <ruby>[蛮](../../characters/蛮.md)<rt>ㄇㄚㄋ</rt></ruby> - barbarian
+- 䖵 --> 昆
 
 ### +7 Strokes
 18. <ruby>[蛾](../../characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
@@ -50,6 +51,7 @@ tags:
 22. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider
 23. <ruby>[蜜](../../characters/蜜.md)<rt>ㄇㄧㄊ</rt></ruby> - honey
 24. <ruby>[蠟](../../characters/蠟.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
+- 蜫 --> 昆
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada

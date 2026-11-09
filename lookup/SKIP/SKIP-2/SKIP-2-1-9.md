@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[扇](/characters/扇.md)<rt>ㄙ⼶ㄋ</rt></ruby> - fan
 
+### Aliases
+- 晉 --> 晋
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

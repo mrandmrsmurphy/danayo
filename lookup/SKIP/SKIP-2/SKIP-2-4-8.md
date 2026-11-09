@@ -26,6 +26,7 @@ tags: [lookup]
 - 黃 --> 黄
 - 爲 --> 為
 - 犇 --> 奔
+- 𣈆 --> 晋
 
 ## Datacheck
 ```dataview

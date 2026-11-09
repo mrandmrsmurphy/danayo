@@ -21,13 +21,13 @@ joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 4326
-mc_id: 0
+mc_id:
 graphemic_classification: 会意
 stand_in: 曇
 aliases:
   - 昙
 注音: ㄉㄚㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -45,6 +45,11 @@ boundedness: 65
 - [SKIP-2-4-12](../lookup/SKIP/SKIP-2/SKIP-2-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄉㄚㄇ](../syllables/ㄉㄚㄇ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
+
+## Aliases
+
+### 昙
+Simplified Chinese form of 曇. SKIP 2-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[曇]]<rt>ㄉㄚㄇ</rt></ruby> "overcast" (stand-in for 曇 (char))

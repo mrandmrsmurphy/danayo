@@ -117,6 +117,8 @@ tags:
 - 摅 --> 攄
 - 㪟 --> 敦
 - 䯨 --> 敲
+- 煇 --> 暈
+- 煖 --> 暖
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

@@ -100,6 +100,7 @@ tags:
 - 扰 --> 擾
 - 扳 --> 攀
 - 汶 --> 文
+- 扵 --> 於
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

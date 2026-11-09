@@ -43,6 +43,7 @@ tags: [lookup]
 11. <ruby>[鯤](../../characters/鯤.md)<rt>ㄍㄛㄋ</rt></ruby> - mythical fish
 12. <ruby>[鯨](../../characters/鯨.md)<rt>ㄍ⼶ㄫ</rt></ruby> - whale
 - 鯛 --> 周
+- 鳗 --> 曼
 
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
@@ -58,6 +59,7 @@ tags: [lookup]
 - 鰾 --> 票
 - 鰺 --> 参
 - 鱇 --> 康
+- 鰻 --> 曼
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray

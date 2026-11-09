@@ -38,7 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 昆.
 >For the word, see [昆](../words/昆.md)
@@ -52,6 +52,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-4-4](../lookup/SKIP/SKIP-2/SKIP-2-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 988th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄍㄛㄋ](../syllables/ㄍㄛㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 錕
+金 + 昆, "錕鋙"; built on 昆 and kept as an alias. SKIP 1-8-8; 16 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
+
+### 䖵
+"Insects"; the same as 蜫 and kept as an alias of 昆. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
+### 蜫
+"Insects"; a variant of 昆 and kept as an alias. SKIP 1-3-10 (computed: EDRDG does not list it); 14 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[昆]]<rt>ㄍㄛㄋ</rt></ruby> "swarm, descendants" (stand-in for 昆)

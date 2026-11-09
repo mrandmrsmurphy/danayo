@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### +3 Strokes
 7. <ruby>[画](../../characters/画.md)<rt>ㄏ⺢ㄎ</rt></ruby> - draw
+- 畅 --> 暢
 
 ### +4 Strokes
 8. <ruby>[畏](../../characters/畏%20(char).md)<rt>ㄛㄧ</rt></ruby> - fear
@@ -47,6 +48,9 @@ tags: [lookup]
 
 ### +8 Strokes
 - 畺 --> 疆
+
+### +9 Strokes
+- 畼 --> 暢
 
 ### +10 Strokes
 21. <ruby>[畿](../../characters/畿.md)<rt>ㄍㄧㄜ</rt></ruby> - capital district

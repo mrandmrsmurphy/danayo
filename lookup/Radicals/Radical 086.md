@@ -69,6 +69,8 @@ tags: [lookup]
 31. <ruby>[煥](../../characters/煥.md)<rt>ㄏ⺢ㄋ</rt></ruby> - blaze
 32. <ruby>[照](../../characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> - shine
 33. <ruby>[煩](../../characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> - troublesome
+- 煇 --> 暈
+- 煖 --> 暖
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid

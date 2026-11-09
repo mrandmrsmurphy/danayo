@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 暦.
 >For the word, see [暦](../words/暦.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-2-12](../lookup/SKIP/SKIP-3/SKIP-3-2-12.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1522nd most used character in Classical Chinese (recorded under the traditional form 曆). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄌㄝㄎ](../syllables/ㄌㄝㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 曆
+Traditional form (kyūjitai) of 暦, "calendar". SKIP 3-2-12 (computed: EDRDG does not list it); 16 strokes. It ranks 1522 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[暦]]<rt>ㄌㄝㄎ</rt></ruby> "calendar, almanac" (stand-in for 暦)

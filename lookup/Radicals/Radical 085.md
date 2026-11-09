@@ -214,6 +214,7 @@ tags: [lookup]
 - 溪 --> 渓
 - 溫 --> 温
 - 溟 --> 冥
+- 滉 --> 晃
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through

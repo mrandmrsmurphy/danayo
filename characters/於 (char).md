@@ -36,7 +36,7 @@ stand_in: 於
 aliases:
   - 扵
 注音: ㄛ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -54,6 +54,11 @@ boundedness: 70
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 13th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄛ](../syllables/ㄛ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 扵
+A variant form of 於 (also a Vietnamese Nôm form). SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[於]]<rt>ㄛ</rt></ruby> "in; at; during" (stand-in for 於)

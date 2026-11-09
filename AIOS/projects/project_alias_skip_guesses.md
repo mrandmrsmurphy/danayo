@@ -413,3 +413,23 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 敲 (char) | 摮 | 1-3-11 | computed from its parts |
 | 斉 | 齐 | 2-2-6 | computed from its parts |
 | 斬 (char) | 斩 | 1-7-1 | computed from its parts |
+| 於 (char) | 扵 | 1-3-4 | computed from its parts |
+| 旺 | 𫞂 | 1-4-5 | computed from its parts |
+| 旻 | 旼 | 2-4-4 | computed from its parts |
+| 昂 | 昻 | 2-4-5 | computed from its parts |
+| 昆 (char) | 䖵 | 1-3-9 | computed from its parts |
+| 昆 (char) | 蜫 | 1-3-10 | computed from its parts |
+| 昷 | 𥁕 | 2-5-5 | computed from its parts |
+| 時 (char) | 时 | 1-4-3 | computed from its parts |
+| 晋 | 𣈆 | 2-4-8 | computed from its parts |
+| 晋 | 㬐 | 2-4-10 | computed from its parts |
+| 晋 | 𡥨 | 2-3-7 | computed from its parts |
+| 晒 (char) | 㬠 | 1-4-13 | computed from its parts |
+| 晒 (char) | 䵘 | 2-12-9 | computed from its parts |
+| 暈 | 晕 | 2-4-6 | computed from its parts |
+| 暢 | 畅 | 1-5-3 | computed from its parts |
+| 暦 (char) | 曆 | 3-2-12 | computed from its parts |
+| 暫 | 暂 | 2-8-4 | computed from its parts |
+| 曇 (char) | 昙 | 2-4-4 | computed from its parts |
+| 曖 | 暧 | 1-4-10 | computed from its parts |
+| 曼 | 鳗 | 1-8-11 | computed from its parts |

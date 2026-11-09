@@ -36,6 +36,7 @@ tags: [lookup]
 - 惣 --> 総
 - 惡 --> 悪
 - 惩 --> 懲
+- 暂 --> 暫
 
 ## Datacheck
 ```dataview

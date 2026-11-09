@@ -28,21 +28,20 @@ joyo_level: 表外字
 hsk_level: "5"
 hanmun_edu_level: 名
 danayo_id: 7275
-mc_id: 0
+mc_id:
 graphemic_classification: 麗
 stand_in: 晒
 aliases:
   - 曬
   - 㬠
   - 䵘
-  - 𬓸
 注音: ㄙ⼘ㄧ
 kwin: false
 tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 晒.
 >For the word, see [晒](../words/晒.md)
@@ -55,6 +54,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄙ⼘ㄧ](../syllables/ㄙ⼘ㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 5](../lookup/HSK/Old%20HSK%205.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 曬
+Traditional form of 晒, "to sun". SKIP 1-4-19; 23 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 㬠
+A non-classical form of 曬, "to expose to sunlight". SKIP 1-4-13 (computed: EDRDG does not list it); 17 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 䵘
+A rare character, "not sticking together"; kept as an alias of 晒. SKIP 2-12-9 (computed: EDRDG does not list it); 21 strokes. Radical 202 黍. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [晒](../words/晒.md) "expose, dry in the sun, bleach" — 晒 stands alone as a word in Dan'a'yo.

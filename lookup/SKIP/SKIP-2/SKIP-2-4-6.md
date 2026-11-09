@@ -25,6 +25,7 @@ tags: [lookup]
 - 爱 --> 愛
 - 晟 --> 成
 - 紧 --> 緊
+- 晕 --> 暈
 
 ## Datacheck
 ```dataview

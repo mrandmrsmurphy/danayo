@@ -26,6 +26,7 @@ tags: [lookup]
 ### +3 Strokes
 8. <ruby>[旱](../../characters/旱.md)<rt>ㄏㄚㄋ</rt></ruby> - drought
 - 旷 --> 広
+- 时 --> 時
 
 ### +4 Strokes
 9. <ruby>[旺](../../characters/旺.md)<rt>⺢ㄫ</rt></ruby> - flourish
@@ -39,6 +40,8 @@ tags: [lookup]
 17. <ruby>[昏](../../characters/昏.md)<rt>ㄏㄛㄋ</rt></ruby> - dusk
 18. <ruby>[易](../../characters/易.md)<rt>⼶ㄎ</rt></ruby> - easy
 19. <ruby>[昔](../../characters/昔.md)<rt>ㄙㄝㄎ</rt></ruby> - long ago
+- 旼 --> 旻
+- 昙 --> 曇
 
 ### +5 Strokes
 20. <ruby>[显](../../characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> - evident
@@ -54,6 +57,8 @@ tags: [lookup]
 30. <ruby>[昷](../../characters/昷.md)<rt>ㄛㄆ</rt></ruby> - feed a prisoner
 31. <ruby>[昼](../../characters/昼.md)<rt>ㄐㄨㄛ</rt></ruby> - daytime
 - 昿 --> 広
+- 𫞂 --> 旺
+- 昻 --> 昂
 
 ### +6 Strokes
 32. <ruby>[時](../../characters/時%20(char).md)<rt>ㄙㄧ</rt></ruby> - when
@@ -62,6 +67,9 @@ tags: [lookup]
 35. <ruby>[晏](../../characters/晏.md)<rt>⼘ㄋ</rt></ruby> - late
 36. <ruby>[晒](../../characters/晒%20(char).md)<rt>ㄙ⼘ㄧ</rt></ruby> - expose
 37. <ruby>[晦](../../characters/晦.md)<rt>ㄏㄛㄧ</rt></ruby> - dark, obscure
+- 晄 --> 晃
+- 晉 --> 晋
+- 晕 --> 暈
 
 ### +7 Strokes
 38. <ruby>[晨](../../characters/晨.md)<rt>ㄙㄧㄋ</rt></ruby> - early morning
@@ -76,6 +84,8 @@ tags: [lookup]
 44. <ruby>[智](../../characters/智.md)<rt>ㄐㄨㄧ</rt></ruby> - wisdom
 45. <ruby>[暁](../../characters/暁.md)<rt>ㄏ⼘ㄨ</rt></ruby> - daybreak
 46. <ruby>[暑](../../characters/暑%20(char).md)<rt>ㄙ⼄</rt></ruby> - hot (weather)
+- 𣈆 --> 晋
+- 暂 --> 暫
 
 ### +9 Strokes
 47. <ruby>[暇](../../characters/暇.md)<rt>ㄏㄚ</rt></ruby> - spare time
@@ -89,6 +99,8 @@ tags: [lookup]
 53. <ruby>[暦](../../characters/暦%20(char).md)<rt>ㄌㄝㄎ</rt></ruby> - calendar
 54. <ruby>[暮](../../characters/暮.md)<rt>ㄇㄛ</rt></ruby> - sunset
 - 暝 --> 冥
+- 㬐 --> 晋
+- 暧 --> 曖
 
 ### +11 Strokes
 55. <ruby>[暫](../../characters/暫.md)<rt>ㄐㄚㄇ</rt></ruby> - temporary
@@ -97,13 +109,19 @@ tags: [lookup]
 ### +12 Strokes
 57. <ruby>[曇](../../characters/曇%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - overcast
 58. <ruby>[暹](../../characters/暹.md)<rt>ㄙㄝㄇ</rt></ruby> - Siam
+- 曉 --> 暁
+- 曆 --> 暦
 
 ### +13 Strokes
 59. <ruby>[曖](../../characters/曖.md)<rt>ㄚㄧ</rt></ruby> - obscure
+- 㬠 --> 晒
 
 ### +14 Strokes
 60. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
 - 曠 --> 広
+
+### +19 Strokes
+- 曬 --> 晒
 
 ### Aliases
 - 昸 --> 冬

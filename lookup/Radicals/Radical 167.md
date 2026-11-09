@@ -80,6 +80,7 @@ tags: [lookup]
 44. <ruby>[錯](../../characters/錯.md)<rt>ㄑㄚㄎ</rt></ruby> - mistake
 45. <ruby>[録](../../characters/録.md)<rt>ㄌㄛㄎ</rt></ruby> - record
 - 錢 --> 銭
+- 錕 --> 昆
 
 ### +9 Strokes
 46. <ruby>[鍋](../../characters/鍋%20(char).md)<rt>ㄍ⺢</rt></ruby> - pot
@@ -100,6 +101,7 @@ tags: [lookup]
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror
 - 鏗 --> 堅
+- 鏇 --> 旋
 
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell

@@ -64,6 +64,7 @@ tags:
 - 菠 --> 波
 - 萋 --> 妻
 - 菷 --> 帚
+- 菖 --> 昌
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -109,6 +110,7 @@ tags:
 59. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
 - 蓝 --> 藍
 - 蔘 --> 参
+- 蒔 --> 時
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn

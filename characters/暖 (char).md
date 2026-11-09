@@ -32,7 +32,7 @@ stand_in: "暖"
 aliases:
   - 煖
 注音: "ㄋㄚㄋ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 80
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 2629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄋㄚㄋ](../syllables/ㄋㄚㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 煖
+A variant form of 暖, "warm". SKIP 1-4-9; 13 strokes. Radical 086 火. It ranks 3098 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[暖]]<rt>ㄋㄚㄋ</rt></ruby> "warm" (stand-in for 暖)

@@ -35,6 +35,7 @@ tags: [lookup]
 - 錢 --> 銭
 - 靜 --> 静
 - 雕 --> 彫
+- 錕 --> 昆
 
 ## Datacheck
 ```dataview

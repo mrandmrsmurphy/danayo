@@ -29,14 +29,10 @@ mc_id: 437
 graphemic_classification: 生
 stand_in: 星
 aliases:
-  - 曐
-  - 𠻖
-  - 𤯢
   - 皨
-  - 𤾪
   - 惺
 注音: ㄙㄝㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -54,6 +50,14 @@ boundedness: 80
 - [SKIP-2-4-5](../lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](../syllables/ㄙㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 皨
+A variant form of 星, "star". SKIP 2-5-13; 18 strokes. Radical 106 白. It has no rank of its own in the Classical Chinese lists.
+
+### 惺
+忄 + 星, "intelligent"; built on 星 and kept as an alias. SKIP 1-3-9; 12 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[星]]<rt>ㄙㄝㄫ</rt></ruby> "star"

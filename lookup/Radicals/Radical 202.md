@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[黍](../../characters/黍.md)<rt>ㄙ⼄</rt></ruby> - millet
 2. <ruby>[黎](../../characters/黎.md)<rt>ㄌㄝㄧ</rt></ruby> - numerous
 
+### Aliases
+- 䵘 --> 晒
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

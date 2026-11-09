@@ -29,11 +29,8 @@ danayo_id: 47
 mc_id: 56
 graphemic_classification: 象形
 stand_in: 月
-aliases:
-  - 𡇹
-  - 𠥱
 注音: ⼔ㄊ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

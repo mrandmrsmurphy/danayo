@@ -135,6 +135,11 @@ tags:
 - 毃 --> 敲
 - 齊 --> 斉
 - 塹 --> 斬
+- 蜫 --> 昆
+- 蒔 --> 時
+- 㬐 --> 晋
+- 畼 --> 暢
+- 暧 --> 曖
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

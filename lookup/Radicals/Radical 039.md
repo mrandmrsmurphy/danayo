@@ -39,6 +39,7 @@ tags: [lookup]
 
 ### +7 Strokes
 12. <ruby>[孫](../../characters/孫.md)<rt>ㄙㄛㄋ</rt></ruby> - grandchild
+- 𡥨 --> 晋
 
 ### +8 Strokes
 - 孰 --> 熟

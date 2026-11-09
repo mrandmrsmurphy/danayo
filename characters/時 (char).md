@@ -34,7 +34,7 @@ aliases:
   - 时
   - 蒔
 注音: ㄙㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -52,6 +52,15 @@ boundedness: 90
 - [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 65th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄙㄧ](../syllables/ㄙㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 时
+The Chinese simplified form of 時. SKIP 1-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 蒔
+艹 + 時, "to transplant"; built on 時 and kept as an alias. SKIP 2-3-10; 14 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[時]]<rt>ㄙㄧ</rt></ruby> "time" (stand-in for 時)
 - <ruby>[[時間]]<rt>ㄙㄧㄍㄚㄋ</rt></ruby> "time"

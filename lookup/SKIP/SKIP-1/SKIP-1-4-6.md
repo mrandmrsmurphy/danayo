@@ -60,6 +60,7 @@ tags:
 - 脏 --> 臓
 - 预 --> 予
 - 烣 --> 恢
+- 晄 --> 晃
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
