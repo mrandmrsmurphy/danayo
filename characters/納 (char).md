@@ -47,7 +47,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 納.
 >For the word, see [納](../words/納.md)
@@ -61,6 +61,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 899th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄋㄚㄆ](../syllables/ㄋㄚㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 纳
+Simplified Chinese form of 納. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[納]]<rt>ㄋㄚㄆ</rt></ruby> "receive, accept" (stand-in for 納)

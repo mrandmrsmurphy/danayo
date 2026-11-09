@@ -43,6 +43,7 @@ tags:
 - 旷 --> 広
 - 时 --> 時
 - 灶 --> 竃
+- 妝 --> 粧
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.

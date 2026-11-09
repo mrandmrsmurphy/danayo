@@ -175,6 +175,7 @@ tags:
 - 渗 --> 滲
 - 渍 --> 漬
 - 渐 --> 漸
+- 䌷 --> 紬
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

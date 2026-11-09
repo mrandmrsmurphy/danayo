@@ -41,6 +41,7 @@ tags:
 - 衉 --> 喀
 - 臦 --> 囧
 - 弑 --> 弒
+- 絲 --> 糸
 
 ### Forbidden
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture

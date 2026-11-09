@@ -48,6 +48,7 @@ tags:
 
 ### +11 Strokes
 19. <ruby>[蹠](../../characters/蹠.md)<rt>ㄐㄝㄎ</rt></ruby> - metatarsal
+- 蹧 --> 糟
 
 ### +12 Strokes
 20. <ruby>[蹲](../../characters/蹲%20(char).md)<rt>ㄐㄛㄋ</rt></ruby> - squat

@@ -48,6 +48,7 @@ tags: [lookup]
 - 畫 --> 画
 - 茻 --> 莽
 - 奡 --> 傲
+- 粪 --> 糞
 
 ## Datacheck
 ```dataview

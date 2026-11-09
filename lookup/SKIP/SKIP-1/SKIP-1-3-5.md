@@ -128,6 +128,11 @@ tags:
 - 坡 --> 浦
 - 泠 --> 澪
 - 狌 --> 猩
+- 细 --> 細
+- 绅 --> 紳
+- 绍 --> 紹
+- 绀 --> 紺
+- 绊 --> 絆
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

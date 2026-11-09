@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +0 Strokes
 2. <ruby>[手](../../characters/手%20(char).md)<rt>ㄙ⼜</rt></ruby> - hand
+- 扎 --> 紮
 
 ### +1 Stroke
 3. <ruby>[打](../../characters/打.md)<rt>ㄉㄚ</rt></ruby> - hit

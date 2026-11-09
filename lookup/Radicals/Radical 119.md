@@ -26,16 +26,19 @@ tags: [lookup]
 6. <ruby>[粗](../../characters/粗.md)<rt>ㄐㄛ</rt></ruby> - coarse
 7. <ruby>[粒](../../characters/粒.md)<rt>ㄌㄨㄆ</rt></ruby> - particle
 8. <ruby>[粛](../../characters/粛.md)<rt>ㄙㄨㄎ</rt></ruby> - solemn
+- 䊀 --> 糊
 
 ### +6 Strokes
 9. <ruby>[粥](../../characters/粥%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - congee
 10. <ruby>[粤](../../characters/粤.md)<rt>⼔ㄊ</rt></ruby> - Yue
 11. <ruby>[粟](../../characters/粟.md)<rt>ㄙ⼄ㄎ</rt></ruby> - millet
 12. <ruby>[粧](../../characters/粧.md)<rt>ㄐ⺢ㄫ</rt></ruby> - put on make up
+- 粪 --> 糞
 
 ### +7 Strokes
 - 粲 --> 燦
 - 粳 --> 更
+- 粵 --> 粤
 
 ### +8 Strokes
 13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit

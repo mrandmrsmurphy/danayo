@@ -199,6 +199,8 @@ tags: [lookup]
 - 跕 --> 站
 - 筝 --> 箏
 - 肅 --> 粛
+- 粪 --> 糞
+- 絲 --> 糸
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

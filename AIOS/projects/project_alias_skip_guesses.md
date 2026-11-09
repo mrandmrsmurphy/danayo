@@ -562,3 +562,27 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 籃 | 篮 | 2-6-10 | computed from its parts |
 | 籠 (char) | 笼 | 2-6-5 | computed from its parts |
 | 粛 | 肃 | 4-8-1 | computed from its parts |
+| 粤 | 粵 | 2-10-3 | computed from its parts |
+| 糊 | 䊀 | 1-5-6 | computed from its parts |
+| 糊 | 䭅 | 1-8-9 | computed from its parts |
+| 糞 (char) | 粪 | 2-6-6 | computed from its parts |
+| 糟 | 醩 | 1-7-11 | computed from its parts |
+| 糟 | 蹧 | 1-7-11 | computed from its parts |
+| 糸 | 丝 | 2-2-3 | computed from its parts |
+| 糾 (char) | 丩 | 4-2-4 | computed from its parts |
+| 糾 (char) | 纠 | 1-3-2 | computed from its parts |
+| 紅 (char) | 红 | 1-3-3 | computed from its parts |
+| 紇 | 纥 | 1-3-3 | computed from its parts |
+| 紋 (char) | 纹 | 1-3-4 | computed from its parts |
+| 納 (char) | 纳 | 1-3-4 | computed from its parts |
+| 紗 | 纱 | 1-3-4 | computed from its parts |
+| 紘 | 纮 | 1-3-4 | computed from its parts |
+| 紛 (char) | 纷 | 1-3-4 | computed from its parts |
+| 紡 (char) | 纺 | 1-3-4 | computed from its parts |
+| 紬 | 䌷 | 1-3-8 | computed from its parts |
+| 紮 (char) | 扎 | 1-3-1 | computed from its parts |
+| 細 (char) | 细 | 1-3-5 | computed from its parts |
+| 紳 | 绅 | 1-3-5 | computed from its parts |
+| 紹 | 绍 | 1-3-5 | computed from its parts |
+| 紺 (char) | 绀 | 1-3-5 | computed from its parts |
+| 絆 | 绊 | 1-3-5 | computed from its parts |

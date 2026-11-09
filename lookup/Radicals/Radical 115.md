@@ -69,6 +69,7 @@ tags: [lookup]
 30. <ruby>[積](../../characters/積.md)<rt>ㄐㄝㄎ</rt></ruby> - accumulate
 31. <ruby>[穆](../../characters/穆.md)<rt>ㄇㄨㄎ</rt></ruby> - standing grain
 32. <ruby>[穏](../../characters/穏.md)<rt>ㄛㄋ</rt></ruby> - calm
+- 穅 --> 糟
 
 ### +12 Strokes
 - 穗 --> 穂

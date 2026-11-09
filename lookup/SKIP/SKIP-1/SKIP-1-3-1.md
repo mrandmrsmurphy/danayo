@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 忆 --> 憶
+- 扎 --> 紮
 
 ## Datacheck
 ```dataview

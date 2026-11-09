@@ -40,6 +40,7 @@ tags: [lookup]
 - 綸 --> 倫
 - 粺 --> 稗
 - 粹 --> 粋
+- 綢 --> 紬
 
 ## Datacheck
 ```dataview

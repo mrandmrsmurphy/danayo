@@ -46,6 +46,8 @@ tags: [lookup]
 
 ### +8 Strokes
 16. <ruby>[餅](../../characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - pastry
+- 餬 --> 糊
+- 䭅 --> 糊
 
 ### +9 Strokes
 - 餾 --> 溜

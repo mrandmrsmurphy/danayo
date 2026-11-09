@@ -21,6 +21,7 @@ tags: [lookup]
 ### Aliases
 - 鍼 --> 針
 - 鎚 --> 槌
+- 䭅 --> 糊
 
 ## Datacheck
 ```dataview

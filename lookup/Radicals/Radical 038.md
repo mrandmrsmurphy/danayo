@@ -36,6 +36,7 @@ tags: [lookup]
 14. <ruby>[妨](../../characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> - hinder
 - 妪 --> 区
 - 妒 --> 妬
+- 妝 --> 粧
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous

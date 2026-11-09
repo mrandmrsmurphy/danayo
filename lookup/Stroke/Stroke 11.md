@@ -192,6 +192,9 @@ tags:
 - 笺 --> 箋
 - 笃 --> 篤
 - 笼 --> 籠
+- 䊀 --> 糊
+- 紭 --> 紘
+- 䌷 --> 紬
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

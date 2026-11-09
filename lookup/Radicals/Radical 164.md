@@ -51,6 +51,9 @@ tags: [lookup]
 19. <ruby>[醜](../../characters/醜.md)<rt>ㄑㄨㄛ</rt></ruby> - ugly
 20. <ruby>[醤](../../characters/醤.md)<rt>ㄐㄚㄫ</rt></ruby> - jam
 
+### +11 Strokes
+- 醩 --> 糟
+
 ### +13 Strokes
 21. <ruby>[醴](../../characters/醴.md)<rt>ㄌㄝㄧ</rt></ruby> - sweet water
 22. <ruby>[醸](../../characters/醸.md)<rt>ㄋ⼘ㄫ</rt></ruby> - brew

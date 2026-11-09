@@ -163,6 +163,7 @@ tags:
 - 箪 --> 簞
 - 箫 --> 簫
 - 粹 --> 粋
+- 綢 --> 紬
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

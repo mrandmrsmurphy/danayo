@@ -28,6 +28,7 @@ tags: [lookup]
 - 厶 --> 私
 - 亻 --> 人
 - 𠂉 --> 人
+- 丩 --> 糾
 
 ## Datacheck
 ```dataview

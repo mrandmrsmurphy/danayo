@@ -35,7 +35,7 @@ stand_in: 細
 aliases:
   - 细
 注音: ㄙㄝㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 90
 - [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1235th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](../syllables/ㄙㄝㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 细
+Simplified Chinese form of 細. SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[細]]<rt>ㄙㄝㄧ</rt></ruby> "fine; thin; slender" (stand-in for 細)

@@ -110,6 +110,8 @@ tags:
 - 聳 --> 竦
 - 簘 --> 簫
 - 黏 --> 粘
+- 餬 --> 糊
+- 䭅 --> 糊
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

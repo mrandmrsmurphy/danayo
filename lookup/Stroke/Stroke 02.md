@@ -28,6 +28,7 @@ tags: [lookup]
 - 亻 --> 人
 - 𠂉 --> 人
 - 儿 --> 児
+- 丩 --> 糾
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

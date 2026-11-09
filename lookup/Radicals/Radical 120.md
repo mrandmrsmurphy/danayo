@@ -10,13 +10,25 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 纠 --> 糾
+
 ### +0 Strokes
 1. <ruby>[糸](../../characters/糸.md)<rt>ㄙㄚ</rt></ruby> - silk thread
 - 纪 --> 紀
 - 级 --> 級
+- 红 --> 紅
+- 纥 --> 紇
 
 ### +1 Stroke
 2. <ruby>[系](../../characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> - system
+- 糺 --> 糾
+- 纹 --> 紋
+- 纳 --> 納
+- 纱 --> 紗
+- 纮 --> 紘
+- 纷 --> 紛
+- 纺 --> 紡
 
 ### +2 Strokes
 - 终 --> 終
@@ -24,6 +36,11 @@ tags: [lookup]
 - 组 --> 組
 - 织 --> 織
 - 绎 --> 䋇
+- 细 --> 細
+- 绅 --> 紳
+- 绍 --> 紹
+- 绀 --> 紺
+- 绊 --> 絆
 
 ### +3 Strokes
 3. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
@@ -65,6 +82,8 @@ tags: [lookup]
 - 续 --> 続
 - 绩 --> 績
 - 絃 --> 弦
+- 紭 --> 紘
+- 䌷 --> 紬
 
 ### +6 Strokes
 31. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist
@@ -84,6 +103,7 @@ tags: [lookup]
 - 缐 --> 線
 - 絳 --> 降
 - 编 --> 編
+- 絲 --> 糸
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -107,6 +127,7 @@ tags: [lookup]
 - 缩 --> 縮
 - 綜 --> 総
 - 綸 --> 倫
+- 綢 --> 紬
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
@@ -147,6 +168,7 @@ tags: [lookup]
 ### +13 Strokes
 82. <ruby>[繰](../../characters/繰%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - reel
 - 繹 --> 䋇
+- 繫 --> 系
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile

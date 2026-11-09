@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 糾.
 >For the word, see [糾](../words/糾.md)
@@ -49,6 +49,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1760th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 幽|iɪu]] → [ㄍ⼜ㄛ](../syllables/ㄍ⼜ㄛ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 丩
+The Shuowen radical 52, "to entangle"; built into 糾 and kept as an alias. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. Radical 002 丨. It has no rank of its own in the Classical Chinese lists.
+
+### 纠
+Simplified Chinese form of 糾. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 糺
+A variant form of 糾. SKIP 1-6-1; 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[糾]]<rt>ㄍ⼜ㄛ</rt></ruby> "twist, investigate" (stand-in for 糾)

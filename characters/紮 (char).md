@@ -30,13 +30,12 @@ graphemic_classification: "札"
 stand_in: "紮"
 aliases:
   - 扎
-  - 紥
 注音: "ㄐㄚㄊ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 紮.
 >For the word, see [紮](../words/紮.md)
@@ -50,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-5-6](../lookup/SKIP/SKIP-2/SKIP-2-5-6.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄐㄚㄊ](../syllables/ㄐㄚㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 扎
+The Chinese form of 紮, "to bind; to stab". SKIP 1-3-1 (computed: EDRDG does not list it); 4 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[紮]]<rt>ㄐㄚㄊ</rt></ruby> "tie, fasten, bind" (stand-in for 紮)
