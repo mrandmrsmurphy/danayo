@@ -114,6 +114,7 @@ tags: [lookup]
 84. <ruby>[啖](../../characters/啖.md)<rt>ㄉㄚㄇ</rt></ruby> - eat
 85. <ruby>[啡](../../characters/啡.md)<rt>ㄈㄧ</rt></ruby> - morphine
 86. <ruby>[喝](../../characters/喝%20(char).md)<rt>ㄏㄛㄊ</rt></ruby> - yell
+- 啚 --> 鄙
 
 ### +9 Strokes
 87. <ruby>[啼](../../characters/啼.md)<rt>ㄊㄝ</rt></ruby> - cry

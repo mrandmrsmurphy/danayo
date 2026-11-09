@@ -63,6 +63,7 @@ tags: [lookup]
 40. <ruby>[絵](../../characters/絵.md)<rt>ㄏ⺢ㄧ</rt></ruby> - draw
 41. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
 - 絝 --> 袴
+- 䋝 --> 嬰
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -124,6 +125,9 @@ tags: [lookup]
 
 ### +15 Strokes
 84. <ruby>[纏](../../characters/纏.md)<rt>ㄐㄝㄋ</rt></ruby> - wrap
+
+### +17 Strokes
+- 纓 --> 嬰
 
 ### Aliases
 - 絕 --> 絶

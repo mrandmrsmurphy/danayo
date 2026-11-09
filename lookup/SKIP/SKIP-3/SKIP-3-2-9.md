@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[凰](/characters/凰.md)<rt>ㄏ⺢ㄫ</rt></ruby> "female phoenix"
 2. <ruby>[厠](/characters/厠.md)<rt>ㄑㄧ</rt></ruby> "WC; toilet"
 
+### Aliases
+- 匐 --> 伏
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

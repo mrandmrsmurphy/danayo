@@ -24,6 +24,9 @@ tags: [lookup]
 ### +4 Strokes
 6. <ruby>[匈](../../characters/匈.md)<rt>ㄏ⼄ㄫ</rt></ruby> - Huns
 
+### +9 Strokes
+- 匐 --> 伏
+
 ### Forbidden
 - 匁 - 国字: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
 - 匂 - 国字: A "new" Japanese character.  <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.

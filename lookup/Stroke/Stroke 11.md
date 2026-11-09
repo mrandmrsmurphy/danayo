@@ -84,6 +84,9 @@ tags:
 - 敝 --> 蔽
 - 欸 --> 唉
 - 梦 --> 夢
+- 啚 --> 鄙
+- 婴 --> 嬰
+- 匐 --> 伏
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

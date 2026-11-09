@@ -25,6 +25,7 @@ tags: [lookup]
 ### +6 Strokes
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark
 8. <ruby>[鮮](../../characters/鮮.md)<rt>ㄙ⼶ㄇ</rt></ruby> - fresh
+- 鮲 --> 伏
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi

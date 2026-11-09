@@ -42,3 +42,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 覇 | 䩻 | 1-9-10 | computed from its parts |
 | 覇 | 𧈉 | 2-6-13 | computed from its parts |
 | 残 (char) | 㦮 | 3-4-3 | computed from its parts |
+| 嬰 | 𰋷 | 2-3-3 | computed from its parts |
+| 嬰 | 䋝 | 1-6-6 | computed from its parts |
+| 嬰 | 婴 | 2-8-3 | computed from its parts |

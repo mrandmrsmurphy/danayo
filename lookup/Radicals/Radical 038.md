@@ -21,6 +21,7 @@ tags: [lookup]
 4. <ruby>[如](../../characters/如%20(char).md)<rt>ㄋ⼄</rt></ruby> - like
 5. <ruby>[妃](../../characters/妃.md)<rt>ㄈㄧ</rt></ruby> - emperor's wife
 6. <ruby>[妄](../../characters/妄.md)<rt>ㄇㄚㄫ</rt></ruby> - delusion
+- 𰋷 --> 嬰
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant
@@ -73,6 +74,7 @@ tags: [lookup]
 46. <ruby>[婚](../../characters/婚.md)<rt>ㄏㄛㄋ</rt></ruby> - marry
 47. <ruby>[婢](../../characters/婢.md)<rt>ㄅㄧ</rt></ruby> - servant girl
 48. <ruby>[婦](../../characters/婦%20(char).md)<rt>ㄅ⼜</rt></ruby> - lady
+- 婴 --> 嬰
 
 ### +9 Strokes
 49. <ruby>[婿](../../characters/婿%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - bridegroom

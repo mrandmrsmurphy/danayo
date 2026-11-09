@@ -408,6 +408,7 @@ The traditional classification of Chinese character formation.
 ## Lexicon & Language
 - <ruby>[字彙](../words/字彙.md)<rt>ㄐㄧㄏㄨ</rt></ruby>: lexicon, vocabulary
 - <ruby>[詞彙](../words/詞彙.md)<rt>ㄙㄚㄏㄨ</rt></ruby>: vocabulary, lexicon
+- <ruby>[連綿詞](../words/連綿詞.md)<rt>ㄌ⼶ㄋㄇ⼶ㄋㄙㄚ</rt></ruby>: bisyllabic morpheme whose two characters mean nothing apart from the pair (徘徊, 蜘蛛) — the term the `#cranberry` tag is named after
 - <ruby>[語彙](../words/語彙.md)<rt>⼄ㄏㄨ</rt></ruby>: lexicon
 - <ruby>[古語](../words/古語.md)<rt>ㄍㄛ⼄</rt></ruby>: archaism, an old or obsolete word
 - <ruby>[形態](../words/形態.md)<rt>ㄏㄝㄫㄊㄚㄧ</rt></ruby>: morphology

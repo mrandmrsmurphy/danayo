@@ -37,6 +37,7 @@ tags:
 - 导 --> 導
 - 节 --> 節
 - 𦍌 --> 羊
+- 𰋷 --> 嬰
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

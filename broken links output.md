@@ -1,11 +1,5 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 - [[覊]] in [[characters/覇]]
-- [[虒]] in [[characters/逓]]
-- [[啚]] in [[characters/鄙]]
-- [[連綿詞]] in [[lookup/List of 連綿詞]]
-- [[䋝]] in [[lookup/SKIP/SKIP-1/SKIP-1-6-17]]
-- [[匳]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
-- [[奩]] in [[lookup/SKIP/SKIP-3/SKIP-3-2-13]]
 - [[羈]] in [[characters/覇]], [[lookup/Korean/Korean Name ㄱ]]
 - [[匐]] in [[characters/蔔]], [[lookup/Korean/Korean Name ㅂ]]
 - [[狄]] in [[characters/荻]], [[lookup/Korean/Korean Name ㅈ]]

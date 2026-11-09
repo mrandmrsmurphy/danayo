@@ -25,6 +25,9 @@ tags: [lookup]
 ### Forbidden
 - 㖰 - 異体字: Variant of 㖯, '똥'/shit (proto-Hangǔl)
 
+### Aliases
+- 啚 --> 鄙
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -94,6 +94,7 @@ No link to 連 found on Wiktionary beyond its structure (氵 + 連, "ripple"); �
 - <ruby>[[連襟]]<rt>ㄌ⼶ㄋㄍㄧㄇ</rt></ruby> "husbands of sisters"
 - <ruby>[[連歌]]<rt>ㄌ⼶ㄋㄍㄜ</rt></ruby> "renga"
 - <ruby>[[関連]]<rt>ㄍ⺢ㄇㄌ⼶ㄋ</rt></ruby> "relation"
+- <ruby>[[連綿詞]]<rt>ㄌ⼶ㄋㄇ⼶ㄋㄙㄚ</rt></ruby> "disyllabic morpheme"
 
 ## Chengyu
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"

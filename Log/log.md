@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **匐 made an alias of 伏, and 伏 the derived-character hub for 匐:** by the project owner's decision, on the identical sound (ㄅㄨㄎ, MC `b` + `ək`) and near-identical meaning (匐, only in 匍匐 "to crawl"; Wiktionary lists 伏 as its simplified form). 伏 (char) gained `aliases: 匐` and its first `## Aliases` section for 鮲 and 匐 (redirects on Stroke 11 and 17, SKIP-3-2-9 and SKIP-1-11-6, Radicals 020 and 195) and `## Derived Characters` with a short explanation (蔔). `mc_id` unchanged (561). The 匐 links on 蔔 and Korean Name ㅂ now point to 伏. Authority: 武明帥.
+
+- **Orphan redirect removed from SKIP-3-2-13:** `[[匳]] --> [[奩]]` had both ends red-linked, and neither 匳 nor 奩 appears anywhere else in the vault. Authority: 武明帥.
+
+- **纓 and 䋝 made aliases of 嬰:** by the project owner's decision, on the identical sound (ㄧㄫ, MC `ʔ` + `iᴇŋ`) and the shared origin of a cord worn around the neck (纓 is 糸 + 嬰; 䋝 is its Japanese shinjitai, 糸 + 𰋷, the form already an alias of 嬰). 嬰 gained `aliases: 纓, 䋝` and its first `## Aliases` section for 𰋷, 婴, 纓 and 䋝 (redirects on Stroke 06, 11, 12 and 23, SKIP-2-3-3, SKIP-2-8-3, SKIP-1-6-17 and SKIP-1-6-6, Radicals 038 and 120; the SKIP numbers of 𰋷, 婴 and 䋝 are computed). `mc_id` unchanged (736). SKIP-1-6-17: the stray red-linked redirect `纓 --> [[䋝]]` removed in favour of `纓 --> 嬰`. Authority: 武明帥.
+
+- **連綿詞 coined (words/連綿詞.md):** "disyllabic morpheme" (名詞); 連 + 綿 + 詞; 注音 ㄌ⼶ㄋㄇ⼶ㄋㄙㄚ, 羅馬字 lyenmyensa, 諺文 련면사; aliases 聯綿詞, 连绵词, 联绵词; Chinese readings from en.Wiktionary (liánmiáncí, lin4 min4 ci4), Japanese compositional (the Japanese term is 連綿語), Korean 련면사. Ties to the `#cranberry` tag and lookup/List of 連綿詞. Added to `## Words` on 連, 綿 and 詞 and to lexipedia/Grammar (Lexicon & Language); stamped. Resolves the `[[連綿詞]]` red link on the List page. Authority: user request 2026-11-08.
+
+- **啚 made an alias of 鄙, and 鄙 the derived-character hub for 啚:** by the project owner's decision, on the identical sound (ㄈㄧㄜ, MC `p` + `ɣiɪ`) and meaning (啚, "borderland", is the original form of 鄙). 鄙 gained `aliases: 啚`, its first `## Aliases` section (redirects on Stroke 11, SKIP-2-5-6 and Radical 030) and `## Derived Characters` with a short explanation (図). `mc_id` unchanged (1101). The 啚 link on 鄙 and the List of 会意 entry for 図 now point to 鄙 ("no vault page" removed). Authority: 武明帥.
+
 - **虒 de-linked on 逓:** the red link `[[虒]]` (a compound-only character, the phonetic of 逓; derived sound ㄙㄧ) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
 
 - **戔 and 㦮 made aliases of 残, and 残 the derived-character hub:** by the project owner's decision (戔, two spears, is the original form of 殘, "to injure", and carries both readings of its series; 㦮 is its Japanese shinjitai form). 残 (char) gained `aliases: 戔, 㦮` and its first `## Aliases` section for 殘, 戔 and 㦮 (redirects on Stroke 07, 08 and 12, SKIP-1-4-8, SKIP-2-4-4 and SKIP-3-4-3, Radicals 062 and 078; 㦮's SKIP computed) and `## Derived Characters` with an explanation (践, 浅, 銭, 賎, 桟, 箋, 盞). `mc_id` unchanged (1260, the rank of 殘). The 戔 and 㦮 notes on 桟, 浅, 盞, 箋, 賎, 践 and 銭 now point to 残, and the "no vault page" notes are removed. Radical 078: the old duplicate redirect `殘 --> traditional form of 残` (at +6) removed in favour of the +8 line. Authority: 武明帥.
