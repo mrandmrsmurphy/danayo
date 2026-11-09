@@ -25,6 +25,7 @@ Top component has 4 strokes. Dominant components: 日, 火, 月, 言.
 15. none
 16. none
 17. [SKIP-2-4-17](lookup/SKIP/SKIP-2/SKIP-2-4-17.md): (aliases/redirects only)
+18. [SKIP-2-4-18](lookup/SKIP/SKIP-2/SKIP-2-4-18.md): ø
 
 ## Base check
 ```base

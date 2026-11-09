@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 圏.
 >For the word, see [圏](../words/圏.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 3579th most used character in Classical Chinese (recorded in the corpus under its traditional form 圈). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三合|ɣiuᴇn]] → [ㄍ⼔ㄋ](../syllables/ㄍ⼔ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 圈
+Traditional form (kyūjitai) of 圏, "pen, circle". SKIP 3-3-8; 11 strokes. It ranks 3579 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[圏]]<rt>ㄍ⼔ㄋ</rt></ruby> "encircled area" (stand-in for 圏)

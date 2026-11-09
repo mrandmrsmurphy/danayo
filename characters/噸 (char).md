@@ -24,7 +24,7 @@ joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: 無
 danayo_id: 7226
-mc_id: 0
+mc_id:
 graphemic_classification: 頓
 stand_in: 噸
 aliases:
@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 噸.
 >For the word, see [噸](../words/噸.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` reflects this absence (unsurprising for a modern loan-character). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄊㄛㄋ](../syllables/ㄊㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md)
+
+## Aliases
+
+### 吨
+The Chinese simplified form of 噸, "ton". SKIP 1-3-4; 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [噸](../words/噸.md) "ton" — stands alone as a word in Dan'a'yo.

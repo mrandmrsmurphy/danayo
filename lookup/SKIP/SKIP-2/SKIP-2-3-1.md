@@ -21,6 +21,9 @@ tags: [lookup]
 - 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
 - 弖 - 国字: phonetic for 'te'
 
+### Aliases
+- 圡 --> 土
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

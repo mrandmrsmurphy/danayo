@@ -41,6 +41,7 @@ tags: [lookup]
 15. <ruby>[契](../../characters/契.md)<rt>ㄎㄝㄧ</rt></ruby> - deed
 16. <ruby>[奔](../../characters/奔.md)<rt>ㄅㄛㄋ</rt></ruby> - run around
 - 奐 --> 煥
+- 奎 --> 圭
 
 ### +7 Strokes
 17. <ruby>[套](../../characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - covering

@@ -88,6 +88,10 @@ tags:
 - 藂 --> 叢
 - 騃 --> 呆
 - 營 --> 営
+- 譁 --> 嘩
+- 臩 --> 囧
+- 鮭 --> 圭
+- 薶 --> 埋
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

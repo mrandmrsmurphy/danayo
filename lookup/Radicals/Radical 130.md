@@ -95,6 +95,7 @@ tags: [lookup]
 57. <ruby>[腽](../../characters/腽.md)<rt>⺢ㄆ</rt></ruby> - fur seal
 58. <ruby>[膏](../../characters/膏.md)<rt>ㄍㄚㄨ</rt></ruby> - grease
 59. <ruby>[膜](../../characters/膜.md)<rt>ㄇㄚㄎ</rt></ruby> - membrane
+- 膎 --> 圭
 
 ### +9 Strokes
 60. <ruby>[膚](../../characters/膚.md)<rt>ㄈㄜ</rt></ruby> - skin

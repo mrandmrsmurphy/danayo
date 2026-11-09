@@ -159,6 +159,7 @@ tags: [lookup]
 
 100. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
 101. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
+- 憻 --> 坦
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere

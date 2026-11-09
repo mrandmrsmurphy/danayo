@@ -17,6 +17,8 @@ tags: [lookup]
 ### Aliases
 - 戶 --> 戸
 - 户 --> 戸
+- 亖 --> 四
+- 𡈽 --> 土
 
 ## Datacheck
 ```dataview

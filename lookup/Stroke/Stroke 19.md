@@ -57,6 +57,7 @@ tags:
 - 證 --> 証
 - 繹 --> 䋇
 - 嚥 --> 咽
+- 謿 --> 嘲
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

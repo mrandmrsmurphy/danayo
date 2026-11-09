@@ -15,6 +15,8 @@ tags:
 
 ### +1 Stroke
 2. <ruby>[𡈼](../../characters/𡈼.md)<rt>ㄊㄧㄋ</rt></ruby> - stalk
+- 圡 --> 土
+- 𡈽 --> 土
 
 ### +2 Strokes
 3. <ruby>[圧](../../characters/圧%20(char).md)<rt>ㄚㄊ</rt></ruby> - press
@@ -41,6 +43,8 @@ tags:
 14. <ruby>[坦](../../characters/坦.md)<rt>ㄊㄚㄋ</rt></ruby> - flat
 15. <ruby>[坪](../../characters/坪%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - level ground
 16. <ruby>[垂](../../characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - hang
+- 坸 --> 垢
+- 𡊦 --> 垢
 
 ### +6 Strokes
 17. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model

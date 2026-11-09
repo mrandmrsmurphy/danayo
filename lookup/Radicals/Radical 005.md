@@ -53,6 +53,7 @@ tags: [lookup]
 - 乚 --> 隠
 - 买 --> 買
 - 㐜 --> 仇
+- 𠃢 --> 四
 
 ## Data check
 ```dataview

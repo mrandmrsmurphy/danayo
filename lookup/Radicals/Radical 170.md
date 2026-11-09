@@ -9,6 +9,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +-2 Strokes
+- 阪 --> 坂
+
 ### -1 Stroke
 1. <ruby>[防](../../characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> - prevent
 2. <ruby>[阮](../../characters/阮.md)<rt>⼔ㄋ</rt></ruby> - moon lute

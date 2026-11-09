@@ -31,7 +31,7 @@ aliases:
   - 圡
   - 𡈽
 注音: ㄊㄛ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 90
 - 337th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "tellurium": <ruby>[[土素]]<rt>ㄊㄛㄙㄛ</rt></ruby>
+
+## Aliases
+
+### 圡
+A variant form of 土, "soil". SKIP 2-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𡈽
+A rare variant form of 土; Wiktionary gives no definition. SKIP 2-1-3 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> "earth" (stand-in for 土)

@@ -17,6 +17,7 @@ tags: [lookup]
 - 甸 --> 田
 - 乕 --> 虎
 - 启 --> 啓
+- 冏 --> 囧
 
 ## Datacheck
 ```dataview

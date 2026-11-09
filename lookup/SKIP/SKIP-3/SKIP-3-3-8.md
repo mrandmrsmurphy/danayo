@@ -25,6 +25,8 @@ tags: [lookup]
 - 國 --> 国
 - 阐 --> 闡
 - 阋 --> 䦧
+- 圉 --> 圄
+- 圈 --> 圏
 
 ## Datacheck
 ```dataview

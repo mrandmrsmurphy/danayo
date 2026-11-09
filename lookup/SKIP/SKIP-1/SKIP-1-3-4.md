@@ -88,6 +88,8 @@ tags:
 - 吽 --> 吼
 - 呗 --> 唄
 - 呜 --> 嗚
+- 吨 --> 噸
+- 阪 --> 坂
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

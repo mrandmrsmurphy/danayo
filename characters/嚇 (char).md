@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 嚇.
 >For the word, see [嚇](../words/嚇.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-14](../lookup/SKIP/SKIP-1/SKIP-1-3-14.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 5539th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄏㄚㄎ](../syllables/ㄏㄚㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 吓
+The Chinese simplified form of 嚇, "to frighten". SKIP 1-3-3; 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[嚇]]<rt>ㄏㄚㄎ</rt></ruby> "scare; frighten" (stand-in for 嚇)

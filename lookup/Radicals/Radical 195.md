@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 鲜 --> 鮮
+- 鲑 --> 圭
 
 ### +4 Strokes
 2. <ruby>[魯](../../characters/魯.md)<rt>ㄌㄛㄇ</rt></ruby> - rash
@@ -32,6 +33,7 @@ tags: [lookup]
 8. <ruby>[鮮](../../characters/鮮.md)<rt>ㄙ⼶ㄇ</rt></ruby> - fresh
 - 鮲 --> 伏
 - 鮟 --> 安
+- 鮭 --> 圭
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi

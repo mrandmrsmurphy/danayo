@@ -124,6 +124,7 @@ tags:
 - 𠭊 --> 叚
 - 𠲳 --> 呻
 - 㖒 --> 啼
+- 圆 --> 圓
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

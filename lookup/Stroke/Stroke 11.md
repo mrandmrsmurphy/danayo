@@ -144,6 +144,9 @@ tags:
 - 啟 --> 啓
 - 啑 --> 喋
 - 啬 --> 嗇
+- 㭰 --> 嘴
+- 圉 --> 圄
+- 圈 --> 圏
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

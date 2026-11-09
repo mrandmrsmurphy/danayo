@@ -34,7 +34,7 @@ aliases:
   - 圆
   - 円
 注音: ⼔ㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -52,6 +52,14 @@ boundedness: 90
 - 1870th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼔ㄋ](../syllables/⼔ㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - This is a rare example of a divergence from Shinjitai, as the character 円 is too Japanese, and associated with Japanese money/yen.
+
+## Aliases
+
+### 圆
+Simplified Chinese form of 圓. SKIP 3-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 円
+The Japanese simplified form of 圓, "circle, yen". SKIP 3-2-2; 4 strokes. Radical 013 冂. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby> "circle; round" (stand-in for 圓)

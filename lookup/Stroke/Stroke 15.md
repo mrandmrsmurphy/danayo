@@ -95,6 +95,7 @@ tags:
 - 蕨 --> 厥
 - 噛 --> 咬
 - 䘔 --> 喀
+- 歎 --> 嘆
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

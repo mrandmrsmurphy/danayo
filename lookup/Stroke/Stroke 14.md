@@ -114,6 +114,8 @@ tags:
 - 閤 --> 合
 - 獃 --> 呆
 - 嘔 --> 呕
+- 鲑 --> 圭
+- 膎 --> 圭
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

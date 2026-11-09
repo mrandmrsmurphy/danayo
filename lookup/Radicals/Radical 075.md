@@ -156,6 +156,7 @@ tags: [lookup]
 - 條 --> 条
 - 检 --> 検
 - 梧 --> 吾
+- 㭰 --> 嘴
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess

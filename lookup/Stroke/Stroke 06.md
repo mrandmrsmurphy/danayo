@@ -111,6 +111,8 @@ tags:
 - 吅 --> 喧
 - 吃 --> 喫
 - 乔 --> 喬
+- 吓 --> 嚇
+- 阪 --> 坂
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

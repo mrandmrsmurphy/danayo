@@ -156,6 +156,7 @@ tags: [lookup]
 82. <ruby>[講](../../characters/講.md)<rt>ㄍㄚㄫ</rt></ruby> - lecture
 83. <ruby>[謝](../../characters/謝.md)<rt>ㄙ⼘</rt></ruby> - thank
 84. <ruby>[謡](../../characters/謡.md)<rt>⼄ㄨ</rt></ruby> - song
+- 譁 --> 嘩
 
 ### +11 Strokes
 85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
@@ -169,6 +170,7 @@ tags: [lookup]
 90. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
 - 𧬆 --> 善
 - 證 --> 証
+- 謿 --> 嘲
 
 ### +13 Strokes
 91. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment

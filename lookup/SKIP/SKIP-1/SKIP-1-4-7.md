@@ -51,6 +51,7 @@ tags:
 - 焔 --> 炎
 - 脗 --> 吻
 - 梧 --> 吾
+- 㭰 --> 嘴
 
 ## Datacheck
 ```dataview

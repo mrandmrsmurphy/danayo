@@ -32,6 +32,7 @@ tags: [lookup]
 - 𠮟 --> 叱
 - 𠮣 --> 吾
 - 㕥 --> 呻
+- 叹 --> 嘆
 
 ### +3 Strokes
 17. <ruby>[各](../../characters/各%20(char).md)<rt>ㄍㄚㄎ</rt></ruby> - each
@@ -48,6 +49,7 @@ tags: [lookup]
 - 吕 --> 呂
 - 吅 --> 喧
 - 吃 --> 喫
+- 吓 --> 嚇
 
 ### +4 Strokes
 27. <ruby>[君](../../characters/君%20(char).md)<rt>ㄍㄨㄋ</rt></ruby> - you
@@ -76,6 +78,7 @@ tags: [lookup]
 - 呗 --> 唄
 - 启 --> 啓
 - 呜 --> 嗚
+- 吨 --> 噸
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference
@@ -90,6 +93,7 @@ tags: [lookup]
 - 咐 --> 付
 - 咜 --> 叱
 - 咒 --> 呪
+- 咀 --> 嘴
 
 ### +6 Strokes
 52. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite
@@ -105,6 +109,7 @@ tags: [lookup]
 - 𠲘 --> 善
 - 哈 --> 呵
 - 哑 --> 唖
+- 哗 --> 嘩
 
 ### +7 Strokes
 62. <ruby>[員](../../characters/員.md)<rt>ㄨㄋ</rt></ruby> - personnel
@@ -166,6 +171,7 @@ tags: [lookup]
 - 喆 --> 哲
 - 㖷 --> 啼
 - 喻 --> 喩
+- 喷 --> 噴
 
 ### +10 Strokes
 103. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity
@@ -215,6 +221,9 @@ tags: [lookup]
 
 ### +18 Strokes
 - 㘕 --> 喊
+
+### +19 Strokes
+- 囊 --> 嚢
 
 ### +21 Strokes
 - 囓 --> 咬

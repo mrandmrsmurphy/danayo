@@ -32,6 +32,7 @@ tags: [lookup]
 8. <ruby>[孟](../../characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby> - first
 9. <ruby>[孤](../../characters/孤.md)<rt>ㄍㄛ</rt></ruby> - lone
 10. <ruby>[学](../../characters/学.md)<rt>ㄏㄚㄎ</rt></ruby> - learn
+- 孠 --> 嗣
 
 ### +6 Strokes
 11. <ruby>[孩](../../characters/孩.md)<rt>ㄏㄚㄧ</rt></ruby> - baby

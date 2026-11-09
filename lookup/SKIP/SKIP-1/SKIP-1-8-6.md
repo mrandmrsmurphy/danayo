@@ -26,6 +26,7 @@ tags: [lookup]
 - 榦 --> 幹
 - 銓 --> 選
 - 鲜 --> 鮮
+- 鲑 --> 圭
 
 ## Datacheck
 ```dataview

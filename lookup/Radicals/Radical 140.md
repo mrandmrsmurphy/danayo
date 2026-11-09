@@ -144,6 +144,7 @@ tags:
 88. <ruby>[蔚](../../characters/蔚.md)<rt>ㄨㄊ</rt></ruby> - luxuriant
 89. <ruby>[蕉](../../characters/蕉.md)<rt>ㄐㄛㄨ</rt></ruby> - banana
 - 藂 --> 叢
+- 薶 --> 埋
 
 ### +12 Strokes
 90. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower

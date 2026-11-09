@@ -28,6 +28,8 @@ tags: [lookup]
 ### Aliases
 - 弍 --> [[二 (char)]] (ancient variant of 二)
 - 弍 --> 二
+- 龱 --> 四
+- 𠁤 --> 四
 
 ### Forbidden
 - 込 - 国字: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.

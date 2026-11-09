@@ -99,6 +99,7 @@ tags:
 - 洺 --> 名
 - 哈 --> 呵
 - 哑 --> 唖
+- 哗 --> 嘩
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

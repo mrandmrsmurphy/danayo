@@ -360,3 +360,22 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 営 | 营 | 2-3-10 | computed from its parts |
 | 嗇 | 啬 | 2-5-6 | computed from its parts |
 | 嗚 | 呜 | 1-3-4 | computed from its parts |
+| 嗣 | 孠 | 2-3-5 | computed from its parts |
+| 嘆 (char) | 叹 | 1-3-2 | computed from its parts |
+| 嘩 | 哗 | 1-3-6 | computed from its parts |
+| 嘲 | 謿 | 1-7-12 | computed from its parts |
+| 嘴 | 㭰 | 1-4-7 | computed from its parts |
+| 噴 | 喷 | 1-3-9 | computed from its parts |
+| 四 (char) | 龱 | 3-3-2 | computed from its parts |
+| 四 (char) | 𠁤 | 3-3-2 | computed from its parts |
+| 四 (char) | 𠃢 | 2-1-4 | computed from its parts |
+| 四 (char) | 𦉭 | 2-2-3 | computed from its parts |
+| 囧 | 臦 | 1-6-6 | computed from its parts |
+| 囧 | 臩 | 1-6-11 | computed from its parts |
+| 圓 (char) | 圆 | 3-3-7 | computed from its parts |
+| 土 (char) | 圡 | 2-3-1 | computed from its parts |
+| 土 (char) | 𡈽 | 2-1-3 | computed from its parts |
+| 圭 | 鲑 | 1-8-6 | computed from its parts |
+| 坦 | 憻 | 1-3-13 | computed from its parts |
+| 垢 | 坸 | 1-3-5 | computed from its parts |
+| 垢 | 𡊦 | 1-3-5 | computed from its parts |
