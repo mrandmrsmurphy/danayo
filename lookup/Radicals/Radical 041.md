@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### +5 Strokes
 - 尀 --> 叵
+- 㝵 --> 碍
 
 ### +6 Strokes
 5. <ruby>[封](../../characters/封%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - seal

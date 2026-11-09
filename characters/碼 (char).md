@@ -25,7 +25,7 @@ joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7217
-mc_id: 0
+mc_id:
 graphemic_classification: "馬"
 stand_in: "碼"
 aliases:
@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 85
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 碼.
 >For the word, see [碼](../words/碼.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-10](../lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` reflects this absence. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 码
+Simplified Chinese form of 碼. SKIP 1-5-3 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [碼](../words/碼.md) "yard" — 碼 stands alone as a word in Dan'a'yo.

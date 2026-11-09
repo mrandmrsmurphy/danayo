@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 穂.
 >For the word, see [穂](../words/穂.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-10](../lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 3379th most used character in Classical Chinese (filled — was blank; `CC 3000.md`: `3379. 穗`). Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙㄨㄧ](../syllables/ㄙㄨㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 穗
+Traditional form of 穂, "ear of grain". SKIP 1-5-12; 17 strokes. It ranks 3379 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[穂]]<rt>ㄙㄨㄧ</rt></ruby> "ear of grain" (stand-in for 穂)

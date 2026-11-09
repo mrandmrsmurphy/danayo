@@ -170,6 +170,10 @@ tags:
 - 珐 --> 琺
 - 疯 --> 瘋
 - 疮 --> 瘡
+- 亮 --> 瞭
+- 炮 --> 砲
+- 砚 --> 硯
+- 砖 --> 磚
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

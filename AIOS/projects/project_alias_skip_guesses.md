@@ -532,3 +532,19 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 癇 | 癎 | 3-5-12 | computed from its parts |
 | 皺 | 皱 | 1-5-5 | computed from its parts |
 | 盞 | 盏 | 2-4-6 | computed from its parts |
+| 盤 (char) | 盘 | 2-6-5 | computed from its parts |
+| 盧 | 卢 | 3-2-3 | computed from its parts |
+| 瞼 | 睑 | 1-5-7 | computed from its parts |
+| 矯 | 矫 | 1-5-6 | computed from its parts |
+| 硯 | 砚 | 1-5-4 | computed from its parts |
+| 碍 | 㝵 | 2-5-3 | computed from its parts |
+| 碩 | 硕 | 1-5-6 | computed from its parts |
+| 碼 (char) | 码 | 1-5-3 | computed from its parts |
+| 磊 | 磥 | 1-5-11 | computed from its parts |
+| 磐 | 䃑 | 1-5-10 | computed from its parts |
+| 磚 | 砖 | 1-5-4 | computed from its parts |
+| 磯 | 矶 | 1-5-2 | computed from its parts |
+| 禍 | 祸 | 1-4-7 | computed from its parts |
+| 禎 | 祯 | 1-4-5 | computed from its parts |
+| 禿 (char) | 秃 | 2-5-2 | computed from its parts |
+| 窩 | 窝 | 2-3-9 | computed from its parts |

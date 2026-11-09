@@ -62,6 +62,8 @@ tags:
 - 榄 --> 欖
 - 煠 --> 炸
 - 瑇 --> 玳
+- 楯 --> 盾
+- 椹 --> 砧
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

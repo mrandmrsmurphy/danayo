@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 穣.
 >For the word, see [穣](../words/穣.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-17](../lookup/SKIP/SKIP-1/SKIP-1-5-17.md) ([Stroke 22](../lookup/Stroke/Stroke%2022.md))
 - 1804th most used character in Classical Chinese (recorded under traditional sibling glyph 穰). Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](../syllables/ㄋ⼘ㄫ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md#Redirects), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 穰
+Traditional form of 穣, "stalk of grain, bumper harvest". SKIP 1-5-17; 22 strokes. It ranks 1804 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[穣]]<rt>ㄋ⼘ㄫ</rt></ruby> "stalks of grain" (stand-in for 穣)

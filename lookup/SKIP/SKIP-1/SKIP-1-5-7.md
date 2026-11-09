@@ -40,6 +40,7 @@ tags: [lookup]
 - 稅 --> 税
 - 确 --> 確
 - 疏 --> 疎
+- 睑 --> 瞼
 
 ## Datacheck
 ```dataview

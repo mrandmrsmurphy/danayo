@@ -66,6 +66,8 @@ tags:
 - 濳 --> 潜
 - 瀨 --> 瀬
 - 癡 --> 痴
+- 礙 --> 碍
+- 穩 --> 穏
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

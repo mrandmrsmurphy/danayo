@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 𠀝 --> 空
+- 卢 --> 盧
 
 ### Forbidden
 - 卡 - 混乱: HSK/2, but use 牌

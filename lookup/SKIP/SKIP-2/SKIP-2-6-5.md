@@ -38,6 +38,7 @@ tags: [lookup]
 - 蛊 --> 古
 - 帶 --> 帯
 - 晝 --> 昼
+- 盘 --> 盤
 
 ## Datacheck
 ```dataview

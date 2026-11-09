@@ -30,14 +30,13 @@ stand_in: "禿"
 aliases:
   - 秃
   - 秂
-  - 𣬜
   - 痜
 注音: "ㄊㄛㄎ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 禿.
 >For the word, see [禿](../words/禿.md)
@@ -51,6 +50,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-5-2](Lookup/SKIP/SKIP-2/SKIP-2-5-2.md) ([Stroke 07](Lookup/Stroke/Stroke%2007.md))
 - 3839th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄊㄛㄎ](../syllables/ㄊㄛㄎ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄷ](Lookup/Korean/Korean%20Name%20ㄷ.md)
+
+## Aliases
+
+### 秃
+The Chinese form of 禿, "bald". SKIP 2-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 秂
+A variant form of 禿. SKIP 2-5-2; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 痜
+疒 + 禿, "scabby bald head"; built on 禿 and kept as an alias. SKIP 3-5-7; 12 strokes. Radical 104 疒. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[禿]]<rt>ㄊㄛㄎ</rt></ruby> "bald" (stand-in for 禿)

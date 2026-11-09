@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 盤.
 >For the word, see [盤](../words/盤.md)
@@ -51,6 +51,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-10-5](../lookup/SKIP/SKIP-2/SKIP-2-10-5.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 2118th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](../syllables/ㄅㄚㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 盘
+Simplified Chinese form of 盤. SKIP 2-6-5 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 蟠
+虫 + 番, "to coil"; built on 番, the phonetic of 盤, and kept as an alias. SKIP 1-6-12; 18 strokes. Radical 142 虫. It ranks 3170 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 槃
+An alternative form of 盤. SKIP 2-10-4; 14 strokes. Radical 075 木. It ranks 2833 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[盤]]<rt>ㄅㄚㄋ</rt></ruby> "tray" (stand-in for 盤)

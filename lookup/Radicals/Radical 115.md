@@ -16,6 +16,8 @@ tags: [lookup]
 2. <ruby>[私](../../characters/私.md)<rt>ㄙㄧㄜ</rt></ruby> - personal
 3. <ruby>[秀](../../characters/秀%20(char).md)<rt>ㄙㄨㄛ</rt></ruby> - bear fruit
 4. <ruby>[禿](../../characters/禿%20(char).md)<rt>ㄊㄛㄎ</rt></ruby> - bald
+- 秃 --> 禿
+- 秂 --> 禿
 
 ### +3 Strokes
 5. <ruby>[秉](../../characters/秉.md)<rt>ㄅㄧㄫ</rt></ruby> - bundle
@@ -61,18 +63,26 @@ tags: [lookup]
 27. <ruby>[稽](../../characters/稽.md)<rt>ㄍㄝㄧ</rt></ruby> - respect
 28. <ruby>[稿](../../characters/稿%20(char).md)<rt>ㄍㄚㄨ</rt></ruby> - manuscript
 29. <ruby>[穂](../../characters/穂%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> - ear of grain
+- 稻 --> 稲
 
 ### +11 Strokes
 30. <ruby>[積](../../characters/積.md)<rt>ㄐㄝㄎ</rt></ruby> - accumulate
 31. <ruby>[穆](../../characters/穆.md)<rt>ㄇㄨㄎ</rt></ruby> - standing grain
 32. <ruby>[穏](../../characters/穏.md)<rt>ㄛㄋ</rt></ruby> - calm
 
+### +12 Strokes
+- 穗 --> 穂
+
 ### +13 Strokes
 33. <ruby>[穫](../../characters/穫.md)<rt>ㄏ⺢ㄎ</rt></ruby> - harvest
 34. <ruby>[穢](../../characters/穢.md)<rt>ㄝ</rt></ruby> - filthy
 
+### +14 Strokes
+- 穩 --> 穏
+
 ### +17 Strokes
 35. <ruby>[穣](../../characters/穣%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
+- 穰 --> 穣
 
 ### Aliases
 - 穐 --> 秋

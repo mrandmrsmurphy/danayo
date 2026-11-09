@@ -37,6 +37,7 @@ tags: [lookup]
 
 ### +7 Strokes
 - 窗 --> 窓
+- 窝 --> 窩
 
 ### +8 Strokes
 14. <ruby>[窟](../../characters/窟%20(char).md)<rt>ㄎㄛㄊ</rt></ruby> - cavern
@@ -59,6 +60,9 @@ tags: [lookup]
 
 ### +13 Strokes
 21. <ruby>[竄](../../characters/竄.md)<rt>ㄑㄚㄋ</rt></ruby> - flee
+
+### +17 Strokes
+- 竊 --> 窃
 
 ## Data check
 ```dataview

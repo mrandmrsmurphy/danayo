@@ -53,6 +53,7 @@ tags:
 - 堯 --> 尭
 - 𦳊 --> 屎
 - 葵 --> 癸
+- 窝 --> 窩
 
 ## Datacheck
 ```dataview

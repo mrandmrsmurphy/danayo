@@ -209,6 +209,7 @@ tags: [lookup]
 - 撆 --> 撇
 - 撑 --> 撐
 - 擏 --> 檠
+- 摩 --> 磨
 
 ### +12 Strokes
 121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon

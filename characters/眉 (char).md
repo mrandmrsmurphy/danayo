@@ -33,7 +33,7 @@ stand_in: "眉"
 aliases:
   - 媚
 注音: "ㄇㄧㄜ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 75
 - [SKIP-3-4-5](../lookup/SKIP/SKIP-3/SKIP-3-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1541st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 脂B三開|ɣiɪ]] → [ㄇㄧㄜ](../syllables/ㄇㄧㄜ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 媚
+女 + 眉, "charming"; built on 眉 and kept as an alias. SKIP 1-3-9; 12 strokes. Radical 038 女. It ranks 2200 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[眉]]<rt>ㄇㄧㄜ</rt></ruby> "eyebrows" (stand-in for 眉 (char))

@@ -39,6 +39,8 @@ tags:
 - 鰻 --> 曼
 - 灑 --> 洒
 - 疊 --> 畳
+- 穰 --> 穣
+- 竊 --> 窃
 
 ### Forbidden
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)

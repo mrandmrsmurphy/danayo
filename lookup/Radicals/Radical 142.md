@@ -75,6 +75,9 @@ tags:
 38. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
 39. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
 
+### +12 Strokes
+- 蟠 --> 盤
+
 ### +13 Strokes
 40. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
 41. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper

@@ -31,6 +31,7 @@ tags: [lookup]
 - 稱 --> 称
 - 褔 --> 副
 - 畼 --> 暢
+- 碪 --> 砧
 
 ## Datacheck
 ```dataview

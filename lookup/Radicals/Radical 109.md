@@ -39,6 +39,7 @@ tags:
 ### +7 Strokes
 15. <ruby>[着](../../characters/着%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wear
 - 睏 --> 困
+- 睑 --> 瞼
 
 ### +8 Strokes
 16. <ruby>[睛](../../characters/睛.md)<rt>ㄐㄧㄫ</rt></ruby> - eye
@@ -46,6 +47,7 @@ tags:
 18. <ruby>[督](../../characters/督.md)<rt>ㄉㄛㄎ</rt></ruby> - oversee
 19. <ruby>[睦](../../characters/睦.md)<rt>ㄇㄨㄎ</rt></ruby> - friendly
 20. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
+- 睪 --> 睾
 
 ### +9 Strokes
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle

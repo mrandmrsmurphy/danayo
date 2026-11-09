@@ -29,7 +29,7 @@ stand_in: 石
 aliases:
   - 柘
 注音: ㄙㄝㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -46,6 +46,12 @@ boundedness: 90
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 254th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄙㄝㄎ](../syllables/ㄙㄝㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 柘
+木 + 石, "silkworm thorn"; built on 石 and kept as an alias. SKIP 1-4-5; 9 strokes. Radical 075 木. It ranks 3208 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
 ## Words
 - <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby> "rock, stone" (stand-in for 石)
 - <ruby>[[石榴]]<rt>ㄙㄝㄎㄌ⼜</rt></ruby> "pomegranate"

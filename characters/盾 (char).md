@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 盾.
 >For the word, see [盾](../words/盾.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-2-7](../lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1700th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄐㄨㄋ](../syllables/ㄐㄨㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 楯
+木 + 盾, "railing"; built on 盾 and kept as an alias. SKIP 1-4-9; 13 strokes. Radical 075 木. It ranks 2735 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[盾]]<rt>ㄐㄨㄋ</rt></ruby> "shield" (stand-in for 盾)

@@ -41,6 +41,7 @@ tags: [lookup]
 13. <ruby>[炸](../../characters/炸.md)<rt>ㄐㄚㄎ</rt></ruby> - fried
 14. <ruby>[点](../../characters/点%20(char).md)<rt>ㄉㄝㄇ</rt></ruby> - point
 15. <ruby>[為](../../characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
+- 炮 --> 砲
 
 ### +6 Strokes
 16. <ruby>[烈](../../characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> - fiery

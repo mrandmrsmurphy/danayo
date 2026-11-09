@@ -20,6 +20,9 @@ tags: [lookup]
 ### +9 Strokes
 4. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
 
+### +10 Strokes
+- 甎 --> 磚
+
 ### +11 Strokes
 5. <ruby>[甌](../../characters/甌.md)<rt>ㄛㄨ</rt></ruby> - small bowl
 

@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 禅.
 >For the word, see [禅](../words/禅.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1474th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 禪
+Traditional form (kyūjitai) of 禅, "dhyana, meditation". SKIP 1-5-12; 16 strokes. It ranks 1474 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[禅]]<rt>ㄙㄝㄋ</rt></ruby> "oneness, Zen" (stand-in for 禅)

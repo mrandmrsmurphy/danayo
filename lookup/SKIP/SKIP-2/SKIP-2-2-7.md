@@ -38,6 +38,7 @@ tags: [lookup]
 ### Aliases
 - 奐 --> 煥
 - 亱 --> 夜
+- 亮 --> 瞭
 
 ## Datacheck
 ```dataview

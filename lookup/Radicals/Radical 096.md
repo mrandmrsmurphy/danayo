@@ -67,6 +67,7 @@ tags:
 29. <ruby>[瑞](../../characters/瑞.md)<rt>ㄙ⼔</rt></ruby> - auspicious
 30. <ruby>[瑟](../../characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> - se (instrument)
 - 瑇 --> 玳
+- 瑳 --> 磋
 
 ### +9 Strokes
 31. <ruby>[瑠](../../characters/瑠.md)<rt>ㄌ⼜</rt></ruby> - lapis lazuli

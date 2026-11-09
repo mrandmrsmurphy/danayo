@@ -124,6 +124,7 @@ tags: [lookup]
 - 柾 --> 正
 - 柢 --> 氐
 - 柚 --> 由
+- 柘 --> 石
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -218,6 +219,8 @@ tags: [lookup]
 - 椭 --> 楕
 - 棖 --> 橙
 - 棹 --> 櫂
+- 椀 --> 碗
+- 棱 --> 稜
 
 ### +9 Strokes
 111. <ruby>[棄](../../characters/棄.md)<rt>ㄎㄧㄜ</rt></ruby> - abandon
@@ -241,6 +244,9 @@ tags: [lookup]
 - ¡榊! - 違法字
 - 榆 --> 兪
 - 榄 --> 欖
+- 楯 --> 盾
+- 榘 --> 矩
+- 椹 --> 砧
 
 ### +10 Strokes
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea
@@ -265,6 +271,8 @@ tags: [lookup]
 - 槇 --> 槙
 - 槖 --> 橐
 - 槟 --> 檳
+- 槃 --> 盤
+- 榛 --> 秦
 
 ### +11 Strokes
 137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
@@ -299,6 +307,7 @@ tags: [lookup]
 - 橫 --> 横
 - 樷 --> 叢
 - 橊 --> 榴
+- 檎 --> 禽
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood

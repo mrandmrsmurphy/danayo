@@ -27,7 +27,7 @@ joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5180
-mc_id: 2914
+mc_id: 2356
 graphemic_classification: "麻"
 stand_in: "磨"
 aliases:
@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 磨.
 >For the word, see [磨](../words/磨.md)
@@ -49,8 +49,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声 (OC \*mˤaj): semantic [[Radical 112|石]] ("stone") + phonetic [[麻]] — "grind, polish (with a stone)."
 - [SKIP-3-3-13](../lookup/SKIP/SKIP-3/SKIP-3-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
-- 2914th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
+- 2356th most used character in Classical Chinese, the rank of its alias 摩 (磨 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 摩
+"To rub, to grind"; a separate character kept as an alias of 磨 for its shared meaning. SKIP 3-3-12; 15 strokes. Radical 064 手. It ranks 2356 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[磨]]<rt>ㄇㄚ</rt></ruby> "grind, polish" (stand-in for 磨)

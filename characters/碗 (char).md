@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 碗.
 >For the word, see [碗](../words/碗.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-8](../lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 8239th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [⺢ㄋ](../syllables/⺢ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 椀
+木 + 宛, "wooden bowl"; a variant of 碗 and kept as an alias. SKIP 1-4-8; 12 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[碗]]<rt>⺢ㄋ</rt></ruby> "bowl, dish" (stand-in for 碗)

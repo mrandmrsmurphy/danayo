@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### Aliases
 - 痫 --> 癇
+- 痜 --> 禿
 
 ## Datacheck
 ```dataview

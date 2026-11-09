@@ -180,6 +180,7 @@ tags: [lookup]
 93. <ruby>[護](../../characters/護.md)<rt>ㄏㄛ</rt></ruby> - safeguard
 - 譱 --> 善
 - 譯 --> 訳
+- 譫 --> 瞻
 
 ### +15 Strokes
 - 讀 --> 読

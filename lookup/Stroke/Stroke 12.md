@@ -190,6 +190,11 @@ tags: [lookup]
 - 疏 --> 疎
 - 痫 --> 癇
 - 盜 --> 盗
+- 媚 --> 眉
+- 睑 --> 瞼
+- 痜 --> 禿
+- 棱 --> 稜
+- 窝 --> 窩
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

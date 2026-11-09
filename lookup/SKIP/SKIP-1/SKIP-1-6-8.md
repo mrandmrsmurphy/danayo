@@ -38,6 +38,7 @@ tags: [lookup]
 - 綾 --> 凌
 - 綜 --> 総
 - 綸 --> 倫
+- 粺 --> 稗
 
 ## Datacheck
 ```dataview

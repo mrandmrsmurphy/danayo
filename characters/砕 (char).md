@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 砕.
 >For the word, see [砕](../words/砕.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-4](../lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 2805th most used character in Classical Chinese (recorded in the corpus under its traditional form 碎). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄙㄛㄧ](../syllables/ㄙㄛㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 碎
+Traditional form of 砕, "to shatter". SKIP 1-5-8; 13 strokes. It ranks 2805 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[砕]]<rt>ㄙㄛㄧ</rt></ruby> "smash, break" (stand-in for 砕)

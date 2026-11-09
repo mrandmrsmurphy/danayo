@@ -25,6 +25,8 @@ tags: [lookup]
 ### Aliases
 - 皃 --> 貌
 - 县 --> 県
+- 秃 --> 禿
+- 秂 --> 禿
 
 ## Datacheck
 ```dataview

@@ -60,6 +60,7 @@ tags:
 - 琅 --> 瑯
 - 琁 --> 瓊
 - 晧 --> 皓
+- 祸 --> 禍
 
 ## Datacheck
 ```dataview

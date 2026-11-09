@@ -30,6 +30,7 @@ tags: [lookup]
 - 删 --> 刪
 - 针 --> 針
 - 劲 --> 勁
+- 矶 --> 磯
 
 ### Forbidden
 - 盯 - 官话: HSK/3, Chinese only.

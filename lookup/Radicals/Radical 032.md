@@ -118,6 +118,7 @@ tags:
 - 墖 --> 塔
 - 塹 --> 斬
 - 墙 --> 牆
+- 塼 --> 磚
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall

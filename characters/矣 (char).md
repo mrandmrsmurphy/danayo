@@ -28,17 +28,13 @@ danayo_id: 7274
 mc_id: 49
 graphemic_classification: 以
 stand_in: 矣
-aliases:
-  - 𠤘
-  - 𢦕
-  - 𡗞
 注音: ⼔
 tags:
   - character
   - hapax
 kwin: false
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 矣.
 >For the word, see [矣](../words/矣.md)

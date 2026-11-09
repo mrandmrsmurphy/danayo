@@ -134,6 +134,12 @@ tags:
 - 鉨 --> 璽
 - 叠 --> 畳
 - 痹 --> 痺
+- 睪 --> 睾
+- 榘 --> 矩
+- 碎 --> 砕
+- 椹 --> 砧
+- 瑳 --> 磋
+- 禀 --> 稟
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

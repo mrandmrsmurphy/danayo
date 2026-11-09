@@ -156,6 +156,10 @@ tags:
 - 貍 --> 狸
 - 䟺 --> 狽
 - 暠 --> 皓
+- 槃 --> 盤
+- 碪 --> 砧
+- 塼 --> 磚
+- 粺 --> 稗
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

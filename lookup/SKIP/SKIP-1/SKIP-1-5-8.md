@@ -42,6 +42,7 @@ tags: [lookup]
 - 號 --> 号
 - 稔 --> 念
 - 锨 --> 杴
+- 碎 --> 砕
 
 ## Datacheck
 ```dataview

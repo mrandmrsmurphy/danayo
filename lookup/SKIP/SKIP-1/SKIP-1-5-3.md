@@ -26,6 +26,7 @@ tags: [lookup]
 - 衬 --> 親
 - 补 --> 補
 - 畅 --> 暢
+- 码 --> 碼
 
 ### Forbidden
 - 竏 - 国字: Japanese-invented character for 千升 (kiloliter).

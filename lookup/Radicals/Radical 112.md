@@ -12,11 +12,19 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[石](../../characters/石%20(char).md)<rt>ㄙㄝㄎ</rt></ruby> - rock
 
+### +2 Strokes
+- 矶 --> 磯
+
+### +3 Strokes
+- 码 --> 碼
+
 ### +4 Strokes
 2. <ruby>[砒](../../characters/砒.md)<rt>ㄆㄧ</rt></ruby> - arsenic
 3. <ruby>[砕](../../characters/砕%20(char).md)<rt>ㄙㄛㄧ</rt></ruby> - smash
 4. <ruby>[研](../../characters/研.md)<rt>ㄝㄋ</rt></ruby> - research
 - 砂 --> 沙
+- 砚 --> 硯
+- 砖 --> 磚
 
 ### +5 Strokes
 5. <ruby>[砧](../../characters/砧.md)<rt>ㄉㄨㄇ</rt></ruby> - anvil
@@ -30,6 +38,7 @@ tags: [lookup]
 10. <ruby>[砦](../../characters/砦.md)<rt>ㄐㄚㄧ</rt></ruby> - abatis
 11. <ruby>[硅](../../characters/硅.md)<rt>ㄍ⼜ㄎ</rt></ruby> - silicon
 - 硃 --> 朱
+- 硕 --> 碩
 
 ### +7 Strokes
 12. <ruby>[硝](../../characters/硝.md)<rt>ㄙ⼄ㄨ</rt></ruby> - saltpetre
@@ -43,12 +52,14 @@ tags: [lookup]
 17. <ruby>[碁](../../characters/碁.md)<rt>ㄍㄧ</rt></ruby> - Go (game)
 18. <ruby>[碍](../../characters/碍.md)<rt>ㄚㄧ</rt></ruby> - obstruct
 19. <ruby>[碗](../../characters/碗%20(char).md)<rt>⺢ㄋ</rt></ruby> - bowl
+- 碎 --> 砕
 
 ### +9 Strokes
 20. <ruby>[碑](../../characters/碑.md)<rt>ㄅㄧ</rt></ruby> - tombstone
 21. <ruby>[碧](../../characters/碧.md)<rt>ㄅ⼶ㄎ</rt></ruby> - emerald
 22. <ruby>[碩](../../characters/碩.md)<rt>ㄙㄝㄎ</rt></ruby> - big
 23. <ruby>[磁](../../characters/磁.md)<rt>ㄐㄧ</rt></ruby> - magnetism
+- 碪 --> 砧
 
 ### +10 Strokes
 24. <ruby>[確](../../characters/確.md)<rt>ㄎㄚㄎ</rt></ruby> - certain
@@ -56,10 +67,13 @@ tags: [lookup]
 26. <ruby>[磊](../../characters/磊.md)<rt>ㄌㄛㄧ</rt></ruby> - pile of rocks
 27. <ruby>[磋](../../characters/磋.md)<rt>ㄑㄚ</rt></ruby> - polish
 28. <ruby>[磐](../../characters/磐.md)<rt>ㄅㄚㄋ</rt></ruby> - boulder
+- 磇 --> 砒
+- 䃑 --> 磐
 
 ### +11 Strokes
 29. <ruby>[磚](../../characters/磚.md)<rt>ㄐㄝㄋ</rt></ruby> - brick
 30. <ruby>[磨](../../characters/磨%20(char).md)<rt>ㄇㄚ</rt></ruby> - grind
+- 磥 --> 磊
 
 ### +12 Strokes
 31. <ruby>[磯](../../characters/磯.md)<rt>ㄍㄧㄜ</rt></ruby> - seashore
@@ -67,6 +81,10 @@ tags: [lookup]
 
 ### +13 Strokes
 33. <ruby>[礎](../../characters/礎.md)<rt>ㄑㄛ</rt></ruby> - foundation
+- 礌 --> 磊
+
+### +14 Strokes
+- 礙 --> 碍
 
 ### +15 Strokes
 34. <ruby>[礬](../../characters/礬.md)<rt>ㄆㄛㄇ</rt></ruby> - alum

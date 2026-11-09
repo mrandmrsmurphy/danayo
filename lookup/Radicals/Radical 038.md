@@ -96,6 +96,7 @@ tags: [lookup]
 - 婾 --> 偷
 - 媆 --> 嫩
 - 媿 --> 愧
+- 媚 --> 眉
 
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant

@@ -35,10 +35,12 @@ tags:
 14. <ruby>[祠](../../characters/祠.md)<rt>ㄙㄚ</rt></ruby> - ancestral shrine
 15. <ruby>[祥](../../characters/祥.md)<rt>ㄙㄚㄫ</rt></ruby> - auspicious
 16. <ruby>[神](../../characters/神%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - god
+- 祯 --> 禎
 
 ### +6 Strokes
 17. <ruby>[祭](../../characters/祭.md)<rt>ㄐㄝ</rt></ruby> - festival
 18. <ruby>[票](../../characters/票%20(char).md)<rt>ㄆ⼘ㄨ</rt></ruby> - ballot
+- 祸 --> 禍
 
 ### +7 Strokes
 19. <ruby>[祷](../../characters/祷.md)<rt>ㄉㄚㄨ</rt></ruby> - pray
@@ -50,12 +52,19 @@ tags:
 23. <ruby>[禎](../../characters/禎.md)<rt>ㄐㄧㄫ</rt></ruby> - lucky
 24. <ruby>[禅](../../characters/禅%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - oneness
 25. <ruby>[福](../../characters/福%20(char).md)<rt>ㄈㄨㄎ</rt></ruby> - blessing
+- 禀 --> 稟
+
+### +10 Strokes
+- 禩 --> 祀
 
 ### +11 Strokes
 - 禧 --> 喜
+- 禪 --> 禅
 
 ### +13 Strokes
 - 禮 --> 礼
+- 禰 --> 祢
+- 禱 --> 祷
 
 ### Aliases
 - 禦 --> 御

@@ -41,6 +41,8 @@ tags:
 - 钦 --> 欽
 - 毗 --> 毘
 - 砂 --> 沙
+- 砚 --> 硯
+- 砖 --> 磚
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

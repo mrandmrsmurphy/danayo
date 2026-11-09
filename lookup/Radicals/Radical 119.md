@@ -39,6 +39,7 @@ tags: [lookup]
 
 ### +8 Strokes
 13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit
+- 粺 --> 稗
 
 ### +9 Strokes
 14. <ruby>[糊](../../characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled

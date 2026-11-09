@@ -22,6 +22,9 @@ tags: [lookup]
 ### +5 Strokes
 4. <ruby>[矩](../../characters/矩%20(char).md)<rt>ㄎ⼄</rt></ruby> - carpenter's square
 
+### +6 Strokes
+- 矫 --> 矯
+
 ### +7 Strokes
 5. <ruby>[短](../../characters/短%20(char).md)<rt>ㄉ⺢ㄋ</rt></ruby> - short
 
