@@ -201,6 +201,9 @@ tags: [lookup]
 - 肅 --> 粛
 - 粪 --> 糞
 - 絲 --> 糸
+- 棉 --> 綿
+- 缔 --> 締
+- 缓 --> 緩
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

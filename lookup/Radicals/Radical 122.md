@@ -26,6 +26,7 @@ tags: [lookup]
 - 罗 --> simplified form of 羅
 - 罢 --> simplified form of 罷
 - 罢 --> 疲
+- 网 --> 網
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'

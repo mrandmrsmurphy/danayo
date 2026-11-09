@@ -586,3 +586,28 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 紹 | 绍 | 1-3-5 | computed from its parts |
 | 紺 (char) | 绀 | 1-3-5 | computed from its parts |
 | 絆 | 绊 | 1-3-5 | computed from its parts |
+| 経 (char) | 经 | 1-3-5 | computed from its parts |
+| 結 (char) | 结 | 1-3-6 | computed from its parts |
+| 絡 (char) | 络 | 1-3-6 | computed from its parts |
+| 絢 | 绚 | 1-3-6 | computed from its parts |
+| 絨 | 绒 | 1-3-6 | computed from its parts |
+| 絵 | 繪 | 1-6-13 | computed from its parts |
+| 絹 (char) | 绢 | 1-3-7 | computed from its parts |
+| 綏 | 绥 | 1-3-7 | computed from its parts |
+| 維 | 维 | 1-3-8 | computed from its parts |
+| 綱 | 纲 | 1-3-4 | computed from its parts |
+| 網 (char) | 䋄 | 1-3-7 | computed from its parts |
+| 綴 (char) | 缀 | 1-3-8 | computed from its parts |
+| 綻 | 绽 | 1-3-8 | computed from its parts |
+| 綽 | 绰 | 1-3-8 | computed from its parts |
+| 綿 | 绵 | 1-3-8 | computed from its parts |
+| 緋 | 绯 | 1-3-8 | computed from its parts |
+| 緑 (char) | 綠 | 1-6-8 | computed from its parts |
+| 緑 (char) | 绿 | 1-3-8 | computed from its parts |
+| 緒 | 緖 | 1-6-9 | computed from its parts |
+| 緒 | 绪 | 1-3-8 | computed from its parts |
+| 締 (char) | 缔 | 1-3-9 | computed from its parts |
+| 緩 | 缓 | 1-3-9 | computed from its parts |
+| 緯 | 纬 | 1-3-4 | computed from its parts |
+| 縁 | 緣 | 1-6-9 | computed from its parts |
+| 縄 (char) | 绳 | 1-3-8 | computed from its parts |

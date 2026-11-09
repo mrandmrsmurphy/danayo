@@ -32,7 +32,7 @@ aliases:
   - 綠
   - 绿
 注音: ㄌㄛㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -49,6 +49,14 @@ boundedness: 50
 - [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 2419th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄌㄛㄎ](../syllables/ㄌㄛㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 綠
+Traditional form of 緑, "green". SKIP 1-6-8 (computed: EDRDG does not list it); 14 strokes. It ranks 2419 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 绿
+Simplified Chinese form of 綠. SKIP 1-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[緑]]<rt>ㄌㄛㄎ</rt></ruby> "green" (stand-in for 緑)

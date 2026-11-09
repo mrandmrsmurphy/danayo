@@ -140,6 +140,8 @@ tags:
 - 禩 --> 祀
 - 稻 --> 稲
 - 窰 --> 窯
+- 緖 --> 緒
+- 緣 --> 縁
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

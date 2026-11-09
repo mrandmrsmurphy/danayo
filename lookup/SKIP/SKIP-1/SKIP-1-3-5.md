@@ -133,6 +133,7 @@ tags:
 - 绍 --> 紹
 - 绀 --> 紺
 - 绊 --> 絆
+- 经 --> 経
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

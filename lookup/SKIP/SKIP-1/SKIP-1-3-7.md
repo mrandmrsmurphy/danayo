@@ -111,6 +111,9 @@ tags:
 - 涡 --> 渦
 - 润 --> 潤
 - 捒 --> 竦
+- 绢 --> 絹
+- 绥 --> 綏
+- 䋄 --> 網
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

@@ -31,7 +31,7 @@ stand_in: "絡"
 aliases:
   - 络
 注音: "ㄌㄚㄎ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 90
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1452nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄌㄚㄎ](../syllables/ㄌㄚㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 络
+Simplified Chinese form of 絡. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[絡]]<rt>ㄌㄚㄎ</rt></ruby> "enmesh; wrap around" (stand-in for 絡)

@@ -29,6 +29,7 @@ tags: [lookup]
 ### Aliases
 - 压 --> 圧
 - 㞍 --> 尻
+- 网 --> 網
 
 ## Datacheck
 ```dataview

@@ -179,6 +179,9 @@ tags:
 - 栝 --> 筈
 - 笋 --> 筍
 - 荀 --> 筍
+- 绢 --> 絹
+- 绥 --> 綏
+- 䋄 --> 網
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

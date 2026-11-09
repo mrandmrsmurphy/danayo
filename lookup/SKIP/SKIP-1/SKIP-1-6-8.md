@@ -41,6 +41,7 @@ tags: [lookup]
 - 粺 --> 稗
 - 粹 --> 粋
 - 綢 --> 紬
+- 綠 --> 緑
 
 ## Datacheck
 ```dataview

@@ -35,7 +35,7 @@ stand_in: "結"
 aliases:
   - 结
 注音: "ㄍㄝㄊ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 90
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 750th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄍㄝㄊ](../syllables/ㄍㄝㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 结
+Simplified Chinese form of 結. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[結]]<rt>ㄍㄝㄊ</rt></ruby> "tie, join" (stand-in for 結)

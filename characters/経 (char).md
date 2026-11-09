@@ -33,7 +33,7 @@ aliases:
   - 經
   - 经
 注音: ㄍㄝㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 60
 - [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 371st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄍㄝㄫ](../syllables/ㄍㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 經
+Traditional form (kyūjitai) of 経, "warp; to pass through". SKIP 1-6-7; 13 strokes. It ranks 371 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 经
+Simplified Chinese form of 經. SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[経]]<rt>ㄍㄝㄫ</rt></ruby> "classic, channel, warp" (stand-in for 経)

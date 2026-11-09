@@ -144,6 +144,7 @@ tags:
 - 筩 --> 筒
 - 筱 --> 篠
 - 粵 --> 粤
+- 經 --> 経
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

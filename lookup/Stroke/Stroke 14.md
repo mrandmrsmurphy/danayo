@@ -164,6 +164,7 @@ tags:
 - 箫 --> 簫
 - 粹 --> 粋
 - 綢 --> 紬
+- 綠 --> 緑
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

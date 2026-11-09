@@ -74,6 +74,7 @@ tags:
 - 琼 --> 瓊
 - 椀 --> 碗
 - 棱 --> 稜
+- 棉 --> 綿
 
 ## Datacheck
 ```dataview

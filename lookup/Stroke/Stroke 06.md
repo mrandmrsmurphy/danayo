@@ -123,6 +123,7 @@ tags:
 - 爷 --> 爺
 - 红 --> 紅
 - 纥 --> 紇
+- 网 --> 網
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

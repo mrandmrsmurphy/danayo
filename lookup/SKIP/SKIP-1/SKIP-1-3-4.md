@@ -114,6 +114,8 @@ tags:
 - 纮 --> 紘
 - 纷 --> 紛
 - 纺 --> 紡
+- 纲 --> 綱
+- 纬 --> 緯
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

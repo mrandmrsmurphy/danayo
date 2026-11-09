@@ -32,16 +32,12 @@ stand_in: 網
 aliases:
   - 网
   - 䋄
-  - 𮉦
-  - 𦋟
-  - 𦁒
-  - 䋞
 注音: ㄇㄚㄫ
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 2015th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄇㄚㄫ](../syllables/ㄇㄚㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 网
+The Kangxi radical 122, "net"; the original form of 網 and kept as an alias. SKIP 3-2-4; 6 strokes. Radical 122 网. It ranks 3236 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 䋄
+A variant form of 網 (also Vietnamese). SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[網]]<rt>ㄇㄚㄫ</rt></ruby> "netting, net, network" (stand-in for 網)

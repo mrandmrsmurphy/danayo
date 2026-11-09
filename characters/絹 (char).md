@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 絹.
 >For the word, see [絹](../words/絹.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-7](../lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 3983rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄍ⼔ㄋ](../syllables/ㄍ⼔ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 绢
+Simplified Chinese form of 絹. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[絹]]<rt>ㄍ⼔ㄋ</rt></ruby> "silk" (stand-in for 絹)

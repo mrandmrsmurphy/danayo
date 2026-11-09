@@ -29,6 +29,7 @@ tags: [lookup]
 - 蜍 --> 余
 - 粳 --> 更
 - 絳 --> 降
+- 經 --> 経
 
 ### Forbidden
 - 綁 - 官话: HSK 3, but used in no other country
