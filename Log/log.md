@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 100 (alias protocol), next twelve oldest characters with aliases:** 螺, 蟄, 蟹, 蠟, 蠢, 衂, 衝, 衰, 裏, 裴, 褒, 襖 gained their first `## Aliases` section (蠃; 蛰; 蠏; 蜡 and 蝋; 惷; 衄; 冲; 蓑; 裡; 裵; 襃; 袄), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` 螺 now 3654 from 蠃 (襖 stays blank, no rank found). No definition-less forms needed dropping. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 99 (alias protocol), next twelve oldest characters with aliases:** 蛇, 蛋, 蛤, 蛮, 蜂, 蜘, 蝉, 蝦, 蝸, 蝿, 螂, 融 processed. Gained `## Aliases` (它 and 鮀; 鴠; 蠻; 蚌; 蟬 and 蟺; 虾 and 鰕; 蜗; 蠅 and 蝇; 蜋), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (蛋 stays blank). Per the 2026-11-09 decision, dropped the definition-less 𱉗 (蛋), 𧊧 (蛤), 䵹 (蜘) and 螎 and 𧖓 (融) from `aliases:`; 蛤, 蜘 and 融 now have none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 98 (alias protocol), next twelve oldest characters with aliases:** 薩, 薫, 薮, 藤, 藷, 蘇, 蘭, 蘿, 虜, 虱, 蚕, 蚤 processed. Gained `## Aliases` (萨; 熏 and 薰; 藪; 籐; 薯; 苏, 穌 and 甦; 兰; 萝; 虏; 蝨; 蠶), with redirects and computed SKIP numbers in the guess list, and `mc_id` 薫 now 2786 from 熏 and 虱 now 3294 from 蝨 (薩 and 藤 stay blank). New redirect-only leaf SKIP-2-12-12 (蠶), indexed in the SKIP-2-12 stem. Moved 蘭's `## Notes` ahead of `## Aliases`. Per the 2026-11-09 decision, dropped the definition-less 蘍 (薫), 𫉄 (藷), 𬞕 (蘭) and 𧈡 (蚤) from `aliases:`; 蚤 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

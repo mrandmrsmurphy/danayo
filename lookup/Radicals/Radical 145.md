@@ -22,6 +22,8 @@ tags:
 ### +3 Strokes
 3. <ruby>[衷](../../characters/衷.md)<rt>ㄊㄨㄫ</rt></ruby> - inmost
 4. <ruby>[袂](../../characters/袂%20(char).md)<rt>ㄇㄝ</rt></ruby> - sleeve
+- 袄 --> 襖
+- 衿 --> 襟
 
 ### +4 Strokes
 5. <ruby>[衰](../../characters/衰.md)<rt>ㄙ⼔ㄧ</rt></ruby> - decrease
@@ -30,11 +32,13 @@ tags:
 8. <ruby>[袖](../../characters/袖%20(char).md)<rt>ㄙㄨㄛ</rt></ruby> - sleeve
 9. <ruby>[被](../../characters/被%20(char).md)<rt>ㄆㄧ</rt></ruby> - passive suffix
 10. <ruby>[袍](../../characters/袍%20(char).md)<rt>ㄆ⼘ㄨ</rt></ruby> - robe
+- 袜 --> 襪
 
 ### +5 Strokes
 11. <ruby>[袋](../../characters/袋%20(char).md)<rt>ㄉㄚㄧ</rt></ruby> - sack
 12. <ruby>[袴](../../characters/袴%20(char).md)<rt>ㄎㄛ</rt></ruby> - pants
 - 袈 --> 加
+- 袭 --> 襲
 
 ### +6 Strokes
 13. <ruby>[裁](../../characters/裁.md)<rt>ㄑㄚㄧ</rt></ruby> - tailor
@@ -43,6 +47,7 @@ tags:
 16. <ruby>[補](../../characters/補.md)<rt>ㄅㄛ</rt></ruby> - repair
 17. <ruby>[装](../../characters/装%20(char).md)<rt>ㄐ⺢ㄫ</rt></ruby> - dress up
 18. <ruby>[裙](../../characters/裙%20(char).md)<rt>ㄍ⼜ㄫ</rt></ruby> - skirt
+- 裡 --> 裏
 
 ### +7 Strokes
 19. <ruby>[裏](../../characters/裏.md)<rt>ㄌㄧ</rt></ruby> - inside
@@ -62,11 +67,15 @@ tags:
 26. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
 - 褔 --> 副
 - 裳 --> 装
+- 裵 --> 裴
 
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
 - 褲 --> 袴
 - 褴 --> 藍
+
+### +10 Strokes
+- 襃 --> 褒
 
 ### +11 Strokes
 28. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat

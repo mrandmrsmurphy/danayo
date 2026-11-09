@@ -200,6 +200,8 @@ tags:
 - 莲 --> 蓮
 - 铂 --> 薄
 - 蚌 --> 蜂
+- 衄 --> 衂
+- 袜 --> 襪
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

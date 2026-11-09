@@ -144,6 +144,7 @@ tags: [lookup]
 - 愂 --> 悖
 - 愼 --> 慎
 - 愍 --> 憫
+- 惷 --> 蠢
 
 ### +10 Strokes
 76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity

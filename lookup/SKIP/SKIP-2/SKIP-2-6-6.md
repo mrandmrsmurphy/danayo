@@ -51,6 +51,7 @@ tags: [lookup]
 - 粪 --> 糞
 - 羡 --> 羨
 - 甤 --> 蕤
+- 蛰 --> 蟄
 
 ## Datacheck
 ```dataview

@@ -29,7 +29,6 @@ graphemic_classification: "公"
 stand_in: "訟"
 aliases:
   - 讼
-  - 吅
 注音: "ㄙ⼄ㄫ"
 kwin: false
 tags:

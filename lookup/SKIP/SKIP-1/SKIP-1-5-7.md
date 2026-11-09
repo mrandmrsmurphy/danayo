@@ -42,6 +42,7 @@ tags: [lookup]
 - 疏 --> 疎
 - 睑 --> 瞼
 - 铺 --> 舗
+- 裡 --> 裏
 
 ## Datacheck
 ```dataview

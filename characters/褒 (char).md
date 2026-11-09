@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 褒.
 >For the word, see [褒](../words/褒.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-13](../lookup/SKIP/SKIP-2/SKIP-2-2-13.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1297th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄆㄚㄨ](../syllables/ㄆㄚㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅍ](../lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Aliases
+
+### 襃
+Traditional form (kyūjitai) of 褒, "to praise". SKIP 2-2-14 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[褒]]<rt>ㄆㄚㄨ</rt></ruby> "praise" (stand-in for 褒)

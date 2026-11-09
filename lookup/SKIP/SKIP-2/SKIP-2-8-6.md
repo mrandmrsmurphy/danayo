@@ -22,6 +22,7 @@ tags: [lookup]
 - 熒 --> 蛍
 - 聟 --> 婿
 - 肈 --> 肇
+- 裵 --> 裴
 
 ## Datacheck
 ```dataview

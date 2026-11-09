@@ -217,6 +217,7 @@ tags:
 - 盖 --> 蓋
 - 萨 --> 薩
 - 萝 --> 蘿
+- 袭 --> 襲
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

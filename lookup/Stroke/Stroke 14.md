@@ -174,6 +174,9 @@ tags:
 - 蔷 --> 薔
 - 熏 --> 薫
 - 蝇 --> 蝿
+- 蜡 --> 蠟
+- 蝋 --> 蠟
+- 裵 --> 裴
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

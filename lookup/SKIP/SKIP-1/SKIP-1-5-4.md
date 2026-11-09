@@ -44,6 +44,8 @@ tags:
 - 砚 --> 硯
 - 砖 --> 磚
 - 皅 --> 葩
+- 袄 --> 襖
+- 衿 --> 襟
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

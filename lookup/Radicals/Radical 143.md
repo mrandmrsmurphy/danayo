@@ -16,6 +16,9 @@ tags: [lookup]
 ### +3 Strokes
 2. <ruby>[衂](../../characters/衂.md)<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
 
+### +4 Strokes
+- 衄 --> 衂
+
 ### +6 Strokes
 3. <ruby>[衆](../../characters/衆.md)<rt>ㄐㄨㄫ</rt></ruby> - public
 - 衉 --> 喀

@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蟹.
 >For the word, see [蟹](../words/蟹.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-6-13](../lookup/SKIP/SKIP-2/SKIP-2-6-13.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - 3999th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄏ⼘ㄧ](../syllables/ㄏ⼘ㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 蠏
+A variant form of 蟹, "crab". SKIP 2-6-13 (computed: EDRDG does not list it); 19 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"

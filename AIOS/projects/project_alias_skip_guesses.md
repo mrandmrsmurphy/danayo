@@ -750,3 +750,19 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 蝿 | 蠅 | 1-6-13 | computed from its parts |
 | 蝿 | 蝇 | 1-6-8 | computed from its parts |
 | 螂 | 蜋 | 1-6-7 | computed from its parts |
+| 螺 | 蠃 | 1-6-13 | computed from its parts |
+| 蟄 (char) | 蛰 | 2-6-6 | computed from its parts |
+| 蟹 (char) | 蠏 | 2-6-13 | computed from its parts |
+| 蠟 | 蜡 | 1-6-8 | computed from its parts |
+| 蠟 | 蝋 | 1-6-8 | computed from its parts |
+| 蠢 | 惷 | 1-3-10 | computed from its parts |
+| 衂 | 衄 | 1-6-4 | computed from its parts |
+| 衝 (char) | 冲 | 1-2-4 | computed from its parts |
+| 衰 | 蓑 | 2-3-10 | computed from its parts |
+| 裏 | 裡 | 1-5-7 | computed from its parts |
+| 裴 | 裵 | 2-8-6 | computed from its parts |
+| 褒 (char) | 襃 | 2-2-14 | computed from its parts |
+| 襖 | 袄 | 1-5-4 | computed from its parts |
+| 襟 | 衿 | 1-5-4 | computed from its parts |
+| 襪 | 袜 | 1-5-5 | computed from its parts |
+| 襲 | 袭 | 2-5-6 | computed from its parts |

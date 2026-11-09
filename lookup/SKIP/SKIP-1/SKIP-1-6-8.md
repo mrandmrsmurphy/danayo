@@ -45,6 +45,7 @@ tags: [lookup]
 - 綳 --> 繃
 - 罁 --> 缸
 - 蝇 --> 蝿
+- 蜡 --> 蠟
 
 ## Datacheck
 ```dataview

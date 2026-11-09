@@ -31,6 +31,7 @@ tags: [lookup]
 - 袈 --> 加
 - 啬 --> 嗇
 - 聋 --> 聾
+- 袭 --> 襲
 
 ## Datacheck
 ```dataview

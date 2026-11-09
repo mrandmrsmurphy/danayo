@@ -124,6 +124,7 @@ tags:
 - 营 --> 営
 - 𦳊 --> 屎
 - 蒨 --> 茜
+- 蓑 --> 衰
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only

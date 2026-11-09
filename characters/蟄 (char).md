@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蟄.
 >For the word, see [蟄](../words/蟄.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-11-6](../lookup/SKIP/SKIP-2/SKIP-2-11-6.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 2303rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 緝B三|ɣiɪp]] → [ㄑㄧㄆ](../syllables/ㄑㄧㄆ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 蛰
+Simplified Chinese form of 蟄. SKIP 2-6-6 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蟄]]<rt>ㄑㄧㄆ</rt></ruby> "hibernate" (stand-in for 蟄)
