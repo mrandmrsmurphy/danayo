@@ -665,3 +665,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 腹 (char) | 鰒 | 1-11-9 | computed from its parts |
 | 腽 | 膃 | 1-4-10 | computed from its parts |
 | 腿 | 骽 | 1-10-6 | computed from its parts |
+| 膠 | 胶 | 1-4-6 | computed from its parts |
+| 膣 (char) | 腟 | 1-4-9 | computed from its parts |
+| 膿 (char) | 脓 | 1-4-6 | computed from its parts |
+| 舗 (char) | 舖 | 1-6-9 | computed from its parts |
+| 舗 (char) | 铺 | 1-5-7 | computed from its parts |
+| 舵 (char) | 杕 | 1-4-3 | computed from its parts |
+| 舵 (char) | 柁 | 1-4-5 | computed from its parts |
+| 舵 (char) | 柂 | 1-4-5 | computed from its parts |
+| 艙 | 舱 | 1-6-4 | computed from its parts |
+| 艦 | 舰 | 1-6-4 | computed from its parts |
+| 艱 | 艰 | 2-2-6 | computed from its parts |
+| 艶 (char) | 豔 | 1-18-10 | computed from its parts |
+| 芦 | 蘆 | 2-3-13 | computed from its parts |
+| 芦 | 櫓 | 1-4-15 | computed from its parts |

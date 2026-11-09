@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### +9 Strokes
 3. <ruby>[舗](../../characters/舗%20(char).md)<rt>ㄆㄛㄨ</rt></ruby> - store
+- 舖 --> 舗
 
 ## Data check
 ```dataview

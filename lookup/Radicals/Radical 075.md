@@ -51,6 +51,7 @@ tags: [lookup]
 - ¡𣏒! - 違法字
 - ¡杢! - 違法字
 - 杨 --> 楊
+- 杕 --> 舵
 
 ### +4 Strokes
 24. <ruby>[杪](../../characters/杪.md)<rt>ㄇ⼄</rt></ruby> - treetop
@@ -125,6 +126,8 @@ tags: [lookup]
 - 柢 --> 氐
 - 柚 --> 由
 - 柘 --> 石
+- 柁 --> 舵
+- 柂 --> 舵
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -331,6 +334,9 @@ tags: [lookup]
 - 檯 --> 台
 - 櫔 --> 栃
 - 櫄 --> 椿
+
+### +15 Strokes
+- 櫓 --> 芦
 
 ### +16 Strokes
 - ¡櫳! - 違法字

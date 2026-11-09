@@ -147,6 +147,7 @@ tags:
 - 聪 --> 聡
 - 㠮 --> 肛
 - 瘠 --> 脊
+- 舖 --> 舗
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

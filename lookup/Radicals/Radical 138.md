@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 艰 --> simplified form of 艱
+- 艰 --> 艱
 
 ## Data check
 ```dataview

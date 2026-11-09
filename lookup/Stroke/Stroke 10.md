@@ -190,6 +190,10 @@ tags:
 - 娉 --> 聘
 - 朒 --> 肭
 - 脇 --> 脅
+- 胶 --> 膠
+- 脓 --> 膿
+- 舱 --> 艙
+- 舰 --> 艦
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

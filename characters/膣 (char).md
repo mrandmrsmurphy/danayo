@@ -26,12 +26,12 @@ joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 7184
-mc_id: 0
+mc_id:
 graphemic_classification: 窒
 stand_in: 膣
 aliases:
   - 腟
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 注音: ㄐㄧㄊ
 kwin: true
 tags:
@@ -48,6 +48,11 @@ boundedness: 65
 - [SKIP-1-4-11](../lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Genuinely absent from the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄐㄧㄊ](../syllables/ㄐㄧㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 腟
+A variant form of 膣, "vagina". SKIP 1-4-9 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[膣]]<rt>ㄐㄧㄊ</rt></ruby> "cunt" (stand-in for 膣)

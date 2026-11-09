@@ -41,6 +41,7 @@ tags: [lookup]
 - 确 --> 確
 - 疏 --> 疎
 - 睑 --> 瞼
+- 铺 --> 舗
 
 ## Datacheck
 ```dataview

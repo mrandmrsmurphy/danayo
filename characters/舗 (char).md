@@ -37,7 +37,7 @@ tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 舗.
 >For the word, see [舗](../words/舗.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-7](../lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 9626th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄆㄛㄨ](../syllables/ㄆㄛㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 舖
+A variant form of 舗, "shop". SKIP 1-6-9 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 铺
+Simplified Chinese form of 鋪. SKIP 1-5-7 (computed: EDRDG does not list it); 12 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[舗]]<rt>ㄆㄛㄨ</rt></ruby> "store" (stand-in for 舗)

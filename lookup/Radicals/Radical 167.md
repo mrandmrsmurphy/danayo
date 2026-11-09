@@ -37,6 +37,7 @@ tags: [lookup]
 10. <ruby>[鈬](../../characters/鈬%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
 - 鈑 --> 板
 - 鈢 --> 璽
+- 铺 --> 舗
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell

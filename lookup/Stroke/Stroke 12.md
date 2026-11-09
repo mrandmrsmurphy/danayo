@@ -205,6 +205,7 @@ tags: [lookup]
 - 缔 --> 締
 - 缓 --> 緩
 - 羡 --> 羨
+- 铺 --> 舗
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

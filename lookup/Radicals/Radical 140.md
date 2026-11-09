@@ -198,6 +198,7 @@ tags:
 112. <ruby>[藁](../../characters/藁.md)<rt>ㄍㄚㄨ</rt></ruby> - straw
 - 蘚 --> 鮮
 - 蘗 --> 檗
+- 蘆 --> 芦
 
 ### +15 Strokes
 113. <ruby>[薮](../../characters/薮.md)<rt>ㄙㄛㄨ</rt></ruby> - marsh

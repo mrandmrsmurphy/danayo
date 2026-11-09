@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 艶.
 >For the word, see [艶](../words/艶.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-13-6](../lookup/SKIP/SKIP-1/SKIP-1-13-6.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - 4351st most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [⼶ㄇ](../syllables/⼶ㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 豔
+Traditional form of 艶, "bright and gorgeous". SKIP 1-18-10 (computed: EDRDG does not list it); 28 strokes. Radical 151 豆. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[艶]]<rt>⼶ㄇ</rt></ruby> "plump; beautiful" (stand-in for 艶)

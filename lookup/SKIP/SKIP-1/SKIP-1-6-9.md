@@ -39,6 +39,7 @@ tags:
 - 緖 --> 緒
 - 緣 --> 縁
 - 聪 --> 聡
+- 舖 --> 舗
 
 ## Datacheck
 ```dataview

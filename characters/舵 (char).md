@@ -25,7 +25,7 @@ joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7304
-mc_id: 0
+mc_id:
 graphemic_classification: "它"
 stand_in: "舵"
 aliases:
@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 舵.
 >For the word, see [舵](../words/舵.md)
@@ -51,6 +51,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-5](Lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
 - Confirmed not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄚ](../syllables/ㄉㄚ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 杕
+"Standing alone (of trees)"; kept as an alias of 舵 for its shared phonetic. SKIP 1-4-3 (computed: EDRDG does not list it); 7 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+
+### 柁
+木 + 它, "large tie beams; rudder"; a variant of 舵 and kept as an alias. SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+
+### 柂
+A variant form of 舵 (also "white basswood"). SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[舵]]<rt>ㄉㄚ</rt></ruby> "rudder, helm"

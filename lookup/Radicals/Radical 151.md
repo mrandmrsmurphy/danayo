@@ -25,6 +25,9 @@ tags: [lookup]
 ### +11 Strokes
 - 豐 --> 豊
 
+### +21 Strokes
+- 豔 --> 艶
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

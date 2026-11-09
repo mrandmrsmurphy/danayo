@@ -30,6 +30,7 @@ This is for character with a left-right split.  Here are the choices for the num
 15. [SKIP-1-15](lookup/SKIP/SKIP-1/SKIP-1-15.md)
 16. [SKIP-1-16](lookup/SKIP/SKIP-1/SKIP-1-16.md)
 17. [SKIP-1-17](lookup/SKIP/SKIP-1/SKIP-1-17.md)
+18. [SKIP-1-18](lookup/SKIP/SKIP-1/SKIP-1-18.md)
 
 ## First Number 2
 These are characters with a clear top-bottom dichotomy.  The following are the possible number of strokes for the top half:

@@ -27,6 +27,8 @@ tags: [lookup]
 
 ### Aliases
 - 𦩻 --> 朝
+- 舱 --> 艙
+- 舰 --> 艦
 
 ## Data check
 ```dataview

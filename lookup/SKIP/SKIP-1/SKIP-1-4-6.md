@@ -69,6 +69,8 @@ tags:
 - 栝 --> 筈
 - 朒 --> 肭
 - 脇 --> 脅
+- 胶 --> 膠
+- 脓 --> 膿
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

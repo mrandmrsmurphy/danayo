@@ -150,6 +150,7 @@ tags:
 - 缠 --> 纏
 - 寘 --> 置
 - 腳 --> 脚
+- 腟 --> 膣
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

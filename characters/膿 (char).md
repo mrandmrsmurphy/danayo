@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 膿.
 >For the word, see [膿](../words/膿.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-13](Lookup/SKIP/SKIP-1/SKIP-1-4-13.md) ([Stroke 17](Lookup/Stroke/Stroke%2017.md))
 - 2736th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 冬|uoŋ]] → [ㄋㄛㄫ](../syllables/ㄋㄛㄫ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](Lookup/Korean/Korean%20Name%20ㄴ.md)
+
+## Aliases
+
+### 脓
+Simplified Chinese form of 膿. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[膿]]<rt>ㄋㄛㄫ</rt></ruby> "pus" (stand-in for 膿)

@@ -70,6 +70,8 @@ tags: [lookup]
 - 脑 --> 脳
 - 脏 --> 臓
 - 脇 --> 脅
+- 胶 --> 膠
+- 脓 --> 膿
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
@@ -98,6 +100,7 @@ tags: [lookup]
 55. <ruby>[腿](../../characters/腿.md)<rt>ㄊㄧㄜ</rt></ruby> - thigh
 - 腦 --> 脳
 - 腳 --> 脚
+- 腟 --> 膣
 
 ### +8 Strokes
 56. <ruby>[腐](../../characters/腐.md)<rt>ㄆㄨ</rt></ruby> - rotten
