@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - 433rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄑㄧ](../syllables/ㄑㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 寘
+A variant form of 置, "to put aside". SKIP 2-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 040 宀. It ranks 2983 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
 ## Words
 - <ruby>[[置]]<rt>ㄑㄧ</rt></ruby> "put, place" (stand-in for 置)
 - <ruby>[[置閏]]<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> "intercalation; to install a leap period"

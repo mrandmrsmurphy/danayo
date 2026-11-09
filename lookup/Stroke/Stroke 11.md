@@ -204,6 +204,8 @@ tags:
 - 绿 --> 緑
 - 绪 --> 緒
 - 绳 --> 縄
+- 绷 --> 繃
+- 堈 --> 缸
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -82,6 +82,7 @@ tags:
 38. <ruby>[寝](../../characters/寝%20(char).md)<rt>ㄑㄧㄇ</rt></ruby> - sleep
 39. <ruby>[寞](../../characters/寞.md)<rt>ㄇㄚㄎ</rt></ruby> - lonely
 - 𫳭 --> 寵
+- 寘 --> 置
 
 ### +11 Strokes
 40. <ruby>[察](../../characters/察.md)<rt>ㄑㄚㄊ</rt></ruby> - examine

@@ -82,6 +82,7 @@ tags:
 
 ### +12 Strokes
 35. <ruby>[環](../../characters/環%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby> - ring
+- 璪 --> 繰
 
 ### +13 Strokes
 36. <ruby>[璧](../../characters/璧.md)<rt>ㄅㄝㄎ</rt></ruby> - perfect

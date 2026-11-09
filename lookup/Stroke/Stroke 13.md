@@ -145,6 +145,10 @@ tags:
 - 筱 --> 篠
 - 粵 --> 粤
 - 經 --> 経
+- 缟 --> 縞
+- 缝 --> 縫
+- 缠 --> 纏
+- 寘 --> 置
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

@@ -112,6 +112,9 @@ tags:
 - 黏 --> 粘
 - 餬 --> 糊
 - 䭅 --> 糊
+- 縱 --> 縦
+- 繅 --> 繰
+- 璪 --> 繰
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

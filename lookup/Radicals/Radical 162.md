@@ -70,6 +70,7 @@ tags: [lookup]
 35. <ruby>[週](../../characters/週.md)<rt>ㄐㄨㄛ</rt></ruby> - week
 36. <ruby>[進](../../characters/進.md)<rt>ㄐㄧㄋ</rt></ruby> - advance
 37. <ruby>[逸](../../characters/逸%20(char).md)<rt>ㄧㄊ</rt></ruby> - flee
+- 遶 --> 繞
 
 ### +9 Strokes
 38. <ruby>[逼](../../characters/逼.md)<rt>ㄅㄧㄎ</rt></ruby> - compel

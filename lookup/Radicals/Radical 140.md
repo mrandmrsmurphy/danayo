@@ -28,6 +28,7 @@ tags:
 - 荫 --> 陰
 - 范 --> 範
 - 茮 --> 椒
+- 茧 --> 繭
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily

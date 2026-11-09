@@ -35,7 +35,7 @@ tags:
   - character
   - hapax
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 縦.
 >For the word, see [縦](../words/縦.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-10](../lookup/SKIP/SKIP-1/SKIP-1-6-10.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1065th most used character in Classical Chinese (recorded under the traditional form 縱). Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄇ](../syllables/ㄐㄛㄇ.md)
 - [Grade 5](../lookup/Grade%205.md), [No HSK](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 縱
+Traditional form (kyūjitai) of 縦, "vertical; to jump". SKIP 1-6-11 (computed: EDRDG does not list it); 17 strokes. It ranks 1065 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[縦]]<rt>ㄐㄛㄇ</rt></ruby> "selfish, arbitrary" (stand-in for 縦)

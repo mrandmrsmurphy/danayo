@@ -611,3 +611,21 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 緯 | 纬 | 1-3-4 | computed from its parts |
 | 縁 | 緣 | 1-6-9 | computed from its parts |
 | 縄 (char) | 绳 | 1-3-8 | computed from its parts |
+| 縞 | 缟 | 1-3-10 | computed from its parts |
+| 縦 (char) | 縱 | 1-6-11 | computed from its parts |
+| 縫 | 缝 | 1-3-10 | computed from its parts |
+| 繃 | 绷 | 1-3-8 | computed from its parts |
+| 繊 | 纖 | 1-6-17 | computed from its parts |
+| 繊 | 纤 | 1-3-3 | computed from its parts |
+| 繍 | 绣 | 1-3-7 | computed from its parts |
+| 繕 | 缮 | 1-3-12 | computed from its parts |
+| 繞 (char) | 绕 | 1-3-6 | computed from its parts |
+| 繞 (char) | 遶 | 3-3-12 | computed from its parts |
+| 繭 (char) | 茧 | 2-3-6 | computed from its parts |
+| 繰 (char) | 缲 | 1-3-13 | computed from its parts |
+| 纏 | 缠 | 1-3-10 | computed from its parts |
+| 缸 | 罁 | 1-6-8 | computed from its parts |
+| 置 (char) | 寘 | 2-3-10 | computed from its parts |
+| 罰 | 罚 | 2-5-4 | computed from its parts |
+| 署 | 曙 | 1-4-14 | computed from its parts |
+| 罵 | 骂 | 2-6-3 | computed from its parts |

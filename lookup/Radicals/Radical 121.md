@@ -22,6 +22,13 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[䍃](../../characters/䍃.md)<rt>⼜</rt></ruby> - pitcher
 4. <ruby>[缺](../../characters/缺.md)<rt>ㄎ⼔ㄊ</rt></ruby> - incomplete
+- 缻 --> 缶
+
+### +8 Strokes
+- 罁 --> 缸
+
+### +17 Strokes
+- 罐 --> 缶
 
 ## Data check
 ```dataview

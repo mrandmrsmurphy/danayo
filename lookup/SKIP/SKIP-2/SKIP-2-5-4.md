@@ -49,6 +49,7 @@ tags:
 - 总 --> 総
 - 觉 --> 覚
 - 览 --> 覧
+- 罚 --> 罰
 
 ### Forbidden
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')

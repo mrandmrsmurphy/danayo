@@ -37,7 +37,7 @@ aliases:
   - 绕
   - 遶
 注音: "ㄋㄛㄨ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -54,6 +54,14 @@ boundedness: 100
 - [SKIP-1-6-12](../lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 2691st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄋㄛㄨ](../syllables/ㄋㄛㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 绕
+Simplified Chinese form of 繞. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 遶
+辶 + 堯, "to wind around"; a variant of 繞 and kept as an alias. SKIP 3-3-12 (computed: EDRDG does not list it); 15 strokes. Radical 162 辵. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[繞]]<rt>ㄋㄛㄨ</rt></ruby> "entwine; surround; enclose" (stand-in for 繞)

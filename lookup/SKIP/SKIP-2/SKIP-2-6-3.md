@@ -35,6 +35,7 @@ tags: [lookup]
 - 垦 --> 墾
 - 奖 --> 奨
 - 巺 --> 巽
+- 骂 --> 罵
 
 ## Datacheck
 ```dataview

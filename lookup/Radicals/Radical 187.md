@@ -9,6 +9,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 骂 --> 罵
+
 ### +0 Strokes
 1. <ruby>[馬](../../characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
 

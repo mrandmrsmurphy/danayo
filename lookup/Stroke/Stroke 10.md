@@ -182,6 +182,8 @@ tags:
 - 绢 --> 絹
 - 绥 --> 綏
 - 䋄 --> 網
+- 绣 --> 繍
+- 缻 --> 缶
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 90 (alias protocol), next twelve oldest characters with aliases:** 縞, 縦, 縫, 繃, 繊, 繍, 繕, 繞, 繭, 繰, 纏, 缶 processed. Gained `## Aliases` (缟; 縱; 缝; 绷 and 綳; 纖 and 纤; 繡 and 绣; 缮; 绕 and 遶; 茧; 缲, 繅 and 璪; 缠 and 纒; 罐 and 缻), with redirects and computed SKIP numbers in the guess list, and `mc_id` 繰 now 3629 from 繅. Per the 2026-11-09 decision, dropped the definition-less 緾 and 繵 (纏) and 𦈢 (缶) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 89 (alias protocol), next twelve oldest characters with aliases:** 綻, 綽, 綿, 緋, 緑, 緒, 締, 緩, 緯, 緻, 縁, 縄 processed. Gained `## Aliases` (绽; 绰; 绵 and 棉; 绯; 綠 and 绿; 緖 and 绪; 缔; 缓; 纬; 緣; 繩 and 绳), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (締 stays blank). Per the 2026-11-09 decision, dropped the definition-less 𰬫 from 緻's `aliases:`; 緻 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 88 (alias protocol), next twelve oldest characters with aliases:** 経, 結, 絡, 絢, 絨, 絵, 絹, 綏, 維, 綱, 網, 綴 gained their first `## Aliases` section (經 and 经; 结; 络; 绚; 绒; 繪; 绢; 绥; 维; 纲; 网 and 䋄; 缀), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed; 絨 stays blank). Per the 2026-11-09 decision, dropped the definition-less 𮉦, 𦋟, 𦁒 and 䋞 from 網's `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

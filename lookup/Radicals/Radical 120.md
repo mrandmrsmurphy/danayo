@@ -19,6 +19,7 @@ tags: [lookup]
 - 级 --> 級
 - 红 --> 紅
 - 纥 --> 紇
+- 纤 --> 繊
 
 ### +1 Stroke
 2. <ruby>[系](../../characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> - system
@@ -57,6 +58,7 @@ tags: [lookup]
 - 络 --> 絡
 - 绚 --> 絢
 - 绒 --> 絨
+- 绕 --> 繞
 
 ### +4 Strokes
 8. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark
@@ -76,6 +78,7 @@ tags: [lookup]
 - 绢 --> 絹
 - 绥 --> 綏
 - 䋄 --> 網
+- 绣 --> 繍
 
 ### +5 Strokes
 20. <ruby>[紬](../../characters/紬.md)<rt>ㄑㄨㄛ</rt></ruby> - silk
@@ -103,6 +106,7 @@ tags: [lookup]
 - 绿 --> 緑
 - 绪 --> 緒
 - 绳 --> 縄
+- 绷 --> 繃
 
 ### +6 Strokes
 31. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist
@@ -132,6 +136,9 @@ tags: [lookup]
 44. <ruby>[続](../../characters/続.md)<rt>ㄙ⼄ㄎ</rt></ruby> - continue
 45. <ruby>[綏](../../characters/綏.md)<rt>ㄙㄨㄧ</rt></ruby> - sooth
 - 經 --> 経
+- 缟 --> 縞
+- 缝 --> 縫
+- 缠 --> 纏
 
 ### +8 Strokes
 46. <ruby>[維](../../characters/維.md)<rt>⼶ㄧ</rt></ruby> - support
@@ -151,6 +158,7 @@ tags: [lookup]
 - 綸 --> 倫
 - 綢 --> 紬
 - 綠 --> 緑
+- 綳 --> 繃
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
@@ -163,6 +171,7 @@ tags: [lookup]
 - 緬 --> 面
 - 緖 --> 緒
 - 緣 --> 縁
+- 缮 --> 繕
 
 ### +10 Strokes
 65. <ruby>[緯](../../characters/緯.md)<rt>ㄨㄧ</rt></ruby> - lines of latitude
@@ -174,6 +183,7 @@ tags: [lookup]
 71. <ruby>[繁](../../characters/繁.md)<rt>ㄆㄚㄋ</rt></ruby> - lush
 - 縧 --> 条
 - 縣 --> 県
+- 缲 --> 繰
 
 ### +11 Strokes
 72. <ruby>[縮](../../characters/縮%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - shrink
@@ -183,6 +193,8 @@ tags: [lookup]
 76. <ruby>[繋](../../characters/繋.md)<rt>ㄏㄝㄧ</rt></ruby> - fasten
 77. <ruby>[繍](../../characters/繍.md)<rt>ㄙ⼜</rt></ruby> - embroidery
 - 總 --> 総
+- 縱 --> 縦
+- 繅 --> 繰
 
 ### +12 Strokes
 78. <ruby>[織](../../characters/織.md)<rt>ㄐㄧㄎ</rt></ruby> - weave
@@ -196,6 +208,7 @@ tags: [lookup]
 - 繫 --> 系
 - 繪 --> 絵
 - 繩 --> 縄
+- 繡 --> 繍
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile
@@ -206,8 +219,12 @@ tags: [lookup]
 - 續 --> 続
 - 纍 --> 累
 
+### +16 Strokes
+- 纒 --> 纏
+
 ### +17 Strokes
 - 纓 --> 嬰
+- 纖 --> 繊
 
 ### Aliases
 - 絕 --> 絶

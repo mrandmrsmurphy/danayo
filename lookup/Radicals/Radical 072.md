@@ -122,6 +122,7 @@ tags: [lookup]
 ### +14 Strokes
 60. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
 - 曠 --> 広
+- 曙 --> 署
 
 ### +19 Strokes
 - 曬 --> 晒
