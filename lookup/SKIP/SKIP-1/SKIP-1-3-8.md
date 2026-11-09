@@ -153,6 +153,8 @@ tags:
 - 崎 --> 区
 - 帷 --> 帳
 - 惯 --> 慣
+- 馆 --> 館
+- 惊 --> 驚
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

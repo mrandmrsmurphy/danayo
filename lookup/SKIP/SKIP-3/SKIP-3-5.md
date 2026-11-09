@@ -23,6 +23,7 @@ Every single one is the sickness radical!
 14. [SKIP-3-5-14](lookup/SKIP/SKIP-3/SKIP-3-5-14.md): ø
 15. no
 16. [SKIP-3-5-16](lookup/SKIP/SKIP-3/SKIP-3-5-16.md): ø
+17. [SKIP-3-5-17](lookup/SKIP/SKIP-3/SKIP-3-5-17.md): ø
 
 
 ## Base check

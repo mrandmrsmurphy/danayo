@@ -183,6 +183,7 @@ tags: [lookup]
 - 渢 --> 風
 - 渾 --> 混
 - 渴 --> 渇
+- 游 --> 遊
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
@@ -251,6 +252,7 @@ tags: [lookup]
 167. <ruby>[濡](../../characters/濡.md)<rt>ㄋ⼜ㄋ</rt></ruby> - moist, wet
 - 濱 --> 浜
 - 濟 --> 済
+- 濠 --> 豪
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding

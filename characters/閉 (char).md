@@ -33,7 +33,7 @@ stand_in: "閉"
 aliases:
   - 闭
 注音: "ㄅㄝㄧ"
-date-last-perfect: 2026-10-18
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 80
 - [SKIP-3-8-3](../lookup/SKIP/SKIP-3/SKIP-3-8-3.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1060th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄅㄝㄧ](../syllables/ㄅㄝㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 闭
+Simplified Chinese form of 閉. SKIP 3-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby> "shut; close" (stand-in for 閉)

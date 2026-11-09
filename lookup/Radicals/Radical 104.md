@@ -52,6 +52,9 @@ tags: [lookup]
 22. <ruby>[癒](../../characters/癒.md)<rt>⼜</rt></ruby> - get well
 23. <ruby>[癖](../../characters/癖%20(char).md)<rt>ㄆㄝㄎ</rt></ruby> - idiosyncrasy
 
+### +17 Strokes
+- 癬 --> 鮮
+
 ### Forbidden
 - 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
 - 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".

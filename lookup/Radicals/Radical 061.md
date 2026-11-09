@@ -90,6 +90,7 @@ tags: [lookup]
 55. <ruby>[惨](../../characters/惨%20(char).md)<rt>ㄑㄚㄇ</rt></ruby> - wretched
 - 惟 --> 唯
 - 惯 --> 慣
+- 惊 --> 驚
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad

@@ -34,6 +34,9 @@ tags: [lookup]
 ### +-3 Strokes
 - 认 --> 認
 
+### +-1 Strokes
+- 论 --> 論
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 

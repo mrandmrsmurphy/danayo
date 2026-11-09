@@ -72,6 +72,8 @@ tags:
 - 鍼 --> 針
 - 擴 --> 拡
 - 麯 --> 曲
+- 濠 --> 豪
+- 壕 --> 豪
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

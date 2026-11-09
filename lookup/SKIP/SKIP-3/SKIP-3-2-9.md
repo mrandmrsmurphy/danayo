@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 匐 --> 伏
 - 區 --> 区
+- 貭 --> 質
 
 ## Datacheck
 ```dataview

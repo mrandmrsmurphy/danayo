@@ -27,6 +27,9 @@ tags: [lookup]
 ### +9 Strokes
 7. <ruby>[尞](../../characters/尞%20(char).md)<rt>ㄌ⼘</rt></ruby> - bonfire
 
+### +10 Strokes
+- 尠 --> 鮮
+
 ### +11 Strokes
 8. <ruby>[爾](../../characters/爾%20(char).md)<rt>ㄋㄝ</rt></ruby> - yes
 

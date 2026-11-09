@@ -78,6 +78,7 @@ tags: [lookup]
 51. <ruby>[挟](../../characters/挟%20(char).md)<rt>ㄏㄝㄆ</rt></ruby> - clasp
 - 拜 --> 拝
 - 挂 --> 掛
+- 挥 --> 揮
 
 ### +6 Strokes
 52. <ruby>[拳](../../characters/拳.md)<rt>ㄍ⼔ㄋ</rt></ruby> - fist

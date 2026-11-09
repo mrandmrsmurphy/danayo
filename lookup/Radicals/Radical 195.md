@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[魚](../../characters/魚%20(char).md)<rt>⼄</rt></ruby> - fish
 
+### +3 Strokes
+- 鲜 --> 鮮
+
 ### +4 Strokes
 2. <ruby>[魯](../../characters/魯.md)<rt>ㄌㄛㄇ</rt></ruby> - rash
 3. <ruby>[魶](../../characters/魶%20(char).md)<rt>ㄋㄨㄆ</rt></ruby> - giant salamander

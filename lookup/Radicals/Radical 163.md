@@ -44,6 +44,8 @@ tags:
 
 ### +6 Strokes
 21. <ruby>[鄒](../../characters/鄒.md)<rt>ㄑㄨ</rt></ruby> - Chu kingdom
+- 鄉 --> 郷
+- 鄕 --> 郷
 
 ### +7 Strokes
 22. <ruby>[鄙](../../characters/鄙.md)<rt>ㄈㄧㄜ</rt></ruby> - rustic

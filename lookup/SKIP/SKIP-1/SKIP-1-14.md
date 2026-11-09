@@ -12,6 +12,7 @@ Left half has 14 strokes.
 - SKIP-1-14-1: none
 - [SKIP-1-14-2](lookup/SKIP/SKIP-1/SKIP-1-14-2.md): 叡
 - [SKIP-1-14-3](lookup/SKIP/SKIP-1/SKIP-1-14-3.md): 鼾
+- [SKIP-1-14-4](lookup/SKIP/SKIP-1/SKIP-1-14-4.md): ø
 
 ## Base check
 ```base

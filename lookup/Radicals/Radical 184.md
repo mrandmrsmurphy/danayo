@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[飢](../../characters/飢.md)<rt>ㄍㄧㄜ</rt></ruby> - hungry
+- 馆 --> 館
 
 ### +3 Strokes
 3. <ruby>[飯](../../characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked)

@@ -92,6 +92,8 @@ tags:
 - 恆 --> 恒
 - 洁 --> 潔
 - 统 --> 統
+- 须 --> 須
+- 挥 --> 揮
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

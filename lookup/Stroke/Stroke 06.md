@@ -85,6 +85,8 @@ tags:
 - 冲 --> 沖
 - 异 --> 異
 - 华 --> 華
+- 论 --> 論
+- 闭 --> 閉
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

@@ -12,6 +12,12 @@ tags: [lookup]
 ### +-1 Strokes
 - 间 --> 間
 
+### +-2 Strokes
+- 闭 --> 閉
+
+### +-1 Strokes
+- 闲 --> 閑
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 
@@ -27,6 +33,7 @@ tags: [lookup]
 6. <ruby>[閏](../../characters/閏%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - intercalary
 7. <ruby>[閑](../../characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 8. <ruby>[閔](../../characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - urge
+- 閒 --> 閑
 
 ### +5 Strokes
 9. <ruby>[閙](../../characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy

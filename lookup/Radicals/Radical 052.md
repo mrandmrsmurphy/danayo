@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- 乡 --> 郷
+
 ### +1 Stroke
 1. <ruby>[幻](../../characters/幻.md)<rt>ㄏ⺢ㄋ</rt></ruby> - illusion
 

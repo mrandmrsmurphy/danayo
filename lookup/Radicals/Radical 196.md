@@ -50,6 +50,9 @@ date-last-perfect: 2026-10-05
 19. <ruby>[鶴](../../characters/鶴%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - crane
 - 鷁 --> 益
 
+### +11 Strokes
+- 鹳 --> 鸛
+
 ### +12 Strokes
 - 鷲 --> 就
 - 鷺 --> 路

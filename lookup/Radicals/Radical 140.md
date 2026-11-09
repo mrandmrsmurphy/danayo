@@ -166,6 +166,7 @@ tags:
 110. <ruby>[蔔](../../characters/蔔.md)<rt>ㄅㄨㄎ</rt></ruby> - radish
 111. <ruby>[薩](../../characters/薩.md)<rt>ㄙㄚㄊ</rt></ruby> - bodhisattva
 112. <ruby>[藁](../../characters/藁.md)<rt>ㄍㄚㄨ</rt></ruby> - straw
+- 蘚 --> 鮮
 
 ### +15 Strokes
 113. <ruby>[薮](../../characters/薮.md)<rt>ㄙㄛㄨ</rt></ruby> - marsh

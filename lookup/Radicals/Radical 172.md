@@ -42,6 +42,7 @@ tags: [lookup]
 14. <ruby>[雛](../../characters/雛.md)<rt>ㄑㄨㄛ</rt></ruby> - chick
 15. <ruby>[難](../../characters/難.md)<rt>ㄋㄚㄋ</rt></ruby> - difficult
 - 雙 --> 双
+- 雚 --> 鸛
 
 ### +11 Strokes
 16. <ruby>[離](../../characters/離.md)<rt>ㄌㄝㄧ</rt></ruby> - depart

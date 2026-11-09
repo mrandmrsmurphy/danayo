@@ -16,6 +16,7 @@ tags:
 
 ### +1 Stroke
 - 货 --> 貨
+- 质 --> 質
 
 ### +2 Strokes
 2. <ruby>[貞](../../characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> - chaste
@@ -25,6 +26,7 @@ tags:
 - 贠 --> 員
 - 𧹒 --> 買
 - 贵 --> 貴
+- 贺 --> 賀
 
 ### +3 Strokes
 4. <ruby>[財](../../characters/財.md)<rt>ㄐㄚㄧ</rt></ruby> - wealth
@@ -41,6 +43,7 @@ tags:
 11. <ruby>[責](../../characters/責.md)<rt>ㄐㄚㄎ</rt></ruby> - responsibility
 - 貮 --> 貳
 - 责 --> 責
+- 貭 --> 質
 
 ### +5 Strokes
 12. <ruby>[貯](../../characters/貯.md)<rt>ㄐㄛ</rt></ruby> - store

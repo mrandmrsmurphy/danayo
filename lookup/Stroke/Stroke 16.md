@@ -85,6 +85,7 @@ tags:
 - 𬵑 --> 免
 - 窹 --> 悟
 - 樸 --> 朴
+- 機 --> 机
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

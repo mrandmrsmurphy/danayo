@@ -45,6 +45,7 @@ tags:
 - 𧹒 --> 買
 - 亲 --> 親
 - 贵 --> 貴
+- 贺 --> 賀
 
 ### Forbidden
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')

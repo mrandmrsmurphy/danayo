@@ -113,6 +113,7 @@ tags:
 ### +14 Strokes
 - 壓 --> traditional form of 圧
 - 壓 --> 圧
+- 壕 --> 豪
 
 ### +15 Strokes
 - 壘 --> traditional form of 塁

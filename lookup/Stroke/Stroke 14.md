@@ -97,6 +97,7 @@ tags:
 - 𥈪 --> 尊
 - 寤 --> 悟
 - 摺 --> 折
+- 鲜 --> 鮮
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

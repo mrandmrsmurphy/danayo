@@ -73,6 +73,7 @@ tags: [lookup]
 - 䋝 --> 嬰
 - 絛 --> 条
 - 缐 --> 線
+- 絳 --> 降
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk

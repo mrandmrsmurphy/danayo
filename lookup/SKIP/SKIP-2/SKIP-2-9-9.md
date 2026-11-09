@@ -15,6 +15,7 @@ tags: [lookup]
 ### Aliases
 - 㽬 --> 放
 - 㽬 --> 副
+- 䩯 --> 革
 
 ## Datacheck
 ```dataview

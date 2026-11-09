@@ -243,6 +243,7 @@ tags: [lookup]
 - ¡樫! - 違法字
 - ¡橸! - 違法字
 - 樸 --> 朴
+- 機 --> 机
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood

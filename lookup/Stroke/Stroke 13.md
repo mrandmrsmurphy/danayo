@@ -85,6 +85,9 @@ tags:
 - 飮 --> 飲
 - 雹 --> 包
 - 歲 --> 歳
+- 鄉 --> 郷
+- 鄕 --> 郷
+- 尠 --> 鮮
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

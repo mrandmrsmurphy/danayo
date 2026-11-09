@@ -105,6 +105,9 @@ tags: [lookup]
 - 腑 --> 府
 - 堺 --> 界
 - 稅 --> 税
+- 游 --> 遊
+- 閒 --> 閑
+- 絳 --> 降
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

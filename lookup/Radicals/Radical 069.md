@@ -29,6 +29,9 @@ tags: [lookup]
 ### +9 Strokes
 7. <ruby>[新](../../characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new
 
+### +14 Strokes
+- 斷 --> 断
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

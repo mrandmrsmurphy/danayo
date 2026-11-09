@@ -9,13 +9,18 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 顶 --> 頂
+
 ### +0 Strokes
 1. <ruby>[頁](../../characters/頁%20(char).md)<rt>ㄏㄝㄊ</rt></ruby> - page
 - 顺 --> 順
+- 须 --> 須
 
 ### +2 Strokes
 2. <ruby>[頂](../../characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> - peak
 3. <ruby>[頃](../../characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> - moment
+- 领 --> 領
 
 ### +3 Strokes
 4. <ruby>[項](../../characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - nape

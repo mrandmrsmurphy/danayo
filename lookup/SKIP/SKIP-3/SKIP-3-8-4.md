@@ -20,6 +20,9 @@ tags: [lookup]
 ### Forbidden
 - 閖 - 国字: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
 
+### Aliases
+- 閒 --> 閑
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

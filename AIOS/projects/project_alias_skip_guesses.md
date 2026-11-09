@@ -210,3 +210,20 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 華 | 华 | 2-4-2 | computed from its parts |
 | 認 | 认 | 1-2-2 | computed from its parts |
 | 誠 | 诚 | 1-2-6 | computed from its parts |
+| 論 | 论 | 1-2-4 | computed from its parts |
+| 賀 | 贺 | 2-5-4 | computed from its parts |
+| 質 | 质 | 2-4-4 | computed from its parts |
+| 郷 | 鄉 | 1-3-10 | computed from its parts |
+| 郷 | 鄕 | 1-3-10 | computed from its parts |
+| 郷 | 乡 | 2-2-1 | computed from its parts |
+| 閉 (char) | 闭 | 3-3-3 | computed from its parts |
+| 閑 | 閒 | 3-8-4 | computed from its parts |
+| 閑 | 闲 | 3-3-4 | computed from its parts |
+| 革 | 䩯 | 2-9-9 | computed from its parts |
+| 頂 | 顶 | 1-2-6 | computed from its parts |
+| 須 | 须 | 1-3-6 | computed from its parts |
+| 領 | 领 | 1-5-6 | computed from its parts |
+| 館 | 馆 | 1-3-8 | computed from its parts |
+| 鮮 | 鲜 | 1-8-6 | computed from its parts |
+| 鸛 | 鹳 | 1-17-5 | computed from its parts |
+| 揮 | 挥 | 1-3-6 | computed from its parts |
