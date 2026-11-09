@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-11-09
-size: 154
+size: 158
 tags:
   - chengyu
 ---
@@ -14,6 +14,10 @@ tags:
 - <ruby>[一気化三清](chengyu/一気化三清.md)<rt>ㄧㄊㄎㄧㄜㄏ⺢ㄙㄚㄇㄑㄧㄫ</rt></ruby> - one breath becomes the Three Pure Ones
 - <ruby>[膠柱鼓瑟](chengyu/膠柱鼓瑟.md)<rt>ㄍ⼄ㄨㄐㄨㄍㄛㄙㄜㄊ</rt></ruby> - rigid and inflexible
 - <ruby>[芒刺在背](chengyu/芒刺在背.md)<rt>ㄇ⼘ㄫㄑㄧㄎㄐㄚㄧㄅㄛㄧ</rt></ruby> - thorns on one's back
+- <ruby>[枯木生花](chengyu/枯木生花.md)<rt>ㄎㄛ·ㄇㄛㄎㄙㄚㄫㄏ⺢</rt></ruby> - a withered tree bursts into flower
+- <ruby>[緑林豪客](chengyu/緑林豪客.md)<rt>ㄌㄛㄎㄌㄧㄇㄏㄚㄨ·ㄎㄚㄎ</rt></ruby> - bandit hero of the greenwood
+- <ruby>[兎死狐悲](chengyu/兎死狐悲.md)<rt>ㄊㄛㄙㄧㄜㄏㄛㄅㄧㄜ</rt></ruby> - to mourn the fate of one's own kind
+- <ruby>[嬴書燕説](chengyu/嬴書燕説.md)<rt>⼶ㄫㄙ⼄ㄝㄋㄙ⼔ㄊ</rt></ruby> - a far-fetched interpretation
 - <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄈㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
 - <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄈㄛㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns

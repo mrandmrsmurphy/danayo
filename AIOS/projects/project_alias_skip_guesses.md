@@ -806,3 +806,4 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 諌 | 谏 | 1-2-9 | computed from its parts |
 | 諒 | 谅 | 1-2-8 | computed from its parts |
 | 諜 | 谍 | 1-2-7 | computed from its parts |
+| 嬴 | 郢 | 1-7-3 | computed from its parts |

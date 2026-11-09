@@ -4,7 +4,6 @@ cantonese: sat1
 korean: 슬
 korean_native: 슬
 japanese:
-  - SHICHI
   - SHITSU
 japanese_native: おおごと
 vietnamese:

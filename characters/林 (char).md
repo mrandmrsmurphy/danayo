@@ -77,6 +77,7 @@ boundedness: 40
 
 ## Chengyu
 - <ruby>[[水泥叢林]]<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> "concrete jungle"
+- <ruby>[[緑林豪客]]<rt>ㄌㄛㄎㄌㄧㄇㄏㄚㄨ·ㄎㄚㄎ</rt></ruby> "bandit hero of the greenwood"
 
 ## Derived Characters
 - <ruby>[[淋 (char)|淋]]<rt>ㄌㄧㄇ</rt></ruby> "drain; drip"

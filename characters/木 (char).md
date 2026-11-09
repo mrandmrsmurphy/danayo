@@ -78,8 +78,12 @@ boundedness: 40
 - <ruby>[[木棒]]<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby> "a stick, wooden rod"
 - <ruby>[[灌木]]<rt>ㄍ⺢ㄋㄇㄛㄎ</rt></ruby> "a bush, shrub"
 - <ruby>[[原木]]<rt>⼔ㄋㄇㄛㄎ</rt></ruby> "a log, unprocessed timber"
+- <ruby>[[枯木]]<rt>ㄎㄛ·ㄇㄛㄎ</rt></ruby> "withered tree"
+
 ## Chengyu
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜·ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
+- <ruby>[[枯木生花]]<rt>ㄎㄛ·ㄇㄛㄎㄙㄚㄫㄏ⺢</rt></ruby> "a withered tree bursts into flower"
+
 ## Derived Characters
 - <ruby>[[沐]]<rt>ㄇㄛㄎ</rt></ruby> "bathe, cleanse"
 - <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> "assemble"

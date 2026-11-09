@@ -50,3 +50,7 @@ boundedness: 50
 
 ## Words
 - <ruby>[[枯]]<rt>ㄎㄛ</rt></ruby> "withered" (stand-in for 枯 (char))
+- <ruby>[[枯木]]<rt>ㄎㄛ·ㄇㄛㄎ</rt></ruby> "withered tree"
+
+## Chengyu
+- <ruby>[[枯木生花]]<rt>ㄎㄛ·ㄇㄛㄎㄙㄚㄫㄏ⺢</rt></ruby> "a withered tree bursts into flower"

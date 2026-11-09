@@ -103,6 +103,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[桜](../words/桜.md)<rt>ㄚㄫ</rt></ruby>: cherry blossom — the flower (and by extension the flowering cherry tree) celebrated in spring, beside [[桜桃]] "a cherry" (the fruit) on [Food](../lexipedia/Food.md).
 - <ruby>[梅花](../words/梅花.md)<rt>ㄇㄛㄧㄏ⺢</rt></ruby>: plum blossom — the winter-flowering plum flower, beside [[桜]] "cherry blossom"; the fruit and tree is [[実梅]].
 - <ruby>[草花](../words/草花.md)<rt>ㄑㄚㄨㄏ⺢</rt></ruby>: flowering plants, ornamental flowers.
+- <ruby>[生花](../words/生花.md)<rt>ㄙㄚㄫㄏ⺢</rt></ruby>: to bloom, put forth flowers (literary); also fresh-cut flowers, beside [[鮮花]].
 - <ruby>[木棒](../words/木棒.md)<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>: a stick, a plain wooden rod — see Shape.
 - <ruby>[雑草](../words/雑草.md)<rt>ㄐㄚㄆㄑㄚㄨ</rt></ruby>: a weed — a plant growing where it is not wanted.
 - <ruby>[花卉](../words/花卉.md)<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>: flowers and plants, collectively.
@@ -129,6 +130,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[林](../words/林.md)<rt>ㄌㄧㄇ</rt></ruby>: a grove, woods — a stand of trees, smaller than a forest, the character 林 being 木 doubled.
 - <ruby>[林業](../words/林業.md)<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby>: forestry — the industry of growing and harvesting woodland, 林 + 業 "business"; the trade built on [[林]]. Compare [[工業]] under [Trade](../lexipedia/Trade.md).
 - <ruby>[枯](../words/枯.md)<rt>ㄎㄛ</rt></ruby>: withered, dried up — of a plant that has lost its moisture and life (also figuratively, of a dry or spent state).
+- <ruby>[枯木](../words/枯木.md)<rt>ㄎㄛ·ㄇㄛㄎ</rt></ruby>: a withered tree, dead wood — see [[枯木生花]] for the proverb of the dead tree that flowers.
 - <ruby>[芝草](../words/芝草.md)<rt>ㄐㄧㄑㄚㄨ</rt></ruby>: grass, lawn/ground-cover vegetation — also, in Chinese, a synonym for the lingzhi mushroom (靈芝), an unrelated auspicious-plant sense carried by the same compound.
 - <ruby>[秀](../words/秀.md)<rt>ㄙㄨㄛ</rt></ruby>: to bear fruit, blossom, shoot — originally of a rice plant coming into bloom; by extension "outstanding, excellent" (優秀), an unrelated figurative sense also excluded as a false match on [War](../lexipedia/War.md)'s own "shoot" (the weapon) gap.
 - <ruby>[苔](../words/苔.md)<rt>ㄊㄛㄧ</rt></ruby>: moss, lichen.

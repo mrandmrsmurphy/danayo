@@ -59,3 +59,6 @@ boundedness: 80
 - <ruby>[[悲嘆]]<rt>ㄅㄧㄜㄊㄚㄋ</rt></ruby> "grief"
 - <ruby>[[悲鳴]]<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby> "scream"
 - <ruby>[[悲憤]]<rt>ㄅㄧㄜㄅㄨㄋ</rt></ruby> "grief and indignation"
+
+## Chengyu
+- <ruby>[[兎死狐悲]]<rt>ㄊㄛㄙㄧㄜㄏㄛㄅㄧㄜ</rt></ruby> "to mourn the fate of one's own kind"

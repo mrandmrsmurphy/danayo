@@ -205,6 +205,7 @@ tags:
 - 谁 --> 誰
 - 谊 --> 誼
 - 谅 --> 諒
+- 郢 --> 嬴
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

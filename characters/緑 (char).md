@@ -66,3 +66,6 @@ Simplified Chinese form of 綠. SKIP 1-3-8 (computed: EDRDG does not list it); 1
 - <ruby>[[緑洲]]<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby> "oasis"
 - <ruby>[[緑党]]<rt>ㄌㄛㄎㄉㄚㄫ</rt></ruby> "Green party"
 - <ruby>[[祖母緑]]<rt>ㄐㄜㄇㄛㄨㄌㄛㄎ</rt></ruby> "an emerald"
+
+## Chengyu
+- <ruby>[[緑林豪客]]<rt>ㄌㄛㄎㄌㄧㄇㄏㄚㄨ·ㄎㄚㄎ</rt></ruby> "bandit hero of the greenwood"

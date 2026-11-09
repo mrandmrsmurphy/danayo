@@ -31,6 +31,7 @@ tags:
 ### +3 Strokes
 13. <ruby>[郝](../../characters/郝.md)<rt>ㄏㄚㄎ</rt></ruby> - place name
 14. <ruby>[郡](../../characters/郡%20(char).md)<rt>ㄍㄨㄋ</rt></ruby> - county
+- 郢 --> 嬴
 
 ### +4 Strokes
 15. <ruby>[郵](../../characters/郵.md)<rt>ㄨㄛ</rt></ruby> - mail

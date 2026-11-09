@@ -60,3 +60,4 @@ The Kangxi dictionary lists 兎 as an unorthodox form of 兔, but 兎 is the for
 
 ## Chengyu
 - <ruby>[[守株待兎]]<rt>ㄙ⼜ㄉㄨㄉㄚㄧㄊㄛ</rt></ruby> "guarding the stump, waiting for luck to repeat"
+- <ruby>[[兎死狐悲]]<rt>ㄊㄛㄙㄧㄜㄏㄛㄅㄧㄜ</rt></ruby> "to mourn the fate of one's own kind"
