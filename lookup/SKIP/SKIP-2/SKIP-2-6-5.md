@@ -36,6 +36,7 @@ tags: [lookup]
 
 ### Aliases
 - 蛊 --> 古
+- 帶 --> 帯
 
 ## Datacheck
 ```dataview

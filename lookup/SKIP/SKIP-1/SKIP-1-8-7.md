@@ -22,6 +22,9 @@ tags: [lookup]
 - 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
 - 錺 - 国字: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
 
+### Aliases
+- 鲣 --> 堅
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

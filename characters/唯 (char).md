@@ -38,13 +38,13 @@ joyo_level: 高等
 hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4056
-mc_id: 520
+mc_id: 515
 graphemic_classification: 隹
 stand_in: 唯
 aliases:
   - 惟
 注音: ⼶ㄧ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -60,8 +60,13 @@ boundedness: 80
 ## Notes
 - 形声: semantic [[Radical 030|口]] ("mouth") + phonetic [[Radical 172|隹]] — the original form of 鷕 ("cry of a bird"), phonetically borrowed for the abstract "only, to be" senses.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 520th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [⼶ㄧ](../syllables/⼶ㄧ.md)
+- 515th most used character in Classical Chinese, the rank of its alias 惟 (唯 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [⼶ㄧ](../syllables/⼶ㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 惟
+忄 + 隹, "but, however; only" (also "to think"); a separate character, nearly interchangeable with 唯, that ranks 515 in the Classical Chinese lists, better than 唯's own 520, so it sets the page's `mc_id`. SKIP 1-3-8 (EDRDG); 11 strokes. SKIP 1-3-8; 11 strokes. Radical 061 心. It ranks 515 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[唯]]<rt>⼶ㄧ</rt></ruby> "only" (stand-in for 唯)

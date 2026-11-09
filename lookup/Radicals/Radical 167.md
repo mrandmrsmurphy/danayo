@@ -88,6 +88,7 @@ tags: [lookup]
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror
+- 鏗 --> 堅
 
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell

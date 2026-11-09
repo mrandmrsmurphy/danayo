@@ -27,6 +27,7 @@ tags: [lookup]
 ### Aliases
 - 梦 --> 夢
 - 婴 --> 嬰
+- 𠵊 --> 善
 
 ## Datacheck
 ```dataview

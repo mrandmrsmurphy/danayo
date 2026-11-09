@@ -83,6 +83,7 @@ tags: [lookup]
 53. <ruby>[惜](../../characters/惜%20(char).md)<rt>ㄙㄝㄎ</rt></ruby> - begrudge
 54. <ruby>[惧](../../characters/惧.md)<rt>ㄍㄨ</rt></ruby> - fear
 55. <ruby>[惨](../../characters/惨%20(char).md)<rt>ㄑㄚㄇ</rt></ruby> - wretched
+- 惟 --> 唯
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad

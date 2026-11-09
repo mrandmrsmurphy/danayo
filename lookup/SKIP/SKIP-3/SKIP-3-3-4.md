@@ -36,6 +36,8 @@ tags: [lookup]
 - 𫔭 --> 開
 - 进 --> 進
 - 间 --> 間
+- 园 --> 園
+- 层 --> 層
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

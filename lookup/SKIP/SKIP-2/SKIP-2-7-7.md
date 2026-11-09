@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[誓](/characters/誓.md)<rt>ㄙㄝ</rt></ruby> - swear
 2. <ruby>[墨](/characters/墨.md)<rt>ㄇㄨㄎ</rt></ruby> - ink
 
+### Aliases
+- 𧨅 --> 善
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

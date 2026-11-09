@@ -30,7 +30,7 @@ stand_in: 拝
 aliases:
   - 拜
 注音: ㄅ⼶
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -46,8 +46,13 @@ boundedness: 55
 ## Notes
 - 会意 of [[Radical 064|扌]] ("hand") and 𠦪 ("herbs" — no character page exists for it in this vault) — a hand presenting herbs as an offering; to bow, to worship.
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
-- 294th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 皆開|ɣɛi]] → [ㄅ⼶](../syllables/ㄅ⼶.md)
+- 294th most used character in Classical Chinese (rank belongs to the traditional form 拜). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 皆開|ɣɛi]] → [ㄅ⼶](../syllables/ㄅ⼶.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 拜
+Traditional form (kyūjitai) of 拝; Unihan lists 拝 as its Japanese new variant. SKIP 1-4-5 (EDRDG); 9 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 294 is 拜's rank. SKIP 1-4-5; 9 strokes. It ranks 294 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[拝]]<rt>ㄅ⼶</rt></ruby> "bow; kowtow" (stand-in for 拝)

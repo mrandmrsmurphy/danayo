@@ -36,6 +36,7 @@ tags:
 
 ### +7 Strokes
 15. <ruby>[着](../../characters/着%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wear
+- 睏 --> 困
 
 ### +8 Strokes
 16. <ruby>[睛](../../characters/睛.md)<rt>ㄐㄧㄫ</rt></ruby> - eye

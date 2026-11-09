@@ -23,6 +23,7 @@ tags: [lookup]
 4. <ruby>[声](../../characters/声.md)<rt>ㄙㄧㄫ</rt></ruby> - vocalize
 5. <ruby>[壱](../../characters/壱%20(char).md)<rt>ㄧㄊ</rt></ruby> - loyal
 6. <ruby>[売](../../characters/売.md)<rt>ㄇㄚㄧ</rt></ruby> - sell
+- 壯 --> 壮
 
 ### +6 Strokes
 7. <ruby>[壴](../../characters/壴%20(char).md)<rt>ㄊㄨㄛ</rt></ruby> - to drum

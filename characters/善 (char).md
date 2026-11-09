@@ -40,7 +40,7 @@ aliases:
   - 𧬆
   - 𧮟
 注音: ㄙ⼶ㄋ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -58,6 +58,38 @@ boundedness: 90
 - [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 132nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙ⼶ㄋ](../syllables/ㄙ⼶ㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 譱
+言 + 羊 + 言, an alternative form of 善 (Wiktionary: Japanese). SKIP 2-3-17 (EDRDG); 20 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-3-17; 20 strokes. Radical 149 言. It has no rank of its own in the Classical Chinese lists.
+
+### 𠲘
+A rare variant form of 善, written 羊 over 口; Wiktionary gives no definition. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠵊
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-8-3 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-8-3 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠾄
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-12-3 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-12-3 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𦎍
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-6-7 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-7 (computed: EDRDG does not list it); 13 strokes. Radical 123 羊. It has no rank of its own in the Classical Chinese lists.
+
+### 𦏟
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-6-14 (computed: EDRDG does not list it); 20 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-14 (computed: EDRDG does not list it); 20 strokes. Radical 123 羊. It has no rank of its own in the Classical Chinese lists.
+
+### 𦏯
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-6-21 (computed: EDRDG does not list it); 27 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-21 (computed: EDRDG does not list it); 27 strokes. Radical 123 羊. It has no rank of its own in the Classical Chinese lists.
+
+### 𧨅
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-7-7 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-7-7 (computed: EDRDG does not list it); 14 strokes. Radical 149 言. It has no rank of its own in the Classical Chinese lists.
+
+### 𧬆
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-7-12 (computed: EDRDG does not list it); 19 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-7-12 (computed: EDRDG does not list it); 19 strokes. Radical 149 言. It has no rank of its own in the Classical Chinese lists.
+
+### 𧮟
+A rare variant form of 善; Wiktionary gives no definition. SKIP 2-7-20 (computed: EDRDG does not list it); 27 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-7-20 (computed: EDRDG does not list it); 27 strokes. Radical 149 言. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[善]]<rt>ㄙ⼶ㄋ</rt></ruby> "good" (stand-in for 善)

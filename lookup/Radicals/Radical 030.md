@@ -84,6 +84,7 @@ tags: [lookup]
 59. <ruby>[哄](../../characters/哄.md)<rt>ㄏㄛㄫ</rt></ruby> - resound with laughter
 60. <ruby>[哇](../../characters/哇%20(char).md)<rt>⺢ㄨ</rt></ruby> - wow
 61. <ruby>[哉](../../characters/哉%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - O
+- 𠲘 --> 善
 
 ### +7 Strokes
 62. <ruby>[員](../../characters/員.md)<rt>ㄨㄋ</rt></ruby> - personnel
@@ -115,6 +116,7 @@ tags: [lookup]
 85. <ruby>[啡](../../characters/啡.md)<rt>ㄈㄧ</rt></ruby> - morphine
 86. <ruby>[喝](../../characters/喝%20(char).md)<rt>ㄏㄛㄊ</rt></ruby> - yell
 - 啚 --> 鄙
+- 𠵊 --> 善
 
 ### +9 Strokes
 87. <ruby>[啼](../../characters/啼.md)<rt>ㄊㄝ</rt></ruby> - cry
@@ -158,6 +160,7 @@ tags: [lookup]
 116. <ruby>[嘲](../../characters/嘲.md)<rt>ㄑㄚㄨ</rt></ruby> - ridicule
 117. <ruby>[器](../../characters/器.md)<rt>ㄎㄧㄜ</rt></ruby> - container
 118. <ruby>[噴](../../characters/噴.md)<rt>ㄆㄛㄋ</rt></ruby> - erupt
+- 𠾄 --> 善
 
 ### +13 Strokes
 119. <ruby>[嘴](../../characters/嘴.md)<rt>ㄑㄨㄧ</rt></ruby> - bill

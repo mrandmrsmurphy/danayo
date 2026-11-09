@@ -75,6 +75,7 @@ tags:
 - 䧹 --> 鷹
 - 辑 --> 集
 - 蜍 --> 余
+- 𦎍 --> 善
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

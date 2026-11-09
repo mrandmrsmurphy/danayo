@@ -36,6 +36,7 @@ tags: [lookup]
 
 ### Aliases
 - 稀 --> 希
+- 睏 --> 困
 
 ## Datacheck
 ```dataview

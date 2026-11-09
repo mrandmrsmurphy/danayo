@@ -76,6 +76,8 @@ tags:
 - 毄 --> 撃
 - 稱 --> 称
 - 褔 --> 副
+- 𧨅 --> 善
+- 僖 --> 喜
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

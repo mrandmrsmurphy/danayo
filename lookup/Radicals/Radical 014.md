@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### +3 Strokes
 3. <ruby>[写](../../characters/写.md)<rt>ㄙ⼘</rt></ruby> - copy
+- 𠕷 --> 安
 
 ### +4 Strokes
 - 农 --> 農

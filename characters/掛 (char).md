@@ -45,7 +45,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 掛.
 >For the word, see [掛](../words/掛.md)
@@ -59,6 +59,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 4330th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳合|ɣuɛ]] → [ㄍ⺢ㄧ](../syllables/ㄍ⺢ㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 挂
+扌 + 圭, a Hokkien "to hang" and the simplified form of 掛. SKIP 1-3-6 (EDRDG); 9 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4330 is 掛's own. SKIP 1-3-6; 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[掛]]<rt>ㄍ⺢ㄧ</rt></ruby> "hang, suspend" (stand-in for 掛)

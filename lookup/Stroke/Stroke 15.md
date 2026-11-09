@@ -71,6 +71,8 @@ tags:
 - 餘 --> 余
 - 價 --> 価
 - 寫 --> 写
+- 𠾄 --> 善
+- 鲣 --> 堅
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

@@ -22,6 +22,7 @@ tags: [lookup]
 5. <ruby>[妃](../../characters/妃.md)<rt>ㄈㄧ</rt></ruby> - emperor's wife
 6. <ruby>[妄](../../characters/妄.md)<rt>ㄇㄚㄫ</rt></ruby> - delusion
 - 𰋷 --> 嬰
+- 𡚴 --> 安
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant

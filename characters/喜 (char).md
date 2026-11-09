@@ -38,7 +38,7 @@ aliases:
   - 禧
   - 僖
 注音: ㄏㄧ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 tags:
   - character
 kwin: false
@@ -56,6 +56,14 @@ boundedness: 90
 - [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 506th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄏㄧ](../syllables/ㄏㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 禧
+示 + 喜, "favourable luck, good fortune, blessings"; a separate character built on 喜, kept as an alias for search. SKIP 1-5-12 (EDRDG); 16 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-12; 16 strokes. Radical 113 示. It has no rank of its own in the Classical Chinese lists.
+
+### 僖
+亻 + 喜, "joy, gladness" and a surname; a separate character built on 喜, kept as an alias for search. SKIP 1-2-12 (EDRDG); 14 strokes. It ranks 1770 in the Classical Chinese lists, lower than 喜's 506, so `mc_id` stays 506. SKIP 1-2-12; 14 strokes. Radical 009 人. It ranks 1770 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[喜]]<rt>ㄏㄧ</rt></ruby> "like; love; enjoy" (stand-in for 喜)

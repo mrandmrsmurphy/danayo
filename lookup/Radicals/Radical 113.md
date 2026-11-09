@@ -51,6 +51,9 @@ tags:
 24. <ruby>[禅](../../characters/禅%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - oneness
 25. <ruby>[福](../../characters/福%20(char).md)<rt>ㄈㄨㄎ</rt></ruby> - blessing
 
+### +11 Strokes
+- 禧 --> 喜
+
 ### Aliases
 - 禦 --> 御
 - 祂 --> 他

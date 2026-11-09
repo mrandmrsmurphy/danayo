@@ -32,6 +32,8 @@ tags:
 11. <ruby>[坑](../../characters/坑%20(char).md)<rt>ㄎㄚㄫ</rt></ruby> - pit
 
 12. <ruby>[址](../../characters/址.md)<rt>ㄐㄧ</rt></ruby> - site
+- 坚 --> 堅
+- 块 --> 塊
 
 ### +5 Strokes
 13. <ruby>[坤](../../characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> - eighth trigram
@@ -108,6 +110,7 @@ tags:
 
 ### +14 Strokes
 - 壓 --> traditional form of 圧
+- 壓 --> 圧
 
 ### +15 Strokes
 - 壘 --> traditional form of 塁

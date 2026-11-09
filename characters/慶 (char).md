@@ -32,7 +32,7 @@ stand_in: "慶"
 aliases:
   - 庆
 注音: "ㄎ⼶ㄫ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 65
 - [SKIP-3-3-12](../lookup/SKIP/SKIP-3/SKIP-3-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 894th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄎ⼶ㄫ](../syllables/ㄎ⼶ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 庆
+Simplified Chinese form of 慶, written 广 around 大. SKIP 3-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 894 is 慶's own. SKIP 3-3-3 (computed: EDRDG does not list it); 6 strokes. Radical 053 广. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[慶]]<rt>ㄎ⼶ㄫ</rt></ruby> "congratulate; celebrate" (stand-in for 慶)

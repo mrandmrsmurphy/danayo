@@ -14,6 +14,9 @@ tags:
 1. <ruby>[庁](../../characters/庁.md)<rt>ㄑㄝㄫ</rt></ruby> - hall
 2. <ruby>[広](../../characters/広%20(char).md)<rt>ㄍ⺢ㄫ</rt></ruby> - wide
 
+### +3 Strokes
+- 庆 --> 慶
+
 ### +4 Strokes
 3. <ruby>[庇](../../characters/庇.md)<rt>ㄅㄧㄜ</rt></ruby> - shield
 4. <ruby>[序](../../characters/序.md)<rt>ㄙ⼄</rt></ruby> - series

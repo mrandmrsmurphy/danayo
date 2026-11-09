@@ -22,6 +22,7 @@ tags: [lookup]
 ### +3 Strokes
 4. <ruby>[字](../../characters/字%20(char).md)<rt>ㄐㄧ</rt></ruby> - glyph
 5. <ruby>[存](../../characters/存.md)<rt>ㄐㄛㄋ</rt></ruby> - survive
+- 孙 --> 孫
 
 ### +4 Strokes
 6. <ruby>[孚](../../characters/孚.md)<rt>ㄈㄨ</rt></ruby> - confident

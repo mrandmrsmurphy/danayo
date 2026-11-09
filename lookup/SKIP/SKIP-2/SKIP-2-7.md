@@ -19,9 +19,15 @@ Top component has 7 strokes. Dominant components: 辰, 里, 亜, 釆.
 9. [SKIP-2-7-9](lookup/SKIP/SKIP-2/SKIP-2-7-9.md): 餐
 10. ø
 11. [SKIP-2-7-11](lookup/SKIP/SKIP-2/SKIP-2-7-11.md): 嚢
-12. ø
+12. [SKIP-2-7-12](lookup/SKIP/SKIP-2/SKIP-2-7-12.md): ø
 13. ø
 14. [SKIP-2-7-14](lookup/SKIP/SKIP-2/SKIP-2-7-14.md): ø
+15. none
+16. none
+17. none
+18. none
+19. none
+20. [SKIP-2-7-20](lookup/SKIP/SKIP-2/SKIP-2-7-20.md): ø
 
 ## Base check
 ```base

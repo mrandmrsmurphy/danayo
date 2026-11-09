@@ -74,6 +74,7 @@ tags:
 - 瞢 --> 夢
 - 歷 --> 歴
 - 輯 --> 集
+- 禧 --> 喜
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

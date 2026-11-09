@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 夋 --> 酸
+- 㚇 --> 宗
 
 ## Data check
 ```dataview

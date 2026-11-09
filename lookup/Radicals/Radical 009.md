@@ -110,6 +110,7 @@ aliases:
 - ¡侤! - 違法字
 - 佯 --> 羊
 - 佶 --> 吉
+- 侒 --> 安
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -206,6 +207,7 @@ aliases:
 131. <ruby>[僑](../../characters/僑.md)<rt>ㄍ⼘ㄨ</rt></ruby> - emigrant
 132. <ruby>[僕](../../characters/僕.md)<rt>ㄅㄛㄎ</rt></ruby> - slave
 133. <ruby>[僚](../../characters/僚.md)<rt>ㄌ⼄ㄨ</rt></ruby> - colleague
+- 僖 --> 喜
 
 ### +13 Strokes
 134. <ruby>[僵](../../characters/僵.md)<rt>ㄍ⼘ㄫ</rt></ruby> - stiff corpse

@@ -31,6 +31,7 @@ tags:
 ### +6 Strokes
 9. <ruby>[帝](../../characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> - emperor
 10. <ruby>[帥](../../characters/帥.md)<rt>ㄙㄨㄧ</rt></ruby> - marshall
+- 带 --> 帯
 
 ### +7 Strokes
 11. <ruby>[師](../../characters/師.md)<rt>ㄙㄧㄜ</rt></ruby> - expert
@@ -41,6 +42,7 @@ tags:
 ### +8 Strokes
 15. <ruby>[帳](../../characters/帳.md)<rt>ㄐ⺢ㄫ</rt></ruby> - tent
 16. <ruby>[常](../../characters/常.md)<rt>ㄙ⼘ㄫ</rt></ruby> - common
+- 帶 --> 帯
 
 ### +9 Strokes
 17. <ruby>[帽](../../characters/帽.md)<rt>ㄇㄚㄨ</rt></ruby> - cap

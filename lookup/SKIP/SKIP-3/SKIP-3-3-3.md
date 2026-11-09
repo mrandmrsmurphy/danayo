@@ -30,6 +30,7 @@ tags: [lookup]
 - 过 --> 過
 - 达 --> 達
 - 问 --> 問
+- 庆 --> 慶
 
 ## Datacheck
 ```dataview

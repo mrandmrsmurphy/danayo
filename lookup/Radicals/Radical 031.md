@@ -24,6 +24,7 @@ tags: [lookup]
 7. <ruby>[囧](../../characters/囧.md)<rt>ㄍ⼄ㄫ</rt></ruby> - bright
 8. <ruby>[困](../../characters/困.md)<rt>ㄎㄛㄋ</rt></ruby> - distressed
 9. <ruby>[図](../../characters/図.md)<rt>ㄉㄛ</rt></ruby> - diagram
+- 园 --> 園
 
 ### +5 Strokes
 10. <ruby>[固](../../characters/固.md)<rt>ㄍㄛ</rt></ruby> - solid

@@ -21,6 +21,8 @@ tags: [lookup]
 
 ### +2 Strokes
 4. <ruby>[扱](../../characters/扱%20(char).md)<rt>ㄑㄚㄆ</rt></ruby> - handle
+- 执 --> 執
+- 扬 --> 揚
 
 ### +3 Strokes
 5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up
@@ -74,6 +76,8 @@ tags: [lookup]
 49. <ruby>[按](../../characters/按.md)<rt>ㄚㄋ</rt></ruby> - press
 50. <ruby>[挑](../../characters/挑.md)<rt>ㄊㄚㄨ</rt></ruby> - challenge authority
 51. <ruby>[挟](../../characters/挟%20(char).md)<rt>ㄏㄝㄆ</rt></ruby> - clasp
+- 拜 --> 拝
+- 挂 --> 掛
 
 ### +6 Strokes
 52. <ruby>[拳](../../characters/拳.md)<rt>ㄍ⼔ㄋ</rt></ruby> - fist

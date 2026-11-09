@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[房](/characters/房%20(char).md)<rt>ㄅㄚㄫ</rt></ruby> - room
 2. <ruby>[肩](/characters/肩%20(char).md)<rt>ㄍㄝㄋ</rt></ruby> - shoulder
 
+### Aliases
+- 丧 --> 喪
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

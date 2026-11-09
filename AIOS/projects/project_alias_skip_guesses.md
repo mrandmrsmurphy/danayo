@@ -77,3 +77,26 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 勢 | 势 | 2-6-2 | computed from its parts |
 | 勧 | 劝 | 1-2-2 | computed from its parts |
 | 協 | 协 | 1-2-4 | computed from its parts |
+| 善 (char) | 𠲘 | 2-6-3 | computed from its parts |
+| 善 (char) | 𠵊 | 2-8-3 | computed from its parts |
+| 善 (char) | 𠾄 | 2-12-3 | computed from its parts |
+| 善 (char) | 𦎍 | 2-6-7 | computed from its parts |
+| 善 (char) | 𦏟 | 2-6-14 | computed from its parts |
+| 善 (char) | 𦏯 | 2-6-21 | computed from its parts |
+| 善 (char) | 𧨅 | 2-7-7 | computed from its parts |
+| 善 (char) | 𧬆 | 2-7-12 | computed from its parts |
+| 善 (char) | 𧮟 | 2-7-20 | computed from its parts |
+| 喪 | 丧 | 2-1-7 | computed from its parts |
+| 圧 (char) | 压 | 3-2-4 | computed from its parts |
+| 執 | 执 | 1-3-3 | computed from its parts |
+| 堅 | 坚 | 2-4-3 | computed from its parts |
+| 堅 | 鲣 | 1-8-7 | computed from its parts |
+| 塊 (char) | 块 | 1-3-4 | computed from its parts |
+| 孫 | 孙 | 1-3-3 | computed from its parts |
+| 安 | 𠕷 | 2-2-3 | computed from its parts |
+| 安 | 𡚴 | 2-3-3 | computed from its parts |
+| 宗 | 㚇 | 2-3-6 | computed from its parts |
+| 層 (char) | 层 | 3-3-4 | computed from its parts |
+| 帯 (char) | 带 | 2-6-3 | computed from its parts |
+| 慶 (char) | 庆 | 3-3-3 | computed from its parts |
+| 揚 (char) | 扬 | 1-3-3 | computed from its parts |

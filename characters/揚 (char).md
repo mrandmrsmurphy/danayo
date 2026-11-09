@@ -36,7 +36,7 @@ stand_in: "揚"
 aliases:
   - 扬
 注音: "⼘ㄫ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -54,6 +54,11 @@ boundedness: 90
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 921st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](../syllables/⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 扬
+Simplified Chinese form of 揚. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 921 is 揚's own. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[揚]]<rt>⼘ㄫ</rt></ruby> "scatter; hurl" (stand-in for 揚)

@@ -57,6 +57,12 @@ tags:
 - 伤 --> 傷
 - 则 --> 則
 - 协 --> 協
+- 压 --> 圧
+- 执 --> 執
+- 孙 --> 孫
+- 𡚴 --> 安
+- 庆 --> 慶
+- 扬 --> 揚
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

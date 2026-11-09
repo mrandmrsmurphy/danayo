@@ -29,6 +29,10 @@ tags: [lookup]
 ### Forbidden
 - 𥫤 - 国字: 国字 (竹 + 弓); Wiktionary records no definition
 
+### Aliases
+- 𠲘 --> 善
+- 带 --> 帯
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

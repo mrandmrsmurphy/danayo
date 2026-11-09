@@ -16,6 +16,7 @@ tags: [lookup]
 ### +4 Strokes
 2. <ruby>[魯](../../characters/魯.md)<rt>ㄌㄛㄇ</rt></ruby> - rash
 3. <ruby>[魶](../../characters/魶%20(char).md)<rt>ㄋㄨㄆ</rt></ruby> - giant salamander
+- 鲣 --> 堅
 
 ### +5 Strokes
 4. <ruby>[鮎](../../characters/鮎%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sweetfish
@@ -26,6 +27,7 @@ tags: [lookup]
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark
 8. <ruby>[鮮](../../characters/鮮.md)<rt>ㄙ⼶ㄇ</rt></ruby> - fresh
 - 鮲 --> 伏
+- 鮟 --> 安
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi
@@ -42,6 +44,9 @@ tags: [lookup]
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin
 16. <ruby>[鰥](../../characters/鰥.md)<rt>ㄍ⺢ㄇ</rt></ruby> - widower
+
+### +11 Strokes
+- 鰹 --> 堅
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray

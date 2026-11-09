@@ -65,6 +65,8 @@ tags:
 - 䨣 --> 覇
 - 鮲 --> 伏
 - 臂 --> 卑
+- 壓 --> 圧
+- 鮟 --> 安
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

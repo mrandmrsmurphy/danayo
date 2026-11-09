@@ -69,6 +69,7 @@ Radical 1 is 一, the number one.
 ### +7 Strokes
 20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
 - 丧 --> ancient variant of 喪
+- 丧 --> 喪
 
 ### +8 Strokes 
 * ¡鿗! --> ancient contraction, so 違法字

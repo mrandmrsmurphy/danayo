@@ -39,7 +39,7 @@ aliases:
   - 块
 注音: "ㄎㄛㄧ"
 kwin: false
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 tags:
   - character
 boundedness: 80
@@ -56,6 +56,11 @@ boundedness: 80
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 3137th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄎㄛㄧ](../syllables/ㄎㄛㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 块
+Simplified Chinese form of 塊. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 3137 is 塊's own rank. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[塊]]<rt>ㄎㄛㄧ</rt></ruby> "lump; piece; chunk; clump" (stand-in for 塊)

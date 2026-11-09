@@ -35,7 +35,7 @@ aliases:
   - 层
 注音: ㄑㄜㄫ
 kwin: true
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 tags:
   - character
 boundedness: 90
@@ -52,6 +52,11 @@ boundedness: 90
 - [SKIP-3-3-11](../lookup/SKIP/SKIP-3/SKIP-3-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 4098th most used character in Classical Chinese (long-tail rank from the fuller source ranking; beyond the local mirrors' top ~4000). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄑㄜㄫ](../syllables/ㄑㄜㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 层
+Simplified Chinese form of 層, written 尸 around 云. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4098 is 層's own. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[層]]<rt>ㄑㄜㄫ</rt></ruby> "stratum" (stand-in for 層)

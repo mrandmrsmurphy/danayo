@@ -36,7 +36,7 @@ aliases:
   - 带
 注音: ㄊㄚㄧ
 kwin: false
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 tags:
   - character
 boundedness: 45
@@ -53,6 +53,14 @@ boundedness: 45
 - [SKIP-2-5-5](../lookup/SKIP/SKIP-2/SKIP-2-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1061st most used character in Classical Chinese (rank belongs to the traditional form 帶). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄊㄚㄧ](../syllables/ㄊㄚㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 帶
+Traditional form (kyūjitai) of 帯; Unihan lists 帯 as its Japanese new variant and 带 as its simplified form. SKIP 2-6-5 (EDRDG); 11 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1061 is 帶's rank. SKIP 2-6-5; 11 strokes. It ranks 1061 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 带
+Simplified Chinese form of 帶. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[帯]]<rt>ㄊㄚㄧ</rt></ruby> "sash; belt" (stand-in for 帯)

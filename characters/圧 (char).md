@@ -33,7 +33,7 @@ aliases:
   - 壓
   - 压
 注音: ㄚㄊ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 55
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 3189th most used character in Classical Chinese (ranking lists the traditional form 壓). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄚㄊ](../syllables/ㄚㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 壓
+Traditional form (kyūjitai) of 圧; Unihan lists 压 as its simplified form. SKIP 3-2-15 (EDRDG); 17 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 3189 is 壓's rank. SKIP 3-2-15; 17 strokes. It ranks 3189 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 压
+Simplified Chinese form of 壓, written 厂 around 土. SKIP 3-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 3-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 027 厂. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[圧]]<rt>ㄚㄊ</rt></ruby> "press; control" (stand-in for 圧)
