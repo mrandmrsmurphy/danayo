@@ -42,6 +42,7 @@ tags:
 
 ### Aliases
 - 嵒 --> 岩
+- 窗 --> 窓
 
 ## Datacheck
 ```dataview

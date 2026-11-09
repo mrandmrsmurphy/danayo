@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 虚.
 >For the word, see [虚](../words/虚.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 398th most used character in Classical Chinese (ranked there under 虛, this character's own stored alias). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄏ⼄](../syllables/ㄏ⼄.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 虛
+Traditional form (kyūjitai) of 虚, "empty, false". SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 398 is 虛's rank. SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. It ranks 398 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[虚]]<rt>ㄏ⼄</rt></ruby> "void, emptiness" (stand-in for 虚)

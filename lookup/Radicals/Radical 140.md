@@ -10,6 +10,9 @@ tags:
 
 ## Strokes
 
+### +-1 Strokes
+- 艺 --> 芸
+
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 
@@ -87,6 +90,7 @@ tags:
 57. <ruby>[萄](../../characters/萄.md)<rt>ㄉㄚㄨ</rt></ruby> - grapes
 58. <ruby>[萌](../../characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> - bud
 59. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
+- 蓝 --> 藍
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn
@@ -101,6 +105,7 @@ tags:
 69. <ruby>[葬](../../characters/葬.md)<rt>ㄐㄚㄫ</rt></ruby> - inter
 70. <ruby>[葱](../../characters/葱.md)<rt>ㄑㄛㄫ</rt></ruby> - onion
 71. <ruby>[葺](../../characters/葺%20(char).md)<rt>ㄑㄨㄆ</rt></ruby> - roofed with
+- 蕓 --> 芸
 
 ### +10 Strokes
 72. <ruby>[莫](../../characters/莫%20(char).md)<rt>ㄇㄚㄎ</rt></ruby> - not exist
@@ -137,6 +142,7 @@ tags:
 96. <ruby>[蕩](../../characters/蕩.md)<rt>ㄉㄚㄫ</rt></ruby> - dissolute
 97. <ruby>[蕪](../../characters/蕪.md)<rt>ㄇㄨ</rt></ruby> - turnip
 98. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
+- 藝 --> 芸
 
 ### +13 Strokes
 99. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia

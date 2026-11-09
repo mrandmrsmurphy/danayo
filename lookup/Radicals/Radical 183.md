@@ -14,6 +14,7 @@ tags: [lookup]
 ### Aliases
 - 䬡 --> 翻
 - 飞 --> 飛
+- 飜 --> 翻
 
 ## Data check
 ```dataview

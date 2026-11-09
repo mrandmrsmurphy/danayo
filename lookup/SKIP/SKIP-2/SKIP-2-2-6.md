@@ -32,6 +32,7 @@ tags: [lookup]
 - 兖 --> 兗
 - 兔 --> 兎
 - 卖 --> 売
+- 舍 --> 舎
 
 ### Forbidden
 - 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff

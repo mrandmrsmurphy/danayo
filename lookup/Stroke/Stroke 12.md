@@ -90,6 +90,10 @@ tags: [lookup]
 - 絛 --> 条
 - 渴 --> 渇
 - 爲 --> 為
+- 窗 --> 窓
+- 𤗉 --> 窓
+- 缐 --> 線
+- 虛 --> 虚
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

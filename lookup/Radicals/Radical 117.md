@@ -16,6 +16,7 @@ tags: [lookup]
 ### +5 Strokes
 2. <ruby>[站](../../characters/站.md)<rt>ㄐㄚㄇ</rt></ruby> - station
 - 竝 --> 並
+- 竞 --> 競
 
 ### +6 Strokes
 3. <ruby>[竟](../../characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - finally
@@ -31,6 +32,9 @@ tags: [lookup]
 
 ### +15 Strokes
 9. <ruby>[競](../../characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> - compete
+
+### +17 Strokes
+- 竸 --> 競
 
 ### Forbidden
 - 竍 - 国字: 'decaliter' --> 十升

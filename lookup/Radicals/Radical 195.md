@@ -47,6 +47,7 @@ tags: [lookup]
 
 ### +11 Strokes
 - 鰹 --> 堅
+- 鰾 --> 票
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray

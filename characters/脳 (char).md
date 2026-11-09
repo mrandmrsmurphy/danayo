@@ -37,7 +37,7 @@ aliases:
 kwin: false
 tags:
   - character
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 boundedness: 45
 ---
 >[!tip] This is a page about the character 脳.
@@ -52,6 +52,17 @@ boundedness: 45
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2814th most used character in Classical Chinese (as its traditional form 腦). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄋㄚㄨ](../syllables/ㄋㄚㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 腦
+Traditional form (kyūjitai) of 脳, "brain, head". SKIP 1-4-9 (EDRDG); 13 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 2814 is 腦's rank. SKIP 1-4-9; 13 strokes. It ranks 2814 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 脑
+Simplified Chinese form of 腦. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2814 is 腦's rank. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 匘
+an old form of 腦, "the brain". SKIP 1-2-9 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-2-9; 11 strokes. Radical 021 匕. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[脳]]<rt>ㄋㄚㄨ</rt></ruby> "brain" (stand-in for 脳)

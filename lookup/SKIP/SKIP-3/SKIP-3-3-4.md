@@ -38,6 +38,8 @@ tags: [lookup]
 - 间 --> 間
 - 园 --> 園
 - 层 --> 層
+- 囪 --> 窓
+- 囱 --> 窓
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

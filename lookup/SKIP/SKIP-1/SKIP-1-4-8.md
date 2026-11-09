@@ -60,6 +60,7 @@ tags:
 ### Aliases
 - 禄 --> 祿
 - 殘 --> 残
+- 𤗉 --> 窓
 
 ## Datacheck
 ```dataview

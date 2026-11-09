@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 翻.
 >For the word, see [翻](../words/翻.md)
@@ -52,6 +52,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-12-6](../lookup/SKIP/SKIP-1/SKIP-1-12-6.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 4924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](../syllables/ㄈㄛㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 飜
+Traditional form (kyūjitai) of 翻, "to flip, to translate". SKIP 1-12-9 (EDRDG); 21 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4924 is 翻's own. SKIP 1-12-9; 21 strokes. Radical 183 飛. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip" (stand-in for 翻)

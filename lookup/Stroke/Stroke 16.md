@@ -77,6 +77,7 @@ tags:
 - 禧 --> 喜
 - 縧 --> 条
 - 縣 --> 県
+- 窻 --> 窓
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

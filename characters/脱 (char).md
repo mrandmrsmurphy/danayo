@@ -35,7 +35,7 @@ stand_in: 脱
 aliases:
   - 脫
 注音: ㄉ⺢ㄊ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -51,8 +51,13 @@ boundedness: 80
 ## Notes
 - 形声 (OC *l'oːds): semantic [[Radical 130|肉]] ("meat, body") + phonetic [[兌]] (OC *l'oːds, an exact match — part of the same large family already documented on [[税]]'s own page: 悦/説/鋭/閲 all cite it too) — to shed, remove, undress; escape.
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 1282nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄉ⺢ㄊ](../syllables/ㄉ⺢ㄊ.md)
+- 1282nd most used character in Classical Chinese (rank belongs to the traditional form 脫). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄉ⺢ㄊ](../syllables/ㄉ⺢ㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 脫
+Traditional form (kyūjitai) of 脱, "to take off, to escape". SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1282 is 脫's rank. SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. It ranks 1282 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[脱]]<rt>ㄉ⺢ㄊ</rt></ruby> "undress" (stand-in for 脱)

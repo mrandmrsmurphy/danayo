@@ -112,3 +112,24 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 産 | 产 | 2-2-4 | computed from its parts |
 | 県 (char) | 县 | 2-5-2 | computed from its parts |
 | 礼 (char) | 𥜪 | 1-5-17 | computed from its parts |
+| 窓 | 䆫 | 2-3-11 | computed from its parts |
+| 窓 | 囪 | 3-3-4 | computed from its parts |
+| 窓 | 𤗄 | 1-4-7 | computed from its parts |
+| 窓 | 𪺠 | 1-4-11 | computed from its parts |
+| 窓 | 𤗉 | 1-4-8 | computed from its parts |
+| 窓 | 𮈾 | 1-6-11 | computed from its parts |
+| 窓 | 𡆧 | 3-3-3 | computed from its parts |
+| 競 | 竞 | 2-5-5 | computed from its parts |
+| 終 | 终 | 1-3-5 | computed from its parts |
+| 給 | 给 | 1-3-6 | computed from its parts |
+| 続 | 续 | 1-3-8 | computed from its parts |
+| 線 | 线 | 1-3-5 | computed from its parts |
+| 線 | 缐 | 1-3-9 | computed from its parts |
+| 縮 (char) | 缩 | 1-3-11 | computed from its parts |
+| 義 | 义 | 2-1-2 | computed from its parts |
+| 脱 (char) | 脫 | 1-4-7 | computed from its parts |
+| 脳 (char) | 脑 | 1-4-6 | computed from its parts |
+| 芸 | 艺 | 2-3-2 | computed from its parts |
+| 藍 (char) | 蓝 | 2-3-11 | computed from its parts |
+| 藍 (char) | 褴 | 1-5-10 | computed from its parts |
+| 虚 (char) | 虛 | 3-4-8 | computed from its parts |

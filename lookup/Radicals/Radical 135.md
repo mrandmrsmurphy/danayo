@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[舎](../../characters/舎.md)<rt>ㄙ⼘</rt></ruby> - inn
+- 舍 --> 舎
 
 ### +6 Strokes
 - 舒 --> 抒

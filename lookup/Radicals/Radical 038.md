@@ -93,6 +93,7 @@ tags: [lookup]
 ### +11 Strokes
 57. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife
 58. <ruby>[嫩](../../characters/嫩%20(char).md)<rt>ㄋㄛㄋ</rt></ruby> - delicate
+- 嫖 --> 票
 
 ### +12 Strokes
 59. <ruby>[嬉](../../characters/嬉.md)<rt>ㄏㄧ</rt></ruby> - enjoy

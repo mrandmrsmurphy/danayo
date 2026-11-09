@@ -102,6 +102,9 @@ tags:
 - 泷 --> 瀧
 - 鸣 --> 鳴
 - 岷 --> 民
+- 沮 --> 祖
+- 终 --> 終
+- 线 --> 線
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

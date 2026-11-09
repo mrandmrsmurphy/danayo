@@ -90,6 +90,9 @@ tags:
 - 鬥 --> 斗
 - 样 --> 様
 - 烦 --> 煩
+- 竞 --> 競
+- 脑 --> 脳
+- 烙 --> 落
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

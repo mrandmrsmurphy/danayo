@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 縮.
 >For the word, see [縮](../words/縮.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-6-11](../lookup/SKIP/SKIP-1/SKIP-1-6-11.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 2100th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄙㄨㄎ](../syllables/ㄙㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 缩
+Simplified Chinese form of 縮. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2100 is 縮's own. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[縮]]<rt>ㄙㄨㄎ</rt></ruby> "shrink, contract" (stand-in for 縮)

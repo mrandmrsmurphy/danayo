@@ -19,6 +19,9 @@ tags: [lookup]
 ### +5 Strokes
 3. <ruby>[虚](../../characters/虚%20(char).md)<rt>ㄏ⼄</rt></ruby> - void
 
+### +6 Strokes
+- 虛 --> 虚
+
 ### +7 Strokes
 4. <ruby>[虞](../../characters/虞.md)<rt>ㄨ</rt></ruby> - anxious
 5. <ruby>[虜](../../characters/虜.md)<rt>ㄌㄛ</rt></ruby> - take captive

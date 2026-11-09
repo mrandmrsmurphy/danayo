@@ -33,6 +33,7 @@ Candidates for this SKIP code not yet present in the database: 祟.
 - 皋 --> 皐
 - 畠 --> 田
 - 冓 --> 構
+- 竞 --> 競
 
 ## Datacheck
 ```dataview

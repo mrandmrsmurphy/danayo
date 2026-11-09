@@ -85,6 +85,7 @@ tags:
 - 拜 --> 拝
 - 挂 --> 掛
 - 济 --> 済
+- 给 --> 給
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

@@ -47,6 +47,9 @@ tags: [lookup]
 ### +10 Strokes
 20. <ruby>[騰](../../characters/騰.md)<rt>ㄉㄜㄫ</rt></ruby> - inflate
 
+### +11 Strokes
+- 驃 --> 票
+
 ### +13 Strokes
 21. <ruby>[驚](../../characters/驚.md)<rt>ㄍ⼶ㄫ</rt></ruby> - startle
 

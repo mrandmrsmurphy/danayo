@@ -31,6 +31,7 @@ tags:
 - 做 --> 作
 - 脩 --> 修
 - 條 --> 条
+- 匘 --> 脳
 
 ## Datacheck
 ```dataview

@@ -95,6 +95,10 @@ tags:
 - 淸 --> 清
 - 毬 --> 球
 - 產 --> 産
+- 𤗄 --> 窓
+- 续 --> 続
+- 脫 --> 脱
+- 匘 --> 脳
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -78,6 +78,11 @@ tags:
 - 褔 --> 副
 - 𧨅 --> 善
 - 僖 --> 喜
+- 嫖 --> 票
+- 慓 --> 票
+- 䆫 --> 窓
+- 缩 --> 縮
+- 蓝 --> 藍
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

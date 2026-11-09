@@ -78,6 +78,7 @@ tags: [lookup]
 - 泼 --> 発
 - 泷 --> 瀧
 - ¡㳓! - 違法字
+- 沮 --> 祖
 
 ### +5 Strokes
 49. <ruby>[泉](../../characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - fountain

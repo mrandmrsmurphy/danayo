@@ -20,7 +20,7 @@ tags: [lookup]
 12. [SKIP-1-5-12](lookup/SKIP/SKIP-1/SKIP-1-5-12.md): 瞬, 瞭, 瞳, 矯, 磯, 礁, 襖, 瞰
 13. [SKIP-1-5-13](lookup/SKIP/SKIP-1/SKIP-1-5-13.md): 瞻, 瞼, 礎, 穫, 襟, 穢
 14. [SKIP-1-5-14](lookup/SKIP/SKIP-1/SKIP-1-5-14.md): 襪
-15. No
+15. [SKIP-1-5-15](lookup/SKIP/SKIP-1/SKIP-1-5-15.md): ø
 16. [SKIP-1-5-16](lookup/SKIP/SKIP-1/SKIP-1-5-16.md): ø
 17. [SKIP-1-5-17](lookup/SKIP/SKIP-1/SKIP-1-5-17.md): 穣
 

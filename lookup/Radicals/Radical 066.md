@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[攴](../../characters/攴.md)<rt>ㄆㄨㄎ</rt></ruby> - knock
 
+### +2 Strokes
+- 攷 --> 考
+
 ### +3 Strokes
 2. <ruby>[改](../../characters/改%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - redo
 3. <ruby>[攻](../../characters/攻%20(char).md)<rt>ㄍㄛㄫ</rt></ruby> - attack

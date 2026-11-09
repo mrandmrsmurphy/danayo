@@ -18,6 +18,7 @@ date-last-perfect: 2026-10-31
 - 丅 --> 下
 - 厂 --> 廠
 - 几 --> 幾
+- 丂 --> 考
 
 ### Forbidden
 - 𰆊 - 口訣: Korean 구결 for 'ㄴ'

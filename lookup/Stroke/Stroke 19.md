@@ -50,6 +50,7 @@ tags:
 - 瀝 --> 歴
 - 𧬆 --> 善
 - 鏗 --> 堅
+- 襤 --> 藍
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

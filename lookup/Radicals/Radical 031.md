@@ -18,6 +18,7 @@ tags: [lookup]
 3. <ruby>[因](../../characters/因.md)<rt>ㄧㄋ</rt></ruby> - cause
 4. <ruby>[回](../../characters/回%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - turns
 5. <ruby>[団](../../characters/団.md)<rt>ㄉ⺢ㄋ</rt></ruby> - group
+- 𡆧 --> 窓
 
 ### +4 Strokes
 6. <ruby>[囲](../../characters/囲.md)<rt>ㄨㄧ</rt></ruby> - encircle
@@ -25,6 +26,8 @@ tags: [lookup]
 8. <ruby>[困](../../characters/困.md)<rt>ㄎㄛㄋ</rt></ruby> - distressed
 9. <ruby>[図](../../characters/図.md)<rt>ㄉㄛ</rt></ruby> - diagram
 - 园 --> 園
+- 囪 --> 窓
+- 囱 --> 窓
 
 ### +5 Strokes
 10. <ruby>[固](../../characters/固.md)<rt>ㄍㄛ</rt></ruby> - solid

@@ -38,6 +38,9 @@ tags:
 - 儼 --> 厳
 - 鶸 --> 弱
 - 霸 --> 覇
+- 驃 --> 票
+- 續 --> 続
+- 飜 --> 翻
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

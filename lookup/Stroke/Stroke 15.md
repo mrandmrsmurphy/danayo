@@ -74,6 +74,10 @@ tags:
 - 𠾄 --> 善
 - 鲣 --> 堅
 - 樣 --> 様
+- 牕 --> 窓
+- 𪺠 --> 窓
+- 蕓 --> 芸
+- 褴 --> 藍
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

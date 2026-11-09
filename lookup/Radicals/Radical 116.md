@@ -35,12 +35,16 @@ tags: [lookup]
 12. <ruby>[窓](../../characters/窓.md)<rt>ㄑ⺢ㄫ</rt></ruby> - window
 13. <ruby>[窕](../../characters/窕.md)<rt>ㄉㄛㄨ</rt></ruby> - elegant
 
+### +7 Strokes
+- 窗 --> 窓
+
 ### +8 Strokes
 14. <ruby>[窟](../../characters/窟%20(char).md)<rt>ㄎㄛㄊ</rt></ruby> - cavern
 
 ### +9 Strokes
 15. <ruby>[窩](../../characters/窩.md)<rt>ㄍ⺢</rt></ruby> - fossa
 16. <ruby>[窪](../../characters/窪.md)<rt>⺢</rt></ruby> - hollow
+- 䆫 --> 窓
 
 ### +10 Strokes
 17. <ruby>[窮](../../characters/窮.md)<rt>ㄍㄨㄫ</rt></ruby> - poverty
@@ -48,6 +52,7 @@ tags: [lookup]
 
 ### +11 Strokes
 19. <ruby>[窺](../../characters/窺%20(char).md)<rt>ㄎㄨㄧ</rt></ruby> - spy on
+- 窻 --> 窓
 
 ### +12 Strokes
 20. <ruby>[竃](../../characters/竃.md)<rt>ㄐ⺢</rt></ruby> - kitchen stove

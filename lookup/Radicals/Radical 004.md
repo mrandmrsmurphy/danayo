@@ -30,6 +30,7 @@ tags: [lookup]
 - 𠂠 --> 乎
 - 乘 --> 乗
 - 㐆 --> 隠
+- 乕 --> 虎
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

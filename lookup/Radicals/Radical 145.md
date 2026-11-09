@@ -60,6 +60,7 @@ tags:
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
 - 褲 --> 袴
+- 褴 --> 藍
 
 ### +11 Strokes
 28. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat
@@ -69,6 +70,7 @@ tags:
 
 ### +13 Strokes
 30. <ruby>[襪](../../characters/襪.md)<rt>ㄇㄝㄊ</rt></ruby> - sock
+- 襤 --> 藍
 
 ### +16 Strokes
 31. <ruby>[襲](../../characters/襲.md)<rt>ㄙㄜㄆ</rt></ruby> - attack

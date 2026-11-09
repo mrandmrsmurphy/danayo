@@ -58,12 +58,14 @@ tags: [lookup]
 37. <ruby>[脆](../../characters/脆.md)<rt>ㄑㄝ</rt></ruby> - brittle
 38. <ruby>[脈](../../characters/脈.md)<rt>ㄇㄚㄎ</rt></ruby> - vein
 39. <ruby>[脊](../../characters/脊.md)<rt>ㄐㄝㄎ</rt></ruby> - spine
+- 脑 --> 脳
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
 41. <ruby>[脛](../../characters/脛.md)<rt>ㄏㄝㄫ</rt></ruby> - shinbone
 42. <ruby>[脱](../../characters/脱%20(char).md)<rt>ㄉ⺢ㄊ</rt></ruby> - undress
 43. <ruby>[脳](../../characters/脳%20(char).md)<rt>ㄋㄚㄨ</rt></ruby> - brain
+- 脫 --> 脱
 
 ### +6 Strokes
 44. <ruby>[脹](../../characters/脹.md)<rt>ㄑㄚㄫ</rt></ruby> - swell
@@ -80,6 +82,7 @@ tags: [lookup]
 53. <ruby>[腹](../../characters/腹%20(char).md)<rt>ㄈㄨㄎ</rt></ruby> - stomach
 54. <ruby>[腺](../../characters/腺.md)<rt>ㄙ⼶ㄋ</rt></ruby> - gland
 55. <ruby>[腿](../../characters/腿.md)<rt>ㄊㄧㄜ</rt></ruby> - thigh
+- 腦 --> 脳
 
 ### +8 Strokes
 56. <ruby>[腐](../../characters/腐.md)<rt>ㄆㄨ</rt></ruby> - rotten

@@ -29,7 +29,7 @@ stand_in: "虎"
 aliases:
   - 乕
 注音: "ㄏㄛ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 75
 - [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 577th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 乕
+An alternative form of 虎 in Japanese. SKIP 3-2-5 (EDRDG); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 577 is 虎's own. SKIP 3-2-5; 7 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby> "tiger" (stand-in for 虎)

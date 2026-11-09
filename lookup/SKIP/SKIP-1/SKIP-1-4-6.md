@@ -55,6 +55,8 @@ tags:
 - 桉 --> 案
 - 样 --> 様
 - 烦 --> 煩
+- 脑 --> 脳
+- 烙 --> 落
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

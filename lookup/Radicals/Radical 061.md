@@ -117,6 +117,7 @@ tags: [lookup]
 80. <ruby>[慣](../../characters/慣.md)<rt>ㄍ⺢ㄋ</rt></ruby> - to be accustomed
 81. <ruby>[慷](../../characters/慷.md)<rt>ㄎㄚㄫ</rt></ruby> - ardent
 82. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
+- 慓 --> 票
 
 ### +11 Strokes
 83. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread

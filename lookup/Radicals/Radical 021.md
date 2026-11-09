@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[北](../../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
 4. <ruby>[匙](../../characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
 
+### Aliases
+- 匘 --> 脳
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
