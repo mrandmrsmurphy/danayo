@@ -33,7 +33,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 28.  [[廉 (char)]]
 29.  陡
 30.  [[廊]]
-31.  [[臂]]
+31.  [[卑 (char)|臂]]
 32.  [[碌]]
 33.  [嚼](../../characters/爵.md)
 34.  [廓](../../characters/郭%20(char).md)

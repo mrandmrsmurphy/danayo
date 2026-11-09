@@ -1,12 +1,12 @@
 ---
 language: 単亜語
-size: 827
+size: 828
 tags: [lookup]
 ---
-**<ruby>名<rt>ㄇㄧㄫ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>二十<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby><ruby>七<rt>ㄑㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
+**<ruby>名<rt>ㄇㄧㄫ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>二十<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
 
 <ruby>種類<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>:
-- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>八十<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>八十<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>八十<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>七<rt>ㄑㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
@@ -435,409 +435,410 @@ tags: [lookup]
 422. <ruby>[[甬]]<rt>⼄ㄫ</rt></ruby> - Yong River, path
 423. <ruby>[[町]]<rt>ㄊㄝㄫ</rt></ruby> - ridge between fields, boundary
 424. <ruby>[[畐]]<rt>ㄅㄨㄎ</rt></ruby> - roll of cloth
-425. <ruby>[[疋]]<rt>ㄙㄜ</rt></ruby> - bolt of cloth
-426. <ruby>[[疱]]<rt>ㄆㄚㄨ</rt></ruby> - acne
-427. <ruby>[[疽]]<rt>ㄐㄜ</rt></ruby> - ulcer, abscess
-428. <ruby>[[瘡]]<rt>ㄑ⺢ㄫ</rt></ruby> - wound, sore
-429. <ruby>[[癸]]<rt>ㄍㄨㄧ</rt></ruby> - tenth heavenly stem
-430. <ruby>[[皀]]<rt>ㄆㄨㄆ</rt></ruby> - vessel full of food
-431. <ruby>[[皐]]<rt>ㄍㄚㄨ</rt></ruby> - river highland
-432. <ruby>[[皓]]<rt>ㄏㄚㄨ</rt></ruby> - luminous, clear
-433. <ruby>[[盂]]<rt>ㄨ</rt></ruby> - cup, basin
-434. <ruby>[[盒]]<rt>ㄏㄛㄆ</rt></ruby> - box, case
-435. <ruby>[[盞]]<rt>ㄐㄚㄋ</rt></ruby> - sake cup
-436. <ruby>[[盧]]<rt>ㄌㄛ</rt></ruby> - cottage, hut
-437. <ruby>[[盼]]<rt>ㄆㄚㄋ</rt></ruby> - clear eyed, hope
-438. <ruby>[[睾]]<rt>ㄍㄚㄨ</rt></ruby> - testicle
-439. <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby> - look down from a height, overlook, survey
-440. <ruby>[[瞼]]<rt>ㄍㄝㄇ</rt></ruby> - eyelid
-441. <ruby>[[砒]]<rt>ㄆㄧ</rt></ruby> - arsenic
-442. <ruby>[[砥]]<rt>ㄐㄧㄜ</rt></ruby> - whetstone
-443. <ruby>[[砭]]<rt>ㄆ⼶ㄇ</rt></ruby> - stone needle for acupuncture
-444. <ruby>[[砦]]<rt>ㄐㄚㄧ</rt></ruby> - abatis, fort, brothel
-445. <ruby>[[硅]]<rt>ㄍ⼜ㄎ</rt></ruby> - silicon
-446. <ruby>[[碁]]<rt>ㄍㄧ</rt></ruby> - Go (game)
-447. <ruby>[[硼]]<rt>ㄅㄛㄫ</rt></ruby> - borax
-448. <ruby>[[磊]]<rt>ㄌㄛㄧ</rt></ruby> - pile of rocks, great
-449. <ruby>[[磋]]<rt>ㄑㄚ</rt></ruby> - polish, deliberate
-450. <ruby>[[磯]]<rt>ㄍㄧㄜ</rt></ruby> - seashore, jetty
-451. <ruby>[[礬]]<rt>ㄆㄛㄇ</rt></ruby> - alum
-452. <ruby>[[祁]]<rt>ㄍㄧㄜ</rt></ruby> - surname
-453. <ruby>[[祇]]<rt>ㄍㄧ</rt></ruby> - earth-spirit, peace
-454. <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> - thou, one's deceased father
-455. <ruby>[[祚]]<rt>ㄐㄛ</rt></ruby> - throne, blessing
-456. <ruby>[[祠]]<rt>ㄙㄚ</rt></ruby> - ancestral shrine
-457. <ruby>[[祿]]<rt>ㄌㄛㄎ</rt></ruby> - wealth, salary
-458. <ruby>[[禎]]<rt>ㄐㄧㄫ</rt></ruby> - lucky, auspicious, good omen
-459. <ruby>[[禹]]<rt>ㄨ</rt></ruby> - Yu
-460. <ruby>[[禺]]<rt>ㄨ</rt></ruby> - long-tailed monkey
-461. <ruby>[[禼]]<rt>ㄙㄝㄊ</rt></ruby> - insect
-462. <ruby>[[秉]]<rt>ㄅㄧㄫ</rt></ruby> - bundle, grasp, authority
-463. <ruby>[[秦]]<rt>ㄐㄧㄋ</rt></ruby> - Qin
-464. <ruby>[[稜]]<rt>ㄌㄨㄫ</rt></ruby> - edge, angle
-465. <ruby>[[稗]]<rt>ㄅㄚㄧ</rt></ruby> - millet, insignificant
-466. <ruby>[[稼]]<rt>ㄍㄚ</rt></ruby> - sheaves of grain
-467. <ruby>[[稷]]<rt>ㄐㄧㄎ</rt></ruby> - millet, god of grain
-468. <ruby>[[穂 (char)|穂]]<rt>ㄙㄨㄧ</rt></ruby> - ear of grain
-469. <ruby>[[穆]]<rt>ㄇㄨㄎ</rt></ruby> - harmonious, solemn, reverent
-470. <ruby>[[穣 (char)|穣]]<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
-471. <ruby>[[穹]]<rt>ㄎㄨㄫ</rt></ruby> - high, sky
-472. <ruby>[[窈]]<rt>⼄ㄨ</rt></ruby> - graceful
-473. <ruby>[[窆]]<rt>ㄅ⼶ㄇ</rt></ruby> - put a coffin in a grave
-474. <ruby>[[窕]]<rt>ㄉㄛㄨ</rt></ruby> - elegant
-475. <ruby>[[窩]]<rt>ㄍ⺢</rt></ruby> - fossa, nest, cave
-476. <ruby>[[窪]]<rt>⺢</rt></ruby> - hollow, pit, depression
-477. <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> - kitchen stove
-478. <ruby>[[站]]<rt>ㄐㄚㄇ</rt></ruby> - station, site
-479. <ruby>[[竣]]<rt>ㄑㄨㄋ</rt></ruby> - complete, finish
-480. <ruby>[[竺]]<rt>ㄐㄨㄎ</rt></ruby> - India, bamboo
-481. <ruby>[[竿]]<rt>ㄍㄚㄋ</rt></ruby> - bamboo pole
-482. <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> - bamboo screen
-483. <ruby>[[筍]]<rt>ㄙ⼜ㄊ</rt></ruby> - bamboo shoot
-484. <ruby>[[箕]]<rt>ㄍㄧ</rt></ruby> - sieve, winnowing basket
-485. <ruby>[[箏]]<rt>ㄐㄝㄫ</rt></ruby> - guzheng, koto
-486. <ruby>[[箭]]<rt>ㄐㄝㄋ</rt></ruby> - arrow
-487. <ruby>[[篆]]<rt>ㄐ⼔ㄋ</rt></ruby> - seal script
-488. <ruby>[[篠]]<rt>ㄙㄛㄨ</rt></ruby> - dwarf bamboo
-489. <ruby>[[簞]]<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket
-490. <ruby>[[簫]]<rt>ㄙㄛㄨ</rt></ruby> - xiao
-491. <ruby>[[簾]]<rt>ㄌㄝㄇ</rt></ruby> - blind, screen, curtain
-492. <ruby>[[籃]]<rt>ㄌㄚㄇ</rt></ruby> - basket
-493. <ruby>[[粤]]<rt>⼔ㄊ</rt></ruby> - Yue
-494. <ruby>[[糠]]<rt>ㄎㄚㄫ</rt></ruby> - chaff, bran, husks
-495. <ruby>[[紇]]<rt>ㄏㄜㄊ</rt></ruby> - Uigur
-496. <ruby>[[紗]]<rt>ㄙ⼘</rt></ruby> - gauze, yarn
-497. <ruby>[[紘]]<rt>ㄏ⼔ㄫ</rt></ruby> - string, cord, vast
-498. <ruby>[[紬]]<rt>ㄑㄨㄛ</rt></ruby> - silk
-499. <ruby>[[絨]]<rt>ㄋㄨㄫ</rt></ruby> - velvet
-500. <ruby>[[絢]]<rt>ㄏ⼔ㄋ</rt></ruby> - gorgeous, effulgent
-501. <ruby>[[綏]]<rt>ㄙㄨㄧ</rt></ruby> - sooth, ribbon
-502. <ruby>[[緋]]<rt>ㄈㄨㄧ</rt></ruby> - scarlet, dark red, crimson
-503. <ruby>[[綽]]<rt>ㄑㄚㄎ</rt></ruby> - graceful
-504. <ruby>[[繋]]<rt>ㄏㄝㄧ</rt></ruby> - fasten, tie
-505. <ruby>[[纏]]<rt>ㄐㄝㄋ</rt></ruby> - wrap
-506. <ruby>[[缸]]<rt>ㄏㄚㄫ</rt></ruby> - jug, cistern, urn
-507. <ruby>[[䍃]]<rt>⼜</rt></ruby> - pitcher, earthenware
-508. <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></ruby> - accuse
-509. <ruby>[[羚]]<rt>ㄌㄝㄫ</rt></ruby> - antelope
-510. <ruby>[[羌]]<rt>ㄎ⼘ㄫ</rt></ruby> - Qiang, muntjac deer
-511. <ruby>[[羿]]<rt>ㄝㄧ</rt></ruby> - famous archer
-512. <ruby>[[翏]]<rt>ㄌㄛㄨ</rt></ruby> - sound of the wind
-513. <ruby>[[翕]]<rt>ㄏㄨㄆ</rt></ruby> - agreeable, gather
-514. <ruby>[[䎎]]<rt>ㄋㄛㄆ</rt></ruby> - soar through the air
-515. <ruby>[[翟]]<rt>ㄉㄝㄎ</rt></ruby> - pheasant
-516. <ruby>[[翠]]<rt>ㄑㄨㄧ</rt></ruby> - blue green, emerald
-517. <ruby>[[翫]]<rt>⺢ㄋ</rt></ruby> - slack off
-518. <ruby>[[耆]]<rt>ㄍㄧㄜ</rt></ruby> - aged, elder
-519. <ruby>[[耴]]<rt>ㄐㄨㄆ</rt></ruby> - earlobe
-520. <ruby>[[聒]]<rt>ㄍ⺢ㄆ</rt></ruby> - noisy
-521. <ruby>[[䏜]]<rt>ㄇㄚㄆ</rt></ruby> - plump, fat, obese
-522. <ruby>[[肭]]<rt>ㄋㄨㄊ</rt></ruby> - fur seal
-523. <ruby>[[𦚖 (char)|𦚖]]<rt>ㄇㄛㄆ</rt></ruby> - wink
-524. <ruby>[[肰]]<rt>ㄋㄝㄋ</rt></ruby> - dog meat
-525. <ruby>[[胡]]<rt>ㄏㄛㄨ</rt></ruby> - reckless
-526. <ruby>[[胤]]<rt>ㄧㄋ</rt></ruby> - heir, successor, progeny
-527. <ruby>[[胥]]<rt>ㄙ⼄</rt></ruby> - mutually
-528. <ruby>[[胰]]<rt>ㄧㄜ</rt></ruby> - pancreas
-529. <ruby>[[胱]]<rt>ㄍ⺢ㄫ</rt></ruby> - bladder
-530. <ruby>[[脆]]<rt>ㄑㄝ</rt></ruby> - brittle, fragile
-531. <ruby>[[脛]]<rt>ㄏㄝㄫ</rt></ruby> - shinbone
-532. <ruby>[[腔]]<rt>ㄎㄚㄫ</rt></ruby> - chest cavity
-533. <ruby>[[𦜝]]<rt>ㄐㄝㄧ</rt></ruby> - navel
-534. <ruby>[[脾]]<rt>ㄅㄧ</rt></ruby> - spleen
-535. <ruby>[[腽]]<rt>⺢ㄆ</rt></ruby> - fur seal
-536. <ruby>[[膏]]<rt>ㄍㄚㄨ</rt></ruby> - grease, oil
-537. <ruby>[[臘]]<rt>ㄌㄚㄆ</rt></ruby> - Laba
-538. <ruby>[[舅]]<rt>ㄍ⼜ㄛ</rt></ruby> - maternal uncle
-539. <ruby>[[舛]]<rt>ㄑㄝㄋ</rt></ruby> - oppose, deviate
-540. <ruby>[[舜]]<rt>ㄙ⼜ㄇ</rt></ruby> - a legendary ruler
-541. <ruby>[[艙]]<rt>ㄑ⺢ㄫ</rt></ruby> - cabin, room
-542. <ruby>[[艮]]<rt>ㄍㄚㄋ</rt></ruby> - mountain trigram
-543. <ruby>[[芝]]<rt>ㄐㄧ</rt></ruby> - sesame, grass
-544. <ruby>[[芋]]<rt>ㄨ</rt></ruby> - taro
-545. <ruby>[[芭]]<rt>ㄅㄚ</rt></ruby> - Japanese banana
-546. <ruby>[[芦]]<rt>ㄌㄛ</rt></ruby> - rushes, reed
-547. <ruby>[[芼]]<rt>ㄇㄚㄨ</rt></ruby> - cook
-548. <ruby>[[芥]]<rt>ㄍㄝ</rt></ruby> - mustard plant
-549. <ruby>[[芮]]<rt>ㄋㄝ</rt></ruby> - water's edge
-550. <ruby>[[芡]]<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
-551. <ruby>[[芹]]<rt>ㄍㄧㄋ</rt></ruby> - celery, water dropwort
-552. <ruby>[[苹]]<rt>ㄈㄝㄫ</rt></ruby> - apple, duckweed
-553. <ruby>[[苑]]<rt>ㄛㄋ</rt></ruby> - pasture, park
-554. <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> - moss, lichen
-555. <ruby>[[苺 (char)|苺]]<rt>ㄇㄚㄧ</rt></ruby> - strawberry
-556. <ruby>[[茅]]<rt>ㄇ⼘ㄨ</rt></ruby> - thatch, cogon grass
-557. <ruby>[[茉]]<rt>ㄇㄚㄊ</rt></ruby> - white jasmin
-558. <ruby>[[䒦]]<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
-559. <ruby>[[茫]]<rt>ㄇㄚㄫ</rt></ruby> - vast, boundless, wide
-560. <ruby>[[茸]]<rt>ㄋ⼄ㄫ</rt></ruby> - growth, mushroom
-561. <ruby>[[荇]]<rt>ㄏ⼶ㄫ</rt></ruby> - Limnanthemum nymphoides
-562. <ruby>[[荊]]<rt>ㄎ⼶ㄫ</rt></ruby> - thorn, brambles
-563. <ruby>[[茜]]<rt>ㄑㄝㄋ</rt></ruby> - madder
-564. <ruby>[[茄]]<rt>ㄍㄚ</rt></ruby> - eggplant
-565. <ruby>[[莽]]<rt>ㄇㄚㄫ</rt></ruby> - thick vegetation, poisonous, reckless
-566. <ruby>[[荻]]<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus, silver grass
-567. <ruby>[[莉]]<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
-568. <ruby>[[莱]]<rt>ㄌㄚㄧ</rt></ruby> - Penglai
-569. <ruby>[[萄]]<rt>ㄉㄚㄨ</rt></ruby> - grapes
-570. <ruby>[[菅]]<rt>ㄍㄚㄋ</rt></ruby> - coarse grass, Themeda forskaliǝ
-571. <ruby>[[菱 (char)|菱]]<rt>ㄌㄜㄫ</rt></ruby> - water chestnut
-572. <ruby>[[菩]]<rt>ㄅㄛ</rt></ruby> - bodhisattva, herb
-573. <ruby>[[菫]]<rt>ㄍㄧㄋ</rt></ruby> - violet, celery, aconite
-574. <ruby>[[茨]]<rt>ㄐㄧㄜ</rt></ruby> - thorn
-575. <ruby>[[葛 (char)|葛]]<rt>ㄍ⼘ㄊ</rt></ruby> - kudzu
-576. <ruby>[[葡]]<rt>ㄅㄛ</rt></ruby> - grapes
-577. <ruby>[[萩]]<rt>ㄑㄨ</rt></ruby> - bush clover
-578. <ruby>[[萱]]<rt>ㄏ⼔ㄋ</rt></ruby> - daylily, Hemerocallis flava, mother
-579. <ruby>[[董]]<rt>ㄉㄛㄫ</rt></ruby> - direct, supervise
-580. <ruby>[[葱]]<rt>ㄑㄛㄫ</rt></ruby> - onion, scallion, leek
-581. <ruby>[[萬]]<rt>ㄇㄛㄋ</rt></ruby> - myriad
-582. <ruby>[[蒋]]<rt>ㄐㄚㄫ</rt></ruby> - wild Manchurian rice
-583. <ruby>[[葦]]<rt>ㄏㄨㄧ</rt></ruby> - reed
-584. <ruby>[[蒐]]<rt>ㄙ⼜ㄛ</rt></ruby> - collect, gather, assemble
-585. <ruby>[[蒲]]<rt>ㄅㄛ</rt></ruby> - bulrush, cattail, reed
-586. <ruby>[[蓮 (char)|蓮]]<rt>ㄌ⼶ㄋ</rt></ruby> - lotus
-587. <ruby>[[蓬]]<rt>ㄅㄛㄫ</rt></ruby> - mugwort
-588. <ruby>[[蕉]]<rt>ㄐㄛㄨ</rt></ruby> - banana, plantain
-589. <ruby>[[蔡]]<rt>ㄑㄚㄧ</rt></ruby> - tortoise
-590. <ruby>[[䔥]]<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
-591. <ruby>[[蓼]]<rt>ㄌ⼘ㄨ</rt></ruby> - knotweed
-592. <ruby>[[蔓]]<rt>ㄇㄚㄋ</rt></ruby> - spread, grow, infect
-593. <ruby>[[蔚]]<rt>ㄨㄊ</rt></ruby> - luxuriant, lush
-594. <ruby>[[蕎]]<rt>ㄍ⼘ㄨ</rt></ruby> - buckwheat
-595. <ruby>[[蕃]]<rt>ㄈㄚㄋ</rt></ruby> - flourish
-596. <ruby>[[蕪]]<rt>ㄇㄨ</rt></ruby> - turnip
-597. <ruby>[[葩]]<rt>ㄆㄚ</rt></ruby> - flower, beautiful
-598. <ruby>[[蕤]]<rt>ㄋㄨㄧ</rt></ruby> - green shoots
-599. <ruby>[[蒙]]<rt>ㄇㄛㄫ</rt></ruby> - Mongolia, cover
-600. <ruby>[[薪]]<rt>ㄙㄧㄋ</rt></ruby> - firewood, salary
-601. <ruby>[[薛]]<rt>ㄙㄝㄊ</rt></ruby> - wormwood
-602. <ruby>[[薨]]<rt>ㄏㄛㄫ</rt></ruby> - die (of a feudal lord), buzz (onomatopoeia)
-603. <ruby>[[薇]]<rt>ㄇㄧㄜ</rt></ruby> - royal fern
-604. <ruby>[[薔]]<rt>ㄑ⺢ㄫ</rt></ruby> - water pepper
-605. <ruby>[[薩]]<rt>ㄙㄚㄊ</rt></ruby> - bodhisattva
-606. <ruby>[[藁]]<rt>ㄍㄚㄨ</rt></ruby> - straw
-607. <ruby>[[藤]]<rt>ㄉㄜㄫ</rt></ruby> - wisteria
-608. <ruby>[[藩]]<rt>ㄆㄛㄋ</rt></ruby> - fence, boundary, outlying border
-609. <ruby>[[薮]]<rt>ㄙㄛㄨ</rt></ruby> - marsh, swamp
-610. <ruby>[[藷]]<rt>ㄙㄛ</rt></ruby> - potato, yam
-611. <ruby>[[藻]]<rt>ㄐㄛㄨ</rt></ruby> - seaweed, alga
-612. <ruby>[[蘭]]<rt>ㄌㄚㄋ</rt></ruby> - orchid
-613. <ruby>[[虞]]<rt>ㄨ</rt></ruby> - anxious, worry
-614. <ruby>[[虱 (char)|虱]]<rt>ㄙㄛㄊ</rt></ruby> - louse (lice)
-615. <ruby>[[虻]]<rt>ㄇㄚㄫ</rt></ruby> - horsefly, gadfly
-616. <ruby>[[蚤]]<rt>ㄐㄚㄨ</rt></ruby> - flea
-617. <ruby>[[蚊 (char)|蚊]]<rt>ㄇㄨㄋ</rt></ruby> - mosquito, gnat
-618. <ruby>[[蛉]]<rt>ㄌㄝㄫ</rt></ruby> - dragonfly, small flying insect
-619. <ruby>[[蛞]]<rt>ㄎ⺢ㄊ</rt></ruby> - slug
-620. <ruby>[[蛙]]<rt>⺢</rt></ruby> - frog
-621. <ruby>[[蛛]]<rt>ㄐㄨ</rt></ruby> - spider
-622. <ruby>[[蛤]]<rt>ㄍㄚㄆ</rt></ruby> - clam
-623. <ruby>[[蛭 (char)|蛭]]<rt>ㄐㄧㄊ</rt></ruby> - leech
-624. <ruby>[[蛾 (char)|蛾]]<rt>ㄚ</rt></ruby> - moth
-625. <ruby>[[蜀]]<rt>ㄙㄛㄎ</rt></ruby> - Shu kingdom
-626. <ruby>[[蜆]]<rt>ㄏㄝㄋ</rt></ruby> - basket clam, freshwater clam, butterfly chrysalis
-627. <ruby>[[蠟]]<rt>ㄌㄚㄆ</rt></ruby> - wax
-628. <ruby>[[蜘]]<rt>ㄐㄧ</rt></ruby> - spider
-629. <ruby>[[蝉 (char)|蝉]]<rt>ㄙㄝㄋ</rt></ruby> - cicada
-630. <ruby>[[蝓]]<rt>⼜ㄇ</rt></ruby> - slug
-631. <ruby>[[蝸]]<rt>ㄍ⺢</rt></ruby> - snail
-632. <ruby>[[蝦]]<rt>ㄏㄚ</rt></ruby> - shrimp
-633. <ruby>[[蝶]]<rt>ㄉㄝㄆ</rt></ruby> - butterfly
-634. <ruby>[[蝙]]<rt>ㄅㄝㄋ</rt></ruby> - bat
-635. <ruby>[[蝠]]<rt>ㄈㄨㄎ</rt></ruby> - bat
-636. <ruby>[[蝿]]<rt>ㄧㄫ</rt></ruby> - fly
-637. <ruby>[[蝎 (char)|蝎]]<rt>ㄏ⼶ㄊ</rt></ruby> - scorpion
-638. <ruby>[[螂]]<rt>ㄌㄚㄫ</rt></ruby> - mantis
-639. <ruby>[[螟]]<rt>ㄇㄝㄫ</rt></ruby> - larva
-640. <ruby>[[螳]]<rt>ㄉㄚㄫ</rt></ruby> - mantis
-641. <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> - crab
-642. <ruby>[[蠖]]<rt>⺢ㄎ</rt></ruby> - looper, inch worm
-643. <ruby>[[蟻 (char)|蟻]]<rt>ㄜㄧ</rt></ruby> - ant
-644. <ruby>[[蠕]]<rt>ㄋㄨ</rt></ruby> - worm
-645. <ruby>[[衂]]<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
-646. <ruby>[[衢 (char)|衢]]<rt>ㄍㄨ</rt></ruby> - crossroads, thoroughfare
-647. <ruby>[[衲]]<rt>ㄋㄚㄆ</rt></ruby> - cassock
-648. <ruby>[[袁]]<rt>ㄛㄋ</rt></ruby> - robe, surname
-649. <ruby>[[裾]]<rt>ㄍ⼄</rt></ruby> - cuff, hem, lapel
-650. <ruby>[[裴]]<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
-651. <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby> - coat, jacket
-652. <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby> - sock, stocking
-653. <ruby>[[覓]]<rt>ㄇㄝㄎ</rt></ruby> - search, seek, research
-654. <ruby>[[訛]]<rt>⺢</rt></ruby> - error, extort
-655. <ruby>[[詫]]<rt>ㄊㄚ</rt></ruby> - brag, exaggerate
-656. <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> - decode, exegete
-657. <ruby>[[詢]]<rt>ㄙ⼜ㄋ</rt></ruby> - inquire, consult
-658. <ruby>[[諌]]<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
-659. <ruby>[[諺]]<rt>ㄝㄋ</rt></ruby> - proverb, saying
-660. <ruby>[[謄]]<rt>ㄉㄜㄫ</rt></ruby> - copy, transcribe
-661. <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby> - calm, quiet, still
-662. <ruby>[[譚]]<rt>ㄉㄚㄇ</rt></ruby> - talented, talkative
-663. <ruby>[[豈]]<rt>ㄎㄧㄜ</rt></ruby> - how can it be that
-664. <ruby>[[豎]]<rt>ㄙㄨ</rt></ruby> - vertical line
-665. <ruby>[[豕]]<rt>ㄊㄧㄎ</rt></ruby> - pig, boar
-666. <ruby>[[豹]]<rt>ㄅ⼘ㄨ</rt></ruby> - leopard, panther
-667. <ruby>[[貂]]<rt>ㄑㄛ</rt></ruby> - mink, sable, marten
-668. <ruby>[[貒 (char)|貒]]<rt>ㄊ⺢ㄋ</rt></ruby> - wild boar, badger
-669. <ruby>[[䝙]]<rt>ㄊㄨ</rt></ruby> - mythical tiger-beast
-670. <ruby>[[貰]]<rt>ㄙㄝ</rt></ruby> - borrow, lend
-671. <ruby>[[賁]]<rt>ㄅㄨㄋ</rt></ruby> - energetic
-672. <ruby>[[賈]]<rt>ㄍㄚ</rt></ruby> - merchant
-673. <ruby>[[賑]]<rt>ㄐㄧㄋ</rt></ruby> - rich
-674. <ruby>[[賽]]<rt>ㄙㄚㄧ</rt></ruby> - compete, contend
-675. <ruby>[[赩]]<rt>ㄏㄧㄎ</rt></ruby> - shining
-676. <ruby>[[趙]]<rt>ㄐㄚㄨ</rt></ruby> - Zhao
-677. <ruby>[[跌]]<rt>ㄉㄝㄊ</rt></ruby> - fall down
-678. <ruby>[[踝]]<rt>ㄏ⺢</rt></ruby> - ankle
-679. <ruby>[[蹄 (char)|蹄]]<rt>ㄉㄝㄧ</rt></ruby> - hoof
-680. <ruby>[[踵]]<rt>ㄐㄛㄫ</rt></ruby> - heel, calcaneous
-681. <ruby>[[蹠]]<rt>ㄐㄝㄎ</rt></ruby> - metatarsal
-682. <ruby>[[躁]]<rt>ㄐㄚㄨ</rt></ruby> - irascible
-683. <ruby>[[躬]]<rt>ㄍㄨㄫ</rt></ruby> - (emperor's) body
-684. <ruby>[[軋]]<rt>ㄚㄊ</rt></ruby> - crush, grind
-685. <ruby>[[軒]]<rt>ㄏㄝㄋ</rt></ruby> - flats
-686. <ruby>[[軣]]<rt>ㄍ⼔ㄫ</rt></ruby> - rumble, explosion
-687. <ruby>[[輒]]<rt>ㄐㄛㄆ</rt></ruby> - then, always, at every turn
-688. <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel, refute
-689. <ruby>[[辰]]<rt>ㄙㄧㄋ</rt></ruby> - fifth earthly branch, dragon
-690. <ruby>[[迄]]<rt>ㄏㄧㄊ</rt></ruby> - extend, reach
-691. <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby> - follow
-692. <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> - meet
-693. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
-694. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
-695. <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby> - ramble, stroll, jaunt
-696. <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby> - evade, escape
-697. <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby> - strong, unyielding, forceful
-698. <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby> - transcend, climb
-699. <ruby>[[遼]]<rt>ㄌ⼘ㄨ</rt></ruby> - distant, far
-700. <ruby>[[邁]]<rt>ㄇㄚㄧ</rt></ruby> - take a big stride
-701. <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby> - patrol, watch
-702. <ruby>[[邑]]<rt>ㄧㄆ</rt></ruby> - township
-703. <ruby>[[邢]]<rt>ㄏㄝㄫ</rt></ruby> - Heng
-704. <ruby>[[邸]]<rt>ㄉㄝㄧ</rt></ruby> - residence
-705. <ruby>[[邱]]<rt>ㄍㄨ</rt></ruby> - hill, mound, surname
-706. <ruby>[[邵]]<rt>ㄙ⼄ㄨ</rt></ruby> - surname, place name
-707. <ruby>[[郁]]<rt>⼜ㄎ</rt></ruby> - sweet smelling
-708. <ruby>[[邾]]<rt>ㄐㄨ</rt></ruby> - Zou
-709. <ruby>[[郎]]<rt>ㄌㄚㄫ</rt></ruby> - youthful man
-710. <ruby>[[郝]]<rt>ㄏㄚㄎ</rt></ruby> - place name
-711. <ruby>[[鄂]]<rt>ㄚㄎ</rt></ruby> - E (state)
-712. <ruby>[[鄒]]<rt>ㄑㄨ</rt></ruby> - Chu kingdom
-713. <ruby>[[鄙]]<rt>ㄈㄧㄜ</rt></ruby> - rustic
-714. <ruby>[[鄭]]<rt>ㄐㄝㄫ</rt></ruby> - Zheng
-715. <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby> - Teng
-716. <ruby>[[酉]]<rt>⼜</rt></ruby> - rooster
-717. <ruby>[[酋]]<rt>ㄑㄨㄛ</rt></ruby> - chieftain, tribal leader
-718. <ruby>[[酎]]<rt>ㄐㄨㄛ</rt></ruby> - saké
-719. <ruby>[[醇]]<rt>ㄙㄨㄋ</rt></ruby> - good wine
-720. <ruby>[[醍]]<rt>ㄊㄝㄧ</rt></ruby> - essential oil
-721. <ruby>[[醐]]<rt>ㄏㄛㄨ</rt></ruby> - purest cream
-722. <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> - sweet water
-723. <ruby>[[釘 (char)|釘]]<rt>ㄉㄝㄫ</rt></ruby> - nail, spike
-724. <ruby>[[釧]]<rt>ㄑㄝㄋ</rt></ruby> - bracelet, armlet
-725. <ruby>[[釩]]<rt>ㄈㄚㄋ</rt></ruby> - vanadium
-726. <ruby>[[鈩]]<rt>ㄌㄛ</rt></ruby> - fireplace, stove, oven
-727. <ruby>[[鉤 (char)|鉤]]<rt>ㄍㄛㄨ</rt></ruby> - hook, barb
-728. <ruby>[[鈿]]<rt>ㄉㄝㄋ</rt></ruby> - filigree, hairpin
-729. <ruby>[[鉀 (char)|鉀]]<rt>ㄍㄚㄆ</rt></ruby> - potassium
-730. <ruby>[[銑]]<rt>ㄙㄝㄋ</rt></ruby> - mill, pig iron
-731. <ruby>[[鋒]]<rt>ㄈㄛㄫ</rt></ruby> - point of a spear
-732. <ruby>[[鋤]]<rt>ㄐㄛ</rt></ruby> - hoe, spade
-733. <ruby>[[錫]]<rt>ㄙㄝㄎ</rt></ruby> - tin
-734. <ruby>[[錆]]<rt>ㄑㄝㄫ</rt></ruby> - rust colored
-735. <ruby>[[錀 (char)|錀]]<rt>ㄌㄛㄋ</rt></ruby> - roentgenium
-736. <ruby>[[鎬]]<rt>ㄏㄚㄨ</rt></ruby> - stove
-737. <ruby>[[鎧]]<rt>ㄎㄚㄧ</rt></ruby> - armor
-738. <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby> - melt, smelt
-739. <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby> - prosperous, wealthy
-740. <ruby>[[鑽]]<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel), auger
-741. <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby> - grieve, pity
-742. <ruby>[[閨]]<rt>ㄍㄨㄧ</rt></ruby> - women's bedroom
-743. <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby> - curtain, screen, fence
-744. <ruby>[[闕]]<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
-745. <ruby>[[闡]]<rt>ㄑㄝㄋ</rt></ruby> - clarify, expound
-746. <ruby>[[阮]]<rt>⼔ㄋ</rt></ruby> - moon lute
-747. <ruby>[[阜]]<rt>ㄅ⼜</rt></ruby> - mound
-748. <ruby>[[陀]]<rt>ㄉㄚ</rt></ruby> - rough terrain
-749. <ruby>[[陛]]<rt>ㄅㄝㄧ</rt></ruby> - steps of the throne
-750. <ruby>[[陝]]<rt>ㄙㄝㄇ</rt></ruby> - Shan
-751. <ruby>[[隹]]<rt>ㄉㄛㄧ</rt></ruby> - short tailed bird
-752. <ruby>[[隼 (char)|隼]]<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
-753. <ruby>[[雀]]<rt>ㄐㄚㄎ</rt></ruby> - sparrow
-754. <ruby>[[雁 (char)|雁]]<rt>ㄚㄋ</rt></ruby> - wild goose
-755. <ruby>[[雍]]<rt>ㄛㄫ</rt></ruby> - harmonious
-756. <ruby>[[雉 (char)|雉]]<rt>ㄉㄧㄜ</rt></ruby> - green pheasant
-757. <ruby>[[雛]]<rt>ㄑㄨㄛ</rt></ruby> - chick, doll
-758. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter, thunder
-759. <ruby>[[霍]]<rt>ㄍ⺢ㄎ</rt></ruby> - sudden, quick
-760. <ruby>[[霓]]<rt>ㄝㄧ</rt></ruby> - rainbow
-761. <ruby>[[霞]]<rt>ㄏㄚ</rt></ruby> - mist
-762. <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby> - cloudy, hazy
-763. <ruby>[[靠]]<rt>ㄎㄚㄨ</rt></ruby> - lean on
-764. <ruby>[[鞀]]<rt>ㄉㄚㄨ</rt></ruby> - pellet drum
-765. <ruby>[[韋]]<rt>ㄨㄧ</rt></ruby> - tanned leather
-766. <ruby>[[韮]]<rt>ㄍ⼜</rt></ruby> - chive, garlic, leek
-767. <ruby>[[頤]]<rt>ㄧ</rt></ruby> - chin
-768. <ruby>[[頴]]<rt>⼶ㄫ</rt></ruby> - rice tassel
-769. <ruby>[[顚]]<rt>ㄉㄝㄋ</rt></ruby> - summit, peak, epilepsy
-770. <ruby>[[飧]]<rt>ㄙㄛㄋ</rt></ruby> - evening meal, supper
-771. <ruby>[[飴]]<rt>ㄧ</rt></ruby> - syrup, candy
-772. <ruby>[[餃]]<rt>ㄍ⼄ㄨ</rt></ruby> - gyoza
-773. <ruby>[[馮]]<rt>ㄈㄧㄫ</rt></ruby> - gallop
-774. <ruby>[[馭]]<rt>⼄</rt></ruby> - drive
-775. <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> - tame
-776. <ruby>[[馿 (char)|馿]]<rt>ㄌ⼄</rt></ruby> - donkey
-777. <ruby>[[駕]]<rt>ㄍㄚ</rt></ruby> - palanquin
-778. <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby> - pony, colt
-779. <ruby>[[駱]]<rt>ㄌㄚㄎ</rt></ruby> - camel
-780. <ruby>[[䦧 (char)|䦧]]<rt>ㄏㄝㄎ</rt></ruby> - quarrel
-781. <ruby>[[魁]]<rt>ㄎㄛㄧ</rt></ruby> - chief, leader, first
-782. <ruby>[[魏]]<rt>ㄝ</rt></ruby> - Wei
-783. <ruby>[[魑]]<rt>ㄑㄧ</rt></ruby> - mountain demon
-784. <ruby>[[魯]]<rt>ㄌㄛㄇ</rt></ruby> - rash, vulgar
-785. <ruby>[[魶 (char)|魶]]<rt>ㄋㄨㄆ</rt></ruby> - giant salamander
-786. <ruby>[[鮎 (char)|鮎]]<rt>ㄋㄝㄇ</rt></ruby> - sweetfish, sheatfish
-787. <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby> - blowfish
-788. <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby> - abalone
-789. <ruby>[[鮫]]<rt>ㄍ⼄ㄨ</rt></ruby> - shark
-790. <ruby>[[鯉]]<rt>ㄌㄧ</rt></ruby> - koi, carp
-791. <ruby>[[鯨]]<rt>ㄍ⼶ㄫ</rt></ruby> - whale
-792. <ruby>[[鯖]]<rt>ㄑㄝㄫ</rt></ruby> - mackerel
-793. <ruby>[[鯤]]<rt>ㄍㄛㄋ</rt></ruby> - mythical fish
-794. <ruby>[[鰌]]<rt>ㄑㄨ</rt></ruby> - loach
-795. <ruby>[[鰐]]<rt>ㄚㄎ</rt></ruby> - alligator, crocodile
-796. <ruby>[[鱏 (char)|鱏]]<rt>ㄏㄧㄇ</rt></ruby> - ray, skate
-797. <ruby>[[鳩]]<rt>ㄎ⼜</rt></ruby> - pigeon
-798. <ruby>[[鳶 (char)|鳶]]<rt>⼶ㄋ</rt></ruby> - kite
-799. <ruby>[[鴎 (char)|鴎]]<rt>ㄛㄨ</rt></ruby> - seagull
-800. <ruby>[[鴔]]<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
-801. <ruby>[[鴛]]<rt>ㄛㄋ</rt></ruby> - mandarin duck
-802. <ruby>[[鴦]]<rt>ㄚㄫ</rt></ruby> - mandarin duck
-803. <ruby>[[鴨 (char)|鴨]]<rt>ㄚㄆ</rt></ruby> - duck
-804. <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby> - swan
-805. <ruby>[[鵉]]<rt>ㄌㄚㄋ</rt></ruby> - luan
-806. <ruby>[[鵝]]<rt>ㄚ</rt></ruby> - domestic goose
-807. <ruby>[[鵖]]<rt>ㄅㄨㄆ</rt></ruby> - hoopoe
-808. <ruby>[[鵠]]<rt>ㄏㄛㄎ</rt></ruby> - swan
-809. <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> - eagle, vulture
-810. <ruby>[[鵡]]<rt>ㄇㄨ</rt></ruby> - parrot
-811. <ruby>[[鶴 (char)|鶴]]<rt>ㄏㄚㄎ</rt></ruby> - crane
-812. <ruby>[[鷹 (char)|鷹]]<rt>ㄧㄫ</rt></ruby> - hawk
-813. <ruby>[[鸚]]<rt>ㄚㄫ</rt></ruby> - parrot
-814. <ruby>[[鸛]]<rt>ㄍ⺢ㄋ</rt></ruby> - stork
-815. <ruby>[[鹵]]<rt>ㄌㄛㄊ</rt></ruby> - saline soil
-816. <ruby>[[麒]]<rt>ㄍㄧ</rt></ruby> - qilin
-817. <ruby>[[麓]]<rt>ㄌㄛㄎ</rt></ruby> - foot of a mountain
-818. <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby> - qilin
-819. <ruby>[[黍]]<rt>ㄙ⼄</rt></ruby> - millet
-820. <ruby>[[黎]]<rt>ㄌㄝㄧ</rt></ruby> - black, numerous
-821. <ruby>[[黛]]<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
-822. <ruby>[[鼈 (char)|鼈]]<rt>ㄅㄝㄊ</rt></ruby> - Pelodiscus sinensis (turtle)
-823. <ruby>[[鼠]]<rt>ㄙ⼄</rt></ruby> - rat
-824. <ruby>[[齦]]<rt>ㄎㄚㄋ</rt></ruby> - gums, gingiva
-825. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - tall, huge
-826. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - give, present
-827. <ruby>[[龕 (char)|龕]]<rt>ㄎㄚㄇ</rt></ruby> - shrine, alcove
+425. <ruby>[[畴]]<rt>ㄐㄨㄛ</rt></ruby> - field, category
+426. <ruby>[[疋]]<rt>ㄙㄜ</rt></ruby> - bolt of cloth
+427. <ruby>[[疱]]<rt>ㄆㄚㄨ</rt></ruby> - acne
+428. <ruby>[[疽]]<rt>ㄐㄜ</rt></ruby> - ulcer, abscess
+429. <ruby>[[瘡]]<rt>ㄑ⺢ㄫ</rt></ruby> - wound, sore
+430. <ruby>[[癸]]<rt>ㄍㄨㄧ</rt></ruby> - tenth heavenly stem
+431. <ruby>[[皀]]<rt>ㄆㄨㄆ</rt></ruby> - vessel full of food
+432. <ruby>[[皐]]<rt>ㄍㄚㄨ</rt></ruby> - river highland
+433. <ruby>[[皓]]<rt>ㄏㄚㄨ</rt></ruby> - luminous, clear
+434. <ruby>[[盂]]<rt>ㄨ</rt></ruby> - cup, basin
+435. <ruby>[[盒]]<rt>ㄏㄛㄆ</rt></ruby> - box, case
+436. <ruby>[[盞]]<rt>ㄐㄚㄋ</rt></ruby> - sake cup
+437. <ruby>[[盧]]<rt>ㄌㄛ</rt></ruby> - cottage, hut
+438. <ruby>[[盼]]<rt>ㄆㄚㄋ</rt></ruby> - clear eyed, hope
+439. <ruby>[[睾]]<rt>ㄍㄚㄨ</rt></ruby> - testicle
+440. <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby> - look down from a height, overlook, survey
+441. <ruby>[[瞼]]<rt>ㄍㄝㄇ</rt></ruby> - eyelid
+442. <ruby>[[砒]]<rt>ㄆㄧ</rt></ruby> - arsenic
+443. <ruby>[[砥]]<rt>ㄐㄧㄜ</rt></ruby> - whetstone
+444. <ruby>[[砭]]<rt>ㄆ⼶ㄇ</rt></ruby> - stone needle for acupuncture
+445. <ruby>[[砦]]<rt>ㄐㄚㄧ</rt></ruby> - abatis, fort, brothel
+446. <ruby>[[硅]]<rt>ㄍ⼜ㄎ</rt></ruby> - silicon
+447. <ruby>[[碁]]<rt>ㄍㄧ</rt></ruby> - Go (game)
+448. <ruby>[[硼]]<rt>ㄅㄛㄫ</rt></ruby> - borax
+449. <ruby>[[磊]]<rt>ㄌㄛㄧ</rt></ruby> - pile of rocks, great
+450. <ruby>[[磋]]<rt>ㄑㄚ</rt></ruby> - polish, deliberate
+451. <ruby>[[磯]]<rt>ㄍㄧㄜ</rt></ruby> - seashore, jetty
+452. <ruby>[[礬]]<rt>ㄆㄛㄇ</rt></ruby> - alum
+453. <ruby>[[祁]]<rt>ㄍㄧㄜ</rt></ruby> - surname
+454. <ruby>[[祇]]<rt>ㄍㄧ</rt></ruby> - earth-spirit, peace
+455. <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> - thou, one's deceased father
+456. <ruby>[[祚]]<rt>ㄐㄛ</rt></ruby> - throne, blessing
+457. <ruby>[[祠]]<rt>ㄙㄚ</rt></ruby> - ancestral shrine
+458. <ruby>[[祿]]<rt>ㄌㄛㄎ</rt></ruby> - wealth, salary
+459. <ruby>[[禎]]<rt>ㄐㄧㄫ</rt></ruby> - lucky, auspicious, good omen
+460. <ruby>[[禹]]<rt>ㄨ</rt></ruby> - Yu
+461. <ruby>[[禺]]<rt>ㄨ</rt></ruby> - long-tailed monkey
+462. <ruby>[[禼]]<rt>ㄙㄝㄊ</rt></ruby> - insect
+463. <ruby>[[秉]]<rt>ㄅㄧㄫ</rt></ruby> - bundle, grasp, authority
+464. <ruby>[[秦]]<rt>ㄐㄧㄋ</rt></ruby> - Qin
+465. <ruby>[[稜]]<rt>ㄌㄨㄫ</rt></ruby> - edge, angle
+466. <ruby>[[稗]]<rt>ㄅㄚㄧ</rt></ruby> - millet, insignificant
+467. <ruby>[[稼]]<rt>ㄍㄚ</rt></ruby> - sheaves of grain
+468. <ruby>[[稷]]<rt>ㄐㄧㄎ</rt></ruby> - millet, god of grain
+469. <ruby>[[穂 (char)|穂]]<rt>ㄙㄨㄧ</rt></ruby> - ear of grain
+470. <ruby>[[穆]]<rt>ㄇㄨㄎ</rt></ruby> - harmonious, solemn, reverent
+471. <ruby>[[穣 (char)|穣]]<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
+472. <ruby>[[穹]]<rt>ㄎㄨㄫ</rt></ruby> - high, sky
+473. <ruby>[[窈]]<rt>⼄ㄨ</rt></ruby> - graceful
+474. <ruby>[[窆]]<rt>ㄅ⼶ㄇ</rt></ruby> - put a coffin in a grave
+475. <ruby>[[窕]]<rt>ㄉㄛㄨ</rt></ruby> - elegant
+476. <ruby>[[窩]]<rt>ㄍ⺢</rt></ruby> - fossa, nest, cave
+477. <ruby>[[窪]]<rt>⺢</rt></ruby> - hollow, pit, depression
+478. <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> - kitchen stove
+479. <ruby>[[站]]<rt>ㄐㄚㄇ</rt></ruby> - station, site
+480. <ruby>[[竣]]<rt>ㄑㄨㄋ</rt></ruby> - complete, finish
+481. <ruby>[[竺]]<rt>ㄐㄨㄎ</rt></ruby> - India, bamboo
+482. <ruby>[[竿]]<rt>ㄍㄚㄋ</rt></ruby> - bamboo pole
+483. <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> - bamboo screen
+484. <ruby>[[筍]]<rt>ㄙ⼜ㄊ</rt></ruby> - bamboo shoot
+485. <ruby>[[箕]]<rt>ㄍㄧ</rt></ruby> - sieve, winnowing basket
+486. <ruby>[[箏]]<rt>ㄐㄝㄫ</rt></ruby> - guzheng, koto
+487. <ruby>[[箭]]<rt>ㄐㄝㄋ</rt></ruby> - arrow
+488. <ruby>[[篆]]<rt>ㄐ⼔ㄋ</rt></ruby> - seal script
+489. <ruby>[[篠]]<rt>ㄙㄛㄨ</rt></ruby> - dwarf bamboo
+490. <ruby>[[簞]]<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket
+491. <ruby>[[簫]]<rt>ㄙㄛㄨ</rt></ruby> - xiao
+492. <ruby>[[簾]]<rt>ㄌㄝㄇ</rt></ruby> - blind, screen, curtain
+493. <ruby>[[籃]]<rt>ㄌㄚㄇ</rt></ruby> - basket
+494. <ruby>[[粤]]<rt>⼔ㄊ</rt></ruby> - Yue
+495. <ruby>[[糠]]<rt>ㄎㄚㄫ</rt></ruby> - chaff, bran, husks
+496. <ruby>[[紇]]<rt>ㄏㄜㄊ</rt></ruby> - Uigur
+497. <ruby>[[紗]]<rt>ㄙ⼘</rt></ruby> - gauze, yarn
+498. <ruby>[[紘]]<rt>ㄏ⼔ㄫ</rt></ruby> - string, cord, vast
+499. <ruby>[[紬]]<rt>ㄑㄨㄛ</rt></ruby> - silk
+500. <ruby>[[絨]]<rt>ㄋㄨㄫ</rt></ruby> - velvet
+501. <ruby>[[絢]]<rt>ㄏ⼔ㄋ</rt></ruby> - gorgeous, effulgent
+502. <ruby>[[綏]]<rt>ㄙㄨㄧ</rt></ruby> - sooth, ribbon
+503. <ruby>[[緋]]<rt>ㄈㄨㄧ</rt></ruby> - scarlet, dark red, crimson
+504. <ruby>[[綽]]<rt>ㄑㄚㄎ</rt></ruby> - graceful
+505. <ruby>[[繋]]<rt>ㄏㄝㄧ</rt></ruby> - fasten, tie
+506. <ruby>[[纏]]<rt>ㄐㄝㄋ</rt></ruby> - wrap
+507. <ruby>[[缸]]<rt>ㄏㄚㄫ</rt></ruby> - jug, cistern, urn
+508. <ruby>[[䍃]]<rt>⼜</rt></ruby> - pitcher, earthenware
+509. <ruby>[[罔]]<rt>ㄇㄚㄫ</rt></ruby> - accuse
+510. <ruby>[[羚]]<rt>ㄌㄝㄫ</rt></ruby> - antelope
+511. <ruby>[[羌]]<rt>ㄎ⼘ㄫ</rt></ruby> - Qiang, muntjac deer
+512. <ruby>[[羿]]<rt>ㄝㄧ</rt></ruby> - famous archer
+513. <ruby>[[翏]]<rt>ㄌㄛㄨ</rt></ruby> - sound of the wind
+514. <ruby>[[翕]]<rt>ㄏㄨㄆ</rt></ruby> - agreeable, gather
+515. <ruby>[[䎎]]<rt>ㄋㄛㄆ</rt></ruby> - soar through the air
+516. <ruby>[[翟]]<rt>ㄉㄝㄎ</rt></ruby> - pheasant
+517. <ruby>[[翠]]<rt>ㄑㄨㄧ</rt></ruby> - blue green, emerald
+518. <ruby>[[翫]]<rt>⺢ㄋ</rt></ruby> - slack off
+519. <ruby>[[耆]]<rt>ㄍㄧㄜ</rt></ruby> - aged, elder
+520. <ruby>[[耴]]<rt>ㄐㄨㄆ</rt></ruby> - earlobe
+521. <ruby>[[聒]]<rt>ㄍ⺢ㄆ</rt></ruby> - noisy
+522. <ruby>[[䏜]]<rt>ㄇㄚㄆ</rt></ruby> - plump, fat, obese
+523. <ruby>[[肭]]<rt>ㄋㄨㄊ</rt></ruby> - fur seal
+524. <ruby>[[𦚖 (char)|𦚖]]<rt>ㄇㄛㄆ</rt></ruby> - wink
+525. <ruby>[[肰]]<rt>ㄋㄝㄋ</rt></ruby> - dog meat
+526. <ruby>[[胡]]<rt>ㄏㄛㄨ</rt></ruby> - reckless
+527. <ruby>[[胤]]<rt>ㄧㄋ</rt></ruby> - heir, successor, progeny
+528. <ruby>[[胥]]<rt>ㄙ⼄</rt></ruby> - mutually
+529. <ruby>[[胰]]<rt>ㄧㄜ</rt></ruby> - pancreas
+530. <ruby>[[胱]]<rt>ㄍ⺢ㄫ</rt></ruby> - bladder
+531. <ruby>[[脆]]<rt>ㄑㄝ</rt></ruby> - brittle, fragile
+532. <ruby>[[脛]]<rt>ㄏㄝㄫ</rt></ruby> - shinbone
+533. <ruby>[[腔]]<rt>ㄎㄚㄫ</rt></ruby> - chest cavity
+534. <ruby>[[𦜝]]<rt>ㄐㄝㄧ</rt></ruby> - navel
+535. <ruby>[[脾]]<rt>ㄅㄧ</rt></ruby> - spleen
+536. <ruby>[[腽]]<rt>⺢ㄆ</rt></ruby> - fur seal
+537. <ruby>[[膏]]<rt>ㄍㄚㄨ</rt></ruby> - grease, oil
+538. <ruby>[[臘]]<rt>ㄌㄚㄆ</rt></ruby> - Laba
+539. <ruby>[[舅]]<rt>ㄍ⼜ㄛ</rt></ruby> - maternal uncle
+540. <ruby>[[舛]]<rt>ㄑㄝㄋ</rt></ruby> - oppose, deviate
+541. <ruby>[[舜]]<rt>ㄙ⼜ㄇ</rt></ruby> - a legendary ruler
+542. <ruby>[[艙]]<rt>ㄑ⺢ㄫ</rt></ruby> - cabin, room
+543. <ruby>[[艮]]<rt>ㄍㄚㄋ</rt></ruby> - mountain trigram
+544. <ruby>[[芝]]<rt>ㄐㄧ</rt></ruby> - sesame, grass
+545. <ruby>[[芋]]<rt>ㄨ</rt></ruby> - taro
+546. <ruby>[[芭]]<rt>ㄅㄚ</rt></ruby> - Japanese banana
+547. <ruby>[[芦]]<rt>ㄌㄛ</rt></ruby> - rushes, reed
+548. <ruby>[[芼]]<rt>ㄇㄚㄨ</rt></ruby> - cook
+549. <ruby>[[芥]]<rt>ㄍㄝ</rt></ruby> - mustard plant
+550. <ruby>[[芮]]<rt>ㄋㄝ</rt></ruby> - water's edge
+551. <ruby>[[芡]]<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
+552. <ruby>[[芹]]<rt>ㄍㄧㄋ</rt></ruby> - celery, water dropwort
+553. <ruby>[[苹]]<rt>ㄈㄝㄫ</rt></ruby> - apple, duckweed
+554. <ruby>[[苑]]<rt>ㄛㄋ</rt></ruby> - pasture, park
+555. <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> - moss, lichen
+556. <ruby>[[苺 (char)|苺]]<rt>ㄇㄚㄧ</rt></ruby> - strawberry
+557. <ruby>[[茅]]<rt>ㄇ⼘ㄨ</rt></ruby> - thatch, cogon grass
+558. <ruby>[[茉]]<rt>ㄇㄚㄊ</rt></ruby> - white jasmin
+559. <ruby>[[䒦]]<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
+560. <ruby>[[茫]]<rt>ㄇㄚㄫ</rt></ruby> - vast, boundless, wide
+561. <ruby>[[茸]]<rt>ㄋ⼄ㄫ</rt></ruby> - growth, mushroom
+562. <ruby>[[荇]]<rt>ㄏ⼶ㄫ</rt></ruby> - Limnanthemum nymphoides
+563. <ruby>[[荊]]<rt>ㄎ⼶ㄫ</rt></ruby> - thorn, brambles
+564. <ruby>[[茜]]<rt>ㄑㄝㄋ</rt></ruby> - madder
+565. <ruby>[[茄]]<rt>ㄍㄚ</rt></ruby> - eggplant
+566. <ruby>[[莽]]<rt>ㄇㄚㄫ</rt></ruby> - thick vegetation, poisonous, reckless
+567. <ruby>[[荻]]<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus, silver grass
+568. <ruby>[[莉]]<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
+569. <ruby>[[莱]]<rt>ㄌㄚㄧ</rt></ruby> - Penglai
+570. <ruby>[[萄]]<rt>ㄉㄚㄨ</rt></ruby> - grapes
+571. <ruby>[[菅]]<rt>ㄍㄚㄋ</rt></ruby> - coarse grass, Themeda forskaliǝ
+572. <ruby>[[菱 (char)|菱]]<rt>ㄌㄜㄫ</rt></ruby> - water chestnut
+573. <ruby>[[菩]]<rt>ㄅㄛ</rt></ruby> - bodhisattva, herb
+574. <ruby>[[菫]]<rt>ㄍㄧㄋ</rt></ruby> - violet, celery, aconite
+575. <ruby>[[茨]]<rt>ㄐㄧㄜ</rt></ruby> - thorn
+576. <ruby>[[葛 (char)|葛]]<rt>ㄍ⼘ㄊ</rt></ruby> - kudzu
+577. <ruby>[[葡]]<rt>ㄅㄛ</rt></ruby> - grapes
+578. <ruby>[[萩]]<rt>ㄑㄨ</rt></ruby> - bush clover
+579. <ruby>[[萱]]<rt>ㄏ⼔ㄋ</rt></ruby> - daylily, Hemerocallis flava, mother
+580. <ruby>[[董]]<rt>ㄉㄛㄫ</rt></ruby> - direct, supervise
+581. <ruby>[[葱]]<rt>ㄑㄛㄫ</rt></ruby> - onion, scallion, leek
+582. <ruby>[[萬]]<rt>ㄇㄛㄋ</rt></ruby> - myriad
+583. <ruby>[[蒋]]<rt>ㄐㄚㄫ</rt></ruby> - wild Manchurian rice
+584. <ruby>[[葦]]<rt>ㄏㄨㄧ</rt></ruby> - reed
+585. <ruby>[[蒐]]<rt>ㄙ⼜ㄛ</rt></ruby> - collect, gather, assemble
+586. <ruby>[[蒲]]<rt>ㄅㄛ</rt></ruby> - bulrush, cattail, reed
+587. <ruby>[[蓮 (char)|蓮]]<rt>ㄌ⼶ㄋ</rt></ruby> - lotus
+588. <ruby>[[蓬]]<rt>ㄅㄛㄫ</rt></ruby> - mugwort
+589. <ruby>[[蕉]]<rt>ㄐㄛㄨ</rt></ruby> - banana, plantain
+590. <ruby>[[蔡]]<rt>ㄑㄚㄧ</rt></ruby> - tortoise
+591. <ruby>[[䔥]]<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
+592. <ruby>[[蓼]]<rt>ㄌ⼘ㄨ</rt></ruby> - knotweed
+593. <ruby>[[蔓]]<rt>ㄇㄚㄋ</rt></ruby> - spread, grow, infect
+594. <ruby>[[蔚]]<rt>ㄨㄊ</rt></ruby> - luxuriant, lush
+595. <ruby>[[蕎]]<rt>ㄍ⼘ㄨ</rt></ruby> - buckwheat
+596. <ruby>[[蕃]]<rt>ㄈㄚㄋ</rt></ruby> - flourish
+597. <ruby>[[蕪]]<rt>ㄇㄨ</rt></ruby> - turnip
+598. <ruby>[[葩]]<rt>ㄆㄚ</rt></ruby> - flower, beautiful
+599. <ruby>[[蕤]]<rt>ㄋㄨㄧ</rt></ruby> - green shoots
+600. <ruby>[[蒙]]<rt>ㄇㄛㄫ</rt></ruby> - Mongolia, cover
+601. <ruby>[[薪]]<rt>ㄙㄧㄋ</rt></ruby> - firewood, salary
+602. <ruby>[[薛]]<rt>ㄙㄝㄊ</rt></ruby> - wormwood
+603. <ruby>[[薨]]<rt>ㄏㄛㄫ</rt></ruby> - die (of a feudal lord), buzz (onomatopoeia)
+604. <ruby>[[薇]]<rt>ㄇㄧㄜ</rt></ruby> - royal fern
+605. <ruby>[[薔]]<rt>ㄑ⺢ㄫ</rt></ruby> - water pepper
+606. <ruby>[[薩]]<rt>ㄙㄚㄊ</rt></ruby> - bodhisattva
+607. <ruby>[[藁]]<rt>ㄍㄚㄨ</rt></ruby> - straw
+608. <ruby>[[藤]]<rt>ㄉㄜㄫ</rt></ruby> - wisteria
+609. <ruby>[[藩]]<rt>ㄆㄛㄋ</rt></ruby> - fence, boundary, outlying border
+610. <ruby>[[薮]]<rt>ㄙㄛㄨ</rt></ruby> - marsh, swamp
+611. <ruby>[[藷]]<rt>ㄙㄛ</rt></ruby> - potato, yam
+612. <ruby>[[藻]]<rt>ㄐㄛㄨ</rt></ruby> - seaweed, alga
+613. <ruby>[[蘭]]<rt>ㄌㄚㄋ</rt></ruby> - orchid
+614. <ruby>[[虞]]<rt>ㄨ</rt></ruby> - anxious, worry
+615. <ruby>[[虱 (char)|虱]]<rt>ㄙㄛㄊ</rt></ruby> - louse (lice)
+616. <ruby>[[虻]]<rt>ㄇㄚㄫ</rt></ruby> - horsefly, gadfly
+617. <ruby>[[蚤]]<rt>ㄐㄚㄨ</rt></ruby> - flea
+618. <ruby>[[蚊 (char)|蚊]]<rt>ㄇㄨㄋ</rt></ruby> - mosquito, gnat
+619. <ruby>[[蛉]]<rt>ㄌㄝㄫ</rt></ruby> - dragonfly, small flying insect
+620. <ruby>[[蛞]]<rt>ㄎ⺢ㄊ</rt></ruby> - slug
+621. <ruby>[[蛙]]<rt>⺢</rt></ruby> - frog
+622. <ruby>[[蛛]]<rt>ㄐㄨ</rt></ruby> - spider
+623. <ruby>[[蛤]]<rt>ㄍㄚㄆ</rt></ruby> - clam
+624. <ruby>[[蛭 (char)|蛭]]<rt>ㄐㄧㄊ</rt></ruby> - leech
+625. <ruby>[[蛾 (char)|蛾]]<rt>ㄚ</rt></ruby> - moth
+626. <ruby>[[蜀]]<rt>ㄙㄛㄎ</rt></ruby> - Shu kingdom
+627. <ruby>[[蜆]]<rt>ㄏㄝㄋ</rt></ruby> - basket clam, freshwater clam, butterfly chrysalis
+628. <ruby>[[蠟]]<rt>ㄌㄚㄆ</rt></ruby> - wax
+629. <ruby>[[蜘]]<rt>ㄐㄧ</rt></ruby> - spider
+630. <ruby>[[蝉 (char)|蝉]]<rt>ㄙㄝㄋ</rt></ruby> - cicada
+631. <ruby>[[蝓]]<rt>⼜ㄇ</rt></ruby> - slug
+632. <ruby>[[蝸]]<rt>ㄍ⺢</rt></ruby> - snail
+633. <ruby>[[蝦]]<rt>ㄏㄚ</rt></ruby> - shrimp
+634. <ruby>[[蝶]]<rt>ㄉㄝㄆ</rt></ruby> - butterfly
+635. <ruby>[[蝙]]<rt>ㄅㄝㄋ</rt></ruby> - bat
+636. <ruby>[[蝠]]<rt>ㄈㄨㄎ</rt></ruby> - bat
+637. <ruby>[[蝿]]<rt>ㄧㄫ</rt></ruby> - fly
+638. <ruby>[[蝎 (char)|蝎]]<rt>ㄏ⼶ㄊ</rt></ruby> - scorpion
+639. <ruby>[[螂]]<rt>ㄌㄚㄫ</rt></ruby> - mantis
+640. <ruby>[[螟]]<rt>ㄇㄝㄫ</rt></ruby> - larva
+641. <ruby>[[螳]]<rt>ㄉㄚㄫ</rt></ruby> - mantis
+642. <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> - crab
+643. <ruby>[[蠖]]<rt>⺢ㄎ</rt></ruby> - looper, inch worm
+644. <ruby>[[蟻 (char)|蟻]]<rt>ㄜㄧ</rt></ruby> - ant
+645. <ruby>[[蠕]]<rt>ㄋㄨ</rt></ruby> - worm
+646. <ruby>[[衂]]<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
+647. <ruby>[[衢 (char)|衢]]<rt>ㄍㄨ</rt></ruby> - crossroads, thoroughfare
+648. <ruby>[[衲]]<rt>ㄋㄚㄆ</rt></ruby> - cassock
+649. <ruby>[[袁]]<rt>ㄛㄋ</rt></ruby> - robe, surname
+650. <ruby>[[裾]]<rt>ㄍ⼄</rt></ruby> - cuff, hem, lapel
+651. <ruby>[[裴]]<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
+652. <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby> - coat, jacket
+653. <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby> - sock, stocking
+654. <ruby>[[覓]]<rt>ㄇㄝㄎ</rt></ruby> - search, seek, research
+655. <ruby>[[訛]]<rt>⺢</rt></ruby> - error, extort
+656. <ruby>[[詫]]<rt>ㄊㄚ</rt></ruby> - brag, exaggerate
+657. <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> - decode, exegete
+658. <ruby>[[詢]]<rt>ㄙ⼜ㄋ</rt></ruby> - inquire, consult
+659. <ruby>[[諌]]<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
+660. <ruby>[[諺]]<rt>ㄝㄋ</rt></ruby> - proverb, saying
+661. <ruby>[[謄]]<rt>ㄉㄜㄫ</rt></ruby> - copy, transcribe
+662. <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby> - calm, quiet, still
+663. <ruby>[[譚]]<rt>ㄉㄚㄇ</rt></ruby> - talented, talkative
+664. <ruby>[[豈]]<rt>ㄎㄧㄜ</rt></ruby> - how can it be that
+665. <ruby>[[豎]]<rt>ㄙㄨ</rt></ruby> - vertical line
+666. <ruby>[[豕]]<rt>ㄊㄧㄎ</rt></ruby> - pig, boar
+667. <ruby>[[豹]]<rt>ㄅ⼘ㄨ</rt></ruby> - leopard, panther
+668. <ruby>[[貂]]<rt>ㄑㄛ</rt></ruby> - mink, sable, marten
+669. <ruby>[[貒 (char)|貒]]<rt>ㄊ⺢ㄋ</rt></ruby> - wild boar, badger
+670. <ruby>[[䝙]]<rt>ㄊㄨ</rt></ruby> - mythical tiger-beast
+671. <ruby>[[貰]]<rt>ㄙㄝ</rt></ruby> - borrow, lend
+672. <ruby>[[賁]]<rt>ㄅㄨㄋ</rt></ruby> - energetic
+673. <ruby>[[賈]]<rt>ㄍㄚ</rt></ruby> - merchant
+674. <ruby>[[賑]]<rt>ㄐㄧㄋ</rt></ruby> - rich
+675. <ruby>[[賽]]<rt>ㄙㄚㄧ</rt></ruby> - compete, contend
+676. <ruby>[[赩]]<rt>ㄏㄧㄎ</rt></ruby> - shining
+677. <ruby>[[趙]]<rt>ㄐㄚㄨ</rt></ruby> - Zhao
+678. <ruby>[[跌]]<rt>ㄉㄝㄊ</rt></ruby> - fall down
+679. <ruby>[[踝]]<rt>ㄏ⺢</rt></ruby> - ankle
+680. <ruby>[[蹄 (char)|蹄]]<rt>ㄉㄝㄧ</rt></ruby> - hoof
+681. <ruby>[[踵]]<rt>ㄐㄛㄫ</rt></ruby> - heel, calcaneous
+682. <ruby>[[蹠]]<rt>ㄐㄝㄎ</rt></ruby> - metatarsal
+683. <ruby>[[躁]]<rt>ㄐㄚㄨ</rt></ruby> - irascible
+684. <ruby>[[躬]]<rt>ㄍㄨㄫ</rt></ruby> - (emperor's) body
+685. <ruby>[[軋]]<rt>ㄚㄊ</rt></ruby> - crush, grind
+686. <ruby>[[軒]]<rt>ㄏㄝㄋ</rt></ruby> - flats
+687. <ruby>[[軣]]<rt>ㄍ⼔ㄫ</rt></ruby> - rumble, explosion
+688. <ruby>[[輒]]<rt>ㄐㄛㄆ</rt></ruby> - then, always, at every turn
+689. <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel, refute
+690. <ruby>[[辰]]<rt>ㄙㄧㄋ</rt></ruby> - fifth earthly branch, dragon
+691. <ruby>[[迄]]<rt>ㄏㄧㄊ</rt></ruby> - extend, reach
+692. <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby> - follow
+693. <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> - meet
+694. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
+695. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
+696. <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby> - ramble, stroll, jaunt
+697. <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby> - evade, escape
+698. <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby> - strong, unyielding, forceful
+699. <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby> - transcend, climb
+700. <ruby>[[遼]]<rt>ㄌ⼘ㄨ</rt></ruby> - distant, far
+701. <ruby>[[邁]]<rt>ㄇㄚㄧ</rt></ruby> - take a big stride
+702. <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby> - patrol, watch
+703. <ruby>[[邑]]<rt>ㄧㄆ</rt></ruby> - township
+704. <ruby>[[邢]]<rt>ㄏㄝㄫ</rt></ruby> - Heng
+705. <ruby>[[邸]]<rt>ㄉㄝㄧ</rt></ruby> - residence
+706. <ruby>[[邱]]<rt>ㄍㄨ</rt></ruby> - hill, mound, surname
+707. <ruby>[[邵]]<rt>ㄙ⼄ㄨ</rt></ruby> - surname, place name
+708. <ruby>[[郁]]<rt>⼜ㄎ</rt></ruby> - sweet smelling
+709. <ruby>[[邾]]<rt>ㄐㄨ</rt></ruby> - Zou
+710. <ruby>[[郎]]<rt>ㄌㄚㄫ</rt></ruby> - youthful man
+711. <ruby>[[郝]]<rt>ㄏㄚㄎ</rt></ruby> - place name
+712. <ruby>[[鄂]]<rt>ㄚㄎ</rt></ruby> - E (state)
+713. <ruby>[[鄒]]<rt>ㄑㄨ</rt></ruby> - Chu kingdom
+714. <ruby>[[鄙]]<rt>ㄈㄧㄜ</rt></ruby> - rustic
+715. <ruby>[[鄭]]<rt>ㄐㄝㄫ</rt></ruby> - Zheng
+716. <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby> - Teng
+717. <ruby>[[酉]]<rt>⼜</rt></ruby> - rooster
+718. <ruby>[[酋]]<rt>ㄑㄨㄛ</rt></ruby> - chieftain, tribal leader
+719. <ruby>[[酎]]<rt>ㄐㄨㄛ</rt></ruby> - saké
+720. <ruby>[[醇]]<rt>ㄙㄨㄋ</rt></ruby> - good wine
+721. <ruby>[[醍]]<rt>ㄊㄝㄧ</rt></ruby> - essential oil
+722. <ruby>[[醐]]<rt>ㄏㄛㄨ</rt></ruby> - purest cream
+723. <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> - sweet water
+724. <ruby>[[釘 (char)|釘]]<rt>ㄉㄝㄫ</rt></ruby> - nail, spike
+725. <ruby>[[釧]]<rt>ㄑㄝㄋ</rt></ruby> - bracelet, armlet
+726. <ruby>[[釩]]<rt>ㄈㄚㄋ</rt></ruby> - vanadium
+727. <ruby>[[鈩]]<rt>ㄌㄛ</rt></ruby> - fireplace, stove, oven
+728. <ruby>[[鉤 (char)|鉤]]<rt>ㄍㄛㄨ</rt></ruby> - hook, barb
+729. <ruby>[[鈿]]<rt>ㄉㄝㄋ</rt></ruby> - filigree, hairpin
+730. <ruby>[[鉀 (char)|鉀]]<rt>ㄍㄚㄆ</rt></ruby> - potassium
+731. <ruby>[[銑]]<rt>ㄙㄝㄋ</rt></ruby> - mill, pig iron
+732. <ruby>[[鋒]]<rt>ㄈㄛㄫ</rt></ruby> - point of a spear
+733. <ruby>[[鋤]]<rt>ㄐㄛ</rt></ruby> - hoe, spade
+734. <ruby>[[錫]]<rt>ㄙㄝㄎ</rt></ruby> - tin
+735. <ruby>[[錆]]<rt>ㄑㄝㄫ</rt></ruby> - rust colored
+736. <ruby>[[錀 (char)|錀]]<rt>ㄌㄛㄋ</rt></ruby> - roentgenium
+737. <ruby>[[鎬]]<rt>ㄏㄚㄨ</rt></ruby> - stove
+738. <ruby>[[鎧]]<rt>ㄎㄚㄧ</rt></ruby> - armor
+739. <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby> - melt, smelt
+740. <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby> - prosperous, wealthy
+741. <ruby>[[鑽]]<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel), auger
+742. <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby> - grieve, pity
+743. <ruby>[[閨]]<rt>ㄍㄨㄧ</rt></ruby> - women's bedroom
+744. <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby> - curtain, screen, fence
+745. <ruby>[[闕]]<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
+746. <ruby>[[闡]]<rt>ㄑㄝㄋ</rt></ruby> - clarify, expound
+747. <ruby>[[阮]]<rt>⼔ㄋ</rt></ruby> - moon lute
+748. <ruby>[[阜]]<rt>ㄅ⼜</rt></ruby> - mound
+749. <ruby>[[陀]]<rt>ㄉㄚ</rt></ruby> - rough terrain
+750. <ruby>[[陛]]<rt>ㄅㄝㄧ</rt></ruby> - steps of the throne
+751. <ruby>[[陝]]<rt>ㄙㄝㄇ</rt></ruby> - Shan
+752. <ruby>[[隹]]<rt>ㄉㄛㄧ</rt></ruby> - short tailed bird
+753. <ruby>[[隼 (char)|隼]]<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
+754. <ruby>[[雀]]<rt>ㄐㄚㄎ</rt></ruby> - sparrow
+755. <ruby>[[雁 (char)|雁]]<rt>ㄚㄋ</rt></ruby> - wild goose
+756. <ruby>[[雍]]<rt>ㄛㄫ</rt></ruby> - harmonious
+757. <ruby>[[雉 (char)|雉]]<rt>ㄉㄧㄜ</rt></ruby> - green pheasant
+758. <ruby>[[雛]]<rt>ㄑㄨㄛ</rt></ruby> - chick, doll
+759. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter, thunder
+760. <ruby>[[霍]]<rt>ㄍ⺢ㄎ</rt></ruby> - sudden, quick
+761. <ruby>[[霓]]<rt>ㄝㄧ</rt></ruby> - rainbow
+762. <ruby>[[霞]]<rt>ㄏㄚ</rt></ruby> - mist
+763. <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby> - cloudy, hazy
+764. <ruby>[[靠]]<rt>ㄎㄚㄨ</rt></ruby> - lean on
+765. <ruby>[[鞀]]<rt>ㄉㄚㄨ</rt></ruby> - pellet drum
+766. <ruby>[[韋]]<rt>ㄨㄧ</rt></ruby> - tanned leather
+767. <ruby>[[韮]]<rt>ㄍ⼜</rt></ruby> - chive, garlic, leek
+768. <ruby>[[頤]]<rt>ㄧ</rt></ruby> - chin
+769. <ruby>[[頴]]<rt>⼶ㄫ</rt></ruby> - rice tassel
+770. <ruby>[[顚]]<rt>ㄉㄝㄋ</rt></ruby> - summit, peak, epilepsy
+771. <ruby>[[飧]]<rt>ㄙㄛㄋ</rt></ruby> - evening meal, supper
+772. <ruby>[[飴]]<rt>ㄧ</rt></ruby> - syrup, candy
+773. <ruby>[[餃]]<rt>ㄍ⼄ㄨ</rt></ruby> - gyoza
+774. <ruby>[[馮]]<rt>ㄈㄧㄫ</rt></ruby> - gallop
+775. <ruby>[[馭]]<rt>⼄</rt></ruby> - drive
+776. <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> - tame
+777. <ruby>[[馿 (char)|馿]]<rt>ㄌ⼄</rt></ruby> - donkey
+778. <ruby>[[駕]]<rt>ㄍㄚ</rt></ruby> - palanquin
+779. <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby> - pony, colt
+780. <ruby>[[駱]]<rt>ㄌㄚㄎ</rt></ruby> - camel
+781. <ruby>[[䦧 (char)|䦧]]<rt>ㄏㄝㄎ</rt></ruby> - quarrel
+782. <ruby>[[魁]]<rt>ㄎㄛㄧ</rt></ruby> - chief, leader, first
+783. <ruby>[[魏]]<rt>ㄝ</rt></ruby> - Wei
+784. <ruby>[[魑]]<rt>ㄑㄧ</rt></ruby> - mountain demon
+785. <ruby>[[魯]]<rt>ㄌㄛㄇ</rt></ruby> - rash, vulgar
+786. <ruby>[[魶 (char)|魶]]<rt>ㄋㄨㄆ</rt></ruby> - giant salamander
+787. <ruby>[[鮎 (char)|鮎]]<rt>ㄋㄝㄇ</rt></ruby> - sweetfish, sheatfish
+788. <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby> - blowfish
+789. <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby> - abalone
+790. <ruby>[[鮫]]<rt>ㄍ⼄ㄨ</rt></ruby> - shark
+791. <ruby>[[鯉]]<rt>ㄌㄧ</rt></ruby> - koi, carp
+792. <ruby>[[鯨]]<rt>ㄍ⼶ㄫ</rt></ruby> - whale
+793. <ruby>[[鯖]]<rt>ㄑㄝㄫ</rt></ruby> - mackerel
+794. <ruby>[[鯤]]<rt>ㄍㄛㄋ</rt></ruby> - mythical fish
+795. <ruby>[[鰌]]<rt>ㄑㄨ</rt></ruby> - loach
+796. <ruby>[[鰐]]<rt>ㄚㄎ</rt></ruby> - alligator, crocodile
+797. <ruby>[[鱏 (char)|鱏]]<rt>ㄏㄧㄇ</rt></ruby> - ray, skate
+798. <ruby>[[鳩]]<rt>ㄎ⼜</rt></ruby> - pigeon
+799. <ruby>[[鳶 (char)|鳶]]<rt>⼶ㄋ</rt></ruby> - kite
+800. <ruby>[[鴎 (char)|鴎]]<rt>ㄛㄨ</rt></ruby> - seagull
+801. <ruby>[[鴔]]<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
+802. <ruby>[[鴛]]<rt>ㄛㄋ</rt></ruby> - mandarin duck
+803. <ruby>[[鴦]]<rt>ㄚㄫ</rt></ruby> - mandarin duck
+804. <ruby>[[鴨 (char)|鴨]]<rt>ㄚㄆ</rt></ruby> - duck
+805. <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby> - swan
+806. <ruby>[[鵉]]<rt>ㄌㄚㄋ</rt></ruby> - luan
+807. <ruby>[[鵝]]<rt>ㄚ</rt></ruby> - domestic goose
+808. <ruby>[[鵖]]<rt>ㄅㄨㄆ</rt></ruby> - hoopoe
+809. <ruby>[[鵠]]<rt>ㄏㄛㄎ</rt></ruby> - swan
+810. <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> - eagle, vulture
+811. <ruby>[[鵡]]<rt>ㄇㄨ</rt></ruby> - parrot
+812. <ruby>[[鶴 (char)|鶴]]<rt>ㄏㄚㄎ</rt></ruby> - crane
+813. <ruby>[[鷹 (char)|鷹]]<rt>ㄧㄫ</rt></ruby> - hawk
+814. <ruby>[[鸚]]<rt>ㄚㄫ</rt></ruby> - parrot
+815. <ruby>[[鸛]]<rt>ㄍ⺢ㄋ</rt></ruby> - stork
+816. <ruby>[[鹵]]<rt>ㄌㄛㄊ</rt></ruby> - saline soil
+817. <ruby>[[麒]]<rt>ㄍㄧ</rt></ruby> - qilin
+818. <ruby>[[麓]]<rt>ㄌㄛㄎ</rt></ruby> - foot of a mountain
+819. <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby> - qilin
+820. <ruby>[[黍]]<rt>ㄙ⼄</rt></ruby> - millet
+821. <ruby>[[黎]]<rt>ㄌㄝㄧ</rt></ruby> - black, numerous
+822. <ruby>[[黛]]<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
+823. <ruby>[[鼈 (char)|鼈]]<rt>ㄅㄝㄊ</rt></ruby> - Pelodiscus sinensis (turtle)
+824. <ruby>[[鼠]]<rt>ㄙ⼄</rt></ruby> - rat
+825. <ruby>[[齦]]<rt>ㄎㄚㄋ</rt></ruby> - gums, gingiva
+826. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - tall, huge
+827. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - give, present
+828. <ruby>[[龕 (char)|龕]]<rt>ㄎㄚㄇ</rt></ruby> - shrine, alcove
 
 ## Base check
 ```base

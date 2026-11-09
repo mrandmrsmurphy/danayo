@@ -100,6 +100,7 @@ tags: [lookup]
 ### +11 Strokes
 66. <ruby>[膿](../../characters/膿%20(char).md)<rt>ㄋㄛㄫ</rt></ruby> - pus
 67. <ruby>[臆](../../characters/臆.md)<rt>ㄧㄎ</rt></ruby> - feelings
+- 臂 --> 卑
 
 ### +13 Strokes
 68. <ruby>[臓](../../characters/臓.md)<rt>ㄐㄚㄫ</rt></ruby> - organ

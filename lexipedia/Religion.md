@@ -50,6 +50,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[霊魂](../words/霊魂.md)<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby>: spirit, ghost, soul — a broad umbrella term covering Christian, Buddhist, and secular usages of "soul" alike.
 - <ruby>[地獄](../words/地獄.md)<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>: hell — the Buddhist hell of punishment; see [基督敎](../lexipedia/基督敎.md) for its Christian use.
 - <ruby>[天使](../words/天使.md)<rt>ㄊㄝㄋㄙㄧ</rt></ruby>: an angel, a messenger of heaven; see [基督敎](../lexipedia/基督敎.md).
+- <ruby>[天尊](../words/天尊.md)<rt>ㄊㄝㄋㄐㄛㄋ</rt></ruby>: Heavenly Venerable — the title of honour for a high deity: the Buddha (an early rendering of *Bhagavān*), the Daoist Three Pure Ones, and, in the Tang-dynasty Church of the East, God the Father.
 - <ruby>[魂魄](../words/魂魄.md)<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby>: soul, spirit — specifically the paired hún (魂, the thinking/vital soul-component) and 魄 (the physical/bodily soul-component) of classical Chinese cosmology.
 - <ruby>[神霊](../words/神霊.md)<rt>ㄙㄧㄋㄌㄝㄫ</rt></ruby>: a spirit, divine/numinous force — an impersonal spiritual presence or efficacy, distinct from [[霊魂]]'s personal soul.
 - <ruby>[直霊](../words/直霊.md)<rt>ㄐㄧㄊㄌㄝㄫ</rt></ruby>: the upright spirit; the spirit that sets what is crooked straight.

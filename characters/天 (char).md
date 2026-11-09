@@ -76,6 +76,7 @@ boundedness: 80
 - <ruby>[[天]]<rt>ㄊㄝㄋ</rt></ruby> "sky, heaven" (stand-in for 天)
 - <ruby>[[天地]]<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby> "heaven and earth; the world"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world; all under heaven"
+- <ruby>[[天尊]]<rt>ㄊㄝㄋㄐㄛㄋ</rt></ruby> "Heavenly Venerable; Honoured One"
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 - <ruby>[[天主]]<rt>ㄊㄝㄋㄐㄨ</rt></ruby> "God"

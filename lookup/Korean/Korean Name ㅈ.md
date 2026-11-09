@@ -69,7 +69,7 @@ These have been checked for redirects
 [挫](characters/挫.md)
 
 ### 주
-[[冑]] [湊](characters/湊.md) [[炷]] [註](characters/註.md) [[疇]] [週](characters/週.md) [遒](characters/遒.md) [駐](characters/駐.md) [[妵]] [[澍]] [[姝]] [侏](characters/侏.md) [做](characters/作%20(char).md) [呪](characters/呪.md) [[嗾]] [廚](characters/厨.md) [[籌]] [紂](characters/酎.md) [紬](characters/紬.md) [綢](characters/紬.md) [蛛](characters/蛛.md) [誅](characters/誅.md) [[寿|躊]] [[輳]] [酎](characters/酎.md) [[燽]] [[鉒]] [[拄]] [[皗]] [邾](characters/邾.md) [[䎻]] [[絑]] [[䝬]] 
+[[冑]] [湊](characters/湊.md) [[炷]] [註](characters/註.md) [[畴|疇]] [週](characters/週.md) [遒](characters/遒.md) [駐](characters/駐.md) [[妵]] [[澍]] [[姝]] [侏](characters/侏.md) [做](characters/作%20(char).md) [呪](characters/呪.md) [[嗾]] [廚](characters/厨.md) [[籌]] [紂](characters/酎.md) [紬](characters/紬.md) [綢](characters/紬.md) [蛛](characters/蛛.md) [誅](characters/誅.md) [[寿|躊]] [[輳]] [酎](characters/酎.md) [[燽]] [[鉒]] [[拄]] [[皗]] [邾](characters/邾.md) [[䎻]] [[絑]] [[䝬]] 
 
 ### 죽
 [粥 (char)](characters/粥%20(char).md)

@@ -42,6 +42,7 @@ tags:
 17. <ruby>[庾](../../characters/庾.md)<rt>⼜</rt></ruby> - granary
 18. <ruby>[廃](../../characters/廃.md)<rt>ㄈㄝ</rt></ruby> - abrogate
 19. <ruby>[廊](../../characters/廊.md)<rt>ㄌㄚㄫ</rt></ruby> - corridor
+- 廂 --> 箱
 
 ### +10 Strokes
 20. <ruby>[廈](../../characters/廈.md)<rt>ㄏㄚ</rt></ruby> - building

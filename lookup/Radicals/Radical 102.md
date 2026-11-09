@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 21
+size: 22
 radical: 田
 tags: [lookup]
 
@@ -42,16 +42,18 @@ tags: [lookup]
 ### +7 Strokes
 18. <ruby>[番](../../characters/番%20(char).md)<rt>ㄈㄚㄋ</rt></ruby> - time
 19. <ruby>[畳](../../characters/畳%20(char).md)<rt>ㄉㄝㄆ</rt></ruby> - folding mat
+20. <ruby>[畴](../../characters/畴.md)<rt>ㄐㄨㄛ</rt></ruby> - field, category
 
 ### +8 Strokes
 - 畺 --> 疆
 
 ### +10 Strokes
-20. <ruby>[畿](../../characters/畿.md)<rt>ㄍㄧㄜ</rt></ruby> - capital district
+21. <ruby>[畿](../../characters/畿.md)<rt>ㄍㄧㄜ</rt></ruby> - capital district
 - 畾 --> 雷
 
 ### +14 Strokes
-21. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary
+22. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary
+- 疇 --> 畴
 
 ### Aliases
 - 當 --> 当

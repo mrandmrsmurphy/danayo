@@ -32,6 +32,8 @@ danayo_id: 5327
 mc_id: 3910
 graphemic_classification: "相"
 stand_in: "箱"
+aliases:
+  - 廂
 注音: "ㄙㄚㄫ"
 kwin: true
 tags:
@@ -51,6 +53,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 3910th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙㄚㄫ](../syllables/ㄙㄚㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 廂
+广 + 相, "wing, side room; theatre box; train carriage, compartment" (as in 車廂, 包廂); Wiktionary lists 箱 as an alternative form and 厢 as the simplified form. It shares 箱's phonetic 相 and its Dan'a'yo sound, ㄙㄚㄫ (MC `s` + `ɨɐŋ`), and the senses "box, compartment" overlap, so it is an alias of 箱. It is on the Korean Name and HSK lists, and is Hyōgai in Japanese. SKIP 3-3-9 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 3910. SKIP 3-3-9; 12 strokes. Radical 053 广. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[箱]]<rt>ㄙㄚㄫ</rt></ruby> "case, box, chest, trunk" (stand-in for 箱)

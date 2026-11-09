@@ -1179,7 +1179,7 @@ tags: [lookup]
 [辆](../../characters/両%20(char).md): 1
 [輛](../../characters/両%20(char).md): 1
 [[厢]]: 1
-[[廂]]: 1
+[[箱 (char)|廂]]: 1
 扯: 1
 [[撤 (char)]]: 1
 [[沈]]: 1

@@ -54,6 +54,9 @@ tags: [lookup]
 ### +12 Strokes
 21. <ruby>[整](../../characters/整%20(char).md)<rt>ㄐㄝㄫ</rt></ruby> - orderly
 
+### +14 Strokes
+- 斃 --> 蔽
+
 ## Other
 - 肇 has this radical as a component, but is not listed under this radical.
 - 赦 has this radical as a component, but is not listed under this radical.

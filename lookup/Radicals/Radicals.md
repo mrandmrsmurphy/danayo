@@ -144,7 +144,7 @@ __Combining or simplified radicals with 4 strokes__
 - [[Radical 099]] 甘 (3 characters)
 - [[Radical 100]] 生 (3 characters)
 - [[Radical 101]] 用 (3 characters)
-- [[Radical 102]] 田 (21 characters)
+- [[Radical 102]] 田 (22 characters)
 - [[Radical 103]] 疋 (3 characters)
 - [[Radical 104]] 疒 (23 characters)
 - [[Radical 105]] 癶 (3 characters)
