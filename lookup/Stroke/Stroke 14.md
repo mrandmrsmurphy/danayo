@@ -173,6 +173,7 @@ tags:
 - 蔣 --> 蒋
 - 蔷 --> 薔
 - 熏 --> 薫
+- 蝇 --> 蝿
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

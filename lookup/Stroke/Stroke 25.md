@@ -19,6 +19,7 @@ tags: [lookup]
 - 廳 --> 庁
 - 灣 --> 湾
 - 躥 --> 竄
+- 蠻 --> 蛮
 
 ### Forbidden
 - 鱰 - 国字: Japanese-invented character. Mahi-mahi

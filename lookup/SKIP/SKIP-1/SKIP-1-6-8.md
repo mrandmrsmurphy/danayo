@@ -44,6 +44,7 @@ tags: [lookup]
 - 綠 --> 緑
 - 綳 --> 繃
 - 罁 --> 缸
+- 蝇 --> 蝿
 
 ## Datacheck
 ```dataview

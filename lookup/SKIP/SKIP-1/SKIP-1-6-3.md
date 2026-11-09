@@ -37,6 +37,7 @@ tags: [lookup]
 - 剏 --> 創
 - 剎 --> 刹
 - 帅 --> 帥
+- 虾 --> 蝦
 
 ## Datacheck
 ```dataview

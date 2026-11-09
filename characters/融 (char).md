@@ -28,15 +28,12 @@ danayo_id: 6089
 mc_id: 1372
 graphemic_classification: "蟲"
 stand_in: "融"
-aliases:
-  - 螎
-  - 𧖓
 注音: "⼜ㄫ"
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 融.
 >For the word, see [融](../words/融.md)

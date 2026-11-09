@@ -16,6 +16,7 @@ tags:
 ### +2 Strokes
 - 宂 --> 冗
 - 宁 --> 寧
+- 它 --> 蛇
 
 ### +3 Strokes
 1. <ruby>[宅](../../characters/宅.md)<rt>ㄐㄚㄎ</rt></ruby> - house

@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蛇.
 >For the word, see [蛇](../words/蛇.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1243rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄊㄚ](../syllables/ㄊㄚ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 它
+The original form of 蛇 (now "it"); kept as an alias. SKIP 2-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 040 宀. It ranks 1559 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 鮀
+魚 + 它, "catfish"; built on 它, the phonetic of 蛇, and kept as an alias. SKIP 1-11-5 (computed: EDRDG does not list it); 16 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蛇]]<rt>ㄊㄚ</rt></ruby> "snake" (stand-in for 蛇)

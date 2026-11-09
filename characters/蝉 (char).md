@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蝉.
 >For the word, see [蝉](../words/蝉.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 2628th most used character in Classical Chinese (recorded under traditional sibling glyph 蟬). Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 蟬
+Traditional form (kyūjitai) of 蝉, "cicada". SKIP 1-6-12 (computed: EDRDG does not list it); 18 strokes. It ranks 2628 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 蟺
+虫 + 亶, "earthworm"; built on 亶, a component of 蟬, and kept as an alias. SKIP 1-6-13 (computed: EDRDG does not list it); 19 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蝉]]<rt>ㄙㄝㄋ</rt></ruby> "cicada" (stand-in for 蝉)

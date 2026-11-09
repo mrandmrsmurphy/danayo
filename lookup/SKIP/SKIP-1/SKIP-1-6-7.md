@@ -30,6 +30,8 @@ tags: [lookup]
 - 粳 --> 更
 - 絳 --> 降
 - 經 --> 経
+- 蜗 --> 蝸
+- 蜋 --> 螂
 
 ### Forbidden
 - 綁 - 官话: HSK 3, but used in no other country

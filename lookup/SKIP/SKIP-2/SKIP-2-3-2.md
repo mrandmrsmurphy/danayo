@@ -26,6 +26,7 @@ tags: [lookup]
 - 艺 --> 芸
 - 宂 --> 冗
 - 宁 --> 寧
+- 它 --> 蛇
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.

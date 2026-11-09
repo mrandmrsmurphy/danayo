@@ -737,3 +737,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 虜 | 虏 | 3-3-5 | computed from its parts |
 | 虱 (char) | 蝨 | 1-6-9 | computed from its parts |
 | 蚕 (char) | 蠶 | 2-12-12 | computed from its parts |
+| 蛇 (char) | 它 | 2-3-2 | computed from its parts |
+| 蛇 (char) | 鮀 | 1-11-5 | computed from its parts |
+| 蛋 | 鴠 | 2-5-11 | computed from its parts |
+| 蛮 | 蠻 | 2-12-13 | computed from its parts |
+| 蜂 (char) | 蚌 | 1-6-4 | computed from its parts |
+| 蝉 (char) | 蟬 | 1-6-12 | computed from its parts |
+| 蝉 (char) | 蟺 | 1-6-13 | computed from its parts |
+| 蝦 | 虾 | 1-6-3 | computed from its parts |
+| 蝦 | 鰕 | 1-11-9 | computed from its parts |
+| 蝸 | 蜗 | 1-6-7 | computed from its parts |
+| 蝿 | 蠅 | 1-6-13 | computed from its parts |
+| 蝿 | 蝇 | 1-6-8 | computed from its parts |
+| 螂 | 蜋 | 1-6-7 | computed from its parts |

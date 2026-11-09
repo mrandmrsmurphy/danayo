@@ -19,11 +19,13 @@ tags:
 ### +3 Strokes
 3. <ruby>[虹](../../characters/虹.md)<rt>ㄏㄛㄫ</rt></ruby> - rainbow
 4. <ruby>[虻](../../characters/虻.md)<rt>ㄇㄚㄫ</rt></ruby> - horsefly
+- 虾 --> 蝦
 
 ### +4 Strokes
 5. <ruby>[蚊](../../characters/蚊%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mosquito
 6. <ruby>[蚕](../../characters/蚕%20(char).md)<rt>ㄐㄚㄇ</rt></ruby> - silkworm
 7. <ruby>[蚤](../../characters/蚤.md)<rt>ㄐㄚㄨ</rt></ruby> - flea
+- 蚌 --> 蜂
 
 ### +5 Strokes
 8. <ruby>[蛇](../../characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> - snake
@@ -46,12 +48,15 @@ tags:
 20. <ruby>[蜂](../../characters/蜂%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - bee
 21. <ruby>[蜆](../../characters/蜆.md)<rt>ㄏㄝㄋ</rt></ruby> - basket clam
 - 蜍 --> 余
+- 蜗 --> 蝸
+- 蜋 --> 螂
 
 ### +8 Strokes
 22. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider
 23. <ruby>[蜜](../../characters/蜜.md)<rt>ㄇㄧㄊ</rt></ruby> - honey
 24. <ruby>[蠟](../../characters/蠟.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
 - 蜫 --> 昆
+- 蝇 --> 蝿
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
@@ -78,11 +83,14 @@ tags:
 
 ### +12 Strokes
 - 蟠 --> 盤
+- 蟬 --> 蝉
 
 ### +13 Strokes
 40. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
 41. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
 42. <ruby>[蟻](../../characters/蟻%20(char).md)<rt>ㄜㄧ</rt></ruby> - ant
+- 蟺 --> 蝉
+- 蠅 --> 蝿
 
 ### +14 Strokes
 43. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
@@ -92,6 +100,9 @@ tags:
 
 ### +18 Strokes
 - 蠶 --> 蚕
+
+### +19 Strokes
+- 蠻 --> 蛮
 
 ### Aliases
 - 蚯 --> 丘

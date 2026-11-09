@@ -30,6 +30,7 @@ date-last-perfect: 2026-10-05
 8. <ruby>[鴛](../../characters/鴛.md)<rt>ㄛㄋ</rt></ruby> - mandarin duck
 9. <ruby>[鴦](../../characters/鴦.md)<rt>ㄚㄫ</rt></ruby> - mandarin duck
 10. <ruby>[鴨](../../characters/鴨%20(char).md)<rt>ㄚㄆ</rt></ruby> - duck
+- 鴠 --> 蛋
 
 ### +6 Strokes
 11. <ruby>[鴻](../../characters/鴻.md)<rt>ㄏㄛㄫ</rt></ruby> - swan

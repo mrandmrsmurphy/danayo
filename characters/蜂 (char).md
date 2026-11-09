@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蜂.
 >For the word, see [蜂](../words/蜂.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-8](../lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 2804th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄈㄛㄫ](../syllables/ㄈㄛㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 蚌
+虫 + 丰, "clam, bivalve"; built on 丰, the phonetic of 蜂, and kept as an alias. SKIP 1-6-4 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蜂]]<rt>ㄈㄛㄫ</rt></ruby> "bee; wasp; hornet" (stand-in for 蜂)

@@ -154,6 +154,8 @@ tags:
 - 蒨 --> 茜
 - 滄 --> 蒼
 - 鉑 --> 薄
+- 蜗 --> 蝸
+- 蜋 --> 螂
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name
