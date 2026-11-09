@@ -36,6 +36,7 @@ tags: [lookup]
 - 汙 --> 汚
 - 污 --> 汚
 - 汘 --> 潜
+- 汒 --> 茫
 
 ### +3 Strokes
 14. <ruby>[求](../../characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - request

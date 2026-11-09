@@ -42,7 +42,7 @@ kwin: false
 tags:
   - character
 boundedness: 35
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 苔.
 >For the word, see [苔](../words/苔.md)
@@ -56,6 +56,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 7750th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄊㄛㄧ](../syllables/ㄊㄛㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 菭
+A variant form of 苔, "moss". SKIP 2-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss, lichen" (stand-in for 苔)

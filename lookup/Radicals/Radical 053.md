@@ -19,6 +19,7 @@ tags:
 
 ### +3 Strokes
 - 庆 --> 慶
+- 庄 --> 荘
 
 ### +4 Strokes
 3. <ruby>[庇](../../characters/庇.md)<rt>ㄅㄧㄜ</rt></ruby> - shield

@@ -74,6 +74,7 @@ tags:
 - 繩 --> 縄
 - 繡 --> 繍
 - 櫓 --> 芦
+- 蘋 --> 苹
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

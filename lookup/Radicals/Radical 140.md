@@ -29,6 +29,7 @@ tags:
 - 范 --> 範
 - 茮 --> 椒
 - 茧 --> 繭
+- 荆 --> 荊
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -45,6 +46,9 @@ tags:
 - 茲 --> 玆
 - 莞 --> 玩
 - 荀 --> 筍
+- 莓 --> 苺
+- 莖 --> 茎
+- 莕 --> 荇
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
@@ -71,6 +75,9 @@ tags:
 - 菷 --> 帚
 - 菖 --> 昌
 - 菻 --> 林
+- 菭 --> 苔
+- 莊 --> 荘
+- 萊 --> 莱
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -103,6 +110,7 @@ tags:
 - 蔭 --> 陰
 - 营 --> 営
 - 𦳊 --> 屎
+- 蒨 --> 茜
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
@@ -191,6 +199,7 @@ tags:
 107. <ruby>[薪](../../characters/薪.md)<rt>ㄙㄧㄋ</rt></ruby> - firewood
 108. <ruby>[薫](../../characters/薫%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - fragrant
 109. <ruby>[薬](../../characters/薬%20(char).md)<rt>⼘ㄎ</rt></ruby> - drug
+- 蘋 --> 苹
 
 ### +14 Strokes
 110. <ruby>[蔔](../../characters/蔔.md)<rt>ㄅㄨㄎ</rt></ruby> - radish

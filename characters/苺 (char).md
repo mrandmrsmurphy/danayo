@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 苺.
 >For the word, see [苺](../words/苺.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 7402nd most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄚㄧ](../syllables/ㄇㄚㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 莓
+艹 + 母, "berry"; an alternative form of 苺 and kept as an alias. SKIP 2-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[苺]]<rt>ㄇㄚㄧ</rt></ruby> "strawberry"

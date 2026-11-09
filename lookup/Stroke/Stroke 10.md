@@ -194,6 +194,9 @@ tags:
 - 脓 --> 膿
 - 舱 --> 艙
 - 舰 --> 艦
+- 莓 --> 苺
+- 莖 --> 茎
+- 莕 --> 荇
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

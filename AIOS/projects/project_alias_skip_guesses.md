@@ -679,3 +679,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 艶 (char) | 豔 | 1-18-10 | computed from its parts |
 | 芦 | 蘆 | 2-3-13 | computed from its parts |
 | 芦 | 櫓 | 1-4-15 | computed from its parts |
+| 芻 | 刍 | 2-2-3 | computed from its parts |
+| 苔 (char) | 菭 | 2-3-8 | computed from its parts |
+| 苹 | 蘋 | 2-3-16 | computed from its parts |
+| 苺 (char) | 莓 | 2-3-7 | computed from its parts |
+| 茎 (char) | 莖 | 2-3-7 | computed from its parts |
+| 茜 | 蒨 | 2-3-10 | computed from its parts |
+| 茫 | 汒 | 1-3-3 | computed from its parts |
+| 荇 | 莕 | 2-3-7 | computed from its parts |
+| 荊 | 荆 | 2-3-6 | computed from its parts |
+| 荘 | 莊 | 2-3-8 | computed from its parts |
+| 荘 | 庄 | 3-3-3 | computed from its parts |
+| 莱 | 萊 | 2-3-8 | computed from its parts |

@@ -34,6 +34,7 @@ tags: [lookup]
 - 弎 --> 参
 - 团 --> 団
 - 闭 --> 閉
+- 庄 --> 荘
 
 ## Datacheck
 ```dataview

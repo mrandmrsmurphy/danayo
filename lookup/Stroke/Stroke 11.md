@@ -208,6 +208,9 @@ tags:
 - 堈 --> 缸
 - 躭 --> 耽
 - 聋 --> 聾
+- 菭 --> 苔
+- 莊 --> 荘
+- 萊 --> 莱
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

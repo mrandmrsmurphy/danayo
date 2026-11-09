@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 茎.
 >For the word, see [茎](../words/茎.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 2153rd most used character in Classical Chinese (as 莖). A minority ㄎ outcome for [[Lookup/CC/initials/聲 匣|ɣ]] (one of only three, alongside 劦/雇) + [[Lookup/CC/finals/韻 耕開|ɣɛŋ]] → [ㄎㄧㄫ](../syllables/ㄎㄧㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 莖
+Traditional form of 茎, "stem". SKIP 2-3-7 (computed: EDRDG does not list it); 10 strokes. It ranks 2153 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[茎]]<rt>ㄎㄧㄫ</rt></ruby> "stem, stalk" (stand-in for 茎)
