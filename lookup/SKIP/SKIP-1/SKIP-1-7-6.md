@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-10
 stroke_count: 13
 size: 32
 skip_number: 1-7-6
@@ -44,7 +44,7 @@ tags:
 32. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
 
 ### Forbidden
-- 跟 - 中国制造: HSK/1, Use 踵 instead
+- 跟 - 中国制造: HSK/1, Use 踵 instead
 - 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
 - 𨋳 - 国字: 'seat of a carriage'
 

@@ -4,6 +4,18 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 19 (SKIP-1-8-15, 1-8-16, 1-8-19, SKIP-1-8-2 to 1-8-8):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 18 (SKIP-1-7-5 to 1-7-9, SKIP-1-8-1, 1-8-10 to 1-8-12, 1-8-14):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no mismatches. Replaced the non-breaking spaces in a Forbidden note in SKIP-1-7-6 with ordinary spaces. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 17 (SKIP-1-7-13 to 1-7-19, SKIP-1-7-2 to 1-7-4):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 16 (SKIP-1-6-4 to 1-6-9, SKIP-1-7-1, SKIP-1-7-10 to 1-7-12):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 15 (SKIP-1-6-11 to 1-6-17, SKIP-1-6-2, SKIP-1-6-22, SKIP-1-6-3):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 14 (SKIP-1-5-2 to 1-5-9, SKIP-1-6-1, SKIP-1-6-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 13 (SKIP-1-4-7 to 1-4-9, SKIP-1-5-1, SKIP-1-5-10 to 1-5-14, SKIP-1-5-17):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 12 (SKIP-1-4-15 to 1-4-18, 1-4-2, 1-4-21, 1-4-3 to 1-4-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the duplicated `爛 → 乱` redirect in SKIP-1-4-17. Stamped the ten leaves.
