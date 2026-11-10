@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 35 (SKIP-2-6-5 to 2-6-9, SKIP-2-7-11, SKIP-2-7-3 to 2-7-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. SKIP-2-6-6 had its redirects split over two alias blocks (a `## Aliases` and a `### Aliases`) with `筑 → 築` and `單 → 単` each listed twice; merged them into one deduplicated `### Aliases` block (no redirect added or lost). Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 34 (SKIP-2-6-12 to 2-6-17, 2-6-19, SKIP-2-6-2 to 2-6-4):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 33 (SKIP-2-5-2 to 2-5-9, SKIP-2-6-10, 2-6-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 32 (SKIP-2-5-1, 2-5-10 to 2-5-17, 2-5-19):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.

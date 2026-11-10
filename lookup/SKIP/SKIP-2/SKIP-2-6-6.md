@@ -1,7 +1,7 @@
 ---
 size: 19
 stroke_count: 12
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-10
 skip_number: 2-6-6
 tags: [lookup]
 
@@ -34,17 +34,13 @@ tags: [lookup]
 ### Forbidden
 - 筏 --> Korean name, hyogai
 
-## Aliases
+### Aliases
 - 覃 --> 湛
 - 筑 --> 築
 - 單 --> 単
 - 朞 --> 期
 - 棊 --> 棋
 - 筝 --> 箏
-
-### Aliases
-- 單 --> 単
-- 筑 --> 築
 - 畫 --> 画
 - 茻 --> 莽
 - 奡 --> 傲
