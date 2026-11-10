@@ -37,6 +37,7 @@ tags: [lookup]
 - 柰 --> 奈
 - 查 --> 査
 - 昻 --> 昂
+- 竖 --> 豎
 
 ### Forbidden
 - 巼 - 국자: Korean-coined hanja for '팟'; place name

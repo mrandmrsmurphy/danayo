@@ -33,7 +33,7 @@ tags:
   - character
 kwin: true
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 諾.
 >For the word, see [諾](../words/諾.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1254th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄋㄚㄎ](../syllables/ㄋㄚㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 诺
+Simplified Chinese form of 諾. SKIP 1-2-8 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[諾]]<rt>ㄋㄚㄎ</rt></ruby> "consent" (stand-in for 諾)

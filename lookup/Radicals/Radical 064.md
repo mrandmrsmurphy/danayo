@@ -51,6 +51,7 @@ tags: [lookup]
 - 扰 --> 擾
 - 扳 --> 攀
 - 扵 --> 於
+- 护 --> 護
 
 ### +4 Strokes
 19. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward

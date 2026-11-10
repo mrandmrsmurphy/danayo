@@ -76,6 +76,7 @@ tags:
 - 猷 --> variant of 猶
 - 犹 --> simplified of 猶
 - 㺃 --> 狗
+- 猯 --> 貒
 
 ### +9 Strokes
 24. <ruby>[献](../../characters/献.md)<rt>ㄏㄝㄋ</rt></ruby> - offer

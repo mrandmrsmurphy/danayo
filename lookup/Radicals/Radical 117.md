@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[立](../../characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand
 
+### +4 Strokes
+- 竖 --> 豎
+
 ### +5 Strokes
 2. <ruby>[站](../../characters/站.md)<rt>ㄐㄚㄇ</rt></ruby> - station
 - 竝 --> 並
@@ -27,6 +30,9 @@ tags: [lookup]
 5. <ruby>[竣](../../characters/竣.md)<rt>ㄑㄨㄋ</rt></ruby> - complete
 6. <ruby>[童](../../characters/童.md)<rt>ㄉㄛㄫ</rt></ruby> - juvenile
 7. <ruby>[竦](../../characters/竦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - awe
+
+### +8 Strokes
+- 竪 --> 豎
 
 ### +9 Strokes
 8. <ruby>[端](../../characters/端.md)<rt>ㄉ⺢ㄋ</rt></ruby> - end

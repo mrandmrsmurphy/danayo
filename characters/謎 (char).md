@@ -26,18 +26,17 @@ joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 7315
-mc_id: 0
+mc_id:
 graphemic_classification: "迷"
 stand_in: "謎"
 aliases:
   - 谜
-  - 詸
 注音: "ㄇㄝㄧ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 謎.
 >For the word, see [謎](../words/謎.md)
@@ -51,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-10](../lookup/SKIP/SKIP-1/SKIP-1-7-10.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](../syllables/ㄇㄝㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 谜
+Simplified Chinese form of 謎. SKIP 1-2-9 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[謎]]<rt>ㄇㄝㄧ</rt></ruby> "riddle; mystery; enigma" (stand-in for 謎 (char))

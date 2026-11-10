@@ -26,6 +26,7 @@ tags: [lookup]
 ### +3 Strokes
 8. <ruby>[夷](../../characters/夷.md)<rt>ㄧㄜ</rt></ruby> - barbarian
 - 夺 --> 奪
+- 夸 --> 誇
 
 ### +4 Strokes
 9. <ruby>[夹](../../characters/夹.md)<rt>ㄍ⼘ㄆ</rt></ruby> - clip

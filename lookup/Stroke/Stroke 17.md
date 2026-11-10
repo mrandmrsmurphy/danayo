@@ -117,6 +117,8 @@ tags:
 - 璪 --> 繰
 - 聰 --> 聡
 - 盪 --> 蕩
+- 謚 --> 諡
+- 謠 --> 謡
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

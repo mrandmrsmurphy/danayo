@@ -177,6 +177,8 @@ tags:
 - 蜡 --> 蠟
 - 蝋 --> 蠟
 - 裵 --> 裴
+- 谭 --> 譚
+- 谱 --> 譜
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

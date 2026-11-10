@@ -807,3 +807,27 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 諒 | 谅 | 1-2-8 | computed from its parts |
 | 諜 | 谍 | 1-2-7 | computed from its parts |
 | 嬴 | 郢 | 1-7-3 | computed from its parts |
+| 諦 (char) | 谛 | 1-2-9 | computed from its parts |
+| 諧 | 谐 | 1-2-9 | computed from its parts |
+| 諭 | 谕 | 1-2-9 | computed from its parts |
+| 諮 | 谘 | 1-2-9 | computed from its parts |
+| 諱 (char) | 讳 | 1-2-4 | computed from its parts |
+| 諸 (char) | 诸 | 1-2-8 | computed from its parts |
+| 諾 (char) | 诺 | 1-2-8 | computed from its parts |
+| 謀 (char) | 谋 | 1-2-9 | computed from its parts |
+| 謁 (char) | 谒 | 1-2-9 | computed from its parts |
+| 謂 | 谓 | 1-2-9 | computed from its parts |
+| 謄 | 誊 | 2-6-7 | computed from its parts |
+| 謎 (char) | 谜 | 1-2-9 | computed from its parts |
+| 謐 | 谧 | 1-2-10 | computed from its parts |
+| 謗 | 谤 | 1-2-10 | computed from its parts |
+| 謙 | 谦 | 1-2-10 | computed from its parts |
+| 謡 | 谣 | 1-2-10 | computed from its parts |
+| 謹 | 谨 | 1-2-11 | computed from its parts |
+| 識 | 识 | 1-2-5 | computed from its parts |
+| 譚 | 谭 | 1-2-12 | computed from its parts |
+| 譜 | 谱 | 1-2-12 | computed from its parts |
+| 護 | 护 | 1-3-4 | computed from its parts |
+| 豈 | 岂 | 2-3-3 | computed from its parts |
+| 豎 | 竖 | 2-4-5 | computed from its parts |
+| 貞 | 贞 | 2-2-4 | computed from its parts |

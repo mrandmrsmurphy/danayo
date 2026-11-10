@@ -210,6 +210,11 @@ tags: [lookup]
 - 甦 --> 蘇
 - 蛰 --> 蟄
 - 裡 --> 裏
+- 谧 --> 謐
+- 谤 --> 謗
+- 谦 --> 謙
+- 谣 --> 謡
+- 猯 --> 貒
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

@@ -120,6 +120,7 @@ tags:
 - 沧 --> 蒼
 - 吪 --> 訛
 - 吶 --> 訥
+- 护 --> 護
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

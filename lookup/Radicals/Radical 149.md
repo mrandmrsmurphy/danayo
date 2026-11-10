@@ -61,6 +61,9 @@ tags: [lookup]
 ### +-1 Strokes
 - 讷 --> 訥
 
+### +-1 Strokes
+- 讳 --> 諱
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 - 译 --> 訳
@@ -70,6 +73,7 @@ tags: [lookup]
 - 诊 --> 診
 - 诈 --> 詐
 - 诅 --> 詛
+- 识 --> 識
 
 ### +1 Stroke
 - 试 --> 試
@@ -108,6 +112,8 @@ tags: [lookup]
 - 谁 --> 誰
 - 谊 --> 誼
 - 谅 --> 諒
+- 诸 --> 諸
+- 诺 --> 諾
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -122,6 +128,14 @@ tags: [lookup]
 - 訢 --> 欣
 - 谖 --> 萱
 - 谏 --> 諌
+- 谛 --> 諦
+- 谐 --> 諧
+- 谕 --> 諭
+- 谘 --> 諮
+- 谋 --> 謀
+- 谒 --> 謁
+- 谓 --> 謂
+- 谜 --> 謎
 
 ### +5 Strokes
 19. <ruby>[訴](../../characters/訴.md)<rt>ㄙㄛ</rt></ruby> - sue
@@ -133,6 +147,10 @@ tags: [lookup]
 25. <ruby>[詛](../../characters/詛.md)<rt>ㄐㄛ</rt></ruby> - curse
 26. <ruby>[詞](../../characters/詞.md)<rt>ㄙㄚ</rt></ruby> - word
 27. <ruby>[詠](../../characters/詠%20(char).md)<rt>ㄨㄧㄫ</rt></ruby> - recite
+- 谧 --> 謐
+- 谤 --> 謗
+- 谦 --> 謙
+- 谣 --> 謡
 
 ### +6 Strokes
 28. <ruby>[詣](../../characters/詣%20(char).md)<rt>ㄝㄧ</rt></ruby> - visit
@@ -149,6 +167,8 @@ tags: [lookup]
 39. <ruby>[誇](../../characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> - boast
 40. <ruby>[誉](../../characters/誉.md)<rt>⼄</rt></ruby> - reputation
 41. <ruby>[誠](../../characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> - sincere
+- 誊 --> 謄
+- 谨 --> 謹
 
 ### +7 Strokes
 42. <ruby>[誌](../../characters/誌.md)<rt>ㄐㄧ</rt></ruby> - symbolize
@@ -164,6 +184,8 @@ tags: [lookup]
 - 說 --> 説
 - 誖 --> 悖
 - 誡 --> 戒
+- 谭 --> 譚
+- 谱 --> 譜
 
 ### +8 Strokes
 52. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
@@ -208,6 +230,8 @@ tags: [lookup]
 83. <ruby>[謝](../../characters/謝.md)<rt>ㄙ⼘</rt></ruby> - thank
 84. <ruby>[謡](../../characters/謡.md)<rt>⼄ㄨ</rt></ruby> - song
 - 譁 --> 嘩
+- 謚 --> 諡
+- 謠 --> 謡
 
 ### +11 Strokes
 85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
@@ -229,12 +253,14 @@ tags: [lookup]
 - 譱 --> 善
 - 譯 --> 訳
 - 譫 --> 瞻
+- 譽 --> 誉
 
 ### +15 Strokes
 - 讀 --> 読
 
 ### +16 Strokes
 94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
+- 讎 --> 讐
 
 ### +17 Strokes
 - 讓 --> 譲

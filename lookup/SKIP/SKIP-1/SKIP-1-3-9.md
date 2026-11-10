@@ -189,6 +189,7 @@ tags:
 - 媚 --> 眉
 - 缔 --> 締
 - 缓 --> 緩
+- 猯 --> 貒
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

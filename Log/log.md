@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 106 (識, 譚, 譜, 護, 讐, 豈, 豎, 豕, 貒, 貞):** `## Aliases` sections and redirects for 识, 谭, 谱, 护, 讎, 岂, 竖, 竪, 猯, 贞 (computed SKIP codes for the simplified forms logged in project_alias_skip_guesses; 讎, 竪 and 猯 from EDRDG). Removed the rare Unicode-only aliases 𢁓, 𡰯, 𧰧 and 𧰬 from 豕 (which now has no aliases) and 䝎 from 貒.
+
+- **Alias loop, batch 105 (謀, 謁, 謂, 謄, 謎, 謐, 謗, 謙, 謡, 謹):** `## Aliases` sections and Stroke/SKIP/Radical redirects for 谋, 谒, 谓, 誊, 谜, 谧, 谤, 谦, 謠, 谣 and 谨 (computed SKIP codes for the simplified forms logged in project_alias_skip_guesses; 謠 from EDRDG). Dropped the rare 詸 (no definition) from 謎's aliases. 謠 supplies 謡's rank, 2367.
+
+- **Alias loop, batch 104 (誇, 誉, 諡, 諦, 諧, 諭, 諮, 諱, 諸, 諾):** `## Aliases` sections and Stroke/SKIP/Radical redirects for 夸, 侉, 譽, 謚, 谛, 谐, 谕, 咨, 谘, 讳, 诸 and 诺 (simplified 讠-forms have computed SKIP codes, logged in project_alias_skip_guesses). `mc_id` lowered to the best alias rank: 誇 2741 (夸), 諡 1607 (謚), 諮 2149 (咨). Dropped the rare Unicode-only 𧥢 and 𧧳 from 誇's aliases. 誇 is now the hub for 跨 and 袴, which cite 夸 as their phonetic.
+
 - **New chengyu 画虎類犬:** created `chengyu/画虎類犬.md` (aliases include the 狗 forms and the full 畫虎不成反類狗; origin 後漢書 卷24, Ma Yuan's 誡兄子嚴敦書, checked on zh.Wikisource, where the original reads 狗; 注音 ㄏ⺢ㄎㄏㄛㄌㄨㄧ·ㄎ⼔ㄋ, dotted at 類|犬). Back-linked from 画, 虎, 類 and 犬; added to `chengyu/Misc. Chengyu.md` (size 159). The headword uses 犬 because 狗 is a 名専字.
 
 - **New words 枯木, 生花 and chengyu 枯木生花:** created `words/枯木.md` (注音 ㄎㄛ·ㄇㄛㄎ, dotted because ㄎㄛㄇㄛㄎ also splits ㄎㄛㄇ + ㄛㄎ) and `words/生花.md` (注音 ㄙㄚㄫㄏ⺢; 花 stays bound, stand-in 草花), both on Plants; `chengyu/枯木生花.md` (origin 五燈會元 卷13, Dongshan Liangjie to Shushan, checked on zh.Wikisource with 指月錄 卷18; Wiktionary confirms 生花 as a literary verb 'to bloom'). Back-links added on 枯, 木, 生 and 花 under Words and Chengyu; added to `chengyu/Misc. Chengyu.md` (size 158) and `lexipedia/Plants.md`.

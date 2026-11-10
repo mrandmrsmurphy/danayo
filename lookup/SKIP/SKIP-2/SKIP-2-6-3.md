@@ -37,6 +37,7 @@ tags: [lookup]
 - 巺 --> 巽
 - 骂 --> 罵
 - 羗 --> 羌
+- 咨 --> 諮
 
 ## Datacheck
 ```dataview

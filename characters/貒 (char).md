@@ -30,13 +30,12 @@ graphemic_classification: 耑
 stand_in: 貒
 aliases:
   - 猯
-  - 䝎
 注音: ㄊ⺢ㄋ
 kwin: false
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 貒.
 >For the word, see [貒](../words/貒.md)
@@ -50,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 7387th most used character in Classical Chinese (trusted long-tail value, per policy not cross-checked against `Lookup/CC/CC 0000–3000.md`, which only mirrors the top ~4000 ranks). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄊ⺢ㄋ](../syllables/ㄊ⺢ㄋ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 猯
+犭 + 耑, "badger; tanuki"; a variant of 貒 with the animal radical, the form Japanese uses. SKIP 1-3-9; 12 strokes. Radical 094 犬. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[貒]]<rt>ㄊ⺢ㄋ</rt></ruby> "wild boar" (stand-in for 貒 (char))

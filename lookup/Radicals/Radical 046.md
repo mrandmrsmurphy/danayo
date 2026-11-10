@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[山](../../characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby> - mountain
 
+### +3 Strokes
+- 岂 --> 豈
+
 ### +4 Strokes
 2. <ruby>[岐](../../characters/岐%20(char).md)<rt>ㄍㄝ</rt></ruby> - fork (in road)
 - 岖 --> 区

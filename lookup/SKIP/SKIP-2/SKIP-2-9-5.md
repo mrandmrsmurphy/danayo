@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[碧](/characters/碧.md)<rt>ㄅ⼶ㄎ</rt></ruby> - emerald
 
+### Aliases
+- 竪 --> 豎
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
