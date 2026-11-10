@@ -16,6 +16,9 @@ tags: [lookup]
 ### +-1 Strokes
 - 钉 --> 釘
 
+### +-2 Strokes
+- 钇 --> 乙
+
 ### +0 Strokes
 1. <ruby>[金](../../characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - metal
 - 钓 --> 釣
@@ -30,6 +33,7 @@ tags: [lookup]
 - 钩 --> 鉤
 - 钢 --> 鋼
 - 钟 --> 鍾
+- 釔 --> 乙
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
@@ -69,6 +73,7 @@ tags: [lookup]
 - 锄 --> 鋤
 - 锅 --> 鍋
 - 锁 --> 鎖
+- 锐 --> 鋭
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell
@@ -121,6 +126,7 @@ tags: [lookup]
 32. <ruby>[鋳](../../characters/鋳.md)<rt>ㄐㄨ</rt></ruby> - cast (metal)
 - 镐 --> 鎬
 - 镇 --> 鎮
+- 銳 --> 鋭
 
 ### +8 Strokes
 33. <ruby>[鋸](../../characters/鋸%20(char).md)<rt>ㄍ⼄</rt></ruby> - saw

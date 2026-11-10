@@ -6,7 +6,7 @@ tags: [lookup]
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1
 
-1. No
+1. [SKIP-1-5-1](lookup/SKIP/SKIP-1/SKIP-1-5-1.md): ø
 2. [SKIP-1-5-2](lookup/SKIP/SKIP-1/SKIP-1-5-2.md): 初, 判, 別, 利, 刪, 助, 劫, 劭, 励, 即, 却, 町, 私
 3. [SKIP-1-5-3](lookup/SKIP/SKIP-1/SKIP-1-5-3.md): 和, 的, 知, 社, 祀, 突, 邱, 邵, 邸
 4. [SKIP-1-5-4](lookup/SKIP/SKIP-1/SKIP-1-5-4.md): 叚, 政, 故, 段, 盼, 研, 砕, 祝, 秋, 科, 秒, 級, 胡, 袂, 砒

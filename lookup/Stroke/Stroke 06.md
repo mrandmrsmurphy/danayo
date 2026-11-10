@@ -155,6 +155,8 @@ tags:
 - 尘 --> 塵
 - 戏 --> 戯
 - 冰 --> 氷
+- 钇 --> 乙
+- 份 --> 分
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

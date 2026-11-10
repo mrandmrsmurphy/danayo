@@ -53,6 +53,7 @@ tags:
 - 舰 --> 艦
 - 蚌 --> 蜂
 - 衄 --> 衂
+- 蚣 --> 公
 
 ### Forbidden
 - 粍 - 国字: Japanese-invented character for 毫米 (millimeter).

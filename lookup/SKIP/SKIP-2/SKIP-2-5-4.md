@@ -56,6 +56,8 @@ tags:
 - 费 --> 費
 - 贸 --> 貿
 - 贲 --> 賁
+- 亲 --> 辛
+- 柒 --> 七
 
 ### Forbidden
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')

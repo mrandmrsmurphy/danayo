@@ -34,6 +34,7 @@ tags: [lookup]
 - 婪 --> 林
 - 椘 --> 楚
 - 雩 --> 雨
+- 埜 --> 野
 
 ## Datacheck
 ```dataview

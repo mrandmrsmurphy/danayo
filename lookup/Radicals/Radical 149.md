@@ -154,6 +154,7 @@ tags: [lookup]
 - 谤 --> 謗
 - 谦 --> 謙
 - 谣 --> 謡
+- 谢 --> 謝
 
 ### +6 Strokes
 28. <ruby>[詣](../../characters/詣%20(char).md)<rt>ㄝㄧ</rt></ruby> - visit

@@ -244,6 +244,8 @@ tags: [lookup]
 - 崽 --> 子
 - 惠 --> 恵
 - 飩 --> 沌
+- 谢 --> 謝
+- 锐 --> 鋭
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

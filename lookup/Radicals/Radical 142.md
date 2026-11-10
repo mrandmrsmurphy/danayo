@@ -27,6 +27,7 @@ tags:
 6. <ruby>[蚕](../../characters/蚕%20(char).md)<rt>ㄐㄚㄇ</rt></ruby> - silkworm
 7. <ruby>[蚤](../../characters/蚤.md)<rt>ㄐㄚㄨ</rt></ruby> - flea
 - 蚌 --> 蜂
+- 蚣 --> 公
 
 ### +5 Strokes
 8. <ruby>[蛇](../../characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> - snake
@@ -62,6 +63,7 @@ tags:
 - 蜡 --> 蠟
 - 蝋 --> 蠟
 - 蝕 --> 食
+- 蜙 --> 公
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
@@ -91,6 +93,7 @@ tags:
 ### +12 Strokes
 - 蟠 --> 盤
 - 蟬 --> 蝉
+- 蟲 --> 虫
 
 ### +13 Strokes
 40. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab

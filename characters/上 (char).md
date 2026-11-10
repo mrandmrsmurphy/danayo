@@ -41,7 +41,7 @@ stand_in: 上
 aliases:
   - 丄
 注音: ㄙ⼘ㄫ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -59,6 +59,11 @@ boundedness: 70
 - [SKIP-4-3-2](../lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 29th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](../syllables/ㄙ⼘ㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 丄
+The ancient form of 上, "above" (Shuowen radical 2). SKIP 4-2-2; 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> "above" (stand-in for 上)

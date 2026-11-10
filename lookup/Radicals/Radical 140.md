@@ -194,6 +194,7 @@ tags:
 89. <ruby>[蕉](../../characters/蕉.md)<rt>ㄐㄛㄨ</rt></ruby> - banana
 - 藂 --> 叢
 - 薶 --> 埋
+- 藉 --> 謝
 
 ### +12 Strokes
 90. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower

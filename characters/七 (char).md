@@ -30,10 +30,9 @@ graphemic_classification: 象形
 stand_in: 七
 aliases:
   - 柒
-  - 𠀁
   - 桼
 注音: ㄑㄧㄊ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -50,6 +49,14 @@ boundedness: 75
 - [SKIP-4-2-2](../lookup/SKIP/SKIP-4/SKIP-4-2-2.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 127th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄑㄧㄊ](../syllables/ㄑㄧㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 柒
+"Seven" in the formal (大寫) numerals, and an alternative form of 漆; kept as an alias of 七 on the same derived sound. SKIP 2-5-4; 9 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+
+### 桼
+Variant form of 漆, "lacquer", kept as an alias of 七 by the shared phonetic. SKIP 2-4-7; 11 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[七]]<rt>ㄑㄧㄊ</rt></ruby> "seven"

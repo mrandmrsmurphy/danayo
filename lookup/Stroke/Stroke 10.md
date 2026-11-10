@@ -247,6 +247,9 @@ tags:
 - 烟 --> 煙
 - 狹 --> 狭
 - 监 --> 監
+- 鬥 --> 闘
+- 蚣 --> 公
+- 剥 --> 剝
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

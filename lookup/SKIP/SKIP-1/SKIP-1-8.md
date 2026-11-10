@@ -9,7 +9,7 @@ tags: [lookup]
 
 Left half has 8 strokes. Dominant components: 金, 食, 阜, 兼, 喬.
 
-- SKIP-1-8-1: none
+- [SKIP-1-8-1](lookup/SKIP/SKIP-1/SKIP-1-8-1.md): ø
 - [SKIP-1-8-2](lookup/SKIP/SKIP-1/SKIP-1-8-2.md): 釘, 剖, 剣, 剝, 剤, 剛, 針
 - [SKIP-1-8-3](lookup/SKIP/SKIP-1/SKIP-1-8-3.md): 乾, 執, 尉, 彩, 彫, 敬, 部, 郭, 郵, 都, 釣, 釧, 釩
 - [SKIP-1-8-4](lookup/SKIP/SKIP-1/SKIP-1-8-4.md): 報, 就, 戟, 敢, 散, 敦, 斯, 朝, 欺, 欽, 款, 鈍, 鈩, 鈬, 飯, 㪘

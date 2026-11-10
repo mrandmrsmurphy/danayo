@@ -255,6 +255,8 @@ tags:
 - 鸾 --> 鵉
 - 龚 --> 龔
 - 兽 --> 獣
+- 埜 --> 野
+- 桼 --> 七
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

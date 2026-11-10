@@ -21,7 +21,7 @@ Below are the number of strokes for the other material, that is, that which is s
 11. [SKIP-3-10-11](lookup/SKIP/SKIP-3/SKIP-3-10-11.md): 魑
 12. none
 13. none
-14. none
+14. [SKIP-3-10-14](lookup/SKIP/SKIP-3/SKIP-3-10-14.md): ø
 15. none
 16. [SKIP-3-10-16](lookup/SKIP/SKIP-3/SKIP-3-10-16.md): ø
 

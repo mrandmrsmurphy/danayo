@@ -67,6 +67,7 @@ tags:
 28. <ruby>[剤](../../characters/剤.md)<rt>ㄐㄝㄧ</rt></ruby> - dose
 - 剔 --> 剃
 - 剠 --> 掠
+- 剥 --> 剝
 
 ### +9 Strokes
 29. <ruby>[削](../../characters/削%20(char).md)<rt>ㄙ⼘ㄎ</rt></ruby> - scrape

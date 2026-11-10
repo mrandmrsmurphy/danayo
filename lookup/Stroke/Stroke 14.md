@@ -207,6 +207,8 @@ tags:
 - 蔞 --> 婁
 - 褛 --> 婁
 - 孵 --> 孚
+- 墅 --> 野
+- 蜙 --> 公
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

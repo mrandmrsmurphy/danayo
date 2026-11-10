@@ -39,7 +39,7 @@ aliases:
   - 釔
   - 钇
 注音: ㄜㄊ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -58,6 +58,14 @@ boundedness: 100
 - [SKIP-4-1-1](../lookup/SKIP/SKIP-4/SKIP-4-1-1.md) ([Stroke 01](../lookup/Stroke/Stroke%2001.md)) — the only character matching this description, a single 1-stroke line.
 - 769th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄜㄊ](../syllables/ㄜㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 釔
+金 + 乙, "yttrium"; a separate word built on 乙 as its phonetic, kept as an alias of 乙 on the same derived sound. SKIP 1-8-1; 9 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
+
+### 钇
+Simplified Chinese form of 釔. SKIP 1-5-1 (computed: EDRDG does not list it); 6 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[乙]]<rt>ㄜㄊ</rt></ruby> "second" (stand-in for 乙)

@@ -26,6 +26,7 @@ tags: [lookup]
 - 软 --> 軟
 - 轰 --> 軣
 - 轮 --> 輪
+- 转 --> 転
 
 ### +2 Strokes
 3. <ruby>[軌](../../characters/軌%20(char).md)<rt>ㄎㄨㄧ</rt></ruby> - track
@@ -76,6 +77,9 @@ tags: [lookup]
 ### +10 Strokes
 20. <ruby>[輿](../../characters/輿%20(char).md)<rt>⼄</rt></ruby> - palanquin
 21. <ruby>[轄](../../characters/轄%20(char).md)<rt>ㄏㄚㄊ</rt></ruby> - linchpin of a wheel
+
+### +11 Strokes
+- 轉 --> 転
 
 ### +14 Strokes
 - 轟 --> 軣

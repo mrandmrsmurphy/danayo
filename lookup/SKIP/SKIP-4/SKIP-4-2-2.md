@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[七](characters/七%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - seven
 
+### Aliases
+- 丄 --> 上
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

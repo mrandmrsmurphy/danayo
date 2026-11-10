@@ -129,6 +129,7 @@ tags: [lookup]
 - 柘 --> 石
 - 柁 --> 舵
 - 柂 --> 舵
+- 柒 --> 七
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -190,6 +191,7 @@ tags: [lookup]
 - 椘 --> 楚
 - 梹 --> 檳
 - 桼 --> 漆
+- 桼 --> 七
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess

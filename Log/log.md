@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Alias loop, batch 143 (七, 上, 中, 之, 乙, 井, 公, 刀, 分, 剝):** `## Aliases` sections and redirects for 柒, 桼, 丄, 釔, 钇, 丼, 蚣, 蜙, 份 and 剥 (all but 钇 from EDRDG; its computed SKIP code is logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-8-1 (for 釔) and SKIP-1-5-1 (for 钇) with their index entries. Removed the rare 𠀁, 𠁩, 㞢, 𠔇, 𡳿, 𧌻, 𠚣, 𠚩, 𠚬 and 𠧓 (no definitions), so 中, 之 and 刀 now have no aliases.
+
+- **Alias loop, batch 142 (膚, 花, 虫, 謝, 貝, 転, 辛, 野, 鋭, 闘):** `## Aliases` sections and redirects for 肤, 蟲, 谢, 藉, 贝, 轉, 转, 亲, 墅, 埜, 壄, 銳, 锐, 鬪, 鬥 and 鬭 (蟲, 藉, 轉, 墅, 埜, 壄, 鬪, 鬥 and 鬭 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-10-14 (for 鬭) with its index entry. Removed the rare 𩸽, 䇂, 㙒, 𡐨 and 𡑀 (no usable definitions), so 花 now has no aliases.
+
 - **Alias loop, batch 141 (煙, 父, 狭, 獣, 監, 種, 純, 絞, 繋, 胡):** `## Aliases` sections and redirects for 烟, 狹, 獸, 兽, 监, 种, 纯, 諄, 绞, 繫 and 鬍 (烟, 狹, 獸, 諄, 繫 and 鬍 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-15-4 (for 獸) and SKIP-2-10-9 (for 鬍) with their index entries. Removed the rare 𠇑 (a Zhuang character, no Chinese definition), so 父 now has no aliases.
 
 - **Alias loop, batch 140 (敗, 显, 東, 楽, 歌, 死, 母, 氷, 沌, 焼):** `## Aliases` sections and redirects for 败, 顯, 东, 樂, 乐, 欨, 謌, 屍, 姆, 毋, 拇, 冰, 坉, 飩, 烧 and 燒 (顯, 樂, 欨, 謌, 屍, 姆, 毋, 拇, 冰, 飩 and 燒 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` of 显 lowered to 639 (顯). Removed the rare 㬎 and 仌 (no usable definitions), so 氷 keeps only 冰.

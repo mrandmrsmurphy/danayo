@@ -247,6 +247,9 @@ tags:
 - 屍 --> 死
 - 种 --> 種
 - 绞 --> 絞
+- 亲 --> 辛
+- 柒 --> 七
+- 釔 --> 乙
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

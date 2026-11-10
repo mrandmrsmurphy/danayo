@@ -23,6 +23,7 @@ tags: [lookup]
 - 㸘 --> 万
 - 桼 --> 漆
 - 覔 --> 覓
+- 桼 --> 七
 
 ## Datacheck
 ```dataview

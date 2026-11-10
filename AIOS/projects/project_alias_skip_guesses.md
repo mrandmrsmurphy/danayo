@@ -1087,3 +1087,11 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 種 | 种 | 1-5-4 | computed from its parts |
 | 純 | 纯 | 1-3-4 | computed from its parts |
 | 絞 | 绞 | 1-3-6 | computed from its parts |
+| 膚 | 肤 | 1-4-4 | computed from its parts |
+| 謝 | 谢 | 1-2-10 | computed from its parts |
+| 貝 | 贝 | 4-4-1 | computed from its parts |
+| 転 | 转 | 1-4-4 | computed from its parts |
+| 辛 | 亲 | 2-5-4 | computed from its parts |
+| 鋭 | 銳 | 1-8-7 | computed from its parts |
+| 鋭 | 锐 | 1-5-7 | computed from its parts |
+| 乙 (char) | 钇 | 1-5-1 | computed from its parts |

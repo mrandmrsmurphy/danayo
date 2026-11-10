@@ -40,6 +40,7 @@ tags: [lookup]
 - 乌 --> 烏
 - 见 --> 見
 - 毋 --> 母
+- 贝 --> 貝
 
 ## Datacheck
 ```dataview

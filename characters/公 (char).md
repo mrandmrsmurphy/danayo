@@ -30,9 +30,8 @@ stand_in: 公
 aliases:
   - 蚣
   - 蜙
-  - 𧌻
 注音: ㄍㄛㄫ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -50,6 +49,14 @@ boundedness: 100
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 22nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄍㄛㄫ](../syllables/ㄍㄛㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 蚣
+虫 + 公, as in 蜈蚣 "centipede"; a separate word built on 公 as its phonetic, kept as an alias of 公 on the same derived sound. SKIP 1-6-4; 10 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
+### 蜙
+虫 + 松, as in 蜙蝑; a separate word kept as an alias of 公 on the same derived sound. SKIP 1-6-8; 14 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[公]]<rt>ㄍㄛㄫ</rt></ruby> "sir" (stand-in for 公)

@@ -17,6 +17,9 @@ tags: [lookup]
 - 鬥 --> 斗
 - 鬩 --> 䦧
 - 鬨 --> 哄
+- 鬪 --> 闘
+- 鬥 --> 闘
+- 鬭 --> 闘
 
 ## Data check
 ```dataview

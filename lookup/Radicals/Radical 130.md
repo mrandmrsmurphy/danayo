@@ -41,6 +41,7 @@ tags: [lookup]
 - 肾 --> 腎
 - 肿 --> 腫
 - 肸 --> 迄
+- 肤 --> 膚
 
 ### +3 Strokes
 20. <ruby>[肺](../../characters/肺.md)<rt>ㄈㄝ</rt></ruby> - lungs

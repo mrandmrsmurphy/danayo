@@ -25,6 +25,7 @@ tags: [lookup]
 - 勌 --> 倦
 - 勑 --> 勅
 - 剠 --> 掠
+- 剥 --> 剝
 
 ## Datacheck
 ```dataview

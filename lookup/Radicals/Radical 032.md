@@ -85,6 +85,7 @@ tags:
 - 堈 --> 缸
 - 堇 --> 菫
 - 埰 --> 采
+- 埜 --> 野
 
 ### +9 Strokes
 36. <ruby>[堅](../../characters/堅.md)<rt>ㄍㄝㄋ</rt></ruby> - hard
@@ -123,6 +124,7 @@ tags:
 - 塹 --> 斬
 - 墙 --> 牆
 - 塼 --> 磚
+- 墅 --> 野
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall
@@ -140,6 +142,7 @@ tags:
 66. <ruby>[壊](../../characters/壊.md)<rt>ㄏ⺢ㄧ</rt></ruby> - demolish
 67. <ruby>[壌](../../characters/壌.md)<rt>ㄋ⼘ㄫ</rt></ruby> - soil
 - 墻 --> 牆
+- 壄 --> 野
 
 ### +14 Strokes
 - 壓 --> traditional form of 圧

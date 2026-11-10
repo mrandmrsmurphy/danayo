@@ -33,7 +33,7 @@ stand_in: 分
 aliases:
   - 份
 注音: ㄅㄨㄋ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 95
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 206th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄅㄨㄋ](../syllables/ㄅㄨㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 份
+亻 + 分, "share, portion"; a separate word built on 分, kept as an alias of 分 on the same derived sound. SKIP 1-2-4; 6 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> "divide" (stand-in for 分)

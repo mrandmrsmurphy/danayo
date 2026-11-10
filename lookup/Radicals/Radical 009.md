@@ -79,6 +79,7 @@ aliases:
 - 伪 --> 偽
 - 伞 --> 傘
 - 优 --> 優
+- 份 --> 分
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle

@@ -48,6 +48,7 @@ tags: [lookup]
 - 锄 --> 鋤
 - 锅 --> 鍋
 - 锁 --> 鎖
+- 锐 --> 鋭
 
 ## Datacheck
 ```dataview

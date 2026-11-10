@@ -32,6 +32,7 @@ tags: [lookup]
 - 靃 --> 霍
 - 齶 --> 顎
 - 鹼 --> 鹸
+- 鬭 --> 闘
 
 ### Forbidden
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)

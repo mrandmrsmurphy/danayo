@@ -19,6 +19,7 @@ Radical 1 is 一, the number one.
 - 丄 --> ancient variant of 上
 - 丅 --> ancient variant of 下
 - 丂 --> 考
+- 丄 --> 上
 
 ### +2 Strokes
 4. <ruby>[万](../../characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
