@@ -18,6 +18,7 @@ tags: [lookup]
 - 冲 --> 沖
 - 冱 --> 冴
 - 冲 --> 衝
+- 冰 --> 氷
 
 ### +5 Strokes
 2. <ruby>[冷](../../characters/冷%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - cool

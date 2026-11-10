@@ -48,6 +48,7 @@ tags:
 - 夸 --> 誇
 - 岂 --> 豈
 - 务 --> 務
+- 尘 --> 塵
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

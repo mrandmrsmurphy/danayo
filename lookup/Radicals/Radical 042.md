@@ -20,6 +20,7 @@ tags: [lookup]
 3. <ruby>[尗](../../characters/尗.md)<rt>ㄙ⼜ㄎ</rt></ruby> - bean
 4. <ruby>[尖](../../characters/尖.md)<rt>ㄐㄝㄇ</rt></ruby> - sharp
 5. <ruby>[当](../../characters/当%20(char).md)<rt>ㄉㄚㄫ</rt></ruby> - while
+- 尘 --> 塵
 
 ### +5 Strokes
 6. <ruby>[尚](../../characters/尚%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - still

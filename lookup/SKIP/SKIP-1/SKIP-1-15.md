@@ -10,7 +10,7 @@ tags:
 1. no
 2. no
 3. no
-4. no
+4. [SKIP-1-15-4](lookup/SKIP/SKIP-1/SKIP-1-15-4.md): ø
 5. [SKIP-1-15-5](lookup/SKIP/SKIP-1/SKIP-1-15-5.md): ø
 6. [SKIP-1-15-6](lookup/SKIP/SKIP-1/SKIP-1-15-6.md): 齦
 7. no

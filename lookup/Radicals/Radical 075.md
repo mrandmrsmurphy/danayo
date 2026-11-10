@@ -296,6 +296,7 @@ tags: [lookup]
 - 樑 --> 梁
 - 橢 --> 楕
 - 槿 --> 菫
+- 樂 --> 楽
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant

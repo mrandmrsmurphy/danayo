@@ -22,6 +22,7 @@ tags: [lookup]
 4. <ruby>[戍](../../characters/戍.md)<rt>ㄙㄨ</rt></ruby> - border guard
 5. <ruby>[戌](../../characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> - eleventh earthly branch
 6. <ruby>[戎](../../characters/戎.md)<rt>ㄋㄨㄫ</rt></ruby> - arms
+- 戏 --> 戯
 
 ### +3 Strokes
 7. <ruby>[我](../../characters/我%20(char).md)<rt>ㄚ</rt></ruby> - I
@@ -50,8 +51,12 @@ tags: [lookup]
 14. <ruby>[戯](../../characters/戯.md)<rt>ㄏㄨㄧ</rt></ruby> - play
 15. <ruby>[戮](../../characters/戮.md)<rt>ㄌㄨㄎ</rt></ruby> - slaughter
 
+### +12 Strokes
+- 戱 --> 戯
+
 ### +13 Strokes
 16. <ruby>[戴](../../characters/戴%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - be crowned with
+- 戲 --> 戯
 
 ### Forbidden
 - 𢦏 - 幽霊文字: Wiki's own note: "not really a word ever, anywhere." Component in 戴/載/裁/截/臷/蛓/哉/胾/栽/烖/酨/𨚵.

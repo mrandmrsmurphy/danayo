@@ -25,6 +25,7 @@ tags: [lookup]
 - 盐 --> 塩
 - 𥁕 --> 昷
 - 盏 --> 盞
+- 监 --> 監
 
 ### +6 Strokes
 6. <ruby>[盒](../../characters/盒.md)<rt>ㄏㄛㄆ</rt></ruby> - box

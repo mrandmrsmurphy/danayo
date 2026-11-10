@@ -40,6 +40,9 @@ tags: [lookup]
 ### +8 Strokes
 9. <ruby>[兼](../../characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> - double as
 
+### +9 Strokes
+- 兽 --> 獣
+
 ### +10 Strokes
 10. <ruby>[具](../../characters/具.md)<rt>ㄍㄨ</rt></ruby> - tool
 

@@ -35,6 +35,7 @@ tags: [lookup]
 - 戠 --> 埴
 - 毁 --> 毀
 - 韵 --> 韻
+- 飩 --> 沌
 
 ## Datacheck
 ```dataview

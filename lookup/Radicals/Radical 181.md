@@ -98,6 +98,7 @@ tags: [lookup]
 
 ### +14 Strokes
 - 顯 --> 顕
+- 顯 --> 显
 
 ### Aliases
 - 頽 --> 退

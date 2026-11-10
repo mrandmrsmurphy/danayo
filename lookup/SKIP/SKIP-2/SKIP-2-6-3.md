@@ -38,6 +38,7 @@ tags: [lookup]
 - 骂 --> 罵
 - 羗 --> 羌
 - 咨 --> 諮
+- 娄 --> 婁
 
 ## Datacheck
 ```dataview

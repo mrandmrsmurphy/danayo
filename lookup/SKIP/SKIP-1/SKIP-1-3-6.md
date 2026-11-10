@@ -123,6 +123,7 @@ tags:
 - 饵 --> 餌
 - 骆 --> 駱
 - 须 --> 鬚
+- 绞 --> 絞
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

@@ -80,6 +80,7 @@ tags: [lookup]
 - 拣 --> 揀
 - 拥 --> 擁
 - 抬 --> 擡
+- 拇 --> 母
 
 ### +5 Strokes
 40. <ruby>[括](../../characters/括.md)<rt>ㄍ⺢ㄊ</rt></ruby> - embrace

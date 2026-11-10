@@ -16,6 +16,7 @@ tags:
 
 ### Aliases
 - 每 --> 毎
+- 毋 --> 母
 
 ## Data check
 ```dataview

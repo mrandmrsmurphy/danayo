@@ -172,6 +172,8 @@ tags:
 - 麪 --> 麺
 - 撈 --> 𢭐
 - 瞒 --> 𥈞
+- 增 --> 増
+- 樂 --> 楽
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

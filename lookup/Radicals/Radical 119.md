@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 类 --> 類
+- 娄 --> 婁
 
 ### +4 Strokes
 2. <ruby>[粉](../../characters/粉%20(char).md)<rt>ㄈㄨㄋ</rt></ruby> - powder

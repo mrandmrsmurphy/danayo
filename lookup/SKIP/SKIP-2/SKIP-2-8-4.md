@@ -39,6 +39,7 @@ tags: [lookup]
 - 暂 --> 暫
 - 琹 --> 琴
 - 鲁 --> 魯
+- 惠 --> 恵
 
 ## Datacheck
 ```dataview

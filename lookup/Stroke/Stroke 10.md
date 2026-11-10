@@ -242,6 +242,11 @@ tags:
 - 捣 --> 𢭏
 - 捞 --> 𢭐
 - 脐 --> 𦜝
+- 恖 --> 思
+- 烧 --> 焼
+- 烟 --> 煙
+- 狹 --> 狭
+- 监 --> 監
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

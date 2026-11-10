@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Alias loop, batch 141 (煙, 父, 狭, 獣, 監, 種, 純, 絞, 繋, 胡):** `## Aliases` sections and redirects for 烟, 狹, 獸, 兽, 监, 种, 纯, 諄, 绞, 繫 and 鬍 (烟, 狹, 獸, 諄, 繫 and 鬍 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-15-4 (for 獸) and SKIP-2-10-9 (for 鬍) with their index entries. Removed the rare 𠇑 (a Zhuang character, no Chinese definition), so 父 now has no aliases.
+
+- **Alias loop, batch 140 (敗, 显, 東, 楽, 歌, 死, 母, 氷, 沌, 焼):** `## Aliases` sections and redirects for 败, 顯, 东, 樂, 乐, 欨, 謌, 屍, 姆, 毋, 拇, 冰, 坉, 飩, 烧 and 燒 (顯, 樂, 欨, 謌, 屍, 姆, 毋, 拇, 冰, 飩 and 燒 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` of 显 lowered to 639 (顯). Removed the rare 㬎 and 仌 (no usable definitions), so 氷 keeps only 冰.
+
+- **Alias loop, batch 139 (喿, 塵, 増, 婁, 子, 孚, 彗, 思, 恵, 戯):** `## Aliases` sections and redirects for 噪, 尘, 增, 娄, 褸, 縷, 蔞, 褛, 缕, 仔, 崽, 孵, 篲, 恖, 惠, 戲, 戱 and 戏 (噪, 娄, 褸, 縷, 蔞, 仔, 崽, 孵, 篲, 恖, 惠 and 戲 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 㜽, 𡿹, 𡐫 and 𣕓 (no definitions) from 子.
+
 - **Alias loop, batch 138 (𡿺, 𢭏, 𢭐, 𥈞, 𦚖, 𦜝, 𧦅, 側, 利, 務):** `## Aliases` sections and redirects for 㐫, 瑙, 碯, 擣, 捣, 撈, 捞, 瞞, 瞒, 眨, 臍, 脐, 謳, 赞, 讴, 侧, 鯏 and 务 (瑙, 碯, 擣, 撈, 瞞, 眨, 臍, 謳 and 鯏 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the description sequence ⿱𭕄凶 from 𡿺 (not a character).
 
 - **Alias loop, batch 137 (麟, 麺, 黎, 黒, 鼈, 鼠, 齦, 龐, 龔, 𡈼):** `## Aliases` sections and redirects for 麐, 麵, 麪, 黑, 龞, 鱉, 鳖, 鼡, 龈, 庞, 龎, 龚, 莛 and 葶 (麵, 麪, 龞, 鱉, 鼡, 莛 and 葶 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-12-16 (for 龞) with its index entry. `mc_id` of 鼈 set to 2039 (鱉). Removed the rare 㴝, 𥣥, 𱌇, 䑕 and 厐 (no definitions), so 黎 now has no aliases.

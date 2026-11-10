@@ -49,6 +49,7 @@ aliases:
 - 仝 --> 同
 - 仪 --> 儀
 - 仞 --> 刃
+- 仔 --> 子
 
 ### +4 Strokes
 16. <ruby>[仮](../../characters/仮.md)<rt>ㄍㄚ</rt></ruby> - borrow

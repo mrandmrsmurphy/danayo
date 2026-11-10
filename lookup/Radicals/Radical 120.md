@@ -32,6 +32,7 @@ tags: [lookup]
 - 纺 --> 紡
 - 纲 --> 綱
 - 纬 --> 緯
+- 纯 --> 純
 
 ### +2 Strokes
 - 终 --> 終
@@ -59,6 +60,7 @@ tags: [lookup]
 - 绚 --> 絢
 - 绒 --> 絨
 - 绕 --> 繞
+- 绞 --> 絞
 
 ### +4 Strokes
 8. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark
@@ -129,6 +131,7 @@ tags: [lookup]
 - 絲 --> 糸
 - 缔 --> 締
 - 缓 --> 緩
+- 缕 --> 婁
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -195,6 +198,7 @@ tags: [lookup]
 - 總 --> 総
 - 縱 --> 縦
 - 繅 --> 繰
+- 縷 --> 婁
 
 ### +12 Strokes
 78. <ruby>[織](../../characters/織.md)<rt>ㄐㄧㄎ</rt></ruby> - weave
@@ -209,6 +213,7 @@ tags: [lookup]
 - 繪 --> 絵
 - 繩 --> 縄
 - 繡 --> 繍
+- 繫 --> 繋
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile

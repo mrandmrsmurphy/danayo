@@ -85,6 +85,7 @@ tags:
 - 簧 --> 黄
 - 簒 --> 竄
 - 簘 --> 簫
+- 篲 --> 彗
 
 ### +12 Strokes
 36. <ruby>[簞](../../characters/簞.md)<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket

@@ -204,6 +204,9 @@ tags:
 - 碱 --> 鹸
 - 龈 --> 齦
 - 碯 --> 𡿺
+- 蔞 --> 婁
+- 褛 --> 婁
+- 孵 --> 孚
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

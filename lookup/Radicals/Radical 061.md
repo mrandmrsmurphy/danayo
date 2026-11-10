@@ -88,6 +88,7 @@ tags: [lookup]
 - 悧 --> 俐
 - 恶 --> 悪
 - 悯 --> 憫
+- 恖 --> 思
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -127,6 +128,7 @@ tags: [lookup]
 - 愤 --> 憤
 - 惩 --> 懲
 - 惺 --> 星
+- 惠 --> 恵
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought

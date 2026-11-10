@@ -55,6 +55,7 @@ tags:
 15. <ruby>[狽](../../characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> - mythical wolf-like beast
 - 猂 --> 悍
 - 猐 --> 羌
+- 狹 --> 狭
 
 ### +7 Strokes
 16. <ruby>[猛](../../characters/猛.md)<rt>ㄇㄚㄫ</rt></ruby> - fierce
@@ -107,6 +108,7 @@ tags:
 ### +15 Strokes
 30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter
 - 獭 --> simplified of 獺
+- 獸 --> 獣
 
 ### +16 Strokes
 - 獻 --> 献

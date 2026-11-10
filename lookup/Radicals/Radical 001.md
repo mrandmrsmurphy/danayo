@@ -57,6 +57,7 @@ Radical 1 is 一, the number one.
 - 丗 --> 世
 - 丛 --> 叢
 - 丝 --> 糸
+- 东 --> 東
 
 ### +5 Strokes
 18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄜㄫ</rt></ruby> - rescue

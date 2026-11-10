@@ -24,6 +24,7 @@ tags:
 - 贮 --> 貯
 - 贤 --> 賢
 - 购 --> 購
+- 败 --> 敗
 
 ### +2 Strokes
 2. <ruby>[貞](../../characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> - chaste

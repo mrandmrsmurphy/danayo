@@ -240,6 +240,10 @@ tags: [lookup]
 - 鹄 --> 鵠
 - 黑 --> 黒
 - 葶 --> 𡈼
+- 缕 --> 婁
+- 崽 --> 子
+- 惠 --> 恵
+- 飩 --> 沌
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

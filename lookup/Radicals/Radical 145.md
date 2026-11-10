@@ -68,6 +68,7 @@ tags:
 - 褔 --> 副
 - 裳 --> 装
 - 裵 --> 裴
+- 褛 --> 婁
 
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
@@ -76,6 +77,7 @@ tags:
 
 ### +10 Strokes
 - 襃 --> 褒
+- 褸 --> 婁
 
 ### +11 Strokes
 28. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat

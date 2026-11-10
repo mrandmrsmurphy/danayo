@@ -63,6 +63,7 @@ tags: [lookup]
 - 嵒 --> 岩
 - 嵯 --> 差
 - 嵜 --> 埼
+- 崽 --> 子
 
 ### +10 Strokes
 21. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high

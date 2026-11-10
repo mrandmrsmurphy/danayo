@@ -16,7 +16,7 @@ Top component has 10 strokes. Dominant components: 髟, 能, 莫, 般.
 6. [SKIP-2-10-6](lookup/SKIP/SKIP-2/SKIP-2-10-6.md): 繁
 7. [SKIP-2-10-7](lookup/SKIP/SKIP-2/SKIP-2-10-7.md): 覧, 醤
 8. [SKIP-2-10-8](lookup/SKIP/SKIP-2/SKIP-2-10-8.md): ø
-9. ø
+9. [SKIP-2-10-9](lookup/SKIP/SKIP-2/SKIP-2-10-9.md): ø
 10. [SKIP-2-10-10](lookup/SKIP/SKIP-2/SKIP-2-10-10.md): ø
 11. [SKIP-2-10-11](lookup/SKIP/SKIP-2/SKIP-2-10-11.md): ø
 12. [SKIP-2-10-12](lookup/SKIP/SKIP-2/SKIP-2-10-12.md): 鬚

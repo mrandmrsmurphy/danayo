@@ -50,6 +50,7 @@ tags: [lookup]
 23. <ruby>[姑](../../characters/姑.md)<rt>ㄍㄛ</rt></ruby> - paternal aunt
 24. <ruby>[姓](../../characters/姓.md)<rt>ㄙㄧㄫ</rt></ruby> - surname
 25. <ruby>[委](../../characters/委%20(char).md)<rt>⼔ㄧ</rt></ruby> - appoint
+- 姆 --> 母
 
 ### +6 Strokes
 26. <ruby>[姚](../../characters/姚.md)<rt>⼄ㄨ</rt></ruby> - handsome

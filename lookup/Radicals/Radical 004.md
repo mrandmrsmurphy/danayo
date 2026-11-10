@@ -37,6 +37,7 @@ tags: [lookup]
 - 乔 --> 喬
 - 乌 --> 烏
 - 乇 --> 託
+- 乐 --> 楽
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

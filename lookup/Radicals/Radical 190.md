@@ -25,6 +25,7 @@ tags: [lookup]
 - 髴 --> 彿
 - 髮 --> 髪
 - 髥 --> 髯
+- 鬍 --> 胡
 
 ## Data check
 ```dataview

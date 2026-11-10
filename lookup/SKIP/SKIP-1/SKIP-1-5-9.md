@@ -38,6 +38,7 @@ tags: [lookup]
 - 锺 --> 鍾
 - 碱 --> 鹸
 - 碯 --> 𡿺
+- 褛 --> 婁
 
 ## Datacheck
 ```dataview

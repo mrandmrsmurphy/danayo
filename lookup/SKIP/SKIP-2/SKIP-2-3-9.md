@@ -56,6 +56,7 @@ tags:
 - 窝 --> 窩
 - 飨 --> 饗
 - 葶 --> 𡈼
+- 崽 --> 子
 
 ## Datacheck
 ```dataview

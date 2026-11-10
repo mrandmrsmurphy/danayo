@@ -38,6 +38,7 @@ tags: [lookup]
 12. <ruby>[屋](../../characters/屋%20(char).md)<rt>ㄛㄎ</rt></ruby> - roof
 13. <ruby>[屎](../../characters/屎%20(char).md)<rt>ㄏㄜ</rt></ruby> - excrement
 14. <ruby>[屏](../../characters/屏.md)<rt>ㄅㄧㄫ</rt></ruby> - folding screen
+- 屍 --> 死
 
 ### +7 Strokes
 15. <ruby>[屑](../../characters/屑%20(char).md)<rt>ㄙㄝㄊ</rt></ruby> - scraps

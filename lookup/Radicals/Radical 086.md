@@ -55,6 +55,8 @@ tags: [lookup]
 - 烙 --> 落
 - 烣 --> 恢
 - 烛 --> 燭
+- 烧 --> 焼
+- 烟 --> 煙
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
@@ -108,6 +110,7 @@ tags: [lookup]
 - 燔 --> 焚
 - 燄 --> 焰
 - 燎 --> 療
+- 燒 --> 焼
 
 ### +13 Strokes
 42. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched

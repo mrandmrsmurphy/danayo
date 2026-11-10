@@ -39,6 +39,7 @@ tags: [lookup]
 - 卐 --> 卍
 - 乌 --> 烏
 - 见 --> 見
+- 毋 --> 母
 
 ## Datacheck
 ```dataview

@@ -39,6 +39,7 @@ tags: [lookup]
 3. <ruby>[飯](../../characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked)
 4. <ruby>[飧](../../characters/飧.md)<rt>ㄙㄛㄋ</rt></ruby> - evening meal
 - 飨 --> 饗
+- 飩 --> 沌
 
 ### +4 Strokes
 5. <ruby>[飽](../../characters/飽%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - sated

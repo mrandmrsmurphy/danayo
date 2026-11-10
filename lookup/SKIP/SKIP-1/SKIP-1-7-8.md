@@ -47,6 +47,7 @@ tags:
 - 踐 --> 践
 - 醉 --> 酔
 - 醋 --> 酢
+- 諄 --> 純
 
 ## Datacheck
 ```dataview

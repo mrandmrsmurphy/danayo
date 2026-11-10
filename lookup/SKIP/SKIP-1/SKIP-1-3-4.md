@@ -124,6 +124,8 @@ tags:
 - 陆 --> 陸
 - 际 --> 際
 - 驳 --> 駁
+- 坉 --> 沌
+- 纯 --> 純
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

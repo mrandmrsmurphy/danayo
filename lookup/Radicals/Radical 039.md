@@ -48,6 +48,9 @@ tags: [lookup]
 ### +10 Strokes
 13. <ruby>[季](../../characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> - season
 
+### +11 Strokes
+- 孵 --> 孚
+
 ### +14 Strokes
 - 孺 --> 儒
 

@@ -205,6 +205,7 @@ tags: [lookup]
 63. <ruby>[諸](../../characters/諸%20(char).md)<rt>ㄐㄚ</rt></ruby> - various
 64. <ruby>[謁](../../characters/謁%20(char).md)<rt>ㄝㄊ</rt></ruby> - visit
 - 䛷 --> 婉
+- 諄 --> 純
 
 ### +9 Strokes
 65. <ruby>[諌](../../characters/諌.md)<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
@@ -235,6 +236,7 @@ tags: [lookup]
 - 譁 --> 嘩
 - 謚 --> 諡
 - 謠 --> 謡
+- 謌 --> 歌
 
 ### +11 Strokes
 85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err

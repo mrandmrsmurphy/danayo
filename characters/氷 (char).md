@@ -27,10 +27,9 @@ mc_id: 1448
 graphemic_classification: "象形"
 stand_in: "氷"
 aliases:
-  - 仌
   - 冰
 注音: "ㄅㄧㄫ"
-date-last-perfect: 2026-10-21
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -45,6 +44,11 @@ boundedness: 40
 - [SKIP-1-2-3](../lookup/SKIP/SKIP-1/SKIP-1-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1448th most used character in Classical Chinese (ranked under the standard form 冰). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄅㄧㄫ](../syllables/ㄅㄧㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 冰
+冫 + 水, "ice"; the form Chinese uses for 氷, and the one the Classical Chinese lists rank. SKIP 1-2-4; 6 strokes. Radical 015 冫. It ranks 1448 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[氷水]]<rt>ㄅㄧㄫㄙㄨ</rt></ruby> "ice water" (stand-in for 氷)
