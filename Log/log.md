@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 7 (SKIP-1-14-3, 1-14-9, 1-15-10, 1-15-4, 1-15-5, 1-15-6, 1-15-9, 1-16-11, 1-17-11, 1-2-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including the redirect-only leaves built during the alias loop (1-14-9, 1-15-4, 1-15-9, 1-16-11); no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 6 (SKIP-1-12-2 to 1-12-7, 1-12-9, 1-13-2, 1-13-6, 1-14-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 5 (SKIP-1-11-18, SKIP-1-11-2 to 1-11-9, SKIP-1-12-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 4 (SKIP-1-11-11 to 1-11-16, SKIP-2-10-4, SKIP-2-4-5, SKIP-2-9-3, SKIP-3-8-3):** checked each leaf against the characters' own data. Removed the duplicated `鱆 → 章` redirect in SKIP-1-11-11 and the stray `糶 → 翟` redirect in SKIP-1-11-14 (翟 does not list 糶 as an alias, and 糶 has no page), with its now-empty Aliases heading. Stamped the ten leaves.
