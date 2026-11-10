@@ -1095,3 +1095,10 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鋭 | 銳 | 1-8-7 | computed from its parts |
 | 鋭 | 锐 | 1-5-7 | computed from its parts |
 | 乙 (char) | 钇 | 1-5-1 | computed from its parts |
+| 慙 | 惭 | 1-3-8 | computed from its parts |
+| 択 | 择 | 1-3-5 | computed from its parts |
+| 晩 (char) | 晚 | 1-4-7 | computed from its parts |
+| 誹 | 诽 | 1-2-8 | computed from its parts |
+| 還 | 还 | 3-3-5 | computed from its parts |
+| 顔 | 颜 | 1-9-6 | computed from its parts |
+| 餓 | 饿 | 1-3-7 | computed from its parts |

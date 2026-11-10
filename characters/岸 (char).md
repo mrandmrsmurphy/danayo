@@ -31,12 +31,10 @@ mc_id: 2159
 graphemic_classification: 干
 stand_in: 岸
 aliases:
-  - 㟁
   - 屽
   - 厈
-  - 垾
 注音: ㄚㄋ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -54,6 +52,14 @@ boundedness: 65
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 2159th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄚㄋ](../syllables/ㄚㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 屽
+Variant form of 岸, "shore, cliff". SKIP 1-3-3; 6 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 厈
+Archaic form of 岸, "cliff, rock cave". SKIP 3-2-3; 5 strokes. Radical 027 厂. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[岸]]<rt>ㄚㄋ</rt></ruby> "bank; shore" (stand-in for 岸)

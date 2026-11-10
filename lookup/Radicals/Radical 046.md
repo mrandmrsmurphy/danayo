@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 岂 --> 豈
+- 屽 --> 岸
 
 ### +4 Strokes
 2. <ruby>[岐](../../characters/岐%20(char).md)<rt>ㄍㄝ</rt></ruby> - fork (in road)

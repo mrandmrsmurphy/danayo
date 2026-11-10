@@ -19,6 +19,7 @@ tags: [lookup]
 - 鞉 --> 鞀
 - 额 --> 額
 - 颚 --> 顎
+- 颜 --> 顔
 
 ## Datacheck
 ```dataview

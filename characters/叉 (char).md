@@ -33,11 +33,9 @@ mc_id: 4244
 graphemic_classification: 会意
 stand_in: 叉
 aliases:
-  - 㣾
   - 扠
-  - 紁
 注音: ㄑㄚㄧ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -55,6 +53,11 @@ boundedness: 85
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - Outside the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4244`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄑㄚㄧ](../syllables/ㄑㄚㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 扠
+扌 + 叉, "a fork; to spear with a fork"; an alternative form of 叉, kept as an alias. SKIP 1-3-3; 6 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[叉]]<rt>ㄑㄚㄧ</rt></ruby> "fork; prong; tine" (stand-in for 叉)

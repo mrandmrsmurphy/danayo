@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### +3 Strokes
 2. <ruby>[厉](../../characters/厉%20(char).md)<rt>ㄌㄝ</rt></ruby> - whetstone
+- 厈 --> 岸
 
 ### +4 Strokes
 - 压 --> 圧

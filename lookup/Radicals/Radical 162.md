@@ -28,6 +28,7 @@ tags: [lookup]
 ### +1 Stroke
 - 迦 --> 珈
 - 这 --> 這
+- 还 --> 還
 
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side

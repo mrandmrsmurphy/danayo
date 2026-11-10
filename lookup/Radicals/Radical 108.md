@@ -19,6 +19,7 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[盆](../../characters/盆%20(char).md)<rt>ㄆㄨㄋ</rt></ruby> - basin
 4. <ruby>[盈](../../characters/盈.md)<rt>⼶ㄫ</rt></ruby> - filled
+- 盃 --> 杯
 
 ### +5 Strokes
 5. <ruby>[益](../../characters/益.md)<rt>ㄝㄎ</rt></ruby> - benefit

@@ -132,6 +132,7 @@ tags:
 - 戲 --> 戯
 - 謌 --> 歌
 - 藉 --> 謝
+- 嚮 --> 向
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

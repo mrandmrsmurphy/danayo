@@ -30,6 +30,9 @@ tags: [lookup]
 - 饼 --> 餅
 - 饵 --> 餌
 
+### +1 Stroke
+- 饿 --> 餓
+
 ### +2 Strokes
 2. <ruby>[飢](../../characters/飢.md)<rt>ㄍㄧㄜ</rt></ruby> - hungry
 - 馆 --> 館

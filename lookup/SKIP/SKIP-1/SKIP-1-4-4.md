@@ -90,6 +90,7 @@ tags:
 - 败 --> 敗
 - 肤 --> 膚
 - 转 --> 転
+- 杷 --> 把
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

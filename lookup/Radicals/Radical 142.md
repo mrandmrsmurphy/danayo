@@ -103,6 +103,7 @@ tags:
 - 蠅 --> 蝿
 - 蠃 --> 螺
 - 蠏 --> 蟹
+- 蠍 --> 蝎
 
 ### +14 Strokes
 43. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm

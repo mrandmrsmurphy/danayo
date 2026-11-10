@@ -83,6 +83,7 @@ tags: [lookup]
 - 枫 --> 楓
 - 枏 --> 楠
 - 枪 --> 槍
+- 杷 --> 把
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
@@ -192,6 +193,7 @@ tags: [lookup]
 - 梹 --> 檳
 - 桼 --> 漆
 - 桼 --> 七
+- 桮 --> 杯
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -255,6 +257,7 @@ tags: [lookup]
 - 楯 --> 盾
 - 榘 --> 矩
 - 椹 --> 砧
+- 椶 --> 棕
 
 ### +10 Strokes
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea

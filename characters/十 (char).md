@@ -33,7 +33,7 @@ stand_in: 十
 aliases:
   - 什
 注音: ㄙㄧㄆ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 75
 - [SKIP-4-2-3](../lookup/SKIP/SKIP-4/SKIP-4-2-3.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 16th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](../syllables/ㄙㄧㄆ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 什
+亻 + 十, "ten (of things), as in 什麼"; kept as an alias of 十 on the same derived sound. SKIP 1-2-2; 4 strokes. Radical 009 人. It ranks 1532 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> "ten" (stand-in for 十)

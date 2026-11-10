@@ -32,7 +32,7 @@ stand_in: 晩
 aliases:
   - 晚
 注音: ㄇㄛㄋ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 55
 - [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1934th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄇㄛㄋ](../syllables/ㄇㄛㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 晚
+Traditional form (kyūjitai) of 晩, "evening; late"; this is the form the Classical Chinese lists rank. SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. It ranks 1934 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[晩]]<rt>ㄇㄛㄋ</rt></ruby> "evening" (stand-in for 晩)

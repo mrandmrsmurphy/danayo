@@ -33,10 +33,8 @@ danayo_id: 5177
 mc_id: 6408
 graphemic_classification: 加
 stand_in: 架
-aliases:
-  - 榢
 注音: ㄍㄚ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character

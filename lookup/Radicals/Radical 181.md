@@ -65,6 +65,7 @@ tags: [lookup]
 - 题 --> 題
 - 额 --> 額
 - 颚 --> 顎
+- 颜 --> 顔
 
 ### +7 Strokes
 14. <ruby>[頤](../../characters/頤.md)<rt>ㄧ</rt></ruby> - chin
@@ -87,6 +88,7 @@ tags: [lookup]
 24. <ruby>[顎](../../characters/顎.md)<rt>ㄚㄎ</rt></ruby> - chin
 25. <ruby>[顕](../../characters/顕.md)<rt>ㄏㄝㄋ</rt></ruby> - prominent
 26. <ruby>[類](../../characters/類.md)<rt>ㄌㄨㄧ</rt></ruby> - kind
+- 顏 --> 顔
 
 ### +10 Strokes
 27. <ruby>[顚](../../characters/顚.md)<rt>ㄉㄝㄋ</rt></ruby> - summit

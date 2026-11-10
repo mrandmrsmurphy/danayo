@@ -175,6 +175,8 @@ tags:
 - 增 --> 増
 - 樂 --> 楽
 - 銳 --> 鋭
+- 曏 --> 向
+- 颜 --> 顔
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

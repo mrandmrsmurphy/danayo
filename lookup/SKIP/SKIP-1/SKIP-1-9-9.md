@@ -20,6 +20,7 @@ tags: [lookup]
 ### Aliases
 - 鞦 --> 秋
 - 餬 --> 糊
+- 顏 --> 顔
 
 ### Forbidden
 - 䭏 - 국자: '편'

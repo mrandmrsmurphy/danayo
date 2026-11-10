@@ -37,7 +37,7 @@ aliases:
   - 曏
   - 嚮
 注音: ㄏ⼘ㄫ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -55,6 +55,14 @@ boundedness: 100
 - [SKIP-3-3-3](../lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 792nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄏ⼘ㄫ](../syllables/ㄏ⼘ㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 曏
+日 + 鄉, "formerly; facing"; a variant of 向 for "in the past". SKIP 2-4-13; 15 strokes. Radical 072 日. It has no rank of its own in the Classical Chinese lists.
+
+### 嚮
+Traditional form of 向, "to face toward"; this is the form the Classical Chinese lists rank. SKIP 2-13-6; 17 strokes. It ranks 2046 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby> "toward" (stand-in for 向)

@@ -75,6 +75,7 @@ tags: [lookup]
 38. <ruby>[晨](../../characters/晨.md)<rt>ㄙㄧㄋ</rt></ruby> - early morning
 - 晝 --> 昼
 - 晧 --> 皓
+- 晚 --> 晩
 
 ### +8 Strokes
 39. <ruby>[晩](../../characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby> - evening
@@ -109,6 +110,7 @@ tags: [lookup]
 ### +11 Strokes
 55. <ruby>[暫](../../characters/暫.md)<rt>ㄐㄚㄇ</rt></ruby> - temporary
 56. <ruby>[暴](../../characters/暴%20(char).md)<rt>ㄅㄛㄎ</rt></ruby> - violent
+- 曏 --> 向
 
 ### +12 Strokes
 57. <ruby>[曇](../../characters/曇%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - overcast

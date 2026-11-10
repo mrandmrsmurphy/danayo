@@ -39,6 +39,7 @@ tags: [lookup]
 - 羗 --> 羌
 - 咨 --> 諮
 - 娄 --> 婁
+- 笈 --> 及
 
 ## Datacheck
 ```dataview

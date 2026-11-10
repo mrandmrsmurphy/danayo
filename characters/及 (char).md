@@ -29,11 +29,10 @@ mc_id: 90
 graphemic_classification: 会意
 stand_in: 及
 aliases:
-  - 﨤
   - 笈
 注音: ㄍㄨㄆ
 kwin: false
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 tags:
   - character
 boundedness: 80
@@ -50,6 +49,11 @@ boundedness: 80
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 90th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 緝B三|ɣiɪp]] → [ㄍㄨㄆ](../syllables/ㄍㄨㄆ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 笈
+竹 + 及, "a box for carrying books"; a separate word built on 及 as its phonetic, kept as an alias of 及 on the same derived sound. SKIP 2-6-3; 9 strokes. Radical 118 竹. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[及]]<rt>ㄍㄨㄆ</rt></ruby> "reach out to" (stand-in for 及)

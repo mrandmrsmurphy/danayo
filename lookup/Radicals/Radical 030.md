@@ -216,6 +216,7 @@ tags: [lookup]
 
 ### +14 Strokes
 122. <ruby>[嚇](../../characters/嚇%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - scare
+- 嚮 --> 向
 
 ### +15 Strokes
 123. <ruby>[嚢](../../characters/嚢.md)<rt>ㄋㄚㄫ</rt></ruby> - bag

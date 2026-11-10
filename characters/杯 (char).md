@@ -32,7 +32,7 @@ aliases:
   - 盃
   - 桮
 注音: ㄅㄛㄧ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 90
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 2827th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄅㄛㄧ](../syllables/ㄅㄛㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 盃
+Variant form of 杯, "cup" (dish radical in place of wood). SKIP 2-4-5; 9 strokes. Radical 108 皿. It has no rank of its own in the Classical Chinese lists.
+
+### 桮
+Variant form of 杯, "cup". SKIP 1-4-7; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby> "cup, cupful" (stand-in for 杯)

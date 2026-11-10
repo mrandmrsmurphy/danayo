@@ -157,6 +157,8 @@ tags:
 - 冰 --> 氷
 - 钇 --> 乙
 - 份 --> 分
+- 扠 --> 叉
+- 屽 --> 岸
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

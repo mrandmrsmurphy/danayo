@@ -70,6 +70,7 @@ tags:
 - 输 --> 輸
 - 腭 --> 顎
 - 瑙 --> 𡿺
+- 椶 --> 棕
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

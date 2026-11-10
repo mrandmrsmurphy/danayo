@@ -26,10 +26,8 @@ danayo_id: 13
 mc_id: 160
 graphemic_classification: 象形
 stand_in: 已
-aliases:
-  - 㠯
 注音: ㄜ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character

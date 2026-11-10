@@ -94,6 +94,7 @@ tags:
 - 獸 --> 獣
 - 繫 --> 繋
 - 鬍 --> 胡
+- 蠍 --> 蝎
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

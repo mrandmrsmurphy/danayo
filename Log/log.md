@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Alias loop, batch 145 (晩, 杯, 架, 棕, 蝎, 誹, 跳, 還, 顔, 餓):** `## Aliases` sections and redirects for 晚, 盃, 桮, 椶, 蠍, 诽, 还, 顏, 颜 and 饿 (盃, 桮, 椶, 蠍 and 顏 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 榢, 𨁓, 𨃜, 䟭 and 𨁔 (no usable definitions), so 架 and 跳 now have no aliases.
+
+- **Alias loop, batch 144 (十, 叉, 及, 向, 岸, 已, 慙, 才, 把, 択):** `## Aliases` sections and redirects for 什, 扠, 笈, 曏, 嚮, 屽, 厈, 慚, 惭, 纔, 杷, 擇 and 择 (all but 惭 and 择 from EDRDG; the two computed SKIP codes are logged in project_alias_skip_guesses). `mc_id` of 慙 set to 1726 (慚). Removed the rare 㣾, 紁, 﨤, 㟁, 垾, 㠯 and 𰑧 (no usable definitions), so 已 now has no aliases.
+
 - **Alias loop, batch 143 (七, 上, 中, 之, 乙, 井, 公, 刀, 分, 剝):** `## Aliases` sections and redirects for 柒, 桼, 丄, 釔, 钇, 丼, 蚣, 蜙, 份 and 剥 (all but 钇 from EDRDG; its computed SKIP code is logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-8-1 (for 釔) and SKIP-1-5-1 (for 钇) with their index entries. Removed the rare 𠀁, 𠁩, 㞢, 𠔇, 𡳿, 𧌻, 𠚣, 𠚩, 𠚬 and 𠧓 (no definitions), so 中, 之 and 刀 now have no aliases.
 
 - **Alias loop, batch 142 (膚, 花, 虫, 謝, 貝, 転, 辛, 野, 鋭, 闘):** `## Aliases` sections and redirects for 肤, 蟲, 谢, 藉, 贝, 轉, 转, 亲, 墅, 埜, 壄, 銳, 锐, 鬪, 鬥 and 鬭 (蟲, 藉, 轉, 墅, 埜, 壄, 鬪, 鬥 and 鬭 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-10-14 (for 鬭) with its index entry. Removed the rare 𩸽, 䇂, 㙒, 𡐨 and 𡑀 (no usable definitions), so 花 now has no aliases.

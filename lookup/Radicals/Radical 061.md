@@ -111,6 +111,7 @@ tags: [lookup]
 - 悫 --> 愨
 - 悬 --> 懸
 - 惞 --> 欣
+- 惭 --> 慙
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad
@@ -160,6 +161,7 @@ tags: [lookup]
 - 愿 --> 願
 - 慟 --> 動
 - 慘 --> 惨
+- 慚 --> 慙
 
 ### +11 Strokes
 83. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread

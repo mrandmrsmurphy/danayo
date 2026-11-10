@@ -117,6 +117,7 @@ tags: [lookup]
 - 谅 --> 諒
 - 诸 --> 諸
 - 诺 --> 諾
+- 诽 --> 誹
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error

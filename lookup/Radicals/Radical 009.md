@@ -34,6 +34,7 @@ aliases:
 - 仅 --> 僅
 - 仆 --> 僕
 - 仂 --> 動
+- 什 --> 十
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair

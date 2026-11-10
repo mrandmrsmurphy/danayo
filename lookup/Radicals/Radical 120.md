@@ -230,6 +230,7 @@ tags: [lookup]
 ### +17 Strokes
 - 纓 --> 嬰
 - 纖 --> 繊
+- 纔 --> 才
 
 ### Aliases
 - 絕 --> 絶

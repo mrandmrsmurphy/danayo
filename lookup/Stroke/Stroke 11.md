@@ -257,6 +257,9 @@ tags:
 - 兽 --> 獣
 - 埜 --> 野
 - 桼 --> 七
+- 惭 --> 慙
+- 晚 --> 晩
+- 桮 --> 杯
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

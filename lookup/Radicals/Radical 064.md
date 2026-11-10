@@ -30,6 +30,7 @@ tags: [lookup]
 - 扡 --> 拖
 - 扫 --> 掃
 - 托 --> 託
+- 扠 --> 叉
 
 ### +3 Strokes
 5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up
@@ -81,6 +82,7 @@ tags: [lookup]
 - 拥 --> 擁
 - 抬 --> 擡
 - 拇 --> 母
+- 择 --> 択
 
 ### +5 Strokes
 40. <ruby>[括](../../characters/括.md)<rt>ㄍ⺢ㄊ</rt></ruby> - embrace
@@ -229,6 +231,7 @@ tags: [lookup]
 - 擔 --> 担
 - 撿 --> 揀
 - 擎 --> 檠
+- 擇 --> 択
 
 ### +13 Strokes
 125. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry

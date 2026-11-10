@@ -250,6 +250,8 @@ tags:
 - 鬥 --> 闘
 - 蚣 --> 公
 - 剥 --> 剝
+- 诽 --> 誹
+- 饿 --> 餓
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

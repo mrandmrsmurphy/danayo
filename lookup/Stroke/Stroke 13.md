@@ -196,6 +196,7 @@ tags:
 - 鳯 --> 鳳
 - 鹉 --> 鵡
 - 瑙 --> 𡿺
+- 椶 --> 棕
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

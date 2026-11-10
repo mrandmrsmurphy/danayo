@@ -18,6 +18,7 @@ tags:
 
 ### +3 Strokes
 3. <ruby>[竿](../../characters/竿.md)<rt>ㄍㄚㄋ</rt></ruby> - bamboo pole
+- 笈 --> 及
 
 ### +4 Strokes
 4. <ruby>[笑](../../characters/笑%20(char).md)<rt>ㄙ⼄ㄨ</rt></ruby> - laugh
