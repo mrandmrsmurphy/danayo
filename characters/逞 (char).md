@@ -27,14 +27,12 @@ danayo_id: 7321
 mc_id: 2762
 graphemic_classification: "呈"
 stand_in: "逞"
-aliases:
-  - 徎
 注音: "ㄑㄧㄫ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 逞.
 >For the word, see [逞](../words/逞.md)

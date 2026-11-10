@@ -17,6 +17,7 @@ tags: [lookup]
 ### Aliases
 - 㦮 --> 残
 - 㱐 --> 武
+- 迟 --> 遅
 
 ## Datacheck
 ```dataview

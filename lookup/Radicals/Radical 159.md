@@ -61,6 +61,7 @@ tags: [lookup]
 14. <ruby>[輒](../../characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> - then
 15. <ruby>[輔](../../characters/輔.md)<rt>ㄅㄨ</rt></ruby> - assist
 - 輓 --> 挽
+- 辖 --> 轄
 
 ### +8 Strokes
 16. <ruby>[輝](../../characters/輝.md)<rt>ㄏㄨㄧ</rt></ruby> - brilliant

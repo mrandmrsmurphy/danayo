@@ -69,6 +69,7 @@ tags: [lookup]
 32. <ruby>[際](../../characters/際%20(char).md)<rt>ㄐㄝ</rt></ruby> - border
 33. <ruby>[障](../../characters/障.md)<rt>ㄐㄚㄫ</rt></ruby> - shield
 34. <ruby>[隠](../../characters/隠.md)<rt>ㄜㄋ</rt></ruby> - hide
+- 隧 --> 遂
 
 ### +8 Strokes
 35. <ruby>[隣](../../characters/隣%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - neighboring

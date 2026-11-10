@@ -19,11 +19,15 @@ tags: [lookup]
 
 ### +7 Strokes
 4. <ruby>[辣](../../characters/辣%20(char).md)<rt>ㄌㄚㄊ</rt></ruby> - spicy
+- 辢 --> 辣
 
 ### +9 Strokes
 5. <ruby>[辦](../../characters/辦.md)<rt>ㄅㄚㄋ</rt></ruby> - manage
 - 辨 --> 弁
 - 辥 --> 薛
+
+### +12 Strokes
+- 辭 --> 辞
 
 ### +14 Strokes
 - 辯 --> 弁

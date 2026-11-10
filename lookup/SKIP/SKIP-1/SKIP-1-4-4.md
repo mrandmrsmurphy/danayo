@@ -86,6 +86,7 @@ tags:
 - 轭 --> 軛
 - 软 --> 軟
 - 轮 --> 輪
+- 肸 --> 迄
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

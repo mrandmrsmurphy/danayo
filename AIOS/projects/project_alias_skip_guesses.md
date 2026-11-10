@@ -882,3 +882,10 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 輝 | 辉 | 1-6-6 | computed from its parts |
 | 輪 (char) | 轮 | 1-4-4 | computed from its parts |
 | 輸 | 输 | 1-4-9 | computed from its parts |
+| 輿 (char) | 舆 | 2-10-4 | computed from its parts |
+| 轄 (char) | 辖 | 1-4-10 | computed from its parts |
+| 辣 (char) | 辢 | 1-7-7 | computed from its parts |
+| 辦 | 办 | 2-2-2 | computed from its parts |
+| 辺 | 边 | 3-4-2 | computed from its parts |
+| 這 | 这 | 3-4-4 | computed from its parts |
+| 遅 (char) | 迟 | 3-4-3 | computed from its parts |

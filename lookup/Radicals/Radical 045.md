@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[屮](../../characters/屮.md)<rt>ㄊㄧㄊ</rt></ruby> - new plant
 2. <ruby>[屯](../../characters/屯%20(char).md)<rt>ㄉㄨㄋ</rt></ruby> - hamlet
 
+### Aliases
+- 屰 --> 逆
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

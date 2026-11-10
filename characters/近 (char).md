@@ -32,10 +32,8 @@ danayo_id: 115
 mc_id: 501
 graphemic_classification: 斤
 stand_in: 近
-aliases:
-  - 𫙧
 注音: ㄍㄧㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character

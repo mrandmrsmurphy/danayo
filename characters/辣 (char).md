@@ -30,7 +30,7 @@ joyo_level: "高等"
 hsk_level: "3"
 hanmun_edu_level: "名"
 danayo_id: 6215
-mc_id: 0
+mc_id:
 graphemic_classification: "剌"
 stand_in: "辣"
 aliases:
@@ -40,7 +40,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 辣.
 >For the word, see [辣](../words/辣.md)
@@ -54,6 +54,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-7](../lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - Not ranked among the top 4000 most used characters in Classical Chinese (a later/vernacular-period character). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄌㄚㄊ](../syllables/ㄌㄚㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 辢
+Variant form of 辣, "hot, pungent, acrid", written with 束 in place of 剌. SKIP 1-7-7 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[辣]]<rt>ㄌㄚㄊ</rt></ruby> "spicy, hot, cruel" (stand-in for 辣)

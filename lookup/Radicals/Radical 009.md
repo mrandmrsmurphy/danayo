@@ -105,6 +105,7 @@ aliases:
 - 佈 --> 布
 - ¡你! - 違法字
 - 佔 --> 卜
+- 佚 --> 逸
 
 ### +6 Strokes
 52. <ruby>[㑒](../../characters/㑒.md)<rt>ㄑㄨㄇ</rt></ruby> - unanimous

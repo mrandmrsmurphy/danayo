@@ -16,6 +16,7 @@ tags:
 
 ### +2 Strokes
 - 劝 --> 勧
+- 办 --> 辦
 
 ### +3 Strokes
 2. <ruby>[功](../../characters/功.md)<rt>ㄍㄛㄫ</rt></ruby> - achievement

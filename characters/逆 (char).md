@@ -41,7 +41,7 @@ stand_in: 逆
 aliases:
   - 屰
 注音: ㄝㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -59,6 +59,11 @@ boundedness: 90
 - [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 471st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 陌三開|ɣiæk]] → [ㄝㄎ](../syllables/ㄝㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 屰
+The upright 屰, "disobedient, to go against"; the component 逆 is built on (辶 + 屰), and its older form. SKIP 2-2-4; 6 strokes. Radical 045 屮. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[逆]]<rt>ㄝㄎ</rt></ruby> "rebellion, betrayal, traitor" (stand-in for 逆 (char))

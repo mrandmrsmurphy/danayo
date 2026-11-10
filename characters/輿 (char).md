@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 輿.
 >For the word, see [輿](../words/輿.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-15-2](../lookup/SKIP/SKIP-2/SKIP-2-15-2.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](../syllables/⼄.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 舆
+Simplified Chinese form of 輿. SKIP 2-10-4 (computed: EDRDG does not list it); 14 strokes. Radical 134 臼. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [輿](../words/輿.md) "palanquin" — 輿 stands alone as a word in Dan'a'yo.

@@ -50,6 +50,7 @@ tags: [lookup]
 
 ### +10 Strokes
 15. <ruby>[糖](../../characters/糖%20(char).md)<rt>ㄉ⺢ㄫ</rt></ruby> - sugar
+- 糙 --> 造
 
 ### +11 Strokes
 16. <ruby>[糞](../../characters/糞%20(char).md)<rt>ㄈㄨㄇ</rt></ruby> - poop

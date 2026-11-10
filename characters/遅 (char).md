@@ -31,7 +31,7 @@ aliases:
   - 遲
   - 迟
 注音: ㄑㄧㄜ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -49,6 +49,14 @@ boundedness: 45
 - [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1344th most used character in Classical Chinese (listed under the traditional form 遲). Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 脂B三開|ɣiɪ]] → [ㄑㄧㄜ](../syllables/ㄑㄧㄜ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 遲
+Traditional form (kyūjitai) of 遅, "late, slow"; this is the form the Classical Chinese lists rank. SKIP 3-4-12; 15 strokes. It ranks 1344 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 迟
+Simplified Chinese form of 遲. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[遅]]<rt>ㄑㄧㄜ</rt></ruby> "late, slow" (stand-in for 遅 (char))

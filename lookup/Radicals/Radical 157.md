@@ -52,6 +52,7 @@ tags:
 17. <ruby>[踵](../../characters/踵.md)<rt>ㄐㄛㄫ</rt></ruby> - heel
 18. <ruby>[蹄](../../characters/蹄%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - hoof
 - 踴 --> 踊
+- 踰 --> 逾
 
 ### +10 Strokes
 - 蹈 --> 踏

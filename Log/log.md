@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 114 (逆, 逑, 逓, 這, 逞, 造, 逸, 逾, 遂, 遅):** `## Aliases` sections and redirects for 屰, 遞, 这, 糙, 佚, 踰, 隧, 遲 and 迟 (屰, 遞, 糙, 佚, 踰, 隧 and 遲 from EDRDG; computed SKIP codes for 这 and 迟 logged in project_alias_skip_guesses). `mc_id` of 逾 lowered to 1322 (踰). Removed the rare 訄, 徎 and 𨓜 (not in EDRDG, no usable definition), so 逑 and 逞 now have no aliases.
+
+- **Alias loop, batch 113 (輿, 轄, 辞, 辣, 辦, 辺, 迂, 迄, 近, 迥):** `## Aliases` sections and redirects for 舆, 辖, 辭, 辢, 办, 邊, 边 and 肸 (辭, 邊 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` of 迄 lowered to 2971 (肸). Removed the rare 迃, 𫙧, 㢠 and 䢛, so 迂, 近 and 迥 now have no aliases.
+
 - **Alias loop, batch 112 (軟, 軣, 軸, 較, 載, 輒, 輔, 輝, 輪, 輸):** `## Aliases` sections and redirects for 輭, 软, 轟, 轰, 轴, 较, 载, 辄, 辅, 辉, 暉, 轮 and 输 (輭, 轟 and 暉 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). `mc_id` of 輝 lowered to 2757 (暉).
 
 - **Alias loop, batch 111 (踪, 蹄, 蹲, 躁, 躍, 躬, 軋, 軌, 軒, 軛):** `## Aliases` sections and redirects for 蹤, 蹏, 踆, 趮, 跃, 趯, 躳, 轧, 轨, 轩 and 轭 (蹤, 蹏, 踆, 趯 and 躳 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-7-13 (for 趮) with index entries in SKIP-3-7. Removed the rare 壿, 躦, 鷷 and 軶 from 蹲 and 軛.

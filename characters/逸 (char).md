@@ -35,14 +35,13 @@ mc_id: 1572
 graphemic_classification: "会意"
 stand_in: "逸"
 aliases:
-  - 𨓜
   - 佚
 注音: "ㄧㄊ"
 kwin: true
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 逸.
 >For the word, see [逸](../words/逸.md)
@@ -56,6 +55,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-3-8](../lookup/SKIP/SKIP-3/SKIP-3-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1572nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](../syllables/ㄧㄊ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 佚
+亻 + 失, "to be lost; leisure"; an alternative form of 逸. SKIP 1-2-5; 7 strokes. Radical 009 人. It ranks 1589 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[逸]]<rt>ㄧㄊ</rt></ruby> "flee, escape" (stand-in for 逸)

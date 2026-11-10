@@ -31,15 +31,12 @@ danayo_id: 7074
 mc_id: 5049
 graphemic_classification: "冋"
 stand_in: "迥"
-aliases:
-  - 㢠
-  - 䢛
 注音: "ㄏㄧㄫ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 迥.
 >For the word, see [迥](../words/迥.md)

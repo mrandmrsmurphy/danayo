@@ -181,6 +181,10 @@ tags:
 - 谱 --> 譜
 - 赛 --> 賽
 - 踆 --> 蹲
+- 舆 --> 輿
+- 辖 --> 轄
+- 辢 --> 辣
+- 隧 --> 遂
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

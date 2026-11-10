@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### Aliases
 - 弐 --> 貳
+- 边 --> 辺
 
 ## Datacheck
 ```dataview

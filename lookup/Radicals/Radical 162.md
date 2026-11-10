@@ -10,12 +10,17 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 边 --> 辺
+
 ### +0 Strokes
 - 进 --> 進
 - 运 --> 運
+- 迟 --> 遅
 
 ### +1 Stroke
 - 迦 --> 珈
+- 这 --> 這
 
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
@@ -48,6 +53,7 @@ tags: [lookup]
 16. <ruby>[逃](../../characters/逃.md)<rt>ㄉㄚㄨ</rt></ruby> - escape
 17. <ruby>[逆](../../characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> - rebellion
 18. <ruby>[迷](../../characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - be lost
+- 遞 --> 逓
 
 ### +7 Strokes
 19. <ruby>[透](../../characters/透%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - transparent
@@ -72,6 +78,7 @@ tags: [lookup]
 36. <ruby>[進](../../characters/進.md)<rt>ㄐㄧㄋ</rt></ruby> - advance
 37. <ruby>[逸](../../characters/逸%20(char).md)<rt>ㄧㄊ</rt></ruby> - flee
 - 遶 --> 繞
+- 遲 --> 遅
 
 ### +9 Strokes
 38. <ruby>[逼](../../characters/逼.md)<rt>ㄅㄧㄎ</rt></ruby> - compel
@@ -100,6 +107,7 @@ tags: [lookup]
 57. <ruby>[遭](../../characters/遭.md)<rt>ㄐㄚㄨ</rt></ruby> - encounter
 58. <ruby>[遮](../../characters/遮.md)<rt>ㄐㄚ</rt></ruby> - cover
 59. <ruby>[適](../../characters/適.md)<rt>ㄙㄝㄎ</rt></ruby> - suitable
+- 邊 --> 辺
 
 ### +12 Strokes
 60. <ruby>[遵](../../characters/遵.md)<rt>ㄐㄨㄋ</rt></ruby> - abide by

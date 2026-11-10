@@ -79,6 +79,7 @@ tags:
 - 蠅 --> 蝿
 - 蠃 --> 螺
 - 蠏 --> 蟹
+- 辭 --> 辞
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)
