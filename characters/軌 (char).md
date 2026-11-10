@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 軌.
 >For the word, see [軌](../words/軌.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1609th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄎㄨㄧ](../syllables/ㄎㄨㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md) (added to the Korean HS list in the December 2000 revision, one of 44 characters added that year)
+
+## Aliases
+
+### 轨
+Simplified Chinese form of 軌. SKIP 1-4-2 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[軌]]<rt>ㄎㄨㄧ</rt></ruby> "track; path; rut" (stand-in for 軌)

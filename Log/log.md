@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 112 (軟, 軣, 軸, 較, 載, 輒, 輔, 輝, 輪, 輸):** `## Aliases` sections and redirects for 輭, 软, 轟, 轰, 轴, 较, 载, 辄, 辅, 辉, 暉, 轮 and 输 (輭, 轟 and 暉 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). `mc_id` of 輝 lowered to 2757 (暉).
+
+- **Alias loop, batch 111 (踪, 蹄, 蹲, 躁, 躍, 躬, 軋, 軌, 軒, 軛):** `## Aliases` sections and redirects for 蹤, 蹏, 踆, 趮, 跃, 趯, 躳, 轧, 轨, 轩 and 轭 (蹤, 蹏, 踆, 趯 and 躳 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-7-13 (for 趮) with index entries in SKIP-3-7. Removed the rare 壿, 躦, 鷷 and 軶 from 蹲 and 軛.
+
+- **Alias loop, batch 110 (贈, 贋, 贖, 趙, 趨, 跡, 跨, 践, 踊, 踏):** `## Aliases` sections and redirects for 赠, 贗, 赝, 赎, 赵, 趋, 迹, 蹟, 踐, 踴 and 蹈 (贗, 迹, 蹟, 踐, 踴 and 蹈 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-2-20 (for 贗) with its index entry. `mc_id` lowered to 2030 on 踊 (踴) and 2080 on 踏 (蹈). Removed the rare 𧹎, 趍, 𫐤, 𨂻, 𡕒 and 㐄 from 贖, 趨, 跡, 踏 and 跨 (跨 now has no aliases).
+
 - **Alias loop, batch 109 (賎, 賑, 賓, 賜, 賠, 賢, 賦, 賭, 購, 賽):** `## Aliases` sections and redirects for 賤, 贱, 赈, 宾, 赐, 赔, 贤, 赋, 赌, 购 and 赛 (賤 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 賔 and 䝾 (no definitions) from 賓 and 賦.
 
 - **Alias loop, batch 108 (費, 貼, 貿, 賁, 賂, 賃, 賄, 資, 賈, 賊):** `## Aliases` sections and redirects for 费, 贴, 贸, 贲, 赂, 赁, 贿, 资, 贾 and 贼 (computed SKIP codes logged in project_alias_skip_guesses). Removed the rare 戝 (no definition) and 𧵪 from 賊.

@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蹄.
 >For the word, see [蹄](../words/蹄.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 2932nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](../syllables/ㄉㄝㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 蹏
+Variant form of 蹄, "hoof". SKIP 1-7-10; 17 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蹄]]<rt>ㄉㄝㄧ</rt></ruby> "hoof" (stand-in for 蹄)

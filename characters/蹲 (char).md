@@ -33,16 +33,13 @@ mc_id: 4144
 graphemic_classification: "尊"
 stand_in: "蹲"
 aliases:
-  - 壿
   - 踆
-  - 躦
-  - 鷷
 注音: "ㄐㄛㄋ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蹲.
 >For the word, see [蹲](../words/蹲.md)
@@ -56,6 +53,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-12](../lookup/SKIP/SKIP-1/SKIP-1-7-12.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄐㄛㄋ](../syllables/ㄐㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 踆
+足 + 夋, "to squat, to crouch"; a variant of 蹲 with the same meaning. SKIP 1-7-7; 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [蹲](../words/蹲.md) "squat, crouch" — 蹲 stands alone as a word in Dan'a'yo.

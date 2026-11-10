@@ -74,6 +74,7 @@ tags:
 - 赂 --> 賂
 - 贿 --> 賄
 - 贼 --> 賊
+- 较 --> 較
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

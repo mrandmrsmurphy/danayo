@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 术 --> 術
+- 轧 --> 軋
 
 ## Datacheck
 ```dataview

@@ -215,6 +215,8 @@ tags:
 - 贾 --> 賈
 - 贼 --> 賊
 - 宾 --> 賓
+- 较 --> 較
+- 载 --> 載
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

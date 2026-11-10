@@ -221,6 +221,7 @@ tags: [lookup]
 - 赌 --> 賭
 - 赎 --> 贖
 - 趋 --> 趨
+- 辉 --> 輝
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

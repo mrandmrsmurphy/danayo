@@ -38,6 +38,12 @@ tags: [lookup]
 ### +10 Strokes
 9. <ruby>[趨](../../characters/趨%20(char).md)<rt>ㄑㄨ</rt></ruby> - hasten
 
+### +13 Strokes
+- 趮 --> 躁
+
+### +14 Strokes
+- 趯 --> 躍
+
 ### Forbidden
 - 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
 - 趟 - 官话: HSK/2.

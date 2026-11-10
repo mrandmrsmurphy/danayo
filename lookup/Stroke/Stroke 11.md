@@ -231,6 +231,9 @@ tags:
 - 谜 --> 謎
 - 貮 --> 貳
 - 赈 --> 賑
+- 跃 --> 躍
+- 辄 --> 輒
+- 辅 --> 輔
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

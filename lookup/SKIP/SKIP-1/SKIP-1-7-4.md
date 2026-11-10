@@ -49,6 +49,7 @@ tags:
 - 敘 --> 叙
 - 訢 --> 欣
 - 躭 --> 耽
+- 跃 --> 躍
 
 ## Datacheck
 ```dataview

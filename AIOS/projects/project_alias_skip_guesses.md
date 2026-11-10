@@ -866,3 +866,19 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 贖 | 赎 | 1-4-8 | computed from its parts |
 | 趙 | 赵 | 3-7-2 | computed from its parts |
 | 趨 (char) | 趋 | 3-7-5 | computed from its parts |
+| 躁 | 趮 | 3-7-13 | computed from its parts |
+| 躍 | 跃 | 1-7-4 | computed from its parts |
+| 軋 | 轧 | 1-4-1 | computed from its parts |
+| 軌 (char) | 轨 | 1-4-2 | computed from its parts |
+| 軒 | 轩 | 1-4-3 | computed from its parts |
+| 軛 (char) | 轭 | 1-4-4 | computed from its parts |
+| 軟 | 软 | 1-4-4 | computed from its parts |
+| 軣 | 轰 | 2-4-4 | computed from its parts |
+| 軸 (char) | 轴 | 1-4-5 | computed from its parts |
+| 較 | 较 | 1-4-6 | computed from its parts |
+| 載 (char) | 载 | 3-6-4 | computed from its parts |
+| 輒 | 辄 | 1-4-7 | computed from its parts |
+| 輔 | 辅 | 1-4-7 | computed from its parts |
+| 輝 | 辉 | 1-6-6 | computed from its parts |
+| 輪 (char) | 轮 | 1-4-4 | computed from its parts |
+| 輸 | 输 | 1-4-9 | computed from its parts |

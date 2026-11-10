@@ -180,6 +180,7 @@ tags:
 - 谭 --> 譚
 - 谱 --> 譜
 - 赛 --> 賽
+- 踆 --> 蹲
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

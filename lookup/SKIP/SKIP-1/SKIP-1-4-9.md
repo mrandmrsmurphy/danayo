@@ -66,6 +66,8 @@ tags:
 - 椹 --> 砧
 - 腳 --> 脚
 - 腟 --> 膣
+- 暉 --> 輝
+- 输 --> 輸
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

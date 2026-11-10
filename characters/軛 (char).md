@@ -28,14 +28,13 @@ mc_id: 4283
 graphemic_classification: 厄
 stand_in: 軛
 aliases:
-  - 軶
   - 轭
 注音: ㄚㄎ
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 軛.
 >For the word, see [軛](../words/軛.md)
@@ -49,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 4283rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄚㄎ](../syllables/ㄚㄎ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 轭
+Simplified Chinese form of 軛. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[軛]]<rt>ㄚㄎ</rt></ruby> "yoke" (stand-in for 軛 (char))

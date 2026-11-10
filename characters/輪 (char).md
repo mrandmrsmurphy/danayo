@@ -34,7 +34,7 @@ stand_in: "輪"
 aliases:
   - 轮
 注音: "ㄌㄨㄋ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 80
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1697th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄌㄨㄋ](../syllables/ㄌㄨㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 轮
+Simplified Chinese form of 輪. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[輪]]<rt>ㄌㄨㄋ</rt></ruby> "wheel" (stand-in for 輪 (char))

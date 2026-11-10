@@ -161,6 +161,8 @@ tags:
 - 誊 --> 謄
 - 谨 --> 謹
 - 竪 --> 豎
+- 躳 --> 躬
+- 输 --> 輸
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

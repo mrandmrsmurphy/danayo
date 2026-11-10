@@ -41,6 +41,7 @@ tags:
 - 貍 --> 狸
 - 䟺 --> 狽
 - 踁 --> 脛
+- 踆 --> 蹲
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.

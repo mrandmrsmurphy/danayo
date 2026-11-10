@@ -25,6 +25,7 @@ tags: [lookup]
 
 ### Aliases
 - 躭 --> 耽
+- 躳 --> 躬
 
 ## Data check
 ```dataview

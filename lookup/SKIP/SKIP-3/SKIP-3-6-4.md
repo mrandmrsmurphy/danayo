@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[烏](/characters/烏.md)<rt>ㄛ</rt></ruby> - crow
 3. <ruby>[馬](/characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
 
+### Aliases
+- 载 --> 載
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

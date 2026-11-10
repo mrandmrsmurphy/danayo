@@ -25,7 +25,7 @@ tags: [lookup]
 17. [SKIP-3-2-17](lookup/SKIP/SKIP-3/SKIP-3-2-17.md): 贋
 18. none
 19. none
-20. none
+20. [SKIP-3-2-20](lookup/SKIP/SKIP-3/SKIP-3-2-20.md): ø
 21. none
 22. [SKIP-3-2-22](lookup/SKIP/SKIP-3/SKIP-3-2-22.md): ø
 23. none

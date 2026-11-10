@@ -49,6 +49,7 @@ tags:
 - 䛻 --> 誘
 - 諫 --> 諌
 - 踴 --> 踊
+- 輭 --> 軟
 
 ### Forbidden
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"

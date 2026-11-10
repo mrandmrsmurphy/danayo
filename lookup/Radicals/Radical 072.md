@@ -95,6 +95,7 @@ tags: [lookup]
 49. <ruby>[暋](../../characters/暋.md)<rt>ㄇㄧㄋ</rt></ruby> - strong
 50. <ruby>[暖](../../characters/暖%20(char).md)<rt>ㄋㄚㄋ</rt></ruby> - warm
 51. <ruby>[暗](../../characters/暗%20(char).md)<rt>ㄚㄇ</rt></ruby> - dark
+- 暉 --> 輝
 
 ### +10 Strokes
 52. <ruby>[暢](../../characters/暢.md)<rt>ㄑㄚㄫ</rt></ruby> - smooth
