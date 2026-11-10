@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 26 (SKIP-2-15-2, 2-15-8, SKIP-2-16-3, 2-16-4, 2-16-6, 2-16-7, SKIP-2-19-11, SKIP-2-2-1, 2-2-10, 2-2-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including the redirect-only leaves built during the alias loop (2-15-8, 2-16-3, 2-19-11); no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 25 (SKIP-2-12-7, 2-12-8, SKIP-2-13-3 to 2-13-5, 2-13-9, SKIP-2-14-2 to 2-14-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 24 (SKIP-2-11-6 to 2-11-9, SKIP-2-12-13, 2-12-14, 2-12-16, SKIP-2-12-3 to 2-12-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 23 (SKIP-2-10-7 to 2-10-9, SKIP-2-11-10, 2-11-11, 2-11-13, SKIP-2-11-2 to 2-11-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the orphaned `瞿 → 衢` from SKIP-2-10-8 (衢 lists 矍, not 瞿, as its alias, and `矍 → 衢` is already in SKIP-2-10-10) and the self-redirect `熈 → 熈` from SKIP-2-11-4 (the real `熈 → 熙` stays). Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 22 (SKIP-2-10-10 to 2-10-13, 2-10-15, 2-10-16, 2-10-2, 2-10-3, 2-10-5, 2-10-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the misplaced `蠶 → 蚕` redirect from SKIP-2-10-16 (蚕's alias section puts 蠶 at SKIP 2-12-12, where its redirect already is); the leaf is now an empty ø leaf. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 21 (SKIP-1-9-9, SKIP-2-1-1, 2-1-11, SKIP-2-1-2 to 2-1-7, 2-1-9):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 20 (SKIP-1-8-9, SKIP-1-9-10, 1-9-11, SKIP-1-9-2 to 1-9-8):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 19 (SKIP-1-8-15, 1-8-16, 1-8-19, SKIP-1-8-2 to 1-8-8):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 18 (SKIP-1-7-5 to 1-7-9, SKIP-1-8-1, 1-8-10 to 1-8-12, 1-8-14):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no mismatches. Replaced the non-breaking spaces in a Forbidden note in SKIP-1-7-6 with ordinary spaces. Stamped the ten leaves.
