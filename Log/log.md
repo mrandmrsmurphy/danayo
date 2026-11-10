@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 11 (SKIP-1-3-6 to 1-3-9, SKIP-1-4-1, SKIP-1-4-10 to 1-4-14):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 10 (SKIP-1-3-16 to 1-3-19, 1-3-2, 1-3-21, 1-3-22, 1-3-3, 1-3-4, 1-3-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. In SKIP-1-3-16 removed three orphaned redirects, 瀘 → 盧, 瀚 → 翰 and 瀟 → 䔥 (no character page lists them as aliases; 翰 has no page at all). SKIP-1-3-21 keeps `囑 → 嘱`, which no alias section backs yet (嘱 names 囑 as its traditional form in prose only). Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 9 (SKIP-1-2-7 to 1-2-9, SKIP-1-3-1, SKIP-1-3-10 to 1-3-15):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 8 (SKIP-1-2-11 to 1-2-15, 1-2-19, 1-2-2, 1-2-4, 1-2-5, 1-2-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
