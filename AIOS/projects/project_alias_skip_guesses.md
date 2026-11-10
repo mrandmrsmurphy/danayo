@@ -851,3 +851,18 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 資 | 资 | 2-6-4 | computed from its parts |
 | 賈 | 贾 | 2-6-4 | computed from its parts |
 | 賊 | 贼 | 1-4-6 | computed from its parts |
+| 賎 | 贱 | 1-4-5 | computed from its parts |
+| 賑 | 赈 | 1-4-7 | computed from its parts |
+| 賓 | 宾 | 2-3-7 | computed from its parts |
+| 賜 | 赐 | 1-4-8 | computed from its parts |
+| 賠 | 赔 | 1-4-8 | computed from its parts |
+| 賢 | 贤 | 2-4-4 | computed from its parts |
+| 賦 (char) | 赋 | 1-4-8 | computed from its parts |
+| 賭 | 赌 | 1-4-8 | computed from its parts |
+| 購 | 购 | 1-4-4 | computed from its parts |
+| 賽 | 赛 | 2-3-11 | computed from its parts |
+| 贈 | 赠 | 1-4-12 | computed from its parts |
+| 贋 (char) | 赝 | 3-2-14 | computed from its parts |
+| 贖 | 赎 | 1-4-8 | computed from its parts |
+| 趙 | 赵 | 3-7-2 | computed from its parts |
+| 趨 (char) | 趋 | 3-7-5 | computed from its parts |

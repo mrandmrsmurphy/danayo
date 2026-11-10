@@ -62,6 +62,7 @@ tags:
 26. <ruby>[容](../../characters/容%20(char).md)<rt>⼄ㄫ</rt></ruby> - look
 - 𡨄 --> 塞
 - 宼 --> 寇
+- 宾 --> 賓
 
 ### +8 Strokes
 27. <ruby>[宿](../../characters/宿.md)<rt>ㄙㄨㄎ</rt></ruby> - lodging

@@ -42,14 +42,20 @@ tags:
 ### +8 Strokes
 15. <ruby>[踏](../../characters/踏.md)<rt>ㄊㄚㄆ</rt></ruby> - step on
 16. <ruby>[踪](../../characters/踪.md)<rt>ㄐㄛㄫ</rt></ruby> - remains
+- 踐 --> 践
 
 ### +9 Strokes
 17. <ruby>[踵](../../characters/踵.md)<rt>ㄐㄛㄫ</rt></ruby> - heel
 18. <ruby>[蹄](../../characters/蹄%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - hoof
+- 踴 --> 踊
+
+### +10 Strokes
+- 蹈 --> 踏
 
 ### +11 Strokes
 19. <ruby>[蹠](../../characters/蹠.md)<rt>ㄐㄝㄎ</rt></ruby> - metatarsal
 - 蹧 --> 糟
+- 蹟 --> 跡
 
 ### +12 Strokes
 20. <ruby>[蹲](../../characters/蹲%20(char).md)<rt>ㄐㄛㄋ</rt></ruby> - squat

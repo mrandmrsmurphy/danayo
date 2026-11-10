@@ -24,7 +24,7 @@ joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 無
 danayo_id: 7317
-mc_id: 0
+mc_id:
 graphemic_classification: 雁
 stand_in: 贋
 aliases:
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-2-17](../lookup/SKIP/SKIP-3/SKIP-3-2-17.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - Not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 刪開|ɣan]] → [ㄚㄋ](../syllables/ㄚㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 贗
+Variant form of 贋, "counterfeit, fake, forged"; the older written form, 雁 + 貝. SKIP 3-2-20; 22 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 赝
+Simplified Chinese form of 贗. SKIP 3-2-14 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[贋]]<rt>ㄚㄋ</rt></ruby> "counterfeit; fake"

@@ -84,6 +84,7 @@ tags:
 - 柁 --> 舵
 - 柂 --> 舵
 - 贴 --> 貼
+- 贱 --> 賎
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

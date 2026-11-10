@@ -15,6 +15,7 @@ tags: [lookup]
 ### Aliases
 - 迴 --> 回
 - 氣 --> 気
+- 迹 --> 跡
 
 ## Datacheck
 ```dataview

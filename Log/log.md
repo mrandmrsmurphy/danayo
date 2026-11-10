@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 109 (賎, 賑, 賓, 賜, 賠, 賢, 賦, 賭, 購, 賽):** `## Aliases` sections and redirects for 賤, 贱, 赈, 宾, 赐, 赔, 贤, 赋, 赌, 购 and 赛 (賤 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 賔 and 䝾 (no definitions) from 賓 and 賦.
+
 - **Alias loop, batch 108 (費, 貼, 貿, 賁, 賂, 賃, 賄, 資, 賈, 賊):** `## Aliases` sections and redirects for 费, 贴, 贸, 贲, 赂, 赁, 贿, 资, 贾 and 贼 (computed SKIP codes logged in project_alias_skip_guesses). Removed the rare 戝 (no definition) and 𧵪 from 賊.
 
 - **Alias loop, batch 107 (財, 貢, 貧, 販, 貪, 貫, 貯, 貰, 貳, 貸):** `## Aliases` sections and redirects for 财, 贡, 贫, 贩, 贪, 贯, 贮, 贳, 贰, 貮, 弐 and 贷 (computed SKIP codes for the simplified 贝-forms logged in project_alias_skip_guesses; 貮 and 弐 from EDRDG). Removed the rare 㒲 (a variant of 暮, not a form of 財) from 財.

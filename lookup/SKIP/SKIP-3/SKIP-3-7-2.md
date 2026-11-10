@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 剋 --> 克
+- 赵 --> 趙
 
 ## Datacheck
 ```dataview

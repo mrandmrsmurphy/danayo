@@ -19,6 +19,7 @@ tags: [lookup]
 
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
+- 迹 --> 跡
 
 ### +3 Strokes
 2. <ruby>[迂](../../characters/迂.md)<rt>ㄨ</rt></ruby> - roundabout

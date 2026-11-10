@@ -215,6 +215,12 @@ tags: [lookup]
 - 谦 --> 謙
 - 谣 --> 謡
 - 猯 --> 貒
+- 赐 --> 賜
+- 赔 --> 賠
+- 赋 --> 賦
+- 赌 --> 賭
+- 赎 --> 贖
+- 趋 --> 趨
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

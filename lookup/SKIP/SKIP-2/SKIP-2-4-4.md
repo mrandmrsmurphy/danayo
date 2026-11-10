@@ -52,6 +52,7 @@ tags:
 - 贫 --> 貧
 - 贪 --> 貪
 - 贯 --> 貫
+- 贤 --> 賢
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

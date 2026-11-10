@@ -230,6 +230,7 @@ tags:
 - 谓 --> 謂
 - 谜 --> 謎
 - 貮 --> 貳
+- 赈 --> 賑
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

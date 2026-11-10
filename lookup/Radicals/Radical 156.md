@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[赴](../../characters/赴%20(char).md)<rt>ㄈㄨㄛ</rt></ruby> - attend
+- 赵 --> 趙
 
 ### +3 Strokes
 3. <ruby>[起](../../characters/起%20(char).md)<rt>ㄎㄧ</rt></ruby> - rise up
@@ -23,6 +24,7 @@ tags: [lookup]
 ### +5 Strokes
 5. <ruby>[越](../../characters/越%20(char).md)<rt>⼔ㄊ</rt></ruby> - exceed
 6. <ruby>[超](../../characters/超%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - transcend
+- 趋 --> 趨
 
 ### +7 Strokes
 7. <ruby>[趙](../../characters/趙.md)<rt>ㄐㄚㄨ</rt></ruby> - Zhao

@@ -82,6 +82,7 @@ tags:
 - 肿 --> 腫
 - 贩 --> 販
 - 贮 --> 貯
+- 购 --> 購
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

@@ -18,6 +18,9 @@ tags: [lookup]
 ### Forbidden
 - 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
 
+### Aliases
+- 趋 --> 趨
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

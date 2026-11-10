@@ -28,9 +28,6 @@ danayo_id: 7180
 mc_id: 3269
 graphemic_classification: "夸"
 stand_in: "跨"
-aliases:
-  - 𡕒
-  - 㐄
 注音: "ㄎ⺢"
 kwin: false
 tags:

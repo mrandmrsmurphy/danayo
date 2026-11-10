@@ -61,6 +61,7 @@ tags:
 - 琁 --> 瓊
 - 晧 --> 皓
 - 祸 --> 禍
+- 赈 --> 賑
 
 ## Datacheck
 ```dataview

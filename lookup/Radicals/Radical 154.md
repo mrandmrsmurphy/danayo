@@ -22,6 +22,8 @@ tags:
 - 贪 --> 貪
 - 贯 --> 貫
 - 贮 --> 貯
+- 贤 --> 賢
+- 购 --> 購
 
 ### +2 Strokes
 2. <ruby>[貞](../../characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> - chaste
@@ -39,6 +41,7 @@ tags:
 - 贴 --> 貼
 - 贸 --> 貿
 - 贲 --> 賁
+- 贱 --> 賎
 
 ### +3 Strokes
 4. <ruby>[財](../../characters/財.md)<rt>ㄐㄚㄧ</rt></ruby> - wealth
@@ -62,6 +65,7 @@ tags:
 - 貮 --> 貳
 - 责 --> 責
 - 貭 --> 質
+- 赈 --> 賑
 
 ### +5 Strokes
 12. <ruby>[貯](../../characters/貯.md)<rt>ㄐㄛ</rt></ruby> - store
@@ -76,6 +80,11 @@ tags:
 21. <ruby>[賀](../../characters/賀.md)<rt>ㄏㄚ</rt></ruby> - congratulate
 22. <ruby>[賁](../../characters/賁.md)<rt>ㄅㄨㄋ</rt></ruby> - energetic
 - 赏 --> 賞
+- 赐 --> 賜
+- 赔 --> 賠
+- 赋 --> 賦
+- 赌 --> 賭
+- 赎 --> 贖
 
 ### +6 Strokes
 23. <ruby>[賂](../../characters/賂.md)<rt>ㄌㄛ</rt></ruby> - bribe
@@ -88,6 +97,7 @@ tags:
 
 ### +7 Strokes
 30. <ruby>[賑](../../characters/賑.md)<rt>ㄐㄧㄋ</rt></ruby> - rich
+- 赛 --> 賽
 
 ### +8 Strokes
 31. <ruby>[賓](../../characters/賓.md)<rt>ㄅㄧㄋ</rt></ruby> - visitor
@@ -98,9 +108,12 @@ tags:
 36. <ruby>[賦](../../characters/賦%20(char).md)<rt>ㄈㄨ</rt></ruby> - prose-poetry
 37. <ruby>[質](../../characters/質.md)<rt>ㄐㄧㄊ</rt></ruby> - essence
 38. <ruby>[賭](../../characters/賭.md)<rt>ㄉㄛ</rt></ruby> - gamble
+- 賤 --> 賎
 
 ### +9 Strokes
 39. <ruby>[賢](../../characters/賢.md)<rt>ㄏㄝㄋ</rt></ruby> - wise
+- 赠 --> 贈
+- 赝 --> 贋
 
 ### +10 Strokes
 40. <ruby>[購](../../characters/購.md)<rt>ㄍㄛㄨ</rt></ruby> - buy
@@ -115,6 +128,7 @@ tags:
 
 ### +15 Strokes
 44. <ruby>[贖](../../characters/贖.md)<rt>ㄙ⼄ㄎ</rt></ruby> - ransom
+- 贗 --> 贋
 
 ### Aliases
 - 贊 --> 賛

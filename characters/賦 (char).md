@@ -28,13 +28,12 @@ graphemic_classification: "武"
 stand_in: "賦"
 aliases:
   - 赋
-  - 䝾
 注音: "ㄈㄨ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 賦.
 >For the word, see [賦](../words/賦.md)
@@ -48,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 706th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄈㄨ](../syllables/ㄈㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 赋
+Simplified Chinese form of 賦. SKIP 1-4-8 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[賦]]<rt>ㄈㄨ</rt></ruby> "prose-poetry" (stand-in for 賦)
