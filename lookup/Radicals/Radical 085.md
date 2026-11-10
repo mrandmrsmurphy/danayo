@@ -291,6 +291,7 @@ tags: [lookup]
 - 㵕 --> 滲
 - 潛 --> 潜
 - 潬 --> 灘
+- 澐 --> 雲
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway

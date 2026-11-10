@@ -31,7 +31,7 @@ aliases:
   - 雜
   - 杂
 注音: ㄐㄚㄆ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -49,6 +49,14 @@ boundedness: 60
 - [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1193rd most used character in Classical Chinese (listed under the traditional form 雜). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄐㄚㄆ](../syllables/ㄐㄚㄆ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 雜
+Traditional form (kyūjitai) of 雑, "mixed, miscellaneous"; this is the form the Classical Chinese lists rank. SKIP 1-10-8; 18 strokes. It ranks 1193 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 杂
+Simplified Chinese form of 雜. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[雑]]<rt>ㄐㄚㄆ</rt></ruby> "miscellaneous" (stand-in for 雑 (char))

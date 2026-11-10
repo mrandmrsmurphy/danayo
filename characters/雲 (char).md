@@ -23,14 +23,14 @@ joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 217
-mc_id: 611
+mc_id: 474
 graphemic_classification: 云
 stand_in: 雲
 aliases:
   - 云
   - 澐
 注音: ㄨㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -45,8 +45,16 @@ boundedness: 80
 ## Notes
 - 云 was the original form of this word, but the weather radical ([雨](../lookup/Radicals/Radical%20173.md)) was added as the meaning "speak" came to be associated with it. We fold 云 into this character. The orthographic substitution carries through compounds too: 云云→雲雲 ("etc.") and its opposite 云爾→雲爾 ("that is all") — neither has an independent vault word page.
 - [SKIP-2-8-4](../lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 611th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄨㄋ](../syllables/ㄨㄋ.md)
+- 474th most used character in Classical Chinese, the rank of its alias 云 (雲 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄨㄋ](../syllables/ㄨㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 云
+"To say" (literary) and originally the whole of 雲; the simplified Chinese form of 雲. SKIP 2-1-3; 4 strokes. Radical 007 二. It ranks 474 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 澐
+氵 + 雲, "billows of a river"; a separate word built on 雲 as its phonetic, kept as an alias of 雲 on the same derived sound. SKIP 1-3-12; 15 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby> "cloud" (stand-in for 雲)

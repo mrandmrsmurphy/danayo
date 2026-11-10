@@ -28,6 +28,7 @@ tags: [lookup]
 - 灿 --> 燦
 - 灾 --> 災
 - 灶 --> 竃
+- 灵 --> 霊
 
 ### +4 Strokes
 7. <ruby>[炉](../../characters/炉.md)<rt>ㄌㄛ</rt></ruby> - stove

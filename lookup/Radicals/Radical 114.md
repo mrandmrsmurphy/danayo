@@ -14,6 +14,9 @@ tags: [lookup]
 1. <ruby>[禹](../../characters/禹.md)<rt>ㄨ</rt></ruby> - Yu
 2. <ruby>[禺](../../characters/禺.md)<rt>ㄨ</rt></ruby> - long-tailed monkey
 
+### +6 Strokes
+- 离 --> 離
+
 ### +7 Strokes
 3. <ruby>[禼](../../characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - insect
 

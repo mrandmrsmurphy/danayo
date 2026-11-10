@@ -28,9 +28,8 @@ graphemic_classification: 彗
 stand_in: 雪
 aliases:
   - 鱈
-  - 䨮
 注音: ㄙ⼔ㄊ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +47,11 @@ boundedness: 80
 - [SKIP-2-8-3](../lookup/SKIP/SKIP-2/SKIP-2-8-3.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1547th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 薛A三合|iuᴇt]] → [ㄙ⼔ㄊ](../syllables/ㄙ⼔ㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鱈
+魚 + 雪, "codfish"; the fish whose name is written with 雪 (the Japanese kokuji reading is tara), kept as an alias of 雪. SKIP 1-11-11; 22 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[雪]]<rt>ㄙ⼔ㄊ</rt></ruby> "snow" (stand-in for 雪)

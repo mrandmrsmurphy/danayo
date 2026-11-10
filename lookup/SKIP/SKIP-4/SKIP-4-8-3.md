@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 來 --> 来
+- 隶 --> 隷
 
 ## Datacheck
 ```dataview

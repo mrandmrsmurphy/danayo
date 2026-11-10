@@ -28,9 +28,8 @@ graphemic_classification: 象形
 stand_in: 雨
 aliases:
   - 雩
-  - 䨒
 注音: ㄨ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +47,11 @@ boundedness: 90
 - [SKIP-4-8-1](../lookup/SKIP/SKIP-4/SKIP-4-8-1.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 448th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄨ](../syllables/ㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 雩
+雨 + 于, "a rain sacrifice with prayer and dance"; a ritual word for rain, kept as an alias of 雨 on the same derived sound. SKIP 2-8-3; 11 strokes. It ranks 1836 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[雨]]<rt>ㄨ</rt></ruby> "rain" (stand-in for 雨)

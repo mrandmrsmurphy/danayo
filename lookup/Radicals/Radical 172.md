@@ -46,6 +46,8 @@ tags: [lookup]
 15. <ruby>[難](../../characters/難.md)<rt>ㄋㄚㄋ</rt></ruby> - difficult
 - 雙 --> 双
 - 雚 --> 鸛
+- 雝 --> 雍
+- 雜 --> 雑
 
 ### +11 Strokes
 16. <ruby>[離](../../characters/離.md)<rt>ㄌㄝㄧ</rt></ruby> - depart

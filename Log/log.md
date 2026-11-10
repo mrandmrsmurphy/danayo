@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 126 (離, 雨, 雪, 雲, 需, 霊, 霍, 霧, 靄, 靴):** `## Aliases` sections and redirects for 离, 籬, 雩, 鱈, 云, 澐, 糯, 靈, 灵, 靃, 雾, 霭 and 鞾 (all but 雾 and 霭 from EDRDG; the two computed SKIP codes are logged in project_alias_skip_guesses). `mc_id` of 雲 lowered to 474 (云). Removed the rare 䨒 and 䨮 (not in EDRDG, no usable definitions).
+
+- **Alias loop, batch 125 (階, 随, 際, 隣, 隷, 雇, 雌, 雍, 雑, 雖):** `## Aliases` sections and redirects for 阶, 隨, 陏, 际, 鄰, 邻, 隸, 隶, 僱, 雝, 邕, 廱, 雜, 杂 and 虽 (隨, 陏, 鄰, 隸, 隶, 僱, 雝, 邕, 廱 and 雜 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). Removed the rare 䳄 and 𲍵 (no definitions), so 雌 now has no aliases.
+
 - **Alias loop, batch 124 (陝, 陣, 陥, 陳, 陵, 陶, 陸, 険, 隆, 隊):** `## Aliases` sections and redirects for 陕, 陜, 阵, 陷, 臽, 陈, 崚, 匋, 陆, 險, 险, 窿 and 队 (陜, 陷, 臽, 崚, 匋, 險 and 窿 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). Removed the rare 𨺓 from 隆.
 
 - **Alias loop, batch 123 (閔, 閣, 閥, 閨, 閲, 閻, 闊, 闕, 闖, 阿):** `## Aliases` sections and redirects for 闵, 阁, 阀, 闺, 閱, 阅, 阎, 閆, 闫, 阔, 濶, 阙, 闯 and 啊 (濶 and 啊 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 𨳔 and 䦢 (no definitions).

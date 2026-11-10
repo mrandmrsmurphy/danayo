@@ -115,6 +115,7 @@ tags:
 - 绒 --> 絨
 - 绕 --> 繞
 - 险 --> 険
+- 陏 --> 随
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

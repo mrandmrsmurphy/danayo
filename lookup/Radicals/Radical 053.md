@@ -77,6 +77,9 @@ tags:
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack
 
+### +18 Strokes
+- 廱 --> 雍
+
 ### +22 Strokes
 - 廳 --> 庁
 

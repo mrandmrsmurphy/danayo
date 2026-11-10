@@ -972,3 +972,10 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 陸 | 陆 | 1-3-4 | computed from its parts |
 | 険 (char) | 险 | 1-3-6 | computed from its parts |
 | 隊 (char) | 队 | 1-3-2 | computed from its parts |
+| 階 | 阶 | 1-3-3 | computed from its parts |
+| 際 (char) | 际 | 1-3-4 | computed from its parts |
+| 隣 (char) | 邻 | 1-5-2 | computed from its parts |
+| 雑 (char) | 杂 | 2-2-4 | computed from its parts |
+| 雖 (char) | 虽 | 2-3-6 | computed from its parts |
+| 霧 (char) | 雾 | 2-8-5 | computed from its parts |
+| 靄 | 霭 | 2-8-11 | computed from its parts |

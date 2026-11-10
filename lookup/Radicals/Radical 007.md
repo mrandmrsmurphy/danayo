@@ -29,6 +29,7 @@ Note: 三 is organized under Radical 1.
 - 云 --> variant of 雲
 - 𠄡 --> 五
 - 亖 --> 四
+- 云 --> 雲
 
 ### +3 Strokes
 - 亗 --> variant of 歳

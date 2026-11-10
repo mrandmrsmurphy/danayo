@@ -229,6 +229,7 @@ tags:
 - 阅 --> 閲
 - 啊 --> 阿
 - 陷 --> 陥
+- 邕 --> 雍
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

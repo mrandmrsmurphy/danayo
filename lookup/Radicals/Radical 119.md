@@ -60,6 +60,9 @@ tags: [lookup]
 ### +12 Strokes
 19. <ruby>[糧](../../characters/糧%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - provisions
 
+### +14 Strokes
+- 糯 --> 需
+
 ### Aliases
 - 粮 --> 糧
 - 粃 --> 比

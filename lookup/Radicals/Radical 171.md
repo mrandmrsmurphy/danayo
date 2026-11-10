@@ -11,6 +11,10 @@ tags: [lookup]
 ### Used
 1. <ruby>[隷](../../characters/隷.md)<rt>ㄌㄝㄧ</rt></ruby> - slave
 
+### Aliases
+- 隸 --> 隷
+- 隶 --> 隷
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

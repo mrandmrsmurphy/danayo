@@ -246,6 +246,8 @@ tags:
 - 铠 --> 鎧
 - 阎 --> 閻
 - 閆 --> 閻
+- 离 --> 離
+- 雩 --> 雨
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

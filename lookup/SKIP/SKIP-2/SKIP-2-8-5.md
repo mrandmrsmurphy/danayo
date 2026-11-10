@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### Aliases
 - 雹 --> 包
+- 雾 --> 霧
 
 ## Datacheck
 ```dataview

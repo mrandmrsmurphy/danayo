@@ -192,6 +192,9 @@ tags:
 - 锻 --> 鍛
 - 锹 --> 鍬
 - 锺 --> 鍾
+- 隨 --> 随
+- 鄰 --> 隣
+- 僱 --> 雇
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

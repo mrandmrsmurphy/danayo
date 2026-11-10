@@ -21,6 +21,7 @@ tags:
 5. <ruby>[那](../../characters/那%20(char).md)<rt>ㄋㄚ</rt></ruby> - then
 - 邮 --> 郵
 - 邹 --> 鄒
+- 邻 --> 隣
 
 ### +1 Stroke
 6. <ruby>[邱](../../characters/邱.md)<rt>ㄍㄨ</rt></ruby> - hill
@@ -39,6 +40,7 @@ tags:
 14. <ruby>[郡](../../characters/郡%20(char).md)<rt>ㄍㄨㄋ</rt></ruby> - county
 - 郢 --> 嬴
 - 郞 --> 郎
+- 邕 --> 雍
 
 ### +4 Strokes
 15. <ruby>[郵](../../characters/郵.md)<rt>ㄨㄛ</rt></ruby> - mail
@@ -58,6 +60,7 @@ tags:
 
 ### +7 Strokes
 22. <ruby>[鄙](../../characters/鄙.md)<rt>ㄈㄧㄜ</rt></ruby> - rustic
+- 鄰 --> 隣
 
 ### +8 Strokes
 23. <ruby>[鄧](../../characters/鄧.md)<rt>ㄉㄨㄫ</rt></ruby> - Teng

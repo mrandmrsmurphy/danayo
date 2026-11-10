@@ -28,6 +28,7 @@ tags: [lookup]
 - 龛 --> 龕
 - 參 --> 参
 - 㕗 --> 誘
+- 离 --> 離
 
 ## Datacheck
 ```dataview

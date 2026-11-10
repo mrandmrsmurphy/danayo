@@ -19,6 +19,7 @@ tags: [lookup]
 - 户 --> 戸
 - 亖 --> 四
 - 币 --> 幣
+- 云 --> 雲
 
 ## Datacheck
 ```dataview

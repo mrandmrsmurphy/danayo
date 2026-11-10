@@ -31,7 +31,7 @@ stand_in: "雖"
 aliases:
   - 虽
 注音: "ㄙㄨㄧ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 75
 - [SKIP-1-9-8](../lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 201st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙㄨㄧ](../syllables/ㄙㄨㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 虽
+Simplified Chinese form of 雖. SKIP 2-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[雖]]<rt>ㄙㄨㄧ</rt></ruby> "although" (stand-in for 雖 (char))

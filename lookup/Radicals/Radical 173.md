@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### +3 Strokes
 2. <ruby>[雪](../../characters/雪%20(char).md)<rt>ㄙ⼔ㄊ</rt></ruby> - snow
+- 雩 --> 雨
 
 ### +4 Strokes
 3. <ruby>[雰](../../characters/雰.md)<rt>ㄈㄨㄋ</rt></ruby> - ambience
@@ -50,6 +51,7 @@ tags: [lookup]
 ### +11 Strokes
 17. <ruby>[霧](../../characters/霧%20(char).md)<rt>ㄇㄨ</rt></ruby> - fog
 18. <ruby>[霫](../../characters/霫.md)<rt>ㄙㄨㄆ</rt></ruby> - heavy rain
+- 霭 --> 靄
 
 ### +13 Strokes
 19. <ruby>[露](../../characters/露%20(char).md)<rt>ㄌㄛ</rt></ruby> - dew
@@ -59,6 +61,7 @@ tags: [lookup]
 20. <ruby>[靄](../../characters/靄.md)<rt>ㄚㄧ</rt></ruby> - hazy
 - 靈 --> 霊
 - 靂 --> 歴
+- 靃 --> 霍
 
 ### Aliases
 - 霄 --> 宵

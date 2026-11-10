@@ -45,6 +45,7 @@ tags: [lookup]
 - 杀 --> 殺
 - 贞 --> 貞
 - 屰 --> 逆
+- 杂 --> 雑
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

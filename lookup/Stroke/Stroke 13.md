@@ -181,6 +181,7 @@ tags:
 - 锣 --> 鑼
 - 鉆 --> 鑽
 - 阙 --> 闕
+- 雾 --> 霧
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

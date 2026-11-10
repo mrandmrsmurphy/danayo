@@ -34,6 +34,7 @@ tags: [lookup]
 - 邮 --> 郵
 - 邹 --> 鄒
 - 钉 --> 釘
+- 邻 --> 隣
 
 ### Forbidden
 - 盯 - 官话: HSK/3, Chinese only.

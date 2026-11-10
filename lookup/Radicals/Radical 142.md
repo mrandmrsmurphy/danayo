@@ -20,6 +20,7 @@ tags:
 3. <ruby>[虹](../../characters/虹.md)<rt>ㄏㄛㄫ</rt></ruby> - rainbow
 4. <ruby>[虻](../../characters/虻.md)<rt>ㄇㄚㄫ</rt></ruby> - horsefly
 - 虾 --> 蝦
+- 虽 --> 雖
 
 ### +4 Strokes
 5. <ruby>[蚊](../../characters/蚊%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mosquito

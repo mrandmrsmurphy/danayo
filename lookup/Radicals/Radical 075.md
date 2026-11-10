@@ -33,6 +33,7 @@ tags: [lookup]
 - 朿 --> 刺
 - 朵 --> 朶
 - 杀 --> 殺
+- 杂 --> 雑
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod

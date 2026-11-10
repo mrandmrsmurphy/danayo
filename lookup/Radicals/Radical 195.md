@@ -63,6 +63,7 @@ tags: [lookup]
 - 鰺 --> 参
 - 鱇 --> 康
 - 鰻 --> 曼
+- 鱈 --> 雪
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray

@@ -248,6 +248,7 @@ aliases:
 133. <ruby>[僚](../../characters/僚.md)<rt>ㄌ⼄ㄨ</rt></ruby> - colleague
 - 僖 --> 喜
 - 僞 --> 偽
+- 僱 --> 雇
 
 ### +13 Strokes
 134. <ruby>[僵](../../characters/僵.md)<rt>ㄍ⼘ㄫ</rt></ruby> - stiff corpse

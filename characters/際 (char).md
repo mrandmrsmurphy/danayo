@@ -30,7 +30,7 @@ stand_in: 際
 aliases:
   - 际
 注音: ㄐㄝ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 100
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1592nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄐㄝ](../syllables/ㄐㄝ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 际
+Simplified Chinese form of 際. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[際]]<rt>ㄐㄝ</rt></ruby> "border, occasion" (stand-in for 際 (char))

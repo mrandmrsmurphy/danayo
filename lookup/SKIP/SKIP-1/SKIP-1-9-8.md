@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 䩊 --> 婉
+- 隸 --> 隷
 
 ## Datacheck
 ```dataview

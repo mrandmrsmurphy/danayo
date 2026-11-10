@@ -33,6 +33,7 @@ tags: [lookup]
 - 啟 --> 啓
 - 婪 --> 林
 - 椘 --> 楚
+- 雩 --> 雨
 
 ## Datacheck
 ```dataview
