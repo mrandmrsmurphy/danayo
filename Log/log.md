@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 28 (SKIP-2-2-3 to 2-2-9, SKIP-2-3-1, 2-3-10, 2-3-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **囑 added as an alias of 嘱 (user decision):** `aliases:` now lists 囑 (traditional form, EDRDG SKIP 1-3-21, 24 strokes); new `## Aliases` section; redirects on Stroke 24, Radical 030 and the existing SKIP-1-3-21 entry. 嘱 has no Classical Chinese rank (nor does 囑), so `mc_id` stays blank.
+
+- **SKIP leaf loop, firing 27 (SKIP-2-2-12 to 2-2-20):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the duplicate `襃 → 褒` from SKIP-2-2-15 (it belongs to SKIP-2-2-14, where it already is) and the wrong `齎 → 斉` from SKIP-2-2-19 and Radical 210: the 斉 page states that 齎 is a separate character, not a variant, so it is no alias (SKIP-2-2-19 is now an empty ø leaf). Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 26 (SKIP-2-15-2, 2-15-8, SKIP-2-16-3, 2-16-4, 2-16-6, 2-16-7, SKIP-2-19-11, SKIP-2-2-1, 2-2-10, 2-2-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including the redirect-only leaves built during the alias loop (2-15-8, 2-16-3, 2-19-11); no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 25 (SKIP-2-12-7, 2-12-8, SKIP-2-13-3 to 2-13-5, 2-13-9, SKIP-2-14-2 to 2-14-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.

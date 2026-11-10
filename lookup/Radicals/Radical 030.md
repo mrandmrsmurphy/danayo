@@ -234,6 +234,7 @@ tags: [lookup]
 
 ### +21 Strokes
 - 囓 --> 咬
+- 囑 --> 嘱
 
 ### Aliases
 - 唤 --> 喚

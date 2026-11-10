@@ -15,7 +15,6 @@ tags: [lookup]
 - 齊 --> 斉
 - 齐 --> 斉
 - 齋 --> 斎
-- 齎 --> 斉
 
 ## Data check
 ```dataview
