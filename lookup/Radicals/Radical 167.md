@@ -178,6 +178,7 @@ tags: [lookup]
 
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell
+- 鏻 --> 燐
 
 ### +13 Strokes
 - 鐸 --> 鈬

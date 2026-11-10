@@ -55,6 +55,7 @@ tags:
 - 贤 --> 賢
 - 轰 --> 軣
 - 鱼 --> 魚
+- 怂 --> 従
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

@@ -231,6 +231,7 @@ tags: [lookup]
 - 椀 --> 碗
 - 棱 --> 稜
 - 棉 --> 綿
+- 棣 --> 弟
 
 ### +9 Strokes
 111. <ruby>[棄](../../characters/棄.md)<rt>ㄎㄧㄜ</rt></ruby> - abandon

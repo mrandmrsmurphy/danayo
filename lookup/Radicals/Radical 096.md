@@ -81,6 +81,7 @@ tags:
 
 ### +11 Strokes
 34. <ruby>[璣](../../characters/璣.md)<rt>ㄍㄧㄜ</rt></ruby> - pearl that is not quite round
+- 璘 --> 燐
 
 ### +12 Strokes
 35. <ruby>[環](../../characters/環%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby> - ring
@@ -92,6 +93,9 @@ tags:
 
 ### +14 Strokes
 38. <ruby>[璽](../../characters/璽.md)<rt>ㄙㄝ</rt></ruby> - emperor's seal
+
+### +15 Strokes
+- 瓏 --> 龍
 
 ### Aliases
 - 玑 --> 璣

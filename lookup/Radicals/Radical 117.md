@@ -21,6 +21,7 @@ tags: [lookup]
 - 竝 --> 並
 - 竞 --> 競
 - 竚 --> 佇
+- 竜 --> 龍
 
 ### +6 Strokes
 3. <ruby>[竟](../../characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - finally

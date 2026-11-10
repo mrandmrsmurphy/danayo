@@ -92,6 +92,7 @@ tags: [lookup]
 47. <ruby>[腕](../../characters/腕%20(char).md)<rt>⺢ㄋ</rt></ruby> - arm
 48. <ruby>[𦜝](../../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> - navel
 - 腑 --> 府
+- 腊 --> 臘
 
 ### +7 Strokes
 49. <ruby>[腎](../../characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> - kidney
@@ -124,6 +125,7 @@ tags: [lookup]
 ### +10 Strokes
 64. <ruby>[膨](../../characters/膨.md)<rt>ㄆㄚㄫ</rt></ruby> - swell
 65. <ruby>[膳](../../characters/膳.md)<rt>ㄙ⼶ㄋ</rt></ruby> - meal
+- 臈 --> 臘
 
 ### +11 Strokes
 66. <ruby>[膿](../../characters/膿%20(char).md)<rt>ㄋㄛㄫ</rt></ruby> - pus

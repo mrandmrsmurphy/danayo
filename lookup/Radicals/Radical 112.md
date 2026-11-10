@@ -81,6 +81,7 @@ tags: [lookup]
 ### +12 Strokes
 31. <ruby>[磯](../../characters/磯.md)<rt>ㄍㄧㄜ</rt></ruby> - seashore
 32. <ruby>[礁](../../characters/礁.md)<rt>ㄐㄚㄨ</rt></ruby> - reef
+- 磷 --> 燐
 
 ### +13 Strokes
 33. <ruby>[礎](../../characters/礎.md)<rt>ㄑㄛ</rt></ruby> - foundation

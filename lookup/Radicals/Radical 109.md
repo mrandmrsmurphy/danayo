@@ -49,6 +49,7 @@ tags:
 19. <ruby>[睦](../../characters/睦.md)<rt>ㄇㄨㄎ</rt></ruby> - friendly
 20. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
 - 睪 --> 睾
+- 睪 --> 尺
 
 ### +9 Strokes
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle

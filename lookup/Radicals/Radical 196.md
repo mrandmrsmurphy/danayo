@@ -71,6 +71,7 @@ date-last-perfect: 2026-10-05
 - 鹰 --> 鷹
 - 鹭 --> 路
 - 鵞 --> 鵝
+- 鵜 --> 弟
 
 ### +8 Strokes
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot

@@ -30,6 +30,7 @@ tags: [lookup]
 - 眞 --> 真
 - 冢 --> 塚
 - 冦 --> 寇
+- 竜 --> 龍
 
 ## Datacheck
 ```dataview

@@ -260,6 +260,8 @@ tags:
 - 惭 --> 慙
 - 晚 --> 晩
 - 桮 --> 杯
+- 蛎 --> 厉
+- 從 --> 従
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

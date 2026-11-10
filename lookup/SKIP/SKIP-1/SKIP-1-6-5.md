@@ -38,6 +38,7 @@ tags:
 - 紭 --> 紘
 - 缽 --> 鉢
 - 鸿 --> 鴻
+- 蛎 --> 厉
 
 ### Forbidden
 - 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.

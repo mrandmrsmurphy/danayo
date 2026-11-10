@@ -156,6 +156,7 @@ tags:
 ### +16 Strokes
 - 壞 --> traditional form of 壊
 - 壞 --> 壊
+- 壟 --> 龍
 
 ### +17 Strokes
 - 壤 --> 壌

@@ -32,17 +32,12 @@ stand_in: 龍
 aliases:
   - 竜
   - 龙
-  - 龎
   - 隴
   - 陇
-  - 𨻫
-  - 㡣
-  - 䮾
-  - 𢅛
   - 瓏
   - 壟
 注音: ㄌ⼄ㄫ
-date-last-perfect: 2026-10-23
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -60,6 +55,26 @@ boundedness: 70
 - [SKIP-1-9-7](../lookup/SKIP/SKIP-1/SKIP-1-9-7.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 476th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄌ⼄ㄫ](../syllables/ㄌ⼄ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 竜
+Variant form of 龍, "dragon"; the Japanese shinjitai form. SKIP 2-2-8; 10 strokes. Radical 117 立. It has no rank of its own in the Classical Chinese lists.
+
+### 龙
+Simplified Chinese form of 龍. SKIP 4-4-1 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 隴
+阜 + 龍, "Mount Long (Gansu)"; a place name built on 龍 as its phonetic, kept as an alias of 龍 on the same derived sound. SKIP 1-3-16; 18 strokes. Radical 170 阜. It ranks 1414 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 陇
+Simplified Chinese form of 隴. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. Radical 170 阜. It has no rank of its own in the Classical Chinese lists.
+
+### 瓏
+玉 + 龍, "a rain-requesting jade; clarity"; a separate word built on 龍 as its phonetic, kept as an alias of 龍 on the same derived sound. SKIP 1-4-16; 20 strokes. Radical 096 玉. It has no rank of its own in the Classical Chinese lists.
+
+### 壟
+龍 over 土, "mound, grave; raised path between fields"; a separate word built on 龍 as its phonetic, kept as an alias of 龍 on the same derived sound. SKIP 2-16-3; 19 strokes. Radical 032 土. It ranks 3300 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)

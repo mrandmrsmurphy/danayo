@@ -177,6 +177,8 @@ tags:
 - 銳 --> 鋭
 - 曏 --> 向
 - 颜 --> 顔
+- 厲 --> 厉
+- 慫 --> 従
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

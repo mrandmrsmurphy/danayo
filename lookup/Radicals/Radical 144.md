@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +6 Strokes
 3. <ruby>[街](../../characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street
+- 衖 --> 巷
 
 ### +9 Strokes
 4. <ruby>[衝](../../characters/衝%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - collide

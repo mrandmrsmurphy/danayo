@@ -18,6 +18,7 @@ tags: [lookup]
 ### Aliases
 - 疡 --> 瘍
 - 疘 --> 肛
+- 疠 --> 厉
 
 ## Datacheck
 ```dataview

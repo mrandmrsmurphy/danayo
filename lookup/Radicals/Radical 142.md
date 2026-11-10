@@ -34,6 +34,7 @@ tags:
 9. <ruby>[蛋](../../characters/蛋.md)<rt>ㄉㄚㄋ</rt></ruby> - egg white
 10. <ruby>[蛍](../../characters/蛍%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - firefly
 11. <ruby>[蛉](../../characters/蛉.md)<rt>ㄌㄝㄫ</rt></ruby> - dragonfly
+- 蛎 --> 厉
 
 ### +6 Strokes
 12. <ruby>[蛙](../../characters/蛙.md)<rt>⺢</rt></ruby> - frog
@@ -44,6 +45,7 @@ tags:
 17. <ruby>[蛮](../../characters/蛮.md)<rt>ㄇㄚㄋ</rt></ruby> - barbarian
 - 䖵 --> 昆
 - 蛰 --> 蟄
+- 蛪 --> 霓
 
 ### +7 Strokes
 18. <ruby>[蛾](../../characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
@@ -64,6 +66,7 @@ tags:
 - 蝋 --> 蠟
 - 蝕 --> 食
 - 蜙 --> 公
+- 蜺 --> 霓
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
@@ -94,6 +97,7 @@ tags:
 - 蟠 --> 盤
 - 蟬 --> 蝉
 - 蟲 --> 虫
+- 蠇 --> 厉
 
 ### +13 Strokes
 40. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
@@ -107,6 +111,7 @@ tags:
 
 ### +14 Strokes
 43. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
+- 蠣 --> 厉
 
 ### +15 Strokes
 44. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm

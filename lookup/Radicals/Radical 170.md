@@ -27,6 +27,7 @@ tags: [lookup]
 - 阴 --> 陰
 - 陆 --> 陸
 - 际 --> 際
+- 陇 --> 龍
 
 ### +0 Strokes
 3. <ruby>[阜](../../characters/阜.md)<rt>ㄅ⼜</rt></ruby> - mound
@@ -96,6 +97,9 @@ tags: [lookup]
 
 ### +9 Strokes
 - 隳 --> 堕
+
+### +10 Strokes
+- 隴 --> 龍
 
 ### Aliases
 - 阳 --> 陽

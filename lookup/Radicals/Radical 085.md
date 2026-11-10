@@ -121,6 +121,7 @@ tags: [lookup]
 - 洺 --> 名
 - 浓 --> 濃
 - 浂 --> 灌
+- 浊 --> 濁
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -149,6 +150,7 @@ tags: [lookup]
 - 涉 --> 渉
 - 涡 --> 渦
 - 润 --> 潤
+- 涨 --> 張
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -270,6 +272,7 @@ tags: [lookup]
 - 滿 --> 満
 - 满 --> 満
 - 潅 --> 灌
+- 漲 --> 張
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean

@@ -47,6 +47,8 @@ tags: [lookup]
 - 蝇 --> 蝿
 - 蜡 --> 蠟
 - 蜙 --> 公
+- 蜺 --> 霓
+- 綵 --> 彩
 
 ## Datacheck
 ```dataview

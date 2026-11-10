@@ -48,6 +48,7 @@ tags: [lookup]
 - 怫 --> 悖
 - 怜 --> 憐
 - 忿 --> 憤
+- 怂 --> 従
 
 ### +5 Strokes
 19. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry
@@ -89,6 +90,7 @@ tags: [lookup]
 - 恶 --> 悪
 - 悯 --> 憫
 - 恖 --> 思
+- 悌 --> 弟
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -181,6 +183,7 @@ tags: [lookup]
 - 憇 --> 憩
 - 慼 --> 戚
 - 𢡛 --> 満
+- 慫 --> 従
 
 ### +12 Strokes
 94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful

@@ -35,6 +35,7 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 * 龒 --> ancient variant of 龍 
 - 龎 --> 龐
 - 龚 --> 龔
+- 龙 --> 龍
 
 ### Forbidden
 * 龑 - a 9th century made-up name = 龍 + 天

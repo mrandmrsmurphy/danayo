@@ -40,7 +40,7 @@ aliases:
   - 癘
   - 疠
 注音: ㄌㄝ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -60,6 +60,29 @@ boundedness: 75
 ### 代用字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [牡厉](../words/牡厉.md)
 - "leprosy", hence --> [厉病](../words/厉病.md) (and 厉人 for 'leper')
+
+## Aliases
+
+### 厲
+Traditional form of 厉, "fierce, stern"; this is the form the Classical Chinese lists rank. SKIP 3-2-13; 15 strokes. It ranks 770 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 蛎
+虫 + 厉, "oyster" (Japanese shinjitai of 蠣); built on 厉 as its phonetic, kept as an alias of 厉 on the same derived sound. SKIP 1-6-5; 11 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
+### 蠣
+虫 + 厲, "oyster"; a separate word built on 厲 as its phonetic, kept as an alias of 厉 on the same derived sound. SKIP 1-6-14; 20 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
+### 蠇
+Variant form of 蠣, "oyster". SKIP 1-6-12 (computed: EDRDG does not list it); 18 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
+### 癩
+疒 + 賴, "leprosy"; a separate word kept as an alias of 厉 by an earlier decision on the shared derived sound. SKIP 3-5-16; 21 strokes. Radical 104 疒. It has no rank of its own in the Classical Chinese lists.
+
+### 癘
+疒 + 厲, "sore, pestilence"; a separate word built on 厲 as its phonetic, kept as an alias of 厉 on the same derived sound. SKIP 3-5-12; 17 strokes. Radical 104 疒. It ranks 3135 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 疠
+Simplified Chinese form of 癘. SKIP 3-5-3 (computed: EDRDG does not list it); 8 strokes. Radical 104 疒. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[厉]]<rt>ㄌㄝ</rt></ruby> "whetstone" (stand-in for 厉)

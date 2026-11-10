@@ -72,6 +72,7 @@ tags:
 - 廱 --> 雍
 - 驅 --> 駆
 - 鰩 --> 鱏
+- 癩 --> 厉
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

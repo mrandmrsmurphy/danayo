@@ -33,14 +33,12 @@ stand_in: "姪"
 aliases:
   - 侄
   - 妷
-  - 㜼
-  - 𡥺
 注音: "ㄉㄝㄊ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 姪.
 >For the word, see [姪](../words/姪.md)
@@ -53,6 +51,14 @@ date-last-perfect: 2026-10-26
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 3560th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄉㄝㄊ](../syllables/ㄉㄝㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 侄
+亻 + 至, "nephew"; a variant of 姪 for the nephew. SKIP 1-2-6; 8 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+
+### 妷
+Variant form of 姪, "nephew". SKIP 1-3-5; 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[姪]]<rt>ㄉㄝㄊ</rt></ruby> "niece" (stand-in for 姪)

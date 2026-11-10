@@ -24,6 +24,7 @@ tags: [lookup]
 - 𰋷 --> 嬰
 - 奸 --> 姦
 - 妈 --> 媽
+- 妇 --> 婦
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant
@@ -37,6 +38,7 @@ tags: [lookup]
 - 妪 --> 区
 - 妒 --> 妬
 - 妝 --> 粧
+- 姊 --> 姉
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous
@@ -51,6 +53,8 @@ tags: [lookup]
 24. <ruby>[姓](../../characters/姓.md)<rt>ㄙㄧㄫ</rt></ruby> - surname
 25. <ruby>[委](../../characters/委%20(char).md)<rt>⼔ㄧ</rt></ruby> - appoint
 - 姆 --> 母
+- 姐 --> 姉
+- 妷 --> 姪
 
 ### +6 Strokes
 26. <ruby>[姚](../../characters/姚.md)<rt>⼄ㄨ</rt></ruby> - handsome

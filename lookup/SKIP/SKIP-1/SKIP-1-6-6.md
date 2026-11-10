@@ -44,6 +44,7 @@ tags:
 - 絲 --> 糸
 - 辉 --> 輝
 - 颊 --> 頬
+- 蛪 --> 霓
 
 ### Forbidden
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture

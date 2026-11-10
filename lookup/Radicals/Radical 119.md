@@ -35,6 +35,7 @@ tags: [lookup]
 11. <ruby>[粟](../../characters/粟.md)<rt>ㄙ⼄ㄎ</rt></ruby> - millet
 12. <ruby>[粧](../../characters/粧.md)<rt>ㄐ⺢ㄫ</rt></ruby> - put on make up
 - 粪 --> 糞
+- 粦 --> 燐
 
 ### +7 Strokes
 - 粲 --> 燦

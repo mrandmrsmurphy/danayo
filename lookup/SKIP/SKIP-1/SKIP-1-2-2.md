@@ -32,6 +32,7 @@ tags: [lookup]
 - 订 --> 訂
 - 讣 --> 訃
 - 什 --> 十
+- 从 --> 従
 
 ## Datacheck
 ```dataview

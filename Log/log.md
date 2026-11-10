@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Alias loop, batch 147 (冉, 力, 厉, 姉, 姪, 婦, 尺, 弟, 彩, 従):** `## Aliases` sections and redirects for 冄, 厲, 蛎, 蠣, 蠇, 癩, 癘, 疠, 姐, 姊, 侄, 妷, 妇, 睪, 悌, 棣, 鵜, 綵, 從, 从, 慫 and 怂 (most from EDRDG; computed SKIP codes for 蠇, 疠, 妇 and 怂 logged in project_alias_skip_guesses). `mc_id` of 彩 set to 3188 (綵). Removed the rare 𠠲, 㜼 and 𡥺 (no definitions), so 力 now has no aliases.
+
+- **Alias loop, batch 146 (龍, 巷, 張, 攅, 濁, 燐, 猿, 臘, 詩, 霓):** `## Aliases` sections and redirects for 竜, 龙, 隴, 陇, 瓏, 壟, 衖, 张, 漲, 涨, 攢, 攒, 浊, 磷, 鏻, 粦, 璘, 猴, 腊, 臈, 诗, 蜺 and 蛪 (most from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-16-3 (for 壟) with its index entry. `mc_id` of 猿 set to 3334 (猴) and of 霓 to 2997 (蜺). Removed the rare 龎 (it belongs to 龐), 𨻫, 㡣, 䮾, 𢅛, 𨞠, 𨜕, 䢽, 𧃮, 㷠, 𤝌, 𫞇, 𦡳 and 𦠼 (no usable definitions).
+
 - **Alias loop, batch 145 (晩, 杯, 架, 棕, 蝎, 誹, 跳, 還, 顔, 餓):** `## Aliases` sections and redirects for 晚, 盃, 桮, 椶, 蠍, 诽, 还, 顏, 颜 and 饿 (盃, 桮, 椶, 蠍 and 顏 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 榢, 𨁓, 𨃜, 䟭 and 𨁔 (no usable definitions), so 架 and 跳 now have no aliases.
 
 - **Alias loop, batch 144 (十, 叉, 及, 向, 岸, 已, 慙, 才, 把, 択):** `## Aliases` sections and redirects for 什, 扠, 笈, 曏, 嚮, 屽, 厈, 慚, 惭, 纔, 杷, 擇 and 择 (all but 惭 and 择 from EDRDG; the two computed SKIP codes are logged in project_alias_skip_guesses). `mc_id` of 慙 set to 1726 (慚). Removed the rare 㣾, 紁, 﨤, 㟁, 垾, 㠯 and 𰑧 (no usable definitions), so 已 now has no aliases.

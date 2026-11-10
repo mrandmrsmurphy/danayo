@@ -16,6 +16,7 @@ tags: [lookup]
 ### +3 Strokes
 - 疡 --> 瘍
 - 疘 --> 肛
+- 疠 --> 厉
 
 ### +4 Strokes
 1. <ruby>[疫](../../characters/疫.md)<rt>⼶ㄎ</rt></ruby> - pestilence
@@ -65,6 +66,7 @@ tags: [lookup]
 20. <ruby>[癇](../../characters/癇.md)<rt>ㄏㄚㄋ</rt></ruby> - epilepsy
 21. <ruby>[癌](../../characters/癌.md)<rt>ㄚㄇ</rt></ruby> - cancer
 - 癎 --> 癇
+- 癘 --> 厉
 
 ### +13 Strokes
 22. <ruby>[癒](../../characters/癒.md)<rt>⼜</rt></ruby> - get well
@@ -75,6 +77,9 @@ tags: [lookup]
 
 ### +15 Strokes
 - 癥 --> 症
+
+### +16 Strokes
+- 癩 --> 厉
 
 ### +17 Strokes
 - 癬 --> 鮮

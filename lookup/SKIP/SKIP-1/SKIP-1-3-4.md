@@ -126,6 +126,8 @@ tags:
 - 驳 --> 駁
 - 坉 --> 沌
 - 纯 --> 純
+- 陇 --> 龍
+- 张 --> 張
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

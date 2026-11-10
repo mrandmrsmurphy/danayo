@@ -88,6 +88,7 @@ tags: [lookup]
 - 诘 --> 詰
 - 详 --> 詳
 - 诛 --> 誅
+- 诗 --> 詩
 
 ### +2 Strokes
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise

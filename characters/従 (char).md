@@ -37,7 +37,7 @@ aliases:
   - 慫
   - 怂
 注音: ㄐㄛㄫ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -53,6 +53,20 @@ boundedness: 65
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 85th most used character in Classical Chinese (mirrored under the alias 从). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](../syllables/ㄐㄛㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 從
+Traditional form of 従, "to follow". SKIP 1-3-8; 11 strokes. It ranks 89 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 从
+Variant form of 従, "to follow" (two 人); this is the form the Classical Chinese lists rank. SKIP 1-2-2; 4 strokes. Radical 009 人. It ranks 85 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 慫
+從 + 心, "to be afraid; to urge on"; a separate word built on 從, kept as an alias of 従 on the same derived sound. SKIP 2-11-4; 15 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
+
+### 怂
+Simplified Chinese form of 慫. SKIP 2-4-4 (computed: EDRDG does not list it); 8 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[従]]<rt>ㄐㄛㄫ</rt></ruby> "obey; observe" (stand-in for 従)

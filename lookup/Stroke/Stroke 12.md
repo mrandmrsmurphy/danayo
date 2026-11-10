@@ -246,6 +246,12 @@ tags: [lookup]
 - 飩 --> 沌
 - 谢 --> 謝
 - 锐 --> 鋭
+- 衖 --> 巷
+- 粦 --> 燐
+- 猴 --> 猿
+- 腊 --> 臘
+- 蛪 --> 霓
+- 棣 --> 弟
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

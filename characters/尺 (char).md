@@ -31,7 +31,7 @@ stand_in: 尺
 aliases:
   - 睪
 注音: ㄑㄝㄎ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 90
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 531st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
+
+## Aliases
+
+### 睪
+Component 睪, "to spy on; a surname"; kept as an alias of 尺 on the same derived sound. SKIP 2-5-8; 13 strokes. Radical 109 目. It ranks 3754 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[尺]]<rt>ㄑㄝㄎ</rt></ruby> "foot (distance)" (stand-in for 尺)

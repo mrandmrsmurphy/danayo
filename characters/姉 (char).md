@@ -32,7 +32,7 @@ aliases:
   - 姐
   - 姊
 注音: "ㄐㄚ"
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: true
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 65
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 1552nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 姐
+女 + 且, "elder sister; young woman"; a near-synonym of 姉, kept as an alias on the same derived sound. SKIP 1-3-5; 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 姊
+Variant form of 姉, "elder sister"; this is the form the Classical Chinese lists rank. SKIP 1-3-5; 7 strokes. It ranks 1552 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[姉]]<rt>ㄐㄚ</rt></ruby> "elder sister" (stand-in for 姉)

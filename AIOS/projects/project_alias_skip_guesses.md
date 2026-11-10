@@ -1102,3 +1102,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 還 | 还 | 3-3-5 | computed from its parts |
 | 顔 | 颜 | 1-9-6 | computed from its parts |
 | 餓 | 饿 | 1-3-7 | computed from its parts |
+| 龍 (char) | 龙 | 4-4-1 | computed from its parts |
+| 龍 (char) | 陇 | 1-3-4 | computed from its parts |
+| 張 | 张 | 1-3-4 | computed from its parts |
+| 張 | 涨 | 1-3-7 | computed from its parts |
+| 攅 | 攒 | 1-3-16 | computed from its parts |
+| 濁 | 浊 | 1-3-6 | computed from its parts |
+| 詩 | 诗 | 1-2-6 | computed from its parts |
+| 霓 | 蛪 | 1-6-6 | computed from its parts |
+| 厉 (char) | 蠇 | 1-6-12 | computed from its parts |
+| 厉 (char) | 疠 | 3-5-3 | computed from its parts |
+| 婦 (char) | 妇 | 1-3-3 | computed from its parts |
+| 従 (char) | 怂 | 2-4-4 | computed from its parts |

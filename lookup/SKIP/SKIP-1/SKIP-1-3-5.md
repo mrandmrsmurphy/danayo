@@ -147,6 +147,9 @@ tags:
 - 姆 --> 母
 - 拇 --> 母
 - 择 --> 択
+- 姐 --> 姉
+- 姊 --> 姉
+- 妷 --> 姪
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

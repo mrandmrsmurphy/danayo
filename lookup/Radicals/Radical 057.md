@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### +4 Strokes
 7. <ruby>[弟](../../characters/弟%20(char).md)<rt>ㄉㄝ</rt></ruby> - younger brother
+- 张 --> 張
 
 ### +5 Strokes
 8. <ruby>[弦](../../characters/弦%20(char).md)<rt>ㄏㄝㄋ</rt></ruby> - bowstring

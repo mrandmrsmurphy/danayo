@@ -41,6 +41,7 @@ tags: [lookup]
 - 见 --> 見
 - 毋 --> 母
 - 贝 --> 貝
+- 龙 --> 龍
 
 ## Datacheck
 ```dataview

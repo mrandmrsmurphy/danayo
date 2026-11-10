@@ -35,6 +35,7 @@ aliases:
 - 仆 --> 僕
 - 仂 --> 動
 - 什 --> 十
+- 从 --> 従
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair
@@ -142,6 +143,7 @@ aliases:
 - 來 --> 来
 - 侉 --> 誇
 - 侧 --> 側
+- 侄 --> 姪
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant

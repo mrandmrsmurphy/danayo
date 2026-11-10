@@ -254,6 +254,7 @@ tags: [lookup]
 ### +15 Strokes
 135. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
 - 𢸪 --> 掻
+- 攒 --> 攅
 
 ### +16 Strokes
 136. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
@@ -261,6 +262,9 @@ tags: [lookup]
 ### +17 Strokes
 - 攜 --> 携
 - 攝 --> 摂
+
+### +18 Strokes
+- 攢 --> 攅
 
 ### +19 Strokes
 137. <ruby>[攫](../../characters/攫.md)<rt>ㄈㄛㄎ</rt></ruby> - seize

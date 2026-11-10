@@ -43,6 +43,9 @@ tags: [lookup]
 ### +12 Strokes
 - 厭 --> 嫌
 
+### +13 Strokes
+- 厲 --> 厉
+
 ### +15 Strokes
 11. <ruby>[厳](../../characters/厳%20(char).md)<rt>⼄ㄇ</rt></ruby> - strict
 

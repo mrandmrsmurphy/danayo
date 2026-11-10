@@ -159,6 +159,7 @@ tags:
 - 份 --> 分
 - 扠 --> 叉
 - 屽 --> 岸
+- 妇 --> 婦
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

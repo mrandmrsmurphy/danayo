@@ -29,13 +29,11 @@ danayo_id: 8
 mc_id: 300
 graphemic_classification: 象形
 stand_in: 力
-aliases:
-  - 𠠲
 注音: ㄌㄧㄎ
 kwin: false
 tags:
   - character
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 boundedness: 90
 ---
 >[!tip] This is a page about the character 力.

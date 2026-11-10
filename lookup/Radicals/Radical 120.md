@@ -162,6 +162,7 @@ tags: [lookup]
 - 綢 --> 紬
 - 綠 --> 緑
 - 綳 --> 繃
+- 綵 --> 彩
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
