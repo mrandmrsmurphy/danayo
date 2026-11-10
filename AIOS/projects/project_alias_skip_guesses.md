@@ -990,3 +990,20 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 頤 | 颐 | 1-7-6 | computed from its parts |
 | 頬 (char) | 颊 | 1-6-6 | computed from its parts |
 | 頴 | 颖 | 1-7-6 | computed from its parts |
+| 頻 (char) | 频 | 1-7-6 | computed from its parts |
+| 頼 | 賴 | 1-7-9 | computed from its parts |
+| 頼 | 赖 | 1-7-6 | computed from its parts |
+| 顆 | 颗 | 1-8-6 | computed from its parts |
+| 額 | 额 | 1-9-6 | computed from its parts |
+| 顎 | 颚 | 1-9-6 | computed from its parts |
+| 顚 | 颠 | 1-10-6 | computed from its parts |
+| 顧 | 顾 | 1-4-6 | computed from its parts |
+| 颯 (char) | 飒 | 1-5-4 | computed from its parts |
+| 飢 | 饥 | 1-3-2 | computed from its parts |
+| 飴 | 饴 | 1-3-5 | computed from its parts |
+| 飼 | 饲 | 1-3-5 | computed from its parts |
+| 飾 | 饰 | 1-3-5 | computed from its parts |
+| 餃 | 饺 | 1-3-6 | computed from its parts |
+| 餅 (char) | 饼 | 1-3-6 | computed from its parts |
+| 餌 | 饵 | 1-3-6 | computed from its parts |
+| 饅 | 馒 | 1-3-11 | computed from its parts |

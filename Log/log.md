@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 130 (飢, 飧, 飴, 飼, 飾, 餃, 餅, 餌, 餐, 饅):** `## Aliases` sections and redirects for 饑, 饥, 饴, 饲, 饰, 饺, 饼, 饵, 喰, 飡 and 馒 (饑, 喰 and 飡 from EDRDG; computed SKIP codes for the simplified 饣-forms logged in project_alias_skip_guesses). Removed the rare 飱, 𩱓, 㢽, 𧊗, 𩚪, 𩛣, 湌, 䬸, 𩛳 and 䊡 (not in EDRDG, no usable definitions), so 飧 now has no aliases.
+
+- **Alias loop, batch 129 (頻, 頼, 顆, 額, 顎, 顕, 顚, 顧, 颯, 食):** `## Aliases` sections and redirects for 频, 賴, 赖, 颗, 额, 齶, 腭, 颚, 顯, 顛, 颠, 顾, 飒 and 蝕 (齶, 腭, 顯, 顛 and 蝕 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-14-9 (for 顯) and SKIP-1-15-9 (for 齶) with their index entries. `mc_id` of 顚 set to 1719 (顛). Removed the rare 㒹 and 䬃 (not in EDRDG).
+
 - **Alias loop, batch 128 (頃, 項, 頌, 頑, 頒, 頓, 頚, 頤, 頬, 頴):** `## Aliases` sections and redirects for 顷, 项, 颂, 顽, 颁, 顿, 頸, 颈, 颐, 頰, 颊, 穎 and 颖 (頸, 頰 and 穎 from EDRDG; computed SKIP codes for the simplified 页-forms logged in project_alias_skip_guesses).
 
 - **Alias loop, batch 127 (鞀, 鞋, 鞍, 鞘, 鞠, 鞭, 韮, 韻, 響, 頁):** `## Aliases` sections and redirects for 鼗, 鞉, 鞵, 鞕, 韭, 韵, 响 and 页 (all but 页 from EDRDG; its computed SKIP code is logged in project_alias_skip_guesses). Removed the rare 鞌, 鞩, 踘, 𠓥, 𠓠, 𩌻, 𱂐 and 𩑋 (no usable definitions), so 鞍, 鞘 and 鞠 now have no aliases.

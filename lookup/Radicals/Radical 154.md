@@ -94,6 +94,7 @@ tags:
 27. <ruby>[賈](../../characters/賈.md)<rt>ㄍㄚ</rt></ruby> - merchant
 28. <ruby>[賊](../../characters/賊.md)<rt>ㄐㄨㄎ</rt></ruby> - thief
 29. <ruby>[賎](../../characters/賎.md)<rt>ㄐㄝㄋ</rt></ruby> - inferior
+- 赖 --> 頼
 
 ### +7 Strokes
 30. <ruby>[賑](../../characters/賑.md)<rt>ㄐㄧㄋ</rt></ruby> - rich
@@ -114,6 +115,7 @@ tags:
 39. <ruby>[賢](../../characters/賢.md)<rt>ㄏㄝㄋ</rt></ruby> - wise
 - 赠 --> 贈
 - 赝 --> 贋
+- 賴 --> 頼
 
 ### +10 Strokes
 40. <ruby>[購](../../characters/購.md)<rt>ㄍㄛㄨ</rt></ruby> - buy

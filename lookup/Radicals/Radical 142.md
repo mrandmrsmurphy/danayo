@@ -61,6 +61,7 @@ tags:
 - 蝇 --> 蝿
 - 蜡 --> 蠟
 - 蝋 --> 蠟
+- 蝕 --> 食
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada

@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 餅.
 >For the word, see [餅](../words/餅.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-9-8](../lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 3920th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄅㄧㄫ](../syllables/ㄅㄧㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 饼
+Simplified Chinese form of 餅. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[餅]]<rt>ㄅㄧㄫ</rt></ruby> "pastry, cake, mochi" (stand-in for 餅)

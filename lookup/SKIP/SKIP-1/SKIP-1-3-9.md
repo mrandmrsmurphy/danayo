@@ -190,6 +190,7 @@ tags:
 - 缔 --> 締
 - 缓 --> 緩
 - 猯 --> 貒
+- 喰 --> 餐
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

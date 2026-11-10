@@ -86,6 +86,7 @@ tags:
 - 鞾 --> 靴
 - 鼗 --> 鞀
 - 鞵 --> 鞋
+- 顛 --> 顚
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

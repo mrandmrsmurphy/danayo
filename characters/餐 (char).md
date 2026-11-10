@@ -31,16 +31,13 @@ graphemic_classification: "𣦼"
 stand_in: "餐"
 aliases:
   - 喰
-  - 湌
   - 飡
-  - 䬸
-  - 𩛳
 注音: "ㄑㄚㄋ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 餐.
 >For the word, see [餐](../words/餐.md)
@@ -54,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-7-9](../lookup/SKIP/SKIP-2/SKIP-2-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄑㄚㄋ](../syllables/ㄑㄚㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 喰
+口 + 食, "to eat, to drink"; a Japanese character (kokuji) for eating, kept as an alias of 餐 on the same derived sound. SKIP 1-3-9; 12 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
+
+### 飡
+Variant form of 餐, "meal; to eat". SKIP 1-2-9; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[餐]]<rt>ㄑㄚㄋ</rt></ruby> "eat; dine" (stand-in for 餐)

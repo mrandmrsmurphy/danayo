@@ -175,6 +175,7 @@ tags: [lookup]
 - 喻 --> 喩
 - 喷 --> 噴
 - 嘅 --> 慨
+- 喰 --> 餐
 
 ### +10 Strokes
 103. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity

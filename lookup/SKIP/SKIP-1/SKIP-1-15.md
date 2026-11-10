@@ -15,7 +15,7 @@ tags:
 6. [SKIP-1-15-6](lookup/SKIP/SKIP-1/SKIP-1-15-6.md): 齦
 7. no
 8. no
-9. no
+9. [SKIP-1-15-9](lookup/SKIP/SKIP-1/SKIP-1-15-9.md): ø
 10. [SKIP-1-15-10](lookup/SKIP/SKIP-1/SKIP-1-15-10.md): ø
 
 ## Base check

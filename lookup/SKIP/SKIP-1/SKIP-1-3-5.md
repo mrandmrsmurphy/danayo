@@ -137,6 +137,9 @@ tags:
 - 咏 --> 詠
 - 陕 --> 陝
 - 陈 --> 陳
+- 饴 --> 飴
+- 饲 --> 飼
+- 饰 --> 飾
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

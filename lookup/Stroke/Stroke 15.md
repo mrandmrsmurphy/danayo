@@ -163,6 +163,8 @@ tags:
 - 閱 --> 閲
 - 澐 --> 雲
 - 鞉 --> 鞀
+- 额 --> 額
+- 颚 --> 顎
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

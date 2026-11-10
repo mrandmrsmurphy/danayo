@@ -50,6 +50,7 @@ tags:
 - 钩 --> 鉤
 - 钢 --> 鋼
 - 钟 --> 鍾
+- 飒 --> 颯
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

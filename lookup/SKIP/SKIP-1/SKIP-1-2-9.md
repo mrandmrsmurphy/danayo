@@ -48,6 +48,7 @@ tags:
 - 谒 --> 謁
 - 谓 --> 謂
 - 谜 --> 謎
+- 飡 --> 餐
 
 ## Datacheck
 ```dataview

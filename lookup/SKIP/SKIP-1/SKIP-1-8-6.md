@@ -27,6 +27,8 @@ tags: [lookup]
 - 銓 --> 選
 - 鲜 --> 鮮
 - 鲑 --> 圭
+- 颗 --> 顆
+- 蝕 --> 食
 
 ## Datacheck
 ```dataview

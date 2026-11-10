@@ -17,6 +17,8 @@ tags: [lookup]
 ### Aliases
 - 题 --> 題
 - 鞉 --> 鞀
+- 额 --> 額
+- 颚 --> 顎
 
 ## Datacheck
 ```dataview

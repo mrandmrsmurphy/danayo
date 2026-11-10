@@ -54,6 +54,7 @@ tags:
 - 頸 --> 頚
 - 頰 --> 頬
 - 穎 --> 頴
+- 賴 --> 頼
 
 ### Forbidden
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"

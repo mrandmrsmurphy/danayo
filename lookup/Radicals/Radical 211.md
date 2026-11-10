@@ -23,6 +23,7 @@ tags: [lookup]
 - 齩 --> 咬
 - 龈 --> 齦
 - 齣 --> 出
+- 齶 --> 顎
 
 ## Data check
 ```dataview

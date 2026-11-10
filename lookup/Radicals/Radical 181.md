@@ -30,6 +30,7 @@ tags: [lookup]
 - 顽 --> 頑
 - 颁 --> 頒
 - 顿 --> 頓
+- 顾 --> 顧
 
 ### +2 Strokes
 2. <ruby>[頂](../../characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> - peak
@@ -51,14 +52,18 @@ tags: [lookup]
 - 預 --> 予
 - 颐 --> 頤
 - 颖 --> 頴
+- 频 --> 頻
 
 ### +5 Strokes
 11. <ruby>[領](../../characters/領.md)<rt>ㄌㄧㄫ</rt></ruby> - territory
 12. <ruby>[頗](../../characters/頗%20(char).md)<rt>ㄈㄚ</rt></ruby> - very
+- 颗 --> 顆
 
 ### +6 Strokes
 13. <ruby>[頬](../../characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
 - 题 --> 題
+- 额 --> 額
+- 颚 --> 顎
 
 ### +7 Strokes
 14. <ruby>[頤](../../characters/頤.md)<rt>ㄧ</rt></ruby> - chin
@@ -68,6 +73,7 @@ tags: [lookup]
 18. <ruby>[頼](../../characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> - trust
 - 頸 --> 頚
 - 頰 --> 頬
+- 颠 --> 顚
 
 ### +8 Strokes
 19. <ruby>[頻](../../characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> - frequent
@@ -84,9 +90,13 @@ tags: [lookup]
 ### +10 Strokes
 27. <ruby>[顚](../../characters/顚.md)<rt>ㄉㄝㄋ</rt></ruby> - summit
 28. <ruby>[願](../../characters/願.md)<rt>⼔ㄋ</rt></ruby> - request
+- 顛 --> 顚
 
 ### +12 Strokes
 29. <ruby>[顧](../../characters/顧.md)<rt>ㄍㄛ</rt></ruby> - look after
+
+### +14 Strokes
+- 顯 --> 顕
 
 ### Aliases
 - 頽 --> 退

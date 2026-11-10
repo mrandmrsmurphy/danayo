@@ -12,12 +12,28 @@ tags: [lookup]
 ### +-2 Strokes
 - 饮 --> 飲
 
+### +-4 Strokes
+- 饥 --> 飢
+
+### +-1 Strokes
+- 饴 --> 飴
+
+### +-1 Strokes
+- 饲 --> 飼
+
+### +-1 Strokes
+- 饰 --> 飾
+
 ### +0 Strokes
 1. <ruby>[食](../../characters/食%20(char).md)<rt>ㄙㄧㄎ</rt></ruby> - eat
+- 饺 --> 餃
+- 饼 --> 餅
+- 饵 --> 餌
 
 ### +2 Strokes
 2. <ruby>[飢](../../characters/飢.md)<rt>ㄍㄧㄜ</rt></ruby> - hungry
 - 馆 --> 館
+- 飡 --> 餐
 
 ### +3 Strokes
 3. <ruby>[飯](../../characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked)
@@ -33,6 +49,7 @@ tags: [lookup]
 
 ### +5 Strokes
 10. <ruby>[餌](../../characters/餌.md)<rt>ㄋㄧ</rt></ruby> - bait
+- 馒 --> 饅
 
 ### +6 Strokes
 11. <ruby>[養](../../characters/養.md)<rt>⼘ㄫ</rt></ruby> - foster
@@ -57,6 +74,7 @@ tags: [lookup]
 17. <ruby>[饉](../../characters/饉.md)<rt>ㄍㄨㄋ</rt></ruby> - famine
 18. <ruby>[饅](../../characters/饅.md)<rt>ㄇㄚㄋ</rt></ruby> - steamed bun
 - 饒 --> 尭
+- 饑 --> 飢
 
 ### +13 Strokes
 19. <ruby>[饗](../../characters/饗.md)<rt>ㄏ⼘ㄫ</rt></ruby> - banquet

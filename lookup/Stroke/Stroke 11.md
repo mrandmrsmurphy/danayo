@@ -249,6 +249,7 @@ tags:
 - 离 --> 離
 - 雩 --> 雨
 - 颈 --> 頚
+- 飡 --> 餐
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

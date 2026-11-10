@@ -35,7 +35,7 @@ stand_in: "食"
 aliases:
   - 蝕
 注音: "ㄙㄧㄎ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 90
 - [SKIP-2-2-7](../lookup/SKIP/SKIP-2/SKIP-2-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 110th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄙㄧㄎ](../syllables/ㄙㄧㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 蝕
+虫 + 食, "to eat away, to erode; eclipse"; a separate word built on 食, kept as an alias of 食 on the same derived sound. SKIP 1-8-6; 14 strokes. Radical 142 虫. It ranks 1633 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[食]]<rt>ㄙㄧㄎ</rt></ruby> "eat" (stand-in for 食)
