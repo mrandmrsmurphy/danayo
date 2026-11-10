@@ -57,6 +57,7 @@ tags: [lookup]
 - 鮸 --> 免
 - 鳍 --> 鰭
 - 鯏 --> 利
+- 鳏 --> 鰥
 
 ### +8 Strokes
 10. <ruby>[鯖](../../characters/鯖.md)<rt>ㄑㄝㄫ</rt></ruby> - mackerel

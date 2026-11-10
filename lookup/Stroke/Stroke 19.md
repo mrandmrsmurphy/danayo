@@ -97,6 +97,8 @@ tags:
 - 蠍 --> 蝎
 - 壟 --> 龍
 - 攒 --> 攅
+- 懷 --> 懐
+- 曝 --> 暴
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

@@ -92,6 +92,8 @@ tags: [lookup]
 - 沬 --> 沫
 - 泄 --> 洩
 - 泠 --> 澪
+- 泽 --> 沢
+- 泝 --> 遡
 
 ### +5 Strokes
 49. <ruby>[泉](../../characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - fountain
@@ -151,6 +153,7 @@ tags: [lookup]
 - 涡 --> 渦
 - 润 --> 潤
 - 涨 --> 張
+- 涌 --> 湧
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -245,6 +248,7 @@ tags: [lookup]
 - 滩 --> 灘
 - 滄 --> 蒼
 - 滈 --> 鎬
+- 溯 --> 遡
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -307,6 +311,7 @@ tags: [lookup]
 - 濒 --> 瀕
 - 濑 --> 瀬
 - 濛 --> 蒙
+- 澤 --> 沢
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder

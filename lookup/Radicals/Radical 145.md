@@ -81,6 +81,7 @@ tags:
 
 ### +11 Strokes
 28. <ruby>[襖](../../characters/襖.md)<rt>ㄚㄨ</rt></ruby> - coat
+- 襄 --> 攘
 
 ### +12 Strokes
 29. <ruby>[襟](../../characters/襟.md)<rt>ㄍㄧㄇ</rt></ruby> - lapel

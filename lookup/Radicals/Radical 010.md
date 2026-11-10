@@ -34,6 +34,7 @@ tags: [lookup]
 10. <ruby>[児](../../characters/児%20(char).md)<rt>ㄝㄧ</rt></ruby> - baby
 11. <ruby>[免](../../characters/免.md)<rt>ㄇ⼶ㄋ</rt></ruby> - excuse
 12. <ruby>[兌](../../characters/兌.md)<rt>ㄉ⺢ㄧ</rt></ruby> - exchange
+- 兑 --> 兌
 
 ### +6 Strokes
 13. <ruby>[兎](../../characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> - rabbit

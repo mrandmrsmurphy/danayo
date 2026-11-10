@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-28
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 蟻.
 >For the word, see [蟻](../words/蟻.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-28
 - [SKIP-1-6-13](../lookup/SKIP/SKIP-1/SKIP-1-6-13.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - 2918th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄜㄧ](../syllables/ㄜㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 蚁
+Simplified Chinese form of 蟻. SKIP 1-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 螘
+Variant form of 蟻, "ant". SKIP 1-6-10; 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蟻]]<rt>ㄜㄧ</rt></ruby> "ant"

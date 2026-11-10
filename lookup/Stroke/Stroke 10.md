@@ -255,6 +255,10 @@ tags:
 - 竜 --> 龍
 - 涨 --> 張
 - 悌 --> 弟
+- 痈 --> 用
+- 铁 --> 鉄
+- 验 --> 験
+- 涌 --> 湧
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

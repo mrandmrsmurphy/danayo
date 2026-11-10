@@ -25,13 +25,13 @@ joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
 danayo_id: 7556
-mc_id: 0
+mc_id:
 graphemic_classification: 難
 stand_in: 儺
 aliases:
   - 傩
 注音: ㄋㄨㄛ
-date-last-perfect: 2026-10-27
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 85
 - [SKIP-1-2-19](../lookup/SKIP/SKIP-1/SKIP-1-2-19.md) ([Stroke 21](../lookup/Stroke/Stroke%2021.md))
 - Not present in the Classical Chinese usage ranking (`mc_id: 0`, checked against all four `CC 0000`–`CC 3000` lookup files) — surprising given its one famous Analects citation, but consistent with an otherwise very low overall frequency. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 歌|ɑ]] would organically land alongside 那/梛 in the [[ㄋㄚ]] group — but is **deliberately assigned here to [ㄋㄨㄛ](../syllables/ㄋㄨㄛ.md) instead**, to fill a syllable slot left empty because Dan'a'yo's own **ㄨㄛ** final actually derives from an unrelated MC source (尤/侯-type -ɨu/-əu rhymes, per [[ㄍㄨㄛ]]/[[ㄏㄨㄛ]]'s own ancestry) rather than from 歌/戈 — so 儺's modern Mandarin "nuó" reading, which superficially resembles the -uo final, is not actually the same rhyme lineage at all. Unlike [[粄 (char)|粄]]'s coinage, every other reading below (Korean, Japanese, Vietnamese) is a real attested reading, not an analogical guess.
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 傩
+Simplified Chinese form of 儺. SKIP 1-2-10 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[儺]]<rt>ㄋㄨㄛ</rt></ruby> "exorcism" (stand-in for 儺)

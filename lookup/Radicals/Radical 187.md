@@ -44,6 +44,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[馬](../../characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
+- 验 --> 験
 
 ### +1 Stroke
 - 骑 --> 騎
@@ -83,6 +84,7 @@ tags: [lookup]
 16. <ruby>[騎](../../characters/騎.md)<rt>ㄍㄨㄧ</rt></ruby> - ride horseback
 17. <ruby>[騒](../../characters/騒%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - boisterous
 18. <ruby>[験](../../characters/験%20(char).md)<rt>ㄝㄇ</rt></ruby> - check
+- 騐 --> 験
 
 ### +9 Strokes
 19. <ruby>[騙](../../characters/騙%20(char).md)<rt>ㄆ⼶ㄋ</rt></ruby> - deceive
@@ -104,6 +106,7 @@ tags: [lookup]
 ### +13 Strokes
 21. <ruby>[驚](../../characters/驚.md)<rt>ㄍ⼶ㄫ</rt></ruby> - startle
 - 驛 --> 駅
+- 驗 --> 験
 
 ### +14 Strokes
 22. <ruby>[驟](../../characters/驟.md)<rt>ㄙㄚㄨ</rt></ruby> - sudden

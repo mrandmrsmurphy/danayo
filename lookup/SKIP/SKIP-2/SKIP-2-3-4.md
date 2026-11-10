@@ -64,6 +64,7 @@ tags:
 - 芜 --> 蕪
 - 贡 --> 貢
 - 灵 --> 霊
+- 兑 --> 兌
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

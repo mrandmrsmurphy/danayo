@@ -30,13 +30,14 @@ danayo_id: 6228
 mc_id: 2620
 graphemic_classification: 甬
 stand_in: 湧
-aliases: 涌
+aliases:
+  - 涌
 注音: ⼄ㄫ
 kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 湧.
 >For the word, see [湧](../words/湧.md)
@@ -50,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2620th most used character in Classical Chinese (recorded in the corpus under its simplified variant 涌). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [⼄ㄫ](../syllables/⼄ㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 涌
+Variant form of 湧, "to well up, to gush"; the form Chinese uses, and the one the Classical Chinese lists rank. SKIP 1-3-7; 10 strokes. It ranks 2620 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[湧]]<rt>⼄ㄫ</rt></ruby> "gush, rush up" (stand-in for 湧)

@@ -33,6 +33,9 @@ tags: [lookup]
 ### +-2 Strokes
 - 闯 --> 闖
 
+### +-1 Strokes
+- 闰 --> 閏
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 
@@ -64,6 +67,7 @@ tags: [lookup]
 ### +5 Strokes
 9. <ruby>[閙](../../characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy
 - 阙 --> 闕
+- 閠 --> 閏
 
 ### +6 Strokes
 10. <ruby>[関](../../characters/関%20(char).md)<rt>ㄍ⺢ㄇ</rt></ruby> - close

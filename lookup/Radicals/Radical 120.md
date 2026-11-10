@@ -20,6 +20,7 @@ tags: [lookup]
 - 红 --> 紅
 - 纥 --> 紇
 - 纤 --> 繊
+- 约 --> 約
 
 ### +1 Stroke
 2. <ruby>[系](../../characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> - system

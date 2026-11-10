@@ -135,6 +135,7 @@ tags:
 - 嚮 --> 向
 - 磷 --> 燐
 - 癘 --> 厉
+- 襄 --> 攘
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

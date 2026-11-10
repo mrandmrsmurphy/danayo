@@ -33,10 +33,8 @@ stand_in: 閏
 aliases:
   - 闰
   - 閠
-  - 䦞
-  - 𥹿
 注音: ㄋㄨㄋ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -52,6 +50,14 @@ boundedness: 75
 - [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [HSK No](../lookup/HSK/HSK%20No.md), [Grade Advanced](../lookup/Grade%20Advanced.md)
+
+## Aliases
+
+### 闰
+Simplified Chinese form of 閏. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 閠
+A ghost form of 閏, "intercalary". SKIP 3-8-5; 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[閏]]<rt>ㄋㄨㄋ</rt></ruby> "intercalary" (stand-in for 閏)

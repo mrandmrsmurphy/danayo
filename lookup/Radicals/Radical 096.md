@@ -73,6 +73,7 @@ tags:
 ### +9 Strokes
 31. <ruby>[瑠](../../characters/瑠.md)<rt>ㄌ⼜</rt></ruby> - lapis lazuli
 32. <ruby>[瑯](../../characters/瑯.md)<rt>ㄌㄚㄫ</rt></ruby> - white cornelian
+- 瑶 --> 耀
 
 ### +10 Strokes
 33. <ruby>[璃](../../characters/璃%20(char).md)<rt>ㄌㄜ</rt></ruby> - glass

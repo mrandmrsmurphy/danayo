@@ -39,6 +39,7 @@ tags: [lookup]
 - 帅 --> 帥
 - 虾 --> 蝦
 - 郑 --> 鄭
+- 蚁 --> 蟻
 
 ## Datacheck
 ```dataview

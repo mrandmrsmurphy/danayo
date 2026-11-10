@@ -31,6 +31,7 @@ tags: [lookup]
 6. <ruby>[病](../../characters/病.md)<rt>ㄅ⼶ㄫ</rt></ruby> - sickness
 7. <ruby>[症](../../characters/症.md)<rt>ㄐㄧㄫ</rt></ruby> - disease
 - 痂 --> 加
+- 痈 --> 用
 
 ### +6 Strokes
 8. <ruby>[痕](../../characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
@@ -51,6 +52,7 @@ tags: [lookup]
 15. <ruby>[痺](../../characters/痺.md)<rt>ㄅㄧ</rt></ruby> - numb
 - 瘂 --> 唖
 - 痹 --> 痺
+- 痲 --> 麻
 
 ### +9 Strokes
 16. <ruby>[瘋](../../characters/瘋.md)<rt>ㄈㄜㄫ</rt></ruby> - crazy
@@ -71,6 +73,7 @@ tags: [lookup]
 ### +13 Strokes
 22. <ruby>[癒](../../characters/癒.md)<rt>⼜</rt></ruby> - get well
 23. <ruby>[癖](../../characters/癖%20(char).md)<rt>ㄆㄝㄎ</rt></ruby> - idiosyncrasy
+- 癕 --> 用
 
 ### +14 Strokes
 - 癡 --> 痴
@@ -83,6 +86,9 @@ tags: [lookup]
 
 ### +17 Strokes
 - 癬 --> 鮮
+
+### +18 Strokes
+- 癰 --> 用
 
 ### Forbidden
 - 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.

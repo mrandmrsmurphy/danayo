@@ -21,6 +21,7 @@ tags:
 4. <ruby>[虻](../../characters/虻.md)<rt>ㄇㄚㄫ</rt></ruby> - horsefly
 - 虾 --> 蝦
 - 虽 --> 雖
+- 蚁 --> 蟻
 
 ### +4 Strokes
 5. <ruby>[蚊](../../characters/蚊%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mosquito
@@ -87,6 +88,7 @@ tags:
 36. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
 - 螢 --> 蛍
 - 螭 --> 魑
+- 螘 --> 蟻
 
 ### +11 Strokes
 37. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis

@@ -252,6 +252,7 @@ tags: [lookup]
 - 腊 --> 臘
 - 蛪 --> 霓
 - 棣 --> 弟
+- 傩 --> 儺
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

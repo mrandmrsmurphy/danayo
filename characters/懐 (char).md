@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 55
-date-last-perfect: 2026-11-01
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 懐.
 >For the word, see [懐](../words/懐.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-11-01
 - [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 575th most used character in Classical Chinese (recorded under the traditional form 懷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 皆合|ɣuɛi]] → [ㄏ⺢ㄧ](../syllables/ㄏ⺢ㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 懷
+Traditional form (kyūjitai) of 懐, "to cherish; the bosom"; this is the form the Classical Chinese lists rank. SKIP 1-3-16; 19 strokes. It ranks 575 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[懐]]<rt>ㄏ⺢ㄧ</rt></ruby> "miss, think of" (stand-in for 懐 (char))

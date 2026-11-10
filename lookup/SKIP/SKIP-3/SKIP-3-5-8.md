@@ -17,6 +17,7 @@ tags: [lookup]
 ### Aliases
 - 瘂 --> 唖
 - 痹 --> 痺
+- 痲 --> 麻
 
 ## Datacheck
 ```dataview

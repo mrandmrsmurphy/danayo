@@ -198,6 +198,10 @@ tags:
 - 瑙 --> 𡿺
 - 椶 --> 棕
 - 睪 --> 尺
+- 傭 --> 用
+- 閠 --> 閏
+- 溯 --> 遡
+- 痲 --> 麻
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

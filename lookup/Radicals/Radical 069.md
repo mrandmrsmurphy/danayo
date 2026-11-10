@@ -30,6 +30,9 @@ tags: [lookup]
 ### +9 Strokes
 7. <ruby>[新](../../characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new
 
+### +11 Strokes
+- 斳 --> 芹
+
 ### +14 Strokes
 - 斷 --> 断
 

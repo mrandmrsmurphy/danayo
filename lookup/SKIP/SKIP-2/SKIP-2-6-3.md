@@ -40,6 +40,7 @@ tags: [lookup]
 - 咨 --> 諮
 - 娄 --> 婁
 - 笈 --> 及
+- 咢 --> 愕
 
 ## Datacheck
 ```dataview

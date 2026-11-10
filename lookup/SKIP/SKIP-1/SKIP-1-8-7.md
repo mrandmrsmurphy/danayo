@@ -26,6 +26,7 @@ tags: [lookup]
 - 鲣 --> 堅
 - 鲤 --> 鯉
 - 銳 --> 鋭
+- 鋨 --> 鉄
 
 ## Datacheck
 ```dataview

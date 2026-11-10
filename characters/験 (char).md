@@ -35,10 +35,9 @@ stand_in: 験
 aliases:
   - 驗
   - 验
-  - 𩥾
   - 騐
 注音: ㄝㄇ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -55,6 +54,17 @@ boundedness: 65
 - [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 1136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄝㄇ](../syllables/ㄝㄇ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
+
+## Aliases
+
+### 驗
+Traditional form (kyūjitai) of 験, "to test, to verify"; this is the form the Classical Chinese lists rank. SKIP 1-10-13; 23 strokes. It ranks 1136 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 验
+Simplified Chinese form of 驗. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 騐
+Variant form of 験, "to test". SKIP 1-10-8; 18 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine" (stand-in for 験)

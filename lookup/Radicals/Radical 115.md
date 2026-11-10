@@ -27,6 +27,7 @@ tags: [lookup]
 7. <ruby>[科](../../characters/科.md)<rt>ㄎ⺢</rt></ruby> - branch
 8. <ruby>[秒](../../characters/秒%20(char).md)<rt>ㄇ⼄ㄨ</rt></ruby> - second (time)
 - 种 --> 種
+- 秏 --> 耗
 
 ### +5 Strokes
 9. <ruby>[秘](../../characters/秘.md)<rt>ㄅㄧㄜ</rt></ruby> - secret

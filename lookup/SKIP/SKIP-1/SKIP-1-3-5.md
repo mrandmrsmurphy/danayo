@@ -150,6 +150,8 @@ tags:
 - 姐 --> 姉
 - 姊 --> 姉
 - 妷 --> 姪
+- 泽 --> 沢
+- 泝 --> 遡
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

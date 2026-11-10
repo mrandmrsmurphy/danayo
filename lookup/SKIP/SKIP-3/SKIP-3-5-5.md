@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### Aliases
 - 痂 --> 加
+- 痈 --> 用
 
 ## Datacheck
 ```dataview

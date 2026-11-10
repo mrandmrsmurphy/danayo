@@ -50,6 +50,7 @@ tags: [lookup]
 - 迈 --> 邁
 - 迟 --> 遅
 - 闵 --> 閔
+- 闰 --> 閏
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

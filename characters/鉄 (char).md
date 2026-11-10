@@ -32,15 +32,11 @@ stand_in: 鉄
 aliases:
   - 鐵
   - 铁
-  - 𨬿
   - 鐡
-  - 𨮯
-  - 𨫓
   - 銕
-  - 䥫
   - 鋨
 注音: ㄊㄝㄊ
-date-last-perfect: 2026-10-26
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -57,6 +53,23 @@ boundedness: 75
 - 1308th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄊㄝㄊ](../syllables/ㄊㄝㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - the element word 鉄 itself doubles as the periodic table abbreviation for "iron" — see [Periodic Table](../lexipedia/Periodic%20Table.md)
+
+## Aliases
+
+### 鐵
+Traditional form of 鉄, "iron"; this is the form the Classical Chinese lists rank. SKIP 1-8-13; 21 strokes. It ranks 1308 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 铁
+Simplified Chinese form of 鐵. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鐡
+Variant form of 鉄, "iron". SKIP 1-8-12; 20 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 銕
+Variant form of 鉄, "iron" (as in 嵎銕). SKIP 1-8-6; 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鋨
+金 + 我, "osmium"; a chemical-name form, also a non-standard Japanese variant of 鉄, kept as an alias of 鉄. SKIP 1-8-7; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鉄]]<rt>ㄊㄝㄊ</rt></ruby> "iron"

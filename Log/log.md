@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **湧 (last alias page):** `aliases:` rewritten as a list (it was a bare scalar the tool could not read), `## Aliases` section and redirects built for 涌 (EDRDG 1-3-7); `mc_id` 2620 from its rank. The alias backlog is now zero.
+
+- **Alias loop, batch 150 (遡, 麻, 懺, 芹) — backlog complete:** `## Aliases` sections and redirects for 泝, 溯, 痲, 忏, 懴 and 斳 (all but 忏 from EDRDG; its computed SKIP code is logged in project_alias_skip_guesses). `mc_id` of 遡 set to 3917 (泝). Removed the rare 菦 and 䓅 (no usable definitions). Every character with an `aliases:` list now has its `## Aliases` section.
+
+- **Alias loop, batch 149 (獺, 蟻, 鰥, 愕, 京, 懐, 攘, 暴, 沢, 耗):** `## Aliases` sections and redirects for 獭, 蚁, 螘, 鳏, 咢, 亰, 懷, 襄, 曝, 澤, 泽 and 秏 (most from EDRDG; computed SKIP codes for 獭, 蚁, 鳏 and 泽 logged in project_alias_skip_guesses). Corrected 獺's `mc_id` from 0 to 3831: it does appear in `CC 3000` at rank 3831, and its rank bullet now says so. Removed the rare 㺚, 㐮 and 㘪 (no usable definitions).
+
+- **Alias loop, batch 148 (用, 約, 耀, 赤, 鉄, 閏, 験, 鳩, 儺, 兌):** `## Aliases` sections and redirects for 癰, 痈, 癕, 佣, 傭, 约, 燿, 瑶, 鐵, 铁, 鐡, 銕, 鋨, 闰, 閠, 驗, 验, 騐, 鸠, 傩 and 兑 (most from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-3-5-18 (for 癰) with its index entry. Removed the rare 砽, 㿈, 灻, 𤆍, 烾, 𨬿, 𨮯, 𨫓, 䥫, 䦞, 𥹿, 𩥾 and 䲥 (no usable definitions), so 赤 now has no aliases.
+
 - **Alias loop, batch 147 (冉, 力, 厉, 姉, 姪, 婦, 尺, 弟, 彩, 従):** `## Aliases` sections and redirects for 冄, 厲, 蛎, 蠣, 蠇, 癩, 癘, 疠, 姐, 姊, 侄, 妷, 妇, 睪, 悌, 棣, 鵜, 綵, 從, 从, 慫 and 怂 (most from EDRDG; computed SKIP codes for 蠇, 疠, 妇 and 怂 logged in project_alias_skip_guesses). `mc_id` of 彩 set to 3188 (綵). Removed the rare 𠠲, 㜼 and 𡥺 (no definitions), so 力 now has no aliases.
 
 - **Alias loop, batch 146 (龍, 巷, 張, 攅, 濁, 燐, 猿, 臘, 詩, 霓):** `## Aliases` sections and redirects for 竜, 龙, 隴, 陇, 瓏, 壟, 衖, 张, 漲, 涨, 攢, 攒, 浊, 磷, 鏻, 粦, 璘, 猴, 腊, 臈, 诗, 蜺 and 蛪 (most from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-16-3 (for 壟) with its index entry. `mc_id` of 猿 set to 3334 (猴) and of 霓 to 2997 (蜺). Removed the rare 龎 (it belongs to 龐), 𨻫, 㡣, 䮾, 𢅛, 𨞠, 𨜕, 䢽, 𧃮, 㷠, 𤝌, 𫞇, 𦡳 and 𦠼 (no usable definitions).

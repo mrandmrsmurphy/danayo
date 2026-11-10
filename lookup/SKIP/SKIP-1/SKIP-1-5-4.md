@@ -53,6 +53,7 @@ tags:
 - 飒 --> 颯
 - 欨 --> 歌
 - 种 --> 種
+- 秏 --> 耗
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

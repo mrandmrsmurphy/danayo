@@ -13,6 +13,9 @@ tags: [lookup]
 
 1. <ruby>[閙](characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> "noisy"
 
+### Aliases
+- 閠 --> 閏
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

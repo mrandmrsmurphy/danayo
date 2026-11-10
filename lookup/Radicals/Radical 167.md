@@ -48,6 +48,7 @@ tags: [lookup]
 - 钲 --> 鉦
 - 铄 --> 鑠
 - 钻 --> 鑽
+- 铁 --> 鉄
 
 ### +3 Strokes
 5. <ruby>[釣](../../characters/釣.md)<rt>ㄑㄛㄨ</rt></ruby> - angling
@@ -116,6 +117,7 @@ tags: [lookup]
 - 锻 --> 鍛
 - 锹 --> 鍬
 - 锺 --> 鍾
+- 銕 --> 鉄
 
 ### +7 Strokes
 27. <ruby>[銹](../../characters/銹%20(char).md)<rt>ㄙ⼜</rt></ruby> - rust
@@ -127,6 +129,7 @@ tags: [lookup]
 - 镐 --> 鎬
 - 镇 --> 鎮
 - 銳 --> 鋭
+- 鋨 --> 鉄
 
 ### +8 Strokes
 33. <ruby>[鋸](../../characters/鋸%20(char).md)<rt>ㄍ⼄</rt></ruby> - saw
@@ -179,11 +182,13 @@ tags: [lookup]
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell
 - 鏻 --> 燐
+- 鐡 --> 鉄
 
 ### +13 Strokes
 - 鐸 --> 鈬
 - 鏽 --> 銹
 - 鐮 --> 鎌
+- 鐵 --> 鉄
 
 ### +14 Strokes
 - 鑛 --> 鉱

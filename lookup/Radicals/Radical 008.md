@@ -38,6 +38,7 @@ tags: [lookup]
 - 亱 --> 夜
 - 亮 --> 瞭
 - 亲 --> 辛
+- 亰 --> 京
 
 ### +11 Strokes
 11. <ruby>[亶](../../characters/亶.md)<rt>ㄉㄚㄋ</rt></ruby> - sincere

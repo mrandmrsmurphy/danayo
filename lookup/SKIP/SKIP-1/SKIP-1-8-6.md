@@ -31,6 +31,7 @@ tags: [lookup]
 - 蝕 --> 食
 - 鲛 --> 鮫
 - 龈 --> 齦
+- 銕 --> 鉄
 
 ## Datacheck
 ```dataview

@@ -110,6 +110,7 @@ aliases:
 - ¡你! - 違法字
 - 佔 --> 卜
 - 佚 --> 逸
+- 佣 --> 用
 
 ### +6 Strokes
 52. <ruby>[㑒](../../characters/㑒.md)<rt>ㄑㄨㄇ</rt></ruby> - unanimous
@@ -232,6 +233,7 @@ aliases:
 - 储 --> 儲
 - 傢 --> 家
 - 傚 --> 効
+- 傩 --> 儺
 
 ### +11 Strokes
 123. <ruby>[傑](../../characters/傑.md)<rt>ㄍㄝㄊ</rt></ruby> - masterful
@@ -246,6 +248,7 @@ aliases:
 - ¡傻! - 違法字
 - 僉 --> 㑒
 - 働 --> 動
+- 傭 --> 用
 
 ### +12 Strokes
 130. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue

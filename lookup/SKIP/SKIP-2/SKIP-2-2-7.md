@@ -39,6 +39,7 @@ tags: [lookup]
 - 奐 --> 煥
 - 亱 --> 夜
 - 亮 --> 瞭
+- 亰 --> 京
 
 ## Datacheck
 ```dataview

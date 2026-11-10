@@ -33,7 +33,7 @@ stand_in: 暴
 aliases:
   - 曝
 注音: ㄅㄛㄎ
-date-last-perfect: 2026-11-01
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-2-4-11](../lookup/SKIP/SKIP-2/SKIP-2-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 580th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄅㄛㄎ](../syllables/ㄅㄛㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 曝
+日 + 暴, "to expose to the sun"; a separate word built on 暴, kept as an alias of 暴 on the same derived sound. SKIP 1-4-15; 19 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[凶暴]]<rt>ㄏ⼜ㄫㄅㄛㄎ</rt></ruby> "ferocious; brutal"

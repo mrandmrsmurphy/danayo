@@ -28,6 +28,9 @@ date-last-perfect: 2026-10-05
 ### +-1 Strokes
 - 鸭 --> 鴨
 
+### +-4 Strokes
+- 鸠 --> 鳩
+
 ### +0 Strokes
 1. <ruby>[鳥](../../characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
 - 鸿 --> 鴻

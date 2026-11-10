@@ -1114,3 +1114,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 厉 (char) | 疠 | 3-5-3 | computed from its parts |
 | 婦 (char) | 妇 | 1-3-3 | computed from its parts |
 | 従 (char) | 怂 | 2-4-4 | computed from its parts |
+| 用 | 痈 | 3-5-5 | computed from its parts |
+| 約 | 约 | 1-3-3 | computed from its parts |
+| 鉄 (char) | 铁 | 1-5-5 | computed from its parts |
+| 閏 (char) | 闰 | 3-3-4 | computed from its parts |
+| 験 (char) | 验 | 1-3-7 | computed from its parts |
+| 鳩 | 鸠 | 1-2-5 | computed from its parts |
+| 儺 (char) | 傩 | 1-2-10 | computed from its parts |
+| 兌 | 兑 | 2-3-4 | computed from its parts |
+| 獺 | 獭 | 1-3-13 | computed from its parts |
+| 蟻 (char) | 蚁 | 1-6-3 | computed from its parts |
+| 鰥 | 鳏 | 1-8-10 | computed from its parts |
+| 沢 | 泽 | 1-3-5 | computed from its parts |
+| 懺 | 忏 | 1-3-3 | computed from its parts |

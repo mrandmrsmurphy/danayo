@@ -19,6 +19,7 @@ tags: [lookup]
 
 ### +2 Strokes
 3. <ruby>[忙](../../characters/忙.md)<rt>ㄇㄚㄫ</rt></ruby> - busy
+- 忏 --> 懺
 
 ### +3 Strokes
 4. <ruby>[忌](../../characters/忌.md)<rt>ㄍㄧ</rt></ruby> - taboo
@@ -205,9 +206,11 @@ tags: [lookup]
 ### +14 Strokes
 103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
 - 懣 --> 満
+- 懴 --> 懺
 
 ### +15 Strokes
 104. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy
+- 懷 --> 懐
 
 ### +16 Strokes
 105. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang

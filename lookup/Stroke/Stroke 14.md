@@ -213,6 +213,7 @@ tags:
 - 漲 --> 張
 - 蜺 --> 霓
 - 綵 --> 彩
+- 銕 --> 鉄
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻
