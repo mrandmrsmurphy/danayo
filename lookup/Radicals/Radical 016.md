@@ -25,6 +25,7 @@ tags: [lookup]
 - 几 --> 幾
 - 凯 --> 凱
 - 凭 --> 憑
+- 凤 --> 鳳
 
 ## Data check
 ```dataview

@@ -190,6 +190,11 @@ tags:
 - 腭 --> 顎
 - 馱 --> 駄
 - 腾 --> 騰
+- 鲇 --> 鮎
+- 鲐 --> 鮐
+- 鲍 --> 鮑
+- 鳯 --> 鳳
+- 鹉 --> 鵡
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

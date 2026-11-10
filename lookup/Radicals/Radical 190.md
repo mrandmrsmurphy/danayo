@@ -23,6 +23,8 @@ tags: [lookup]
 - 鬄 --> 剃
 - 鬒 --> 㐱
 - 髴 --> 彿
+- 髮 --> 髪
+- 髥 --> 髯
 
 ## Data check
 ```dataview

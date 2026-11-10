@@ -24,6 +24,7 @@ tags: [lookup]
 - 书 --> 書
 - 车 --> 車
 - 丰 --> 豊
+- 卤 --> 鹵
 
 ### Forbidden
 - 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.

@@ -10,11 +10,37 @@ date-last-perfect: 2026-10-05
 
 ## Strokes
 
+### +-6 Strokes
+- 鸟 --> 鳥
+
+### +-3 Strokes
+- 鸢 --> 鳶
+
+### +-2 Strokes
+- 鸥 --> 鴎
+
+### +-1 Strokes
+- 鸳 --> 鴛
+
+### +-1 Strokes
+- 鸯 --> 鴦
+
+### +-1 Strokes
+- 鸭 --> 鴨
+
 ### +0 Strokes
 1. <ruby>[鳥](../../characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
+- 鸿 --> 鴻
+- 鸾 --> 鵉
+
+### +1 Stroke
+- 鹅 --> 鵝
+- 鹄 --> 鵠
 
 ### +2 Strokes
 2. <ruby>[鳩](../../characters/鳩.md)<rt>ㄎ⼜</rt></ruby> - pigeon
+- 鳯 --> 鳳
+- 鹉 --> 鵡
 
 ### +3 Strokes
 3. <ruby>[鳳](../../characters/鳳.md)<rt>ㄆㄨㄫ</rt></ruby> - phoenix
@@ -24,6 +50,7 @@ date-last-perfect: 2026-10-05
 ### +4 Strokes
 6. <ruby>[鴎](../../characters/鴎%20(char).md)<rt>ㄛㄨ</rt></ruby> - seagull
 - 鴉 --> 烏
+- 鹤 --> 鶴
 
 ### +5 Strokes
 7. <ruby>[鴔](../../characters/鴔.md)<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
@@ -31,6 +58,7 @@ date-last-perfect: 2026-10-05
 9. <ruby>[鴦](../../characters/鴦.md)<rt>ㄚㄫ</rt></ruby> - mandarin duck
 10. <ruby>[鴨](../../characters/鴨%20(char).md)<rt>ㄚㄆ</rt></ruby> - duck
 - 鴠 --> 蛋
+- 鹦 --> 鸚
 
 ### +6 Strokes
 11. <ruby>[鴻](../../characters/鴻.md)<rt>ㄏㄛㄫ</rt></ruby> - swan
@@ -42,6 +70,7 @@ date-last-perfect: 2026-10-05
 15. <ruby>[鵠](../../characters/鵠.md)<rt>ㄏㄛㄎ</rt></ruby> - swan
 - 鹰 --> 鷹
 - 鹭 --> 路
+- 鵞 --> 鵝
 
 ### +8 Strokes
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot
@@ -56,6 +85,7 @@ date-last-perfect: 2026-10-05
 ### +11 Strokes
 - 鹳 --> 鸛
 - 鷓 --> 庶
+- 鷗 --> 鴎
 
 ### +12 Strokes
 - 鷲 --> 就
@@ -65,11 +95,17 @@ date-last-perfect: 2026-10-05
 ### +13 Strokes
 20. <ruby>[鷹](../../characters/鷹%20(char).md)<rt>ㄧㄫ</rt></ruby> - hawk
 
+### +16 Strokes
+- 鸖 --> 鶴
+
 ### +17 Strokes
 21. <ruby>[鸚](../../characters/鸚.md)<rt>ㄚㄫ</rt></ruby> - parrot
 
 ### +18 Strokes
 22. <ruby>[鸛](../../characters/鸛.md)<rt>ㄍ⺢ㄋ</rt></ruby> - stork
+
+### +19 Strokes
+- 鸞 --> 鵉
 
 ### Aliases
 - 鵬 --> 朋

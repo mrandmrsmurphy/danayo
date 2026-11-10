@@ -13,6 +13,13 @@ Left half has 16 strokes.
 - SKIP-1-16-2: none
 - SKIP-1-16-3: none
 - [SKIP-1-16-4](lookup/SKIP/SKIP-1/SKIP-1-16-4.md): ø
+- SKIP-1-16-5: none
+- SKIP-1-16-6: none
+- SKIP-1-16-7: none
+- SKIP-1-16-8: none
+- SKIP-1-16-9: none
+- SKIP-1-16-10: none
+- [SKIP-1-16-11](lookup/SKIP/SKIP-1/SKIP-1-16-11.md): ø
 
 ## Base check
 ```base

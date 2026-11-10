@@ -14,6 +14,8 @@ tags: [lookup]
 - 鱸 --> 盧
 - 鬰 --> 欝
 - 馫 --> 馨
+- 鱷 --> 鰐
+- 鸖 --> 鶴
 
 ## Data check
 ```dataview

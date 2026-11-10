@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鴨.
 >For the word, see [鴨](../words/鴨.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-11](../lookup/SKIP/SKIP-1/SKIP-1-5-11.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 6117th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄚㄆ](../syllables/ㄚㄆ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 5](../lookup/HSK/Old%20HSK%205.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 鸭
+Simplified Chinese form of 鴨. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鴨]]<rt>ㄚㄆ</rt></ruby> "duck" (stand-in for 鴨)

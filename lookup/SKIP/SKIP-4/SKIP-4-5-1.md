@@ -32,6 +32,7 @@ tags: [lookup]
 - 疋 --> 匹
 - 歺 --> 歹
 - 兰 --> 蘭
+- 鸟 --> 鳥
 
 ## Datacheck
 ```dataview

@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鱗.
 >For the word, see [鱗](../words/鱗.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-11-12](../lookup/SKIP/SKIP-1/SKIP-1-11-12.md) ([Stroke 23](../lookup/Stroke/Stroke%2023.md))
 - 2250th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄌㄧㄋ](../syllables/ㄌㄧㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 鳞
+Simplified Chinese form of 鱗. SKIP 1-8-12 (computed: EDRDG does not list it); 20 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鱗]]<rt>ㄌㄧㄋ</rt></ruby> "scale (fish)" (stand-in for 鱗)

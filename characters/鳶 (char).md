@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鳶.
 >For the word, see [鳶](../words/鳶.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-11](../lookup/SKIP/SKIP-2/SKIP-2-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 3264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](../syllables/⼶ㄋ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 鸢
+Simplified Chinese form of 鳶. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鳶]]<rt>⼶ㄋ</rt></ruby> "kite (bird)" (stand-in for 鳶)

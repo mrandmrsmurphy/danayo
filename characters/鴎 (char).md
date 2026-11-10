@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鴎.
 >For the word, see [鴎](../words/鴎.md)
@@ -47,6 +47,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-11](../lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Absent from all four Classical Chinese frequency lists under any of its glyph forms (鴎/鷗/鸥); `mc_id` trusted long-tail (7852). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄛㄨ](../syllables/ㄛㄨ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md#Redirects) — dropped from `Lookup/Korean/Korean HS.md`'s 2000 revision, confirmed absent from the current list
+
+## Aliases
+
+### 鷗
+Traditional form of 鴎, "seagull". SKIP 1-11-11; 22 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鸥
+Simplified Chinese form of 鷗. SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鴎]]<rt>ㄛㄨ</rt></ruby> "seagull"

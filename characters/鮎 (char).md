@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鮎.
 >For the word, see [鮎](../words/鮎.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-11-5](../lookup/SKIP/SKIP-1/SKIP-1-11-5.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - mc_id trusted long-tail (8991; absent from all four Classical Chinese frequency lists). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 添|em]] → [ㄋㄝㄇ](../syllables/ㄋㄝㄇ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 鯰
+魚 + 念, "catfish"; a related fish name (Japanese namazu), kept as an alias of 鮎 on the same derived sound. SKIP 1-11-8; 19 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鲇
+Simplified Chinese form of 鮎. SKIP 1-8-5 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鮎]]<rt>ㄋㄝㄇ</rt></ruby> "sweetfish; sheatfish" (stand-in for 鮎)

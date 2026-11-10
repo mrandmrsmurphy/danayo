@@ -27,15 +27,13 @@ danayo_id: 8375
 mc_id: 0
 graphemic_classification: 内
 stand_in: 魶
-aliases:
-  - 𱇔
 注音: ㄋㄨㄆ
 kwin: false
 tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 魶.
 >For the word, see [魶](../words/魶.md)

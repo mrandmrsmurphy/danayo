@@ -15,6 +15,7 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[隼](../../characters/隼%20(char).md)<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
 - 难 --> 難
+- 隺 --> 鶴
 
 ### +3 Strokes
 3. <ruby>[雀](../../characters/雀.md)<rt>ㄐㄚㄎ</rt></ruby> - sparrow
@@ -37,6 +38,7 @@ tags: [lookup]
 
 ### +8 Strokes
 - 雕 --> 彫
+- 雕 --> 鵰
 
 ### +9 Strokes
 13. <ruby>[雖](../../characters/雖%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> - although

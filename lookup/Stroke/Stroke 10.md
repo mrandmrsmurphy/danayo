@@ -235,6 +235,10 @@ tags:
 - 颁 --> 頒
 - 顿 --> 頓
 - 顾 --> 顧
+- 鸳 --> 鴛
+- 鸯 --> 鴦
+- 鸭 --> 鴨
+- 隺 --> 鶴
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

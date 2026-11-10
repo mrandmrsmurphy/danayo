@@ -33,7 +33,7 @@ aliases:
   - 鸟
   - 蔦
 注音: "ㄑㄛㄨ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 90
 - [SKIP-3-7-4](../lookup/SKIP/SKIP-3/SKIP-3-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 581st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄛㄨ](../syllables/ㄑㄛㄨ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鸟
+Simplified Chinese form of 鳥. SKIP 4-5-1 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 蔦
+艸 over 鳥, "ivy; a parasitic plant"; a Japanese kokuji plant name built on 鳥, kept as an alias of 鳥 on the same derived sound. SKIP 2-3-11; 14 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby> "bird" (stand-in for 鳥)

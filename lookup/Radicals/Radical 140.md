@@ -144,6 +144,7 @@ tags:
 - 䓾 --> 沙
 - 蔣 --> 蒋
 - 蔷 --> 薔
+- 蔦 --> 鳥
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn

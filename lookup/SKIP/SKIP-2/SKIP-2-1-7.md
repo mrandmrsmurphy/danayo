@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 丧 --> 喪
+- 丽 --> 麗
 
 ## Datacheck
 ```dataview

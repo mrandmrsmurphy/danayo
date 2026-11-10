@@ -1024,3 +1024,34 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 騙 (char) | 骗 | 1-3-9 | computed from its parts |
 | 騙 (char) | 騗 | 1-10-9 | computed from its parts |
 | 騰 | 腾 | 1-10-3 | computed from its parts |
+| 鬚 | 须 | 1-3-6 | computed from its parts |
+| 魚 (char) | 鱼 | 2-4-4 | computed from its parts |
+| 魯 | 鲁 | 2-8-4 | computed from its parts |
+| 鮎 (char) | 鲇 | 1-8-5 | computed from its parts |
+| 鮐 | 鲐 | 1-8-5 | computed from its parts |
+| 鮑 (char) | 鲍 | 1-8-5 | computed from its parts |
+| 鮫 | 鲛 | 1-8-6 | computed from its parts |
+| 鯉 | 鲤 | 1-8-7 | computed from its parts |
+| 鯖 | 鲭 | 1-8-8 | computed from its parts |
+| 鯤 | 鲲 | 1-8-8 | computed from its parts |
+| 鯨 | 鲸 | 1-8-8 | computed from its parts |
+| 鰐 | 鳄 | 1-8-9 | computed from its parts |
+| 鰭 | 鳍 | 1-8-10 | computed from its parts |
+| 鱗 (char) | 鳞 | 1-8-12 | computed from its parts |
+| 鳥 (char) | 鸟 | 4-5-1 | computed from its parts |
+| 鳳 | 凤 | 3-2-2 | computed from its parts |
+| 鳳 | 鳯 | 3-2-11 | computed from its parts |
+| 鳶 (char) | 鸢 | 2-3-5 | computed from its parts |
+| 鴎 (char) | 鸥 | 1-4-5 | computed from its parts |
+| 鴛 | 鸳 | 1-5-5 | computed from its parts |
+| 鴦 | 鸯 | 1-5-5 | computed from its parts |
+| 鴨 (char) | 鸭 | 1-5-5 | computed from its parts |
+| 鴻 | 鸿 | 1-6-5 | computed from its parts |
+| 鵉 | 鸾 | 2-6-5 | computed from its parts |
+| 鵝 | 鹅 | 1-7-5 | computed from its parts |
+| 鵠 | 鹄 | 1-7-5 | computed from its parts |
+| 鵡 | 鹉 | 1-8-5 | computed from its parts |
+| 鶴 (char) | 鹤 | 1-10-5 | computed from its parts |
+| 鸚 | 鹦 | 1-11-5 | computed from its parts |
+| 鹵 | 卤 | 4-4-3 | computed from its parts |
+| 麗 | 丽 | 2-1-7 | computed from its parts |

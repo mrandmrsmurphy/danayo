@@ -36,6 +36,7 @@ tags: [lookup]
 - 锻 --> 鍛
 - 锹 --> 鍬
 - 锺 --> 鍾
+- 碱 --> 鹸
 
 ## Datacheck
 ```dataview

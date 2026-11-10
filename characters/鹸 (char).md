@@ -28,19 +28,18 @@ joyo_level: 表外字
 hsk_level: "3"
 hanmun_edu_level: 無
 danayo_id: 7415
-mc_id: 0
+mc_id:
 graphemic_classification: 㑒
 stand_in: 鹸
 aliases:
   - 鹼
   - 碱
-  - 𫠗
 注音: ㄑㄝㄇ
 kwin: true
 tags:
   - character
 boundedness: 85
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 鹸.
 >For the word, see [鹸](../words/鹸.md)
@@ -53,6 +52,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-11-8](../lookup/SKIP/SKIP-1/SKIP-1-11-8.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄑㄝㄇ](../syllables/ㄑㄝㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](Lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 鹼
+Traditional form of 鹸, "alkali, lye". SKIP 1-11-13; 24 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 碱
+石 + 咸, "alkali, lye"; the form Chinese uses for 鹸/鹼. SKIP 1-5-9; 14 strokes. Radical 112 石. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鹸]]<rt>ㄑㄝㄇ</rt></ruby> "base, alkali"

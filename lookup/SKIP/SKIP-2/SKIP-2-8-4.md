@@ -38,6 +38,7 @@ tags: [lookup]
 - 惩 --> 懲
 - 暂 --> 暫
 - 琹 --> 琴
+- 鲁 --> 魯
 
 ## Datacheck
 ```dataview

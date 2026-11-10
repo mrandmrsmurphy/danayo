@@ -42,6 +42,7 @@ tags: [lookup]
 - 笺 --> 箋
 - 笃 --> 篤
 - 笼 --> 籠
+- 鸾 --> 鵉
 
 ## Datacheck
 ```dataview

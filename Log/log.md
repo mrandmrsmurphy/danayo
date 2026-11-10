@@ -2,7 +2,17 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-10
+
+- **Alias loop, batch 136 (鵖, 鵝, 鵠, 鵡, 鵰, 鶴, 鸚, 鹵, 鹸, 麗):** `## Aliases` sections and redirects for 鹅, 鵞, 鹄, 鹉, 雕, 鹤, 隺, 鸖, 鹦, 卤, 鹼, 碱 and 丽 (鵞, 雕, 隺, 鸖, 鹼 and 碱 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-1-16-11 (for 鸖) with its index entries. Removed the rare 𱉝, 𫛲 and 𫠗 (no definitions), so 鵖 now has no aliases.
+
 ## 2026-11-09
+
+- **Alias loop, batch 135 (鱗, 鳥, 鳳, 鳶, 鴎, 鴛, 鴦, 鴨, 鴻, 鵉):** `## Aliases` sections and redirects for 鳞, 鸟, 蔦, 凤, 鳯, 鸢, 鷗, 鸥, 鸳, 鸯, 鸭, 鸿, 鸞 and 鸾 (蔦, 鷗 and 鸞 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-19-11 (for 鸞) with its index entries.
+
+- **Alias loop, batch 134 (鮑, 鮫, 鯉, 鯖, 鯤, 鯨, 鰌, 鰐, 鰭, 鱏):** `## Aliases` sections and redirects for 鲍, 鲛, 鲤, 鲭, 鲲, 鲸, 鱷, 鳄, 鳍, 鱘, 鱝 and 鰩 (鱷, 鱘, 鱝 and 鰩 from EDRDG; computed SKIP codes for the simplified 鱼-forms logged in project_alias_skip_guesses). Removed the rare 䲡 and 𱈓 (not in EDRDG, no definitions), so 鰌 now has no aliases.
+
+- **Alias loop, batch 133 (髪, 髯, 鬚, 魂, 魑, 魚, 魯, 魶, 鮎, 鮐):** `## Aliases` sections and redirects for 髮, 髥, 须, 螭, 鱼, 鲁, 鯰, 鲇 and 鲐 (髮, 髥, 螭 and 鯰 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 䰅, 䰑, 䰟, 䬜, 䄜, 𩳩, 𤋳 and 𱇔 (not in EDRDG, no usable definitions), so 魂 and 魶 now have no aliases.
 
 - **Alias loop, batch 132 (駆, 駐, 駒, 駕, 駝, 駱, 騎, 騒, 騙, 騰):** `## Aliases` sections and redirects for 驅, 驻, 驹, 驾, 驼, 駞, 骆, 骑, 騷, 骗, 騗 and 腾 (驅, 駞 and 騷 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 𫘞 and 𩣾 (not in EDRDG, no definitions).
 

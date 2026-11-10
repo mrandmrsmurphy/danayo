@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Aliases
 - 鲣 --> 堅
+- 鲤 --> 鯉
 
 ## Datacheck
 ```dataview

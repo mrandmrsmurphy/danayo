@@ -15,6 +15,7 @@ tags: [lookup]
 ### Aliases
 - 鹹 --> 咸
 - 鹽 --> 塩
+- 鹼 --> 鹸
 
 ## Data check
 ```dataview

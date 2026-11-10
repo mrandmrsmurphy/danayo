@@ -30,7 +30,6 @@ mc_id: 8432
 graphemic_classification: 覃
 stand_in: 鱏
 aliases:
-  - 𱈓
   - 鱘
   - 鱝
   - 鰩
@@ -40,7 +39,7 @@ tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鱏.
 >For the word, see [鱏](../words/鱏.md)
@@ -53,6 +52,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-11-12](../lookup/SKIP/SKIP-1/SKIP-1-11-12.md) ([Stroke 23](../lookup/Stroke/Stroke%2023.md))
 - mc_id confirmed absent from all Classical Chinese frequency lists (trusted long-tail value, >4000). Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄏㄧㄇ](../syllables/ㄏㄧㄇ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 鱘
+魚 + 尋, "sturgeon"; a related fish name for the sturgeon that 鱏 also names, kept as an alias of 鱏 on the same derived sound. SKIP 1-11-12; 23 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鱝
+魚 + 賁, "ray (a cartilaginous fish)"; a related fish name, kept as an alias of 鱏 on the same derived sound. SKIP 1-11-13; 23 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鰩
+魚 + 搖, "skate, ray"; a related fish name, kept as an alias of 鱏 on the same derived sound. SKIP 1-11-10; 21 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鱏]]<rt>ㄏㄧㄇ</rt></ruby> "ray; skate"

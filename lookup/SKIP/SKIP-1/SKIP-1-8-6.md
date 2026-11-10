@@ -29,6 +29,7 @@ tags: [lookup]
 - 鲑 --> 圭
 - 颗 --> 顆
 - 蝕 --> 食
+- 鲛 --> 鮫
 
 ## Datacheck
 ```dataview

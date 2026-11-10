@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 鶴.
 >For the word, see [鶴](../words/鶴.md)
@@ -49,6 +49,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-11](../lookup/SKIP/SKIP-1/SKIP-1-10-11.md) ([Stroke 21](../lookup/Stroke/Stroke%2021.md))
 - 2383rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄏㄚㄎ](../syllables/ㄏㄚㄎ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 鹤
+Simplified Chinese form of 鶴. SKIP 1-10-5 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 隺
+"A bird flying high"; the component 鶴 is built on, kept as an alias of 鶴 on the same derived sound. SKIP 2-3-7; 10 strokes. Radical 172 隹. It has no rank of its own in the Classical Chinese lists.
+
+### 鸖
+Variant form of 鶴, "crane". SKIP 1-16-11; 27 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鶴]]<rt>ㄏㄚㄎ</rt></ruby> "crane" (stand-in for 鶴)

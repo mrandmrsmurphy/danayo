@@ -87,6 +87,7 @@ tags:
 - 贱 --> 賎
 - 轴 --> 軸
 - 炼 --> 錬
+- 鸥 --> 鴎
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

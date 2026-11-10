@@ -235,6 +235,9 @@ tags: [lookup]
 - 喰 --> 餐
 - 飨 --> 饗
 - 骗 --> 騙
+- 鲁 --> 魯
+- 鹅 --> 鵝
+- 鹄 --> 鵠
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

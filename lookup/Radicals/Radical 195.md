@@ -10,23 +10,39 @@ tags: [lookup]
 
 ## Strokes
 
+### +-3 Strokes
+- 鱼 --> 魚
+
 ### +0 Strokes
 1. <ruby>[魚](../../characters/魚%20(char).md)<rt>⼄</rt></ruby> - fish
+
+### +1 Stroke
+- 鲁 --> 魯
+
+### +2 Strokes
+- 鲇 --> 鮎
+- 鲐 --> 鮐
+- 鲍 --> 鮑
 
 ### +3 Strokes
 - 鲜 --> 鮮
 - 鲑 --> 圭
+- 鲛 --> 鮫
 
 ### +4 Strokes
 2. <ruby>[魯](../../characters/魯.md)<rt>ㄌㄛㄇ</rt></ruby> - rash
 3. <ruby>[魶](../../characters/魶%20(char).md)<rt>ㄋㄨㄆ</rt></ruby> - giant salamander
 - 鲣 --> 堅
+- 鲤 --> 鯉
 
 ### +5 Strokes
 4. <ruby>[鮎](../../characters/鮎%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sweetfish
 5. <ruby>[鮐](../../characters/鮐.md)<rt>ㄊㄚㄧ</rt></ruby> - blowfish
 6. <ruby>[鮑](../../characters/鮑%20(char).md)<rt>ㄅㄚㄨ</rt></ruby> - abalone
 - 鮀 --> 蛇
+- 鲭 --> 鯖
+- 鲲 --> 鯤
+- 鲸 --> 鯨
 
 ### +6 Strokes
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark
@@ -34,10 +50,12 @@ tags: [lookup]
 - 鮲 --> 伏
 - 鮟 --> 安
 - 鮭 --> 圭
+- 鳄 --> 鰐
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi
 - 鮸 --> 免
+- 鳍 --> 鰭
 
 ### +8 Strokes
 10. <ruby>[鯖](../../characters/鯖.md)<rt>ㄑㄝㄫ</rt></ruby> - mackerel
@@ -45,6 +63,7 @@ tags: [lookup]
 12. <ruby>[鯨](../../characters/鯨.md)<rt>ㄍ⼶ㄫ</rt></ruby> - whale
 - 鯛 --> 周
 - 鳗 --> 曼
+- 鯰 --> 鮎
 
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
@@ -52,10 +71,12 @@ tags: [lookup]
 - 鳟 --> 尊
 - 鰒 --> 腹
 - 鰕 --> 蝦
+- 鳞 --> 鱗
 
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin
 16. <ruby>[鰥](../../characters/鰥.md)<rt>ㄍ⺢ㄇ</rt></ruby> - widower
+- 鰩 --> 鱏
 
 ### +11 Strokes
 - 鰹 --> 堅
@@ -69,12 +90,17 @@ tags: [lookup]
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
 18. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
 - 鱒 --> 尊
+- 鱘 --> 鱏
+- 鱝 --> 鱏
 
 ### +13 Strokes
 - 鱧 --> 豊
 
 ### +14 Strokes
 - 鱶 --> 養
+
+### +16 Strokes
+- 鱷 --> 鰐
 
 ### Aliases
 - 鱆 --> 章

@@ -251,6 +251,8 @@ tags:
 - 颈 --> 頚
 - 飡 --> 餐
 - 骑 --> 騎
+- 鸿 --> 鴻
+- 鸾 --> 鵉
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

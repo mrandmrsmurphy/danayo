@@ -24,6 +24,7 @@ tags: [lookup]
 - 䭅 --> 糊
 - 鎚 --> 錘
 - 鍊 --> 錬
+- 鳄 --> 鰐
 
 ## Datacheck
 ```dataview

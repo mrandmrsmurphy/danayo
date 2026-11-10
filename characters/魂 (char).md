@@ -28,14 +28,12 @@ danayo_id: 7202
 mc_id: 1505
 graphemic_classification: "云"
 stand_in: "魂"
-aliases:
-  - 䰟
 注音: "ㄏㄛㄋ"
 kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 魂.
 >For the word, see [魂](../words/魂.md)

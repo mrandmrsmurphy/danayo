@@ -28,14 +28,13 @@ mc_id: 1967
 graphemic_classification: "周"
 stand_in: "鵰"
 aliases:
-  - 𫛲
   - 雕
 注音: "ㄑㄨㄛ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 鵰.
 >For the word, see [鵰](../words/鵰.md)
@@ -49,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-11](../lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - 1967th most used character in Classical Chinese (recorded under simplified sibling glyph 雕). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄨㄛ](../syllables/ㄑㄨㄛ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 雕
+隹 + 周, "to carve, to engrave; an eagle"; the other written form of the eagle word 鵰. SKIP 1-8-8; 16 strokes. Radical 172 隹. It ranks 1967 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle; vulture"

@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鮑.
 >For the word, see [鮑](../words/鮑.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-11-5](../lookup/SKIP/SKIP-1/SKIP-1-11-5.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1335th most used character in Classical Chinese (exact match — `CC 1000.md`: `1335. 鮑`). Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅㄚㄨ](../syllables/ㄅㄚㄨ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](../lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Aliases
+
+### 鲍
+Simplified Chinese form of 鮑. SKIP 1-8-5 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鮑]]<rt>ㄅㄚㄨ</rt></ruby> "abalone" (stand-in for 鮑)

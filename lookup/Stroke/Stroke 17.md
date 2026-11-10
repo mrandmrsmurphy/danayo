@@ -125,6 +125,7 @@ tags:
 - 鍊 --> 錬
 - 濶 --> 闊
 - 隸 --> 隷
+- 鳄 --> 鰐
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

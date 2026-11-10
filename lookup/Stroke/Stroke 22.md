@@ -50,6 +50,7 @@ tags:
 - 鑄 --> 鋳
 - 鑒 --> 鑑
 - 鱈 --> 雪
+- 鷗 --> 鴎
 
 ### Forbidden
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)

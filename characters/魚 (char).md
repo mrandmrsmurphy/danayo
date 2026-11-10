@@ -30,9 +30,8 @@ graphemic_classification: 象形
 stand_in: 魚
 aliases:
   - 鱼
-  - 𤋳
 注音: ⼄
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +49,11 @@ boundedness: 35
 - [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 551st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](../syllables/⼄.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鱼
+Simplified Chinese form of 魚. SKIP 2-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[魚]]<rt>⼄</rt></ruby> "fish" (stand-in for 魚)
