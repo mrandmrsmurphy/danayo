@@ -37,6 +37,7 @@ tags: [lookup]
 - 座 --> 坐
 - 选 --> 選
 - 圆 --> 圓
+- 阅 --> 閲
 
 ## Datacheck
 ```dataview

@@ -30,7 +30,7 @@ aliases:
   - 險
   - 险
 注音: ㄏㄝㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +48,14 @@ boundedness: 60
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1118th most used character in Classical Chinese (listed under the traditional form 險). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄏㄝㄇ](../syllables/ㄏㄝㄇ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 險
+Traditional form (kyūjitai) of 険, "steep, dangerous"; this is the form the Classical Chinese lists rank. SKIP 1-3-13; 16 strokes. It ranks 1118 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 险
+Simplified Chinese form of 險. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[険]]<rt>ㄏㄝㄇ</rt></ruby> "precipitous" (stand-in for 険 (char))

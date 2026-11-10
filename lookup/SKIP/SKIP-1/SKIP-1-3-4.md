@@ -121,6 +121,7 @@ tags:
 - 吪 --> 訛
 - 吶 --> 訥
 - 护 --> 護
+- 陆 --> 陸
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

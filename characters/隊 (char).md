@@ -40,7 +40,7 @@ stand_in: "隊"
 aliases:
   - 队
 注音: "ㄉㄛㄧ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -58,6 +58,11 @@ boundedness: 80
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2059th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄉㄛㄧ](../syllables/ㄉㄛㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 队
+Simplified Chinese form of 隊. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[隊]]<rt>ㄉㄛㄧ</rt></ruby> "group, team" (stand-in for 隊 (char))

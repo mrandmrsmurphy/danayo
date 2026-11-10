@@ -49,6 +49,7 @@ tags: [lookup]
 - 远 --> 遠
 - 迈 --> 邁
 - 迟 --> 遅
+- 闵 --> 閔
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

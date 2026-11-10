@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes"
 3. <ruby>[閉](/characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> "close"
 
+### Aliases
+- 閆 --> 閻
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[閲](/characters/閲.md)<rt>⼶ㄊ</rt></ruby> - inspect
 2. <ruby>[魅](/characters/魅.md)<rt>ㄇㄧㄜ</rt></ruby> - charm
 
+### Aliases
+- 閱 --> 閲
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

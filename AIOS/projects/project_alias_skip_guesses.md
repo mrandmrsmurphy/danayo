@@ -954,3 +954,21 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鑽 | 钻 | 1-5-5 | computed from its parts |
 | 長 (char) | 长 | 4-3-1 | computed from its parts |
 | 閃 | 闪 | 3-3-2 | computed from its parts |
+| 閔 | 闵 | 3-3-4 | computed from its parts |
+| 閣 | 阁 | 3-3-6 | computed from its parts |
+| 閥 | 阀 | 3-3-6 | computed from its parts |
+| 閨 | 闺 | 3-3-6 | computed from its parts |
+| 閲 | 閱 | 3-8-7 | computed from its parts |
+| 閲 | 阅 | 3-3-7 | computed from its parts |
+| 閻 (char) | 阎 | 3-3-8 | computed from its parts |
+| 閻 (char) | 閆 | 3-8-3 | computed from its parts |
+| 閻 (char) | 闫 | 3-3-3 | computed from its parts |
+| 闊 (char) | 阔 | 3-3-9 | computed from its parts |
+| 闕 | 阙 | 3-3-10 | computed from its parts |
+| 闖 | 闯 | 3-3-3 | computed from its parts |
+| 陝 | 陕 | 1-3-5 | computed from its parts |
+| 陣 | 阵 | 1-3-3 | computed from its parts |
+| 陳 | 陈 | 1-3-5 | computed from its parts |
+| 陸 | 陆 | 1-3-4 | computed from its parts |
+| 険 (char) | 险 | 1-3-6 | computed from its parts |
+| 隊 (char) | 队 | 1-3-2 | computed from its parts |

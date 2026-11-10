@@ -30,14 +30,13 @@ mc_id: 1135
 graphemic_classification: 降
 stand_in: 隆
 aliases:
-  - 𨺓
   - 窿
 注音: ㄌㄨㄫ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 隆.
 >For the word, see [隆](../words/隆.md)
@@ -51,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1135th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄌㄨㄫ](../syllables/ㄌㄨㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 窿
+穴 + 隆, "vault, arch; cavity"; a separate word built on 隆 as its phonetic, kept as an alias of 隆 on the same derived sound. SKIP 2-3-13; 16 strokes. Radical 116 穴. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[隆]]<rt>ㄌㄨㄫ</rt></ruby> "prosperous; plentiful; abundant" (stand-in for 隆)

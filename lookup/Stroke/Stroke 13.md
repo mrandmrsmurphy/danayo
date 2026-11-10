@@ -180,6 +180,7 @@ tags:
 - 鉴 --> 鑑
 - 锣 --> 鑼
 - 鉆 --> 鑽
+- 阙 --> 闕
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

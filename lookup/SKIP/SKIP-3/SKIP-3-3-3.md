@@ -37,6 +37,8 @@ tags: [lookup]
 - 庄 --> 荘
 - 迁 --> 遷
 - 边 --> 辺
+- 闫 --> 閻
+- 闯 --> 闖
 
 ## Datacheck
 ```dataview

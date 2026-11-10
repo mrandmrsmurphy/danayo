@@ -230,6 +230,7 @@ tags: [lookup]
 - 锅 --> 鍋
 - 锁 --> 鎖
 - 鄗 --> 鎬
+- 阔 --> 闊
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

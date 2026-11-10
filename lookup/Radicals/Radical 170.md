@@ -12,10 +12,17 @@ tags: [lookup]
 ### +-2 Strokes
 - 阪 --> 坂
 
+### +-2 Strokes
+- 阵 --> 陣
+
+### +-3 Strokes
+- 队 --> 隊
+
 ### -1 Stroke
 1. <ruby>[防](../../characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> - prevent
 2. <ruby>[阮](../../characters/阮.md)<rt>⼔ㄋ</rt></ruby> - moon lute
 - 阴 --> 陰
+- 陆 --> 陸
 
 ### +0 Strokes
 3. <ruby>[阜](../../characters/阜.md)<rt>ㄅ⼜</rt></ruby> - mound
@@ -23,12 +30,16 @@ tags: [lookup]
 5. <ruby>[阻](../../characters/阻.md)<rt>ㄐㄛ</rt></ruby> - thwart
 6. <ruby>[陀](../../characters/陀.md)<rt>ㄉㄚ</rt></ruby> - rough terrain
 7. <ruby>[附](../../characters/附%20(char).md)<rt>ㄅㄨ</rt></ruby> - affix
+- 陕 --> 陝
+- 陈 --> 陳
 
 ### +1 Stroke
 8. <ruby>[陋](../../characters/陋.md)<rt>ㄌ⼘ㄨ</rt></ruby> - ugly
 9. <ruby>[限](../../characters/限.md)<rt>ㄏㄚㄋ</rt></ruby> - limit
 - 陨 --> 員
 - 陖 --> 峻
+- 陜 --> 陝
+- 险 --> 険
 
 ### +2 Strokes
 10. <ruby>[降](../../characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> - descend
@@ -39,6 +50,7 @@ tags: [lookup]
 15. <ruby>[陥](../../characters/陥%20(char).md)<rt>ㄏㄚㄇ</rt></ruby> - submerge
 16. <ruby>[除](../../characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> - exclude
 - 陼 --> 渚
+- 陷 --> 陥
 
 ### +3 Strokes
 17. <ruby>[陪](../../characters/陪%20(char).md)<rt>ㄅㄛㄧ</rt></ruby> - accompany
@@ -74,6 +86,7 @@ tags: [lookup]
 ### +8 Strokes
 35. <ruby>[隣](../../characters/隣%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - neighboring
 - 隱 --> 隠
+- 險 --> 険
 
 ### +9 Strokes
 - 隳 --> 堕

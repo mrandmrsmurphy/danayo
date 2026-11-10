@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 45
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 阿.
 >For the word, see [阿](../words/阿.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 1089th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](../syllables/ㄚ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md) — dropped from the Korean HS list in 2000.
+
+## Aliases
+
+### 啊
+口 + 阿, the interjection "ah!"; a separate word built on 阿 as its phonetic, kept as an alias of 阿 on the same derived sound. SKIP 1-3-8; 10 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[阿]]<rt>ㄚ</rt></ruby> "ah" (stand-in for 阿)

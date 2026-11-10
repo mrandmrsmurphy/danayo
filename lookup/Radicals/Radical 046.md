@@ -54,6 +54,7 @@ tags: [lookup]
 - 崎 --> 埼
 - 崗 --> 岡
 - 崧 --> 嵩
+- 崚 --> 陵
 
 ### +9 Strokes
 18. <ruby>[嵌](../../characters/嵌.md)<rt>ㄎㄚㄇ</rt></ruby> - inlay

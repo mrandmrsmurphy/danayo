@@ -24,18 +24,33 @@ tags: [lookup]
 ### +-3 Strokes
 - 闪 --> 閃
 
+### +-1 Strokes
+- 闵 --> 閔
+
+### +-2 Strokes
+- 闫 --> 閻
+
+### +-2 Strokes
+- 闯 --> 闖
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 
 ### +1 Stroke
 - 闻 --> 聞
+- 阁 --> 閣
+- 阀 --> 閥
+- 闺 --> 閨
 
 ### +2 Strokes
 2. <ruby>[閃](../../characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - flash
+- 阅 --> 閲
 
 ### +3 Strokes
 3. <ruby>[閉](../../characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> - shut
 - 阋 --> 䦧
+- 阎 --> 閻
+- 閆 --> 閻
 
 ### +4 Strokes
 4. <ruby>[開](../../characters/開%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - open
@@ -44,9 +59,11 @@ tags: [lookup]
 7. <ruby>[閑](../../characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 8. <ruby>[閔](../../characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - urge
 - 閒 --> 閑
+- 阔 --> 闊
 
 ### +5 Strokes
 9. <ruby>[閙](../../characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy
+- 阙 --> 闕
 
 ### +6 Strokes
 10. <ruby>[関](../../characters/関%20(char).md)<rt>ㄍ⺢ㄇ</rt></ruby> - close
@@ -57,6 +74,7 @@ tags: [lookup]
 
 ### +7 Strokes
 14. <ruby>[閲](../../characters/閲.md)<rt>⼶ㄊ</rt></ruby> - inspect
+- 閱 --> 閲
 
 ### +8 Strokes
 15. <ruby>[䦨](../../characters/䦨.md)<rt>ㄌㄛㄇ</rt></ruby> - curtain

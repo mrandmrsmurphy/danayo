@@ -30,6 +30,7 @@ tags: [lookup]
 
 ### +6 Strokes
 - 匊 --> 掬
+- 匋 --> 陶
 
 ### +9 Strokes
 - 匐 --> 伏

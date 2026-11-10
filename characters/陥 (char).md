@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 陥.
 >For the word, see [陥](../words/陥.md)
@@ -47,6 +47,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1157th most used character in Classical Chinese (recorded under the traditional form 陷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 咸|ɣɛm]] → [ㄏㄚㄇ](../syllables/ㄏㄚㄇ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 陷
+Traditional form of 陥, "to sink, to fall into; to trap"; this is the form the Classical Chinese lists rank. SKIP 1-3-8; 10 strokes. It ranks 1157 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 臽
+The pit component, "a pit, a hole"; the upper part of 陷 and the phonetic that 陥 is built on, kept as an alias of 陥 on the same derived sound. SKIP 2-2-6; 8 strokes. Radical 134 臼. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[陥]]<rt>ㄏㄚㄇ</rt></ruby> "submerge" (stand-in for 陥 (char))

@@ -30,6 +30,7 @@ tags: [lookup]
 - 屛 --> 屏
 - 貮 --> 貳
 - 逻 --> 邏
+- 阎 --> 閻
 
 ## Datacheck
 ```dataview

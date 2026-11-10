@@ -141,6 +141,9 @@ tags:
 - 轨 --> 軌
 - 边 --> 辺
 - 屰 --> 逆
+- 闫 --> 閻
+- 闯 --> 闖
+- 阵 --> 陣
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

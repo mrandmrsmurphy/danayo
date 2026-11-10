@@ -313,6 +313,7 @@ tags: [lookup]
 - 濤 --> 涛
 - 澀 --> 渋
 - 濕 --> 湿
+- 濶 --> 闊
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding

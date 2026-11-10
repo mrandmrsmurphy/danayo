@@ -30,13 +30,12 @@ stand_in: "闊"
 aliases:
   - 阔
   - 濶
-  - 䦢
 注音: "ㄎ⺢ㄊ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 闊.
 >For the word, see [闊](../words/闊.md)
@@ -49,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-8-9](../lookup/SKIP/SKIP-3/SKIP-3-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 2925th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄎ⺢ㄊ](../syllables/ㄎ⺢ㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 阔
+Simplified Chinese form of 闊. SKIP 3-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 濶
+Variant form of 闊, "broad, wide", written with 氵 on the left. SKIP 1-3-14; 17 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[闊]]<rt>ㄎ⺢ㄊ</rt></ruby> "broad; wide"

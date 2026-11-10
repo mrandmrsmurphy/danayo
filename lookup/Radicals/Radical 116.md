@@ -59,6 +59,7 @@ tags: [lookup]
 19. <ruby>[窺](../../characters/窺%20(char).md)<rt>ㄎㄨㄧ</rt></ruby> - spy on
 - 窻 --> 窓
 - 窹 --> 悟
+- 窿 --> 隆
 
 ### +12 Strokes
 20. <ruby>[竃](../../characters/竃.md)<rt>ㄐ⺢</rt></ruby> - kitchen stove

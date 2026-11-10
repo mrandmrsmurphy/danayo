@@ -31,13 +31,12 @@ aliases:
   - 阎
   - 閆
   - 闫
-  - 𨳔
 注音: "⼶ㄇ"
 kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 閻.
 >For the word, see [閻](../words/閻.md)
@@ -51,6 +50,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-8](../lookup/SKIP/SKIP-1/SKIP-1-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 2251st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [⼶ㄇ](../syllables/⼶ㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 阎
+Simplified Chinese form of 閻. SKIP 3-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 閆
+Surname form of 閻 (Yan); a Chinese surname written 門 + 三. SKIP 3-8-3 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 闫
+Simplified Chinese form of 閆, the surname Yan. SKIP 3-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[閻]]<rt>⼶ㄇ</rt></ruby> "village gate" (stand-in for 閻)

@@ -28,6 +28,9 @@ tags: [lookup]
 - 适 --> 適
 - 闻 --> 聞
 - 逊 --> 遜
+- 阁 --> 閣
+- 阀 --> 閥
+- 闺 --> 閨
 
 ### Forbidden
 - 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition

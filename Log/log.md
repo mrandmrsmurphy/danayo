@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 124 (陝, 陣, 陥, 陳, 陵, 陶, 陸, 険, 隆, 隊):** `## Aliases` sections and redirects for 陕, 陜, 阵, 陷, 臽, 陈, 崚, 匋, 陆, 險, 险, 窿 and 队 (陜, 陷, 臽, 崚, 匋, 險 and 窿 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). Removed the rare 𨺓 from 隆.
+
+- **Alias loop, batch 123 (閔, 閣, 閥, 閨, 閲, 閻, 闊, 闕, 闖, 阿):** `## Aliases` sections and redirects for 闵, 阁, 阀, 闺, 閱, 阅, 阎, 閆, 闫, 阔, 濶, 阙, 闯 and 啊 (濶 and 啊 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 𨳔 and 䦢 (no definitions).
+
 - **Alias loop, batch 122 (鎧, 鎬, 鎮, 鏡, 鑑, 鑠, 鑼, 鑽, 長, 閃):** `## Aliases` sections and redirects for 铠, 镐, 鄗, 滈, 鎭, 镇, 镜, 鑒, 鉴, 铄, 锣, 钻, 鑚, 鉆, 长, 镸 and 闪 (鄗, 滈, 鎭, 鑒, 鑚, 鉆 and 镸 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-15-8 (for 鑒) with its index entry. `mc_id` lowered to 3171 on 鎬 (鄗) and 2180 on 鑑 (鑒). Removed the rare 𰽔, 𰾫, 𰿆, 仧, 𠑿, 𡕣 and 𠇬 (no usable definitions).
 
 - **Alias loop, batch 121 (錯, 録, 鍋, 鍍, 鍛, 鍬, 鍵, 鍾, 鎌, 鎖):** `## Aliases` sections and redirects for 错, 录, 錄, 锅, 镀, 锻, 锹, 键, 钟, 锺, 鐮 and 锁 (鐮 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` of 録 lowered to 1570 (錄). Removed the rare 𰾮 from 鎌.
