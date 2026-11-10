@@ -30,14 +30,13 @@ graphemic_classification: "句"
 stand_in: "鉤"
 aliases:
   - 钩
-  - 𰽭
   - 鈎
 注音: "ㄍㄛㄨ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鉤.
 >For the word, see [鉤](../words/鉤.md)
@@ -51,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1420th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄍㄛㄨ](../syllables/ㄍㄛㄨ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md)
+
+## Aliases
+
+### 钩
+Simplified Chinese form of 鉤. SKIP 1-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鈎
+Variant form of 鉤, "hook". SKIP 1-8-4; 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鉤]]<rt>ㄍㄛㄨ</rt></ruby> "hook; barb"

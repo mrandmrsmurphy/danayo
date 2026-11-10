@@ -25,6 +25,7 @@ tags: [lookup]
 - 箇 --> 個
 - 箒 --> 帚
 - 箫 --> 簫
+- 箝 --> 鉗
 
 ## Datacheck
 ```dataview

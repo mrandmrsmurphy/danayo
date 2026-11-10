@@ -27,6 +27,10 @@ tags: [lookup]
 - 补 --> 補
 - 畅 --> 暢
 - 码 --> 碼
+- 钓 --> 釣
+- 钏 --> 釧
+- 钒 --> 釩
+- 矿 --> 鉱
 
 ### Forbidden
 - 竏 - 国字: Japanese-invented character for 千升 (kiloliter).

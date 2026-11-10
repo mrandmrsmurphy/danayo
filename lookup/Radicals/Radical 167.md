@@ -13,19 +13,33 @@ tags: [lookup]
 ### +-1 Strokes
 - 针 --> 針
 
+### +-1 Strokes
+- 钉 --> 釘
+
 ### +0 Strokes
 1. <ruby>[金](../../characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - metal
+- 钓 --> 釣
+- 钏 --> 釧
+- 钒 --> 釩
 
 ### +1 Stroke
 - 钟 --> 鐘
 - 钣 --> 板
 - 钦 --> 欽
+- 钝 --> 鈍
+- 钩 --> 鉤
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
 3. <ruby>[釜](../../characters/釜.md)<rt>ㄅㄨ</rt></ruby> - kettle
 4. <ruby>[針](../../characters/針%20(char).md)<rt>ㄐㄧㄇ</rt></ruby> - needle
 - 铂 --> 薄
+- 铃 --> 鈴
+- 钿 --> 鈿
+- 钳 --> 鉗
+- 铅 --> 鉛
+- 钵 --> 鉢
+- 钲 --> 鉦
 
 ### +3 Strokes
 5. <ruby>[釣](../../characters/釣.md)<rt>ㄑㄛㄨ</rt></ruby> - angling
@@ -39,6 +53,7 @@ tags: [lookup]
 - 鈑 --> 板
 - 鈢 --> 璽
 - 铺 --> 舗
+- 鈎 --> 鉤
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell
@@ -119,12 +134,19 @@ tags: [lookup]
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell
 
+### +13 Strokes
+- 鐸 --> 鈬
+
+### +14 Strokes
+- 鑛 --> 鉱
+
 ### +15 Strokes
 59. <ruby>[鑑](../../characters/鑑.md)<rt>ㄍㄚㄇ</rt></ruby> - mirror
 60. <ruby>[鑠](../../characters/鑠.md)<rt>ㄙㄚㄎ</rt></ruby> - melt
 
 ### +16 Strokes
 61. <ruby>[鑫](../../characters/鑫.md)<rt>ㄏㄜㄇ</rt></ruby> - prosperous
+- 鑪 --> 鈩
 
 ### +19 Strokes
 62. <ruby>[鑼](../../characters/鑼.md)<rt>ㄌㄚ</rt></ruby> - gong

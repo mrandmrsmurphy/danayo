@@ -43,6 +43,7 @@ tags:
 - 踁 --> 脛
 - 踆 --> 蹲
 - 辢 --> 辣
+- 酿 --> 醸
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.

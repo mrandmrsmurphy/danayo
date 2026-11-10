@@ -900,3 +900,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鄒 | 邹 | 1-5-2 | computed from its parts |
 | 鄧 | 邓 | 1-2-3 | computed from its parts |
 | 鄭 | 郑 | 1-6-3 | computed from its parts |
+| 醸 | 酿 | 1-7-7 | computed from its parts |
+| 釘 (char) | 钉 | 1-5-2 | computed from its parts |
+| 釣 | 钓 | 1-5-3 | computed from its parts |
+| 釧 | 钏 | 1-5-3 | computed from its parts |
+| 釩 | 钒 | 1-5-3 | computed from its parts |
+| 鈍 (char) | 钝 | 1-5-4 | computed from its parts |
+| 鈴 (char) | 铃 | 1-5-5 | computed from its parts |
+| 鈿 | 钿 | 1-5-5 | computed from its parts |
+| 鉗 (char) | 钳 | 1-5-5 | computed from its parts |
+| 鉛 (char) | 铅 | 1-5-5 | computed from its parts |
+| 鉢 (char) | 钵 | 1-5-5 | computed from its parts |
+| 鉤 (char) | 钩 | 1-5-4 | computed from its parts |
+| 鉦 | 钲 | 1-5-5 | computed from its parts |
+| 鉱 | 矿 | 1-5-3 | computed from its parts |

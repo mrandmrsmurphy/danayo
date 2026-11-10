@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 35
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鉛.
 >For the word, see [鉛](../words/鉛.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 3903rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](../syllables/⼶ㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 铅
+Simplified Chinese form of 鉛. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鉛]]<rt>⼶ㄋ</rt></ruby> "lead" (stand-in for 鉛 (char))

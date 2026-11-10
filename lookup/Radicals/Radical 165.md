@@ -19,6 +19,9 @@ tags: [lookup]
 ### +5 Strokes
 3. <ruby>[釉](../../characters/釉.md)<rt>⼜ㄛ</rt></ruby> - glaze
 
+### +13 Strokes
+- 釋 --> 釈
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

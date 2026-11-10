@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鈍.
 >For the word, see [鈍](../words/鈍.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 3558th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄉㄛㄋ](../syllables/ㄉㄛㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 钝
+Simplified Chinese form of 鈍. SKIP 1-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鈍]]<rt>ㄉㄛㄋ</rt></ruby> "dull, not sharp" (stand-in for 鈍)

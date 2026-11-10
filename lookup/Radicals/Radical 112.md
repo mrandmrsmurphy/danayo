@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 码 --> 碼
+- 矿 --> 鉱
 
 ### +4 Strokes
 2. <ruby>[砒](../../characters/砒.md)<rt>ㄆㄧ</rt></ruby> - arsenic
@@ -85,6 +86,7 @@ tags: [lookup]
 
 ### +14 Strokes
 - 礙 --> 碍
+- 礦 --> 鉱
 
 ### +15 Strokes
 34. <ruby>[礬](../../characters/礬.md)<rt>ㄆㄛㄇ</rt></ruby> - alum

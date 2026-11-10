@@ -39,7 +39,7 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鉗.
 >For the word, see [鉗](../words/鉗.md)
@@ -53,6 +53,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 2702nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄍㄝㄇ](../syllables/ㄍㄝㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 钳
+Simplified Chinese form of 鉗. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 箝
+竹 + 咸, "tongs, pincers"; a variant of 鉗 with the same meaning. SKIP 2-6-8; 14 strokes. Radical 118 竹. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鉗]]<rt>ㄍㄝㄇ</rt></ruby> "vice; pliers; forceps"

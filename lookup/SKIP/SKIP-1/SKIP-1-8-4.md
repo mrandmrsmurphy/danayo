@@ -38,6 +38,7 @@ tags: [lookup]
 - 㦸 --> 戟
 - 殼 --> 殻
 - 鈢 --> 璽
+- 鈎 --> 鉤
 
 ## Datacheck
 ```dataview

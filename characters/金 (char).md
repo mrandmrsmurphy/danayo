@@ -29,11 +29,8 @@ danayo_id: 153
 mc_id: 244
 graphemic_classification: 今
 stand_in: 金
-aliases:
-  - 𠊍
-  - 𨤾
 注音: ㄍㄧㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 tags:
   - character
 kwin: true

@@ -38,6 +38,7 @@ tags: [lookup]
 12. <ruby>[酵](../../characters/酵.md)<rt>ㄍ⼄ㄨ</rt></ruby> - yeast
 13. <ruby>[酷](../../characters/酷.md)<rt>ㄎㄛㄎ</rt></ruby> - cruel
 14. <ruby>[酸](../../characters/酸%20(char).md)<rt>ㄙ⺢ㄋ</rt></ruby> - acidic
+- 酿 --> 醸
 
 ### +8 Strokes
 15. <ruby>[醇](../../characters/醇.md)<rt>ㄙㄨㄋ</rt></ruby> - good wine
@@ -55,10 +56,14 @@ tags: [lookup]
 
 ### +11 Strokes
 - 醩 --> 糟
+- 醬 --> 醤
 
 ### +13 Strokes
 21. <ruby>[醴](../../characters/醴.md)<rt>ㄌㄝㄧ</rt></ruby> - sweet water
 22. <ruby>[醸](../../characters/醸.md)<rt>ㄋ⼘ㄫ</rt></ruby> - brew
+
+### +17 Strokes
+- 釀 --> 醸
 
 ### Aliases
 - 醗 --> 発

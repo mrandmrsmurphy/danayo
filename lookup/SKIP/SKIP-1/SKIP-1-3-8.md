@@ -187,6 +187,7 @@ tags:
 - 绳 --> 縄
 - 绷 --> 繃
 - 堈 --> 缸
+- 埰 --> 采
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

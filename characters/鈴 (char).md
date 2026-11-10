@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鈴.
 >For the word, see [鈴](../words/鈴.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 4293rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](../syllables/ㄌㄝㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 铃
+Simplified Chinese form of 鈴. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鈴]]<rt>ㄌㄝㄫ</rt></ruby> "small bell" (stand-in for 鈴)

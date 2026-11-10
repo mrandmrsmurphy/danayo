@@ -24,11 +24,10 @@ joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6083
-mc_id: 0
+mc_id:
 graphemic_classification: "本"
 stand_in: "鉢"
 aliases:
-  - 盋
   - 钵
   - 缽
 注音: "ㄅㄚㄊ"
@@ -36,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鉢.
 >For the word, see [鉢](../words/鉢.md)
@@ -50,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - Not among the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`; neither 鉢 nor any of its three aliases appear in any of the four lists). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄅㄚㄊ](../syllables/ㄅㄚㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 钵
+Simplified Chinese form of 鉢. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 缽
+缶 + 犮, "alms bowl; bowl, basin"; a variant of 鉢 with the same meaning. SKIP 1-6-5; 11 strokes. Radical 121 缶. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鉢]]<rt>ㄅㄚㄊ</rt></ruby> "bowl" (stand-in for 鉢)

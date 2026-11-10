@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 85
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鈬.
 >For the word, see [鈬](../words/鈬.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2496th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄉㄚㄎ](../syllables/ㄉㄚㄎ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 鐸
+金 + 睪, "large bronze bell with a clapper"; the standard written form that 鈬 stands for. SKIP 1-8-13; 21 strokes. It ranks 2496 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[鈬]]<rt>ㄉㄚㄎ</rt></ruby> "bronze bell" (stand-in for 鈬 (char))

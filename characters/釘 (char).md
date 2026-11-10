@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 釘.
 >For the word, see [釘](../words/釘.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 5661st most used character in Classical Chinese (trusted long-tail). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](../syllables/ㄉㄝㄫ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 钉
+Simplified Chinese form of 釘. SKIP 1-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail" (stand-in for 釘)

@@ -46,6 +46,8 @@ tags:
 - 皅 --> 葩
 - 袄 --> 襖
 - 衿 --> 襟
+- 钝 --> 鈍
+- 钩 --> 鉤
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

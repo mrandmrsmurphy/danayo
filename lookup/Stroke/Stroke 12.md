@@ -223,6 +223,7 @@ tags: [lookup]
 - 趋 --> 趨
 - 辉 --> 輝
 - 奠 --> 鄭
+- 鈎 --> 鉤
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

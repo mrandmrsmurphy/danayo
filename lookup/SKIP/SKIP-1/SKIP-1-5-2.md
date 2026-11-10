@@ -33,6 +33,7 @@ tags: [lookup]
 - 矶 --> 磯
 - 邮 --> 郵
 - 邹 --> 鄒
+- 钉 --> 釘
 
 ### Forbidden
 - 盯 - 官话: HSK/3, Chinese only.

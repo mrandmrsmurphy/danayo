@@ -64,6 +64,7 @@ tags:
 - 箒 --> 帚
 - 箪 --> 簞
 - 箫 --> 簫
+- 箝 --> 鉗
 
 ### +9 Strokes
 27. <ruby>[箭](../../characters/箭.md)<rt>ㄐㄝㄋ</rt></ruby> - arrow

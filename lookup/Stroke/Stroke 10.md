@@ -218,6 +218,12 @@ tags:
 - 较 --> 較
 - 载 --> 載
 - 郞 --> 郎
+- 铃 --> 鈴
+- 钿 --> 鈿
+- 钳 --> 鉗
+- 铅 --> 鉛
+- 钵 --> 鉢
+- 钲 --> 鉦
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

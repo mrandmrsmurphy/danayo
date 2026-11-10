@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 118 (鈩, 鈬, 鈴, 鈿, 鉗, 鉛, 鉢, 鉤, 鉦, 鉱):** `## Aliases` sections and redirects for 鑪, 鐸, 铃, 钿, 钳, 箝, 铅, 钵, 缽, 钩, 鈎, 钲, 鑛, 礦 and 矿 (鑪, 鐸, 箝, 缽, 鈎, 鑛 and 礦 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-1-8-16 (for 鑪) with its index entry. Removed the rare 𬬻, 盋 and 𰽭 (no usable definitions).
+
+- **Alias loop, batch 117 (醤, 醸, 采, 釈, 金, 釘, 釣, 釧, 釩, 鈍):** `## Aliases` sections and redirects for 醬, 酿, 釀, 埰, 釋, 钉, 钓, 钏, 钒 and 钝 (醬, 釀, 埰 and 釋 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). Removed the rare 𠊍, 𨤾 and 玔 (no usable definitions), so 金 now has no aliases.
+
 - **Alias loop, batch 116 (郭, 郵, 鄒, 鄧, 鄭, 酉, 酋, 酔, 酢, 酩):** `## Aliases` sections and redirects for 廓, 邮, 邹, 邓, 郑, 奠, 丣, 蝤, 醉 and 醋 (廓, 奠, 丣, 蝤, 醉 and 醋 from EDRDG; computed SKIP codes for the simplified 阝-forms logged in project_alias_skip_guesses). Removed the rare 佲 (not in EDRDG) from 酩, which now has no aliases.
 
 - **Alias loop, batch 115 (違, 遜, 遠, 遥, 遷, 遼, 遽, 邁, 邏, 郎):** `## Aliases` sections and redirects for 违, 逊, 远, 遙, 迁, 辽, 蘧, 迈, 逻 and 郞 (遙, 迁 and 蘧 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 䙴 and 郒 (no usable definition). Corrected three earlier computed SKIP codes: simplified forms with 辶 (3 strokes) take outer 3 like the shinjitai, so 这 moved from 3-4-4 to 3-3-5, 迟 from 3-4-3 to 3-3-4 and 边 from 3-4-2 to 3-3-3 (leaves, character pages and guesses file).

@@ -24,6 +24,9 @@ tags: [lookup]
 4. <ruby>[缺](../../characters/缺.md)<rt>ㄎ⼔ㄊ</rt></ruby> - incomplete
 - 缻 --> 缶
 
+### +5 Strokes
+- 缽 --> 鉢
+
 ### +8 Strokes
 - 罁 --> 缸
 

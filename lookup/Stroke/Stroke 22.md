@@ -46,6 +46,7 @@ tags:
 - 聽 --> 聴
 - 䏊 --> 聾
 - 贗 --> 贋
+- 鑛 --> 鉱
 
 ### Forbidden
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)

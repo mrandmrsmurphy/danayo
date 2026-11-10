@@ -235,6 +235,8 @@ tags:
 - 辄 --> 輒
 - 辅 --> 輔
 - 逻 --> 邏
+- 埰 --> 采
+- 缽 --> 鉢
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'
