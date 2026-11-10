@@ -103,6 +103,7 @@ tags: [lookup]
 - 腳 --> 脚
 - 腟 --> 膣
 - 腭 --> 顎
+- 腾 --> 騰
 
 ### +8 Strokes
 56. <ruby>[腐](../../characters/腐.md)<rt>ㄆㄨ</rt></ruby> - rotten

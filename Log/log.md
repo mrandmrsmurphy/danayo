@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 132 (駆, 駐, 駒, 駕, 駝, 駱, 騎, 騒, 騙, 騰):** `## Aliases` sections and redirects for 驅, 驻, 驹, 驾, 驼, 駞, 骆, 骑, 騷, 骗, 騗 and 腾 (驅, 駞 and 騷 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 𫘞 and 𩣾 (not in EDRDG, no definitions).
+
+- **Alias loop, batch 131 (饉, 饗, 馭, 馮, 馳, 馴, 馿, 駁, 駄, 駅):** `## Aliases` sections and redirects for 馑, 飨, 驭, 冯, 驰, 驯, 驢, 驳, 駮, 馱, 驛 and 驿 (驢, 駮, 馱 and 驛 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). `mc_id` of 駁 lowered to 2866 (駮). Removed the rare 䮈 (not in EDRDG).
+
 - **Alias loop, batch 130 (飢, 飧, 飴, 飼, 飾, 餃, 餅, 餌, 餐, 饅):** `## Aliases` sections and redirects for 饑, 饥, 饴, 饲, 饰, 饺, 饼, 饵, 喰, 飡 and 馒 (饑, 喰 and 飡 from EDRDG; computed SKIP codes for the simplified 饣-forms logged in project_alias_skip_guesses). Removed the rare 飱, 𩱓, 㢽, 𧊗, 𩚪, 𩛣, 湌, 䬸, 𩛳 and 䊡 (not in EDRDG, no usable definitions), so 飧 now has no aliases.
 
 - **Alias loop, batch 129 (頻, 頼, 顆, 額, 顎, 顕, 顚, 顧, 颯, 食):** `## Aliases` sections and redirects for 频, 賴, 赖, 颗, 额, 齶, 腭, 颚, 顯, 顛, 颠, 顾, 飒 and 蝕 (齶, 腭, 顯, 顛 and 蝕 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaves SKIP-1-14-9 (for 顯) and SKIP-1-15-9 (for 齶) with their index entries. `mc_id` of 顚 set to 1719 (顛). Removed the rare 㒹 and 䬃 (not in EDRDG).

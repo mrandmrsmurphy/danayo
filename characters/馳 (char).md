@@ -30,13 +30,12 @@ graphemic_classification: 也
 stand_in: 馳
 aliases:
   - 驰
-  - 䮈
 注音: ㄑㄜ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 馳.
 >For the word, see [馳](../words/馳.md)
@@ -49,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-3](../lookup/SKIP/SKIP-1/SKIP-1-10-3.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄑㄜ](../syllables/ㄑㄜ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 驰
+Simplified Chinese form of 馳. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[馳]]<rt>ㄑㄜ</rt></ruby> "run fast; drive quickly" (stand-in for 馳)

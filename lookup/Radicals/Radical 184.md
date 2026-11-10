@@ -38,6 +38,7 @@ tags: [lookup]
 ### +3 Strokes
 3. <ruby>[飯](../../characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked)
 4. <ruby>[飧](../../characters/飧.md)<rt>ㄙㄛㄋ</rt></ruby> - evening meal
+- 飨 --> 饗
 
 ### +4 Strokes
 5. <ruby>[飽](../../characters/飽%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - sated
@@ -50,6 +51,7 @@ tags: [lookup]
 ### +5 Strokes
 10. <ruby>[餌](../../characters/餌.md)<rt>ㄋㄧ</rt></ruby> - bait
 - 馒 --> 饅
+- 馑 --> 饉
 
 ### +6 Strokes
 11. <ruby>[養](../../characters/養.md)<rt>⼘ㄫ</rt></ruby> - foster

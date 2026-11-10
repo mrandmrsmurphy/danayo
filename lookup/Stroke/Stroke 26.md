@@ -13,6 +13,7 @@ tags: [lookup]
 ### Aliases
 - 讚 --> 賛
 - 𩱦 --> 炒
+- 驢 --> 馿
 
 ### Forbidden
 - 鱶 - 国字: 国字 for 'shark', ふか

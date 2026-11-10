@@ -54,6 +54,7 @@ tags:
 - 𦳊 --> 屎
 - 葵 --> 癸
 - 窝 --> 窩
+- 飨 --> 饗
 
 ## Datacheck
 ```dataview

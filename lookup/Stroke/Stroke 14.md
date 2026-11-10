@@ -198,6 +198,7 @@ tags:
 - 颗 --> 顆
 - 蝕 --> 食
 - 馒 --> 饅
+- 馑 --> 饉
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

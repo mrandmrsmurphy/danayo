@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 駄.
 >For the word, see [駄](../words/駄.md)
@@ -52,6 +52,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-4](../lookup/SKIP/SKIP-1/SKIP-1-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 8588th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄚ](../syllables/ㄉㄚ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 馱
+Traditional form of 駄, "to carry on the back (of a pack animal); a load". SKIP 1-10-3; 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[駄]]<rt>ㄉㄚ</rt></ruby> "pack, carry" (stand-in for 駄)

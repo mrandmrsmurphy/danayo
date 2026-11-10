@@ -25,7 +25,7 @@ joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7418
-mc_id: 0
+mc_id:
 graphemic_classification: "扁"
 stand_in: "騙"
 aliases:
@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 騙.
 >For the word, see [騙](../words/騙.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-9](../lookup/SKIP/SKIP-1/SKIP-1-10-9.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](../syllables/ㄆ⼶ㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](Lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Aliases
+
+### 骗
+Simplified Chinese form of 騙. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 騗
+Variant form of 騙, "to swindle, to cheat". SKIP 1-10-9 (computed: EDRDG does not list it); 19 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive, defraud" (stand-in for 騙)

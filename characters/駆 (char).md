@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 駆.
 >For the word, see [駆](../words/駆.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-4](../lookup/SKIP/SKIP-1/SKIP-1-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1345th most used character in Classical Chinese, recorded under the alias 驅. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄎㄨ](../syllables/ㄎㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 驅
+Traditional form (kyūjitai) of 駆, "to drive, to spur; to run"; this is the form the Classical Chinese lists rank. SKIP 1-10-11; 21 strokes. It ranks 1345 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[駆]]<rt>ㄎㄨ</rt></ruby> "drive; spur" (stand-in for 駆)

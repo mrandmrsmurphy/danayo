@@ -26,6 +26,7 @@ tags: [lookup]
 - 弩 --> 努
 - 㝵 --> 碍
 - 罗 --> 羅
+- 驾 --> 駕
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'

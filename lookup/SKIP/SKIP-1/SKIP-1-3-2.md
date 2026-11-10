@@ -45,6 +45,7 @@ tags:
 - 叶 --> 葉
 - 队 --> 隊
 - 饥 --> 飢
+- 驭 --> 馭
 
 ### Forbidden
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.

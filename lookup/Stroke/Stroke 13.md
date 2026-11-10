@@ -188,6 +188,8 @@ tags:
 - 频 --> 頻
 - 赖 --> 頼
 - 腭 --> 顎
+- 馱 --> 駄
+- 腾 --> 騰
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

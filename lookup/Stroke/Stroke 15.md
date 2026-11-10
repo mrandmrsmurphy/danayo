@@ -165,6 +165,7 @@ tags:
 - 鞉 --> 鞀
 - 额 --> 額
 - 颚 --> 顎
+- 駞 --> 駝
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

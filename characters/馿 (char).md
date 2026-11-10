@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 馿.
 >For the word, see [馿](../words/馿.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-4](../lookup/SKIP/SKIP-1/SKIP-1-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 3000th most used character in Classical Chinese (exact match — `CC 2000.md`: `3000. 驢`). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄌ⼄](../syllables/ㄌ⼄.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 驢
+Traditional form of 馿, "donkey"; this is the form the Classical Chinese lists rank. SKIP 1-10-16; 26 strokes. It ranks 3000 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[馿]]<rt>ㄌ⼄</rt></ruby> "donkey" (stand-in for 馿)

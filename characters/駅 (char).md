@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 駅.
 >For the word, see [駅](../words/駅.md)
@@ -48,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-10-4](../lookup/SKIP/SKIP-1/SKIP-1-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 2821st most used character in Classical Chinese (as 驛). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [⼶ㄎ](../syllables/⼶ㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 驛
+Traditional form (kyūjitai) of 駅, "relay station"; this is the form the Classical Chinese lists rank. SKIP 1-10-13; 23 strokes. It ranks 2821 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 驿
+Simplified Chinese form of 驛. SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby> "station" (stand-in for 駅)

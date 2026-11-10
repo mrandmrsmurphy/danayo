@@ -123,6 +123,7 @@ tags:
 - 护 --> 護
 - 陆 --> 陸
 - 际 --> 際
+- 驳 --> 駁
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

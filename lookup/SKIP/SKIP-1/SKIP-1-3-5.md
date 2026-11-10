@@ -140,6 +140,10 @@ tags:
 - 饴 --> 飴
 - 饲 --> 飼
 - 饰 --> 飾
+- 驿 --> 駅
+- 驻 --> 駐
+- 驹 --> 駒
+- 驼 --> 駝
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

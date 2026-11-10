@@ -250,6 +250,7 @@ tags:
 - 雩 --> 雨
 - 颈 --> 頚
 - 飡 --> 餐
+- 骑 --> 騎
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

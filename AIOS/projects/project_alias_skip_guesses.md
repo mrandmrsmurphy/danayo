@@ -1007,3 +1007,20 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 餅 (char) | 饼 | 1-3-6 | computed from its parts |
 | 餌 | 饵 | 1-3-6 | computed from its parts |
 | 饅 | 馒 | 1-3-11 | computed from its parts |
+| 饉 | 馑 | 1-3-11 | computed from its parts |
+| 饗 | 飨 | 2-3-9 | computed from its parts |
+| 馭 | 驭 | 1-3-2 | computed from its parts |
+| 馮 | 冯 | 1-2-3 | computed from its parts |
+| 馳 (char) | 驰 | 1-3-3 | computed from its parts |
+| 馴 | 驯 | 1-3-3 | computed from its parts |
+| 駁 | 驳 | 1-3-4 | computed from its parts |
+| 駅 (char) | 驿 | 1-3-5 | computed from its parts |
+| 駐 | 驻 | 1-3-5 | computed from its parts |
+| 駒 | 驹 | 1-3-5 | computed from its parts |
+| 駕 | 驾 | 2-5-3 | computed from its parts |
+| 駝 | 驼 | 1-3-5 | computed from its parts |
+| 駱 | 骆 | 1-3-6 | computed from its parts |
+| 騎 | 骑 | 1-3-8 | computed from its parts |
+| 騙 (char) | 骗 | 1-3-9 | computed from its parts |
+| 騙 (char) | 騗 | 1-10-9 | computed from its parts |
+| 騰 | 腾 | 1-10-3 | computed from its parts |

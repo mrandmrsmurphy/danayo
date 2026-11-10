@@ -192,6 +192,7 @@ tags:
 - 啊 --> 阿
 - 陷 --> 陥
 - 崚 --> 陵
+- 骑 --> 騎
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

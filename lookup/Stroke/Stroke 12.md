@@ -233,6 +233,8 @@ tags: [lookup]
 - 阔 --> 闊
 - 颊 --> 頬
 - 喰 --> 餐
+- 飨 --> 饗
+- 骗 --> 騙
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
