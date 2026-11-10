@@ -13,6 +13,9 @@ tags: [lookup]
 2. <ruby>[韻](../../characters/韻.md)<rt>ㄨㄋ</rt></ruby> - rhyme
 3. <ruby>[響](../../characters/響.md)<rt>ㄏ⼘ㄫ</rt></ruby> - echo
 
+### Aliases
+- 韵 --> 韻
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

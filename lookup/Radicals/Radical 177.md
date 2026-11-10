@@ -26,6 +26,9 @@ tags: [lookup]
 - 䩻 --> 覇
 - 䩯 --> 革
 - 鞾 --> 靴
+- 鞉 --> 鞀
+- 鞵 --> 鞋
+- 鞕 --> 鞭
 
 ### Forbidden
 - 靹 - 国字: Archer's arm protector.  Poss same as 䪏

@@ -35,7 +35,7 @@ stand_in: 頃
 aliases:
   - 顷
 注音: ㄎㄝㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 80
 - [SKIP-1-2-9](../lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 963rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 清合|wiᴇŋ]] → [ㄎㄝㄫ](../syllables/ㄎㄝㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 顷
+Simplified Chinese form of 頃. SKIP 1-2-6 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[頃]]<rt>ㄎㄝㄫ</rt></ruby> "moment; occasion" (stand-in for 頃 (char))

@@ -19,6 +19,7 @@ tags: [lookup]
 - 餘 --> 余
 - 縣 --> 県
 - 餚 --> 肴
+- 鞕 --> 鞭
 
 ## Datacheck
 ```dataview

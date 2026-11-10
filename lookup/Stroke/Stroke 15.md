@@ -162,6 +162,7 @@ tags:
 - 镇 --> 鎮
 - 閱 --> 閲
 - 澐 --> 雲
+- 鞉 --> 鞀
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

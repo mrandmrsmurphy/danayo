@@ -34,6 +34,7 @@ tags: [lookup]
 - 尠 --> 鮮
 - 戠 --> 埴
 - 毁 --> 毀
+- 韵 --> 韻
 
 ## Datacheck
 ```dataview

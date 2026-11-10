@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is about the character.
 >For the word, see [頚](../words/頚.md).
@@ -48,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1672nd most used character in Classical Chinese (as 頸). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄍㄧㄫ](../syllables/ㄍㄧㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 頸
+Traditional form of 頚, "neck"; this is the form the Classical Chinese lists rank. SKIP 1-7-9; 16 strokes. It ranks 1672 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 颈
+Simplified Chinese form of 頸. SKIP 1-5-6 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[頚]]<rt>ㄍㄧㄫ</rt></ruby> "neck" (stand-in for 頚)

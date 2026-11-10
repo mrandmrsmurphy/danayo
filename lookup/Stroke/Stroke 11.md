@@ -248,6 +248,7 @@ tags:
 - 閆 --> 閻
 - 离 --> 離
 - 雩 --> 雨
+- 颈 --> 頚
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -230,6 +230,10 @@ tags:
 - 啊 --> 阿
 - 陷 --> 陥
 - 邕 --> 雍
+- 颂 --> 頌
+- 顽 --> 頑
+- 颁 --> 頒
+- 顿 --> 頓
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

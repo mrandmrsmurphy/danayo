@@ -11,6 +11,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[韮](../../characters/韮.md)<rt>ㄍ⼜</rt></ruby> - garlic
 
+### Aliases
+- 韭 --> 韮
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -51,6 +51,8 @@ tags:
 ### Aliases
 - 輌 --> 両
 - 貇 --> 懇
+- 颐 --> 頤
+- 颖 --> 頴
 
 ## Datacheck
 ```dataview

@@ -116,6 +116,8 @@ tags:
 - 绕 --> 繞
 - 险 --> 険
 - 陏 --> 随
+- 响 --> 響
+- 项 --> 項
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

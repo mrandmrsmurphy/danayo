@@ -13,6 +13,7 @@ tags: [lookup]
 
 ### Aliases
 - 鼕 --> 冬
+- 鼗 --> 鞀
 
 ## Data check
 ```dataview

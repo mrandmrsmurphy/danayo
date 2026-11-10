@@ -113,6 +113,7 @@ tags: [lookup]
 - 哑 --> 唖
 - 哗 --> 嘩
 - 咨 --> 諮
+- 响 --> 響
 
 ### +7 Strokes
 62. <ruby>[員](../../characters/員.md)<rt>ㄨㄋ</rt></ruby> - personnel

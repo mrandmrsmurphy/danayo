@@ -25,7 +25,7 @@ joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: "名"
 danayo_id: 6149
-mc_id: 0
+mc_id:
 graphemic_classification: 圭
 stand_in: 鞋
 aliases:
@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鞋.
 >For the word, see [鞋](../words/鞋.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-9-6](../lookup/SKIP/SKIP-1/SKIP-1-9-6.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Not present in the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄏ⼘ㄧ](../syllables/ㄏ⼘ㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 鞵
+Variant form of 鞋, "shoes, boots". SKIP 1-9-10; 19 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鞋]]<rt>ㄏ⼘ㄧ</rt></ruby> "shoe" (stand-in for 鞋)

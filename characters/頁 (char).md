@@ -32,13 +32,12 @@ graphemic_classification: "象形"
 stand_in: "頁"
 aliases:
   - 页
-  - 𩑋
 注音: "ㄏㄝㄊ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 頁.
 >For the word, see [頁](../words/頁.md)
@@ -52,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-7](../lookup/SKIP/SKIP-2/SKIP-2-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 2685th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄏㄝㄊ](../syllables/ㄏㄝㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 页
+Simplified Chinese form of 頁. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[頁]]<rt>ㄏㄝㄊ</rt></ruby> "page" (stand-in for 頁)

@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is about the character.
 >For the word, see [頬](../words/頬.md)
@@ -48,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 2879th most used character in Classical Chinese (as 頰). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄍㄝㄆ](../syllables/ㄍㄝㄆ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 頰
+Traditional form of 頬, "cheek"; this is the form the Classical Chinese lists rank. SKIP 1-7-9; 16 strokes. It ranks 2879 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 颊
+Simplified Chinese form of 頰. SKIP 1-6-6 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[頬]]<rt>ㄍㄝㄆ</rt></ruby> "cheek" (stand-in for 頬)

@@ -71,6 +71,7 @@ tags: [lookup]
 32. <ruby>[穏](../../characters/穏.md)<rt>ㄛㄋ</rt></ruby> - calm
 - 穅 --> 糟
 - 穌 --> 蘇
+- 穎 --> 頴
 
 ### +12 Strokes
 - 穗 --> 穂

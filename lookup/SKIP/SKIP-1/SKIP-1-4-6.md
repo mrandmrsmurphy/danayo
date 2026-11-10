@@ -75,6 +75,10 @@ tags:
 - 贿 --> 賄
 - 贼 --> 賊
 - 较 --> 較
+- 颂 --> 頌
+- 顽 --> 頑
+- 颁 --> 頒
+- 顿 --> 頓
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

@@ -979,3 +979,14 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 雖 (char) | 虽 | 2-3-6 | computed from its parts |
 | 霧 (char) | 雾 | 2-8-5 | computed from its parts |
 | 靄 | 霭 | 2-8-11 | computed from its parts |
+| 頁 (char) | 页 | 2-2-4 | computed from its parts |
+| 頃 (char) | 顷 | 1-2-6 | computed from its parts |
+| 項 (char) | 项 | 1-3-6 | computed from its parts |
+| 頌 | 颂 | 1-4-6 | computed from its parts |
+| 頑 | 顽 | 1-4-6 | computed from its parts |
+| 頒 | 颁 | 1-4-6 | computed from its parts |
+| 頓 | 顿 | 1-4-6 | computed from its parts |
+| 頚 (char) | 颈 | 1-5-6 | computed from its parts |
+| 頤 | 颐 | 1-7-6 | computed from its parts |
+| 頬 (char) | 颊 | 1-6-6 | computed from its parts |
+| 頴 | 颖 | 1-7-6 | computed from its parts |

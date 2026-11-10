@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 题 --> 題
+- 鞉 --> 鞀
 
 ## Datacheck
 ```dataview

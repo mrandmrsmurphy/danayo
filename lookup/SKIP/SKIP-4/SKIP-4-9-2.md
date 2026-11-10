@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[重](/characters/重%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - heavy
 
+### Aliases
+- 韭 --> 韮
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -230,6 +230,9 @@ tags:
 - 陜 --> 陝
 - 险 --> 険
 - 虽 --> 雖
+- 韭 --> 韮
+- 响 --> 響
+- 项 --> 項
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

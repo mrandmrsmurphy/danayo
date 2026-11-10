@@ -12,23 +12,36 @@ tags: [lookup]
 ### +-1 Strokes
 - 顶 --> 頂
 
+### +-3 Strokes
+- 页 --> 頁
+
+### +-1 Strokes
+- 顷 --> 頃
+
 ### +0 Strokes
 1. <ruby>[頁](../../characters/頁%20(char).md)<rt>ㄏㄝㄊ</rt></ruby> - page
 - 顺 --> 順
 - 须 --> 須
+- 项 --> 項
 
 ### +1 Stroke
 - 预 --> 予
+- 颂 --> 頌
+- 顽 --> 頑
+- 颁 --> 頒
+- 顿 --> 頓
 
 ### +2 Strokes
 2. <ruby>[頂](../../characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> - peak
 3. <ruby>[頃](../../characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> - moment
 - 领 --> 領
+- 颈 --> 頚
 
 ### +3 Strokes
 4. <ruby>[項](../../characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - nape
 5. <ruby>[順](../../characters/順.md)<rt>ㄙ⼜ㄋ</rt></ruby> - in order
 6. <ruby>[須](../../characters/須.md)<rt>ㄙㄨ</rt></ruby> - indispensable
+- 颊 --> 頬
 
 ### +4 Strokes
 7. <ruby>[頌](../../characters/頌.md)<rt>ㄙ⼄ㄫ</rt></ruby> - laud
@@ -36,6 +49,8 @@ tags: [lookup]
 9. <ruby>[頒](../../characters/頒.md)<rt>ㄆㄚㄋ</rt></ruby> - confer
 10. <ruby>[頓](../../characters/頓.md)<rt>ㄊㄛㄋ</rt></ruby> - suddenly
 - 預 --> 予
+- 颐 --> 頤
+- 颖 --> 頴
 
 ### +5 Strokes
 11. <ruby>[領](../../characters/領.md)<rt>ㄌㄧㄫ</rt></ruby> - territory
@@ -51,6 +66,8 @@ tags: [lookup]
 16. <ruby>[頭](../../characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - head
 17. <ruby>[頴](../../characters/頴.md)<rt>⼶ㄫ</rt></ruby> - rice tassel
 18. <ruby>[頼](../../characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> - trust
+- 頸 --> 頚
+- 頰 --> 頬
 
 ### +8 Strokes
 19. <ruby>[頻](../../characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> - frequent

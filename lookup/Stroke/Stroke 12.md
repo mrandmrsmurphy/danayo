@@ -231,6 +231,7 @@ tags: [lookup]
 - 锁 --> 鎖
 - 鄗 --> 鎬
 - 阔 --> 闊
+- 颊 --> 頬
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
