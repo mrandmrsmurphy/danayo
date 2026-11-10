@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 33 (SKIP-2-5-2 to 2-5-9, SKIP-2-6-10, 2-6-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 32 (SKIP-2-5-1, 2-5-10 to 2-5-17, 2-5-19):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 31 (SKIP-2-4-12, 2-4-13, 2-4-17, SKIP-2-4-2 to 2-4-4, 2-4-6 to 2-4-9):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the orphaned redirect `曩 → 嚢` from SKIP-2-4-17 (嚢 does not list 曩 as an alias and no other lookup page carries it); the leaf is now an empty ø leaf. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 30 (SKIP-2-3-3 to 2-3-9, SKIP-2-4-1, 2-4-10, 2-4-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 29 (SKIP-2-3-12 to 2-3-20, SKIP-2-3-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the orphaned redirects `騫 → 鍵` (SKIP-2-3-17) and `巍 → 魏` (SKIP-2-3-18): neither 鍵 nor 魏 lists them as an alias and no other lookup page carries them. Stamped the ten leaves.
