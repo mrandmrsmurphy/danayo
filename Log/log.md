@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 5 (SKIP-1-11-18, SKIP-1-11-2 to 1-11-9, SKIP-1-12-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 4 (SKIP-1-11-11 to 1-11-16, SKIP-2-10-4, SKIP-2-4-5, SKIP-2-9-3, SKIP-3-8-3):** checked each leaf against the characters' own data. Removed the duplicated `鱆 → 章` redirect in SKIP-1-11-11 and the stray `糶 → 翟` redirect in SKIP-1-11-14 (翟 does not list 糶 as an alias, and 糶 has no page), with its now-empty Aliases heading. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 3 (SKIP-1-10-19, 1-10-2 to 1-10-9, 1-11-10):** checked each leaf's characters, redirects and frontmatter against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 2 (SKIP-1-1-4, 1-1-7, 1-1-8, 1-10-10 to 1-10-14, 1-10-17, 1-10-18):** checked each leaf's characters, redirects and frontmatter. In SKIP-1-10-11 removed the stray redirects 髏 → 婁, 鶲 → 翁, 鶻 → 紇, 鷂 → 紙鳶 and 鷆/鷏 → 真 (no character page lists them as aliases), 鶺 → 脊 (it belongs to SKIP-2-10-11, where it already is), and the duplicated 鷄 → 鶏. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 1 (SKIP-4-0-1…4, SKIP-3-8-5, SKIP-3-8-12, SKIP-1-1-1, SKIP-1-1-11, SKIP-1-1-2, SKIP-1-1-3):** checked against the characters' own `skip_number` values and their `## Aliases` sections (no missing or stray redirects); removed the duplicated `儿 --> 児` redirect in SKIP-1-1-1 (one copy used a non-breaking space) and normalised the non-breaking space in `刂 --> Radical 018`; stamped the ten pages.
 
 - **湧 (last alias page):** `aliases:` rewritten as a list (it was a bare scalar the tool could not read), `## Aliases` section and redirects built for 涌 (EDRDG 1-3-7); `mc_id` 2620 from its rank. The alias backlog is now zero.
