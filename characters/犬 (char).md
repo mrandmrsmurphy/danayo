@@ -55,3 +55,6 @@ boundedness: 65
 - <ruby>[[突]]<rt>ㄊㄛㄊ</rt></ruby> "abrupt, sudden"
 - <ruby>[[奨]]<rt>ㄐㄚㄫ</rt></ruby> "award"
 - <ruby>[[肰]]<rt>ㄋㄝㄋ</rt></ruby> "dog meat"
+
+## Chengyu
+- <ruby>[[画虎類犬]]<rt>ㄏ⺢ㄎㄏㄛㄌㄨㄧ·ㄎ⼔ㄋ</rt></ruby> "an over-ambitious imitation that ends in a caricature"

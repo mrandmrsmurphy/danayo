@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **New chengyu 画虎類犬:** created `chengyu/画虎類犬.md` (aliases include the 狗 forms and the full 畫虎不成反類狗; origin 後漢書 卷24, Ma Yuan's 誡兄子嚴敦書, checked on zh.Wikisource, where the original reads 狗; 注音 ㄏ⺢ㄎㄏㄛㄌㄨㄧ·ㄎ⼔ㄋ, dotted at 類|犬). Back-linked from 画, 虎, 類 and 犬; added to `chengyu/Misc. Chengyu.md` (size 159). The headword uses 犬 because 狗 is a 名専字.
+
 - **New words 枯木, 生花 and chengyu 枯木生花:** created `words/枯木.md` (注音 ㄎㄛ·ㄇㄛㄎ, dotted because ㄎㄛㄇㄛㄎ also splits ㄎㄛㄇ + ㄛㄎ) and `words/生花.md` (注音 ㄙㄚㄫㄏ⺢; 花 stays bound, stand-in 草花), both on Plants; `chengyu/枯木生花.md` (origin 五燈會元 卷13, Dongshan Liangjie to Shushan, checked on zh.Wikisource with 指月錄 卷18; Wiktionary confirms 生花 as a literary verb 'to bloom'). Back-links added on 枯, 木, 生 and 花 under Words and Chengyu; added to `chengyu/Misc. Chengyu.md` (size 158) and `lexipedia/Plants.md`.
 
 - **New chengyu 緑林豪客:** created `chengyu/緑林豪客.md` (aliases 綠林豪客, 绿林豪客; origin 全唐詩, Li She's 井欄砂宿遇夜客 and 後漢書 卷11 for 緑林, both checked on zh.Wikisource; 注音 ㄌㄛㄎㄌㄧㄇㄏㄚㄨ·ㄎㄚㄎ, one dot because ㄏㄚㄨㄎㄚㄎ also splits as ㄏㄚ·ㄨㄎ·ㄚㄎ), back-linked from 緑, 林, 豪 and 客, and added to `chengyu/Misc. Chengyu.md` (size 157).

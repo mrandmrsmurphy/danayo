@@ -61,6 +61,7 @@ An alternative form of 虎 in Japanese. SKIP 3-2-5; 7 strokes. Radical 004 丿. 
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"
 - <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
+- <ruby>[[画虎類犬]]<rt>ㄏ⺢ㄎㄏㄛㄌㄨㄧ·ㄎ⼔ㄋ</rt></ruby> "an over-ambitious imitation that ends in a caricature"
 
 ## Derived Characters
 - <ruby>[[彪]]<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes"
