@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-30
+date-last-perfect: 2026-11-10
 stroke_count: 2
 size: 1
 skip_number: 1-1-1
@@ -13,8 +13,7 @@ tags: [lookup]
 ### Used
 1. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight
 ### Aliases
-- 刂 --> Radical 018, from 刀
-- 儿 --> 児
+- 刂 --> Radical 018, from 刀
 - 儿 --> 児
 
 ### Forbidden

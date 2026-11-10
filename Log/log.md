@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 1 (SKIP-4-0-1…4, SKIP-3-8-5, SKIP-3-8-12, SKIP-1-1-1, SKIP-1-1-11, SKIP-1-1-2, SKIP-1-1-3):** checked against the characters' own `skip_number` values and their `## Aliases` sections (no missing or stray redirects); removed the duplicated `儿 --> 児` redirect in SKIP-1-1-1 (one copy used a non-breaking space) and normalised the non-breaking space in `刂 --> Radical 018`; stamped the ten pages.
+
 - **湧 (last alias page):** `aliases:` rewritten as a list (it was a bare scalar the tool could not read), `## Aliases` section and redirects built for 涌 (EDRDG 1-3-7); `mc_id` 2620 from its rank. The alias backlog is now zero.
 
 - **Alias loop, batch 150 (遡, 麻, 懺, 芹) — backlog complete:** `## Aliases` sections and redirects for 泝, 溯, 痲, 忏, 懴 and 斳 (all but 忏 from EDRDG; its computed SKIP code is logged in project_alias_skip_guesses). `mc_id` of 遡 set to 3917 (泝). Removed the rare 菦 and 䓅 (no usable definitions). Every character with an `aliases:` list now has its `## Aliases` section.
