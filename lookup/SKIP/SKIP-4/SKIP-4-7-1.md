@@ -21,6 +21,7 @@ tags:
 - 两 --> 両
 - 㒳 --> 両
 - 严 --> 厳
+- 丣 --> 酉
 
 ## Datacheck
 ```dataview

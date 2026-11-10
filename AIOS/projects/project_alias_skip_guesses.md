@@ -886,6 +886,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 轄 (char) | 辖 | 1-4-10 | computed from its parts |
 | 辣 (char) | 辢 | 1-7-7 | computed from its parts |
 | 辦 | 办 | 2-2-2 | computed from its parts |
-| 辺 | 边 | 3-4-2 | computed from its parts |
-| 這 | 这 | 3-4-4 | computed from its parts |
-| 遅 (char) | 迟 | 3-4-3 | computed from its parts |
+| 辺 | 边 | 3-3-3 | computed from its parts |
+| 這 | 这 | 3-3-5 | computed from its parts |
+| 遅 (char) | 迟 | 3-3-4 | computed from its parts |
+| 違 | 违 | 3-3-4 | computed from its parts |
+| 遜 | 逊 | 3-3-6 | computed from its parts |
+| 遠 (char) | 远 | 3-3-4 | computed from its parts |
+| 遼 | 辽 | 3-3-2 | computed from its parts |
+| 邁 | 迈 | 3-3-4 | computed from its parts |
+| 邏 | 逻 | 3-3-8 | computed from its parts |
+| 郎 | 郞 | 1-7-3 | computed from its parts |
+| 郵 | 邮 | 1-5-2 | computed from its parts |
+| 鄒 | 邹 | 1-5-2 | computed from its parts |
+| 鄧 | 邓 | 1-2-3 | computed from its parts |
+| 鄭 | 郑 | 1-6-3 | computed from its parts |

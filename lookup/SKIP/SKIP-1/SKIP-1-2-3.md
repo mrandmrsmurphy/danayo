@@ -33,6 +33,7 @@ tags:
 - 仪 --> 儀
 - 讯 --> 訊
 - 讬 --> 託
+- 邓 --> 鄧
 
 ## Datacheck
 ```dataview

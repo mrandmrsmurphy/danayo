@@ -13,10 +13,17 @@ tags: [lookup]
 ### +-1 Strokes
 - 边 --> 辺
 
+### +-2 Strokes
+- 辽 --> 遼
+
 ### +0 Strokes
 - 进 --> 進
 - 运 --> 運
 - 迟 --> 遅
+- 违 --> 違
+- 远 --> 遠
+- 迁 --> 遷
+- 迈 --> 邁
 
 ### +1 Stroke
 - 迦 --> 珈
@@ -25,6 +32,7 @@ tags: [lookup]
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
 - 迹 --> 跡
+- 逊 --> 遜
 
 ### +3 Strokes
 2. <ruby>[迂](../../characters/迂.md)<rt>ㄨ</rt></ruby> - roundabout
@@ -37,6 +45,7 @@ tags: [lookup]
 5. <ruby>[近](../../characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby> - near
 6. <ruby>[返](../../characters/返.md)<rt>ㄈㄛㄋ</rt></ruby> - return
 7. <ruby>[迎](../../characters/迎.md)<rt>⼶ㄫ</rt></ruby> - welcome
+- 逻 --> 邏
 
 ### +5 Strokes
 8. <ruby>[迪](../../characters/迪.md)<rt>ㄉㄝㄎ</rt></ruby> - follow
@@ -54,6 +63,7 @@ tags: [lookup]
 17. <ruby>[逆](../../characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> - rebellion
 18. <ruby>[迷](../../characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - be lost
 - 遞 --> 逓
+- 遙 --> 遥
 
 ### +7 Strokes
 19. <ruby>[透](../../characters/透%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - transparent

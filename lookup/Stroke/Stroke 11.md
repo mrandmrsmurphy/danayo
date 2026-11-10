@@ -234,6 +234,7 @@ tags:
 - 跃 --> 躍
 - 辄 --> 輒
 - 辅 --> 輔
+- 逻 --> 邏
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

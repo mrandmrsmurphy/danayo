@@ -220,6 +220,7 @@ tags:
 108. <ruby>[薫](../../characters/薫%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - fragrant
 109. <ruby>[薬](../../characters/薬%20(char).md)<rt>⼘ㄎ</rt></ruby> - drug
 - 蘋 --> 苹
+- 蘧 --> 遽
 
 ### +14 Strokes
 110. <ruby>[蔔](../../characters/蔔.md)<rt>ㄅㄨㄎ</rt></ruby> - radish

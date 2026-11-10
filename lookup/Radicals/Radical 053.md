@@ -65,6 +65,7 @@ tags:
 
 ### +11 Strokes
 - 廏 --> 厩
+- 廓 --> 郭
 
 ### +12 Strokes
 22. <ruby>[廟](../../characters/廟.md)<rt>ㄇ⼘ㄨ</rt></ruby> - ancestral temple

@@ -38,6 +38,7 @@ tags: [lookup]
 - 剎 --> 刹
 - 帅 --> 帥
 - 虾 --> 蝦
+- 郑 --> 鄭
 
 ## Datacheck
 ```dataview

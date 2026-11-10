@@ -45,6 +45,10 @@ tags: [lookup]
 - 闲 --> 閑
 - 庐 --> 廬
 - 闷 --> 悶
+- 违 --> 違
+- 远 --> 遠
+- 迈 --> 邁
+- 迟 --> 遅
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

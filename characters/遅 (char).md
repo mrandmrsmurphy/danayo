@@ -56,7 +56,7 @@ boundedness: 45
 Traditional form (kyūjitai) of 遅, "late, slow"; this is the form the Classical Chinese lists rank. SKIP 3-4-12; 15 strokes. It ranks 1344 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 迟
-Simplified Chinese form of 遲. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 遲. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[遅]]<rt>ㄑㄧㄜ</rt></ruby> "late, slow" (stand-in for 遅 (char))

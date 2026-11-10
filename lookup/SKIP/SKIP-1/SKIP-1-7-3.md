@@ -32,6 +32,7 @@ tags: [lookup]
 ### Aliases
 - 𧿆 --> 爬
 - 郢 --> 嬴
+- 郞 --> 郎
 
 ## Datacheck
 ```dataview

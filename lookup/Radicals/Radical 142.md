@@ -72,6 +72,7 @@ tags:
 32. <ruby>[蝸](../../characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
 33. <ruby>[蝿](../../characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
 - 蝨 --> 虱
+- 蝤 --> 酋
 
 ### +10 Strokes
 34. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis

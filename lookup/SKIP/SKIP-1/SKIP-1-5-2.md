@@ -31,6 +31,8 @@ tags: [lookup]
 - 针 --> 針
 - 劲 --> 勁
 - 矶 --> 磯
+- 邮 --> 郵
+- 邹 --> 鄒
 
 ### Forbidden
 - 盯 - 官话: HSK/3, Chinese only.

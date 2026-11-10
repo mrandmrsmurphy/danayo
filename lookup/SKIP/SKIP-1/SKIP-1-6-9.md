@@ -41,6 +41,7 @@ tags:
 - 聪 --> 聡
 - 舖 --> 舗
 - 蝨 --> 虱
+- 蝤 --> 酋
 
 ## Datacheck
 ```dataview

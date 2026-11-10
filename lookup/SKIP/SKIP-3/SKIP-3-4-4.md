@@ -15,9 +15,6 @@ tags: [lookup]
 3. <ruby>[者](characters/者.md)<rt>ㄑㄚ</rt></ruby> "-er"
 4. <ruby>[虎](characters/虎%20(char).md)<rt>ㄏㄛ</rt></ruby> "tiger"
 
-### Aliases
-- 这 --> 這
-
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

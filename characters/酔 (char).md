@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 酔.
 >For the word, see [酔](../words/酔.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1600th most used character in Classical Chinese (ranked under the traditional form 醉). Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄐㄨㄧ](../syllables/ㄐㄨㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 醉
+Traditional form (kyūjitai) of 酔, "drunk; to become drunk"; this is the form the Classical Chinese lists rank. SKIP 1-7-8; 15 strokes. It ranks 1600 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[酔]]<rt>ㄐㄨㄧ</rt></ruby> "drunk" (stand-in for 酔)

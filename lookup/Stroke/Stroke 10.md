@@ -217,6 +217,7 @@ tags:
 - 宾 --> 賓
 - 较 --> 較
 - 载 --> 載
+- 郞 --> 郎
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

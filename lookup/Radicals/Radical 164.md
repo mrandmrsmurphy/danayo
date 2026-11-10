@@ -41,6 +41,8 @@ tags: [lookup]
 
 ### +8 Strokes
 15. <ruby>[醇](../../characters/醇.md)<rt>ㄙㄨㄋ</rt></ruby> - good wine
+- 醉 --> 酔
+- 醋 --> 酢
 
 ### +9 Strokes
 16. <ruby>[醍](../../characters/醍.md)<rt>ㄊㄝㄧ</rt></ruby> - essential oil

@@ -185,6 +185,7 @@ tags:
 - 辖 --> 轄
 - 辢 --> 辣
 - 隧 --> 遂
+- 廓 --> 郭
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

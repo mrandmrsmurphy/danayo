@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 116 (郭, 郵, 鄒, 鄧, 鄭, 酉, 酋, 酔, 酢, 酩):** `## Aliases` sections and redirects for 廓, 邮, 邹, 邓, 郑, 奠, 丣, 蝤, 醉 and 醋 (廓, 奠, 丣, 蝤, 醉 and 醋 from EDRDG; computed SKIP codes for the simplified 阝-forms logged in project_alias_skip_guesses). Removed the rare 佲 (not in EDRDG) from 酩, which now has no aliases.
+
+- **Alias loop, batch 115 (違, 遜, 遠, 遥, 遷, 遼, 遽, 邁, 邏, 郎):** `## Aliases` sections and redirects for 违, 逊, 远, 遙, 迁, 辽, 蘧, 迈, 逻 and 郞 (遙, 迁 and 蘧 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the rare 䙴 and 郒 (no usable definition). Corrected three earlier computed SKIP codes: simplified forms with 辶 (3 strokes) take outer 3 like the shinjitai, so 这 moved from 3-4-4 to 3-3-5, 迟 from 3-4-3 to 3-3-4 and 边 from 3-4-2 to 3-3-3 (leaves, character pages and guesses file).
+
 - **Alias loop, batch 114 (逆, 逑, 逓, 這, 逞, 造, 逸, 逾, 遂, 遅):** `## Aliases` sections and redirects for 屰, 遞, 这, 糙, 佚, 踰, 隧, 遲 and 迟 (屰, 遞, 糙, 佚, 踰, 隧 and 遲 from EDRDG; computed SKIP codes for 这 and 迟 logged in project_alias_skip_guesses). `mc_id` of 逾 lowered to 1322 (踰). Removed the rare 訄, 徎 and 𨓜 (not in EDRDG, no usable definition), so 逑 and 逞 now have no aliases.
 
 - **Alias loop, batch 113 (輿, 轄, 辞, 辣, 辦, 辺, 迂, 迄, 近, 迥):** `## Aliases` sections and redirects for 舆, 辖, 辭, 辢, 办, 邊, 边 and 肸 (辭, 邊 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` of 迄 lowered to 2971 (肸). Removed the rare 迃, 𫙧, 㢠 and 䢛, so 迂, 近 and 迥 now have no aliases.

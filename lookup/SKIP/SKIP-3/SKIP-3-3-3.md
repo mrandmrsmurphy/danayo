@@ -35,6 +35,8 @@ tags: [lookup]
 - 团 --> 団
 - 闭 --> 閉
 - 庄 --> 荘
+- 迁 --> 遷
+- 边 --> 辺
 
 ## Datacheck
 ```dataview

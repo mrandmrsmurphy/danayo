@@ -73,6 +73,7 @@ Radical 1 is 一, the number one.
 - 鿖 --> ancient contraction
 - 𠀡 --> ancient variant of 天
 - 𠀧 --> V variant of 三
+- 丣 --> 酉
 
 ### +7 Strokes
 20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side

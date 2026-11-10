@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 郭.
 >For the word, see [郭](../words/郭.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-3](../lookup/SKIP/SKIP-1/SKIP-1-8-3.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 821st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鈬合|wɑk]] → [ㄍ⺢ㄎ](../syllables/ㄍ⺢ㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 廓
+广 + 郭, "broad, wide; outline"; a separate word built on 郭 as its phonetic, kept as an alias of 郭 on the same derived sound. SKIP 3-3-11; 14 strokes. Radical 053 广. It ranks 2545 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[郭]]<rt>ㄍ⺢ㄎ</rt></ruby> "outermost part" (stand-in for 郭)
