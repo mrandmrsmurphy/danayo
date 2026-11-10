@@ -253,6 +253,7 @@ tags:
 - 骑 --> 騎
 - 鸿 --> 鴻
 - 鸾 --> 鵉
+- 龚 --> 龔
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

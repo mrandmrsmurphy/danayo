@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 麝 --> 射
+- 麐 --> 麟
 
 ## Data check
 ```dataview

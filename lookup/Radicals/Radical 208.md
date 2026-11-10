@@ -17,6 +17,7 @@ tags: [lookup]
 - 鼷 --> 小鼡
 - 鼹 --> 晏
 - 鼺 --> 鼯鼠 --> 吾鼠
+- 鼡 --> 鼠
 
 ## Data check
 ```dataview

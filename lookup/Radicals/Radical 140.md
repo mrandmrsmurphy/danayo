@@ -39,6 +39,7 @@ tags:
 - 荍 --> 蕎
 - 荡 --> 蕩
 - 荐 --> 薦
+- 莛 --> 𡈼
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -110,6 +111,7 @@ tags:
 - 菴 --> 庵
 - 萷 --> 梢
 - 葵 --> 癸
+- 葶 --> 𡈼
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay

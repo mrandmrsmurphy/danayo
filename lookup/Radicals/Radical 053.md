@@ -35,6 +35,7 @@ tags:
 9. <ruby>[底](../../characters/底%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - bottom
 - 庖 --> 包
 - 庙 --> 廟
+- 庞 --> 龐
 
 ### +6 Strokes
 10. <ruby>[度](../../characters/度.md)<rt>ㄉㄛ</rt></ruby> - degree

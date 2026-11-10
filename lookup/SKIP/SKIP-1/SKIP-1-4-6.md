@@ -80,6 +80,7 @@ tags:
 - 颁 --> 頒
 - 顿 --> 頓
 - 顾 --> 顧
+- 脐 --> 𦜝
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

@@ -118,6 +118,8 @@ tags:
 - 猐 --> 羌
 - 娉 --> 聘
 - 陜 --> 陝
+- 捣 --> 𢭏
+- 捞 --> 𢭐
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

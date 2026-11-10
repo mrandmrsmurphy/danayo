@@ -30,6 +30,7 @@ tags: [lookup]
 - 颗 --> 顆
 - 蝕 --> 食
 - 鲛 --> 鮫
+- 龈 --> 齦
 
 ## Datacheck
 ```dataview

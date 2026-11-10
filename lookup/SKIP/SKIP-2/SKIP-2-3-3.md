@@ -47,6 +47,7 @@ tags:
 - 吊 --> 弔
 - 夸 --> 誇
 - 岂 --> 豈
+- 务 --> 務
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

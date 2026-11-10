@@ -149,6 +149,9 @@ tags:
 - 页 --> 頁
 - 驰 --> 馳
 - 驯 --> 馴
+- 㐫 --> 𡿺
+- 讴 --> 𧦅
+- 务 --> 務
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

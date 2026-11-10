@@ -33,6 +33,8 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 * 龎 --> variant of 龐
 * 龏 --> variant of 恭
 * 龒 --> ancient variant of 龍 
+- 龎 --> 龐
+- 龚 --> 龔
 
 ### Forbidden
 * 龑 - a 9th century made-up name = 龍 + 天

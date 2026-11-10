@@ -32,6 +32,7 @@ tags: [lookup]
 - 啬 --> 嗇
 - 聋 --> 聾
 - 袭 --> 襲
+- 龚 --> 龔
 
 ## Datacheck
 ```dataview

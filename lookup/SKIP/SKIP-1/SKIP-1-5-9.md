@@ -37,6 +37,7 @@ tags: [lookup]
 - 锹 --> 鍬
 - 锺 --> 鍾
 - 碱 --> 鹸
+- 碯 --> 𡿺
 
 ## Datacheck
 ```dataview

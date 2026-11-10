@@ -71,6 +71,7 @@ tags:
 - 苏 --> 蘇
 - 录 --> 録
 - 鸢 --> 鳶
+- 鼡 --> 鼠
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

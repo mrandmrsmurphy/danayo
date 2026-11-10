@@ -64,6 +64,9 @@ tags: [lookup]
 ### +-1 Strokes
 - 讳 --> 諱
 
+### +-1 Strokes
+- 讴 --> 𧦅
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 - 译 --> 訳
@@ -237,6 +240,7 @@ tags: [lookup]
 85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
 86. <ruby>[謹](../../characters/謹.md)<rt>ㄍㄧㄋ</rt></ruby> - prudent
 - 謼 --> 呼
+- 謳 --> 𧦅
 
 ### +12 Strokes
 87. <ruby>[識](../../characters/識.md)<rt>ㄙㄧㄎ</rt></ruby> - recognize

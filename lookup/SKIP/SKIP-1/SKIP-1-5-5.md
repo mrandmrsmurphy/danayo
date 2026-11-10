@@ -57,6 +57,7 @@ tags:
 - 鸳 --> 鴛
 - 鸯 --> 鴦
 - 鸭 --> 鴨
+- 眨 --> 𦚖
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.

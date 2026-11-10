@@ -30,6 +30,7 @@ tags: [lookup]
 - 压 --> 圧
 - 㞍 --> 尻
 - 网 --> 網
+- 㐫 --> 𡿺
 
 ## Datacheck
 ```dataview

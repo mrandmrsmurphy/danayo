@@ -73,6 +73,7 @@ tags: [lookup]
 - 脇 --> 脅
 - 胶 --> 膠
 - 脓 --> 膿
+- 脐 --> 𦜝
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
@@ -127,6 +128,9 @@ tags: [lookup]
 66. <ruby>[膿](../../characters/膿%20(char).md)<rt>ㄋㄛㄫ</rt></ruby> - pus
 67. <ruby>[臆](../../characters/臆.md)<rt>ㄧㄎ</rt></ruby> - feelings
 - 臂 --> 卑
+
+### +12 Strokes
+- 臍 --> 𦜝
 
 ### +13 Strokes
 68. <ruby>[臓](../../characters/臓.md)<rt>ㄐㄚㄫ</rt></ruby> - organ

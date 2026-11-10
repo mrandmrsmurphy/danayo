@@ -28,7 +28,7 @@ joyo_level: "表外字"
 hsk_level: "6"
 hanmun_edu_level: "無"
 danayo_id: 8387
-mc_id: 0
+mc_id:
 graphemic_classification: "乏"
 stand_in: "𦚖"
 aliases:
@@ -39,7 +39,7 @@ tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 𦚖.
 >For the word, see [𦚖](../words/𦚖.md)
@@ -53,6 +53,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - mc_id confirmed absent from all Classical Chinese frequency lists (rank 0). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄇㄛㄆ](../syllables/ㄇㄛㄆ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 眨
+目 + 乏, "to blink, to wink"; the standard form of the word 𦚖 writes. SKIP 1-5-5; 9 strokes. Radical 109 目. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[𦚖]]<rt>ㄇㄛㄆ</rt></ruby> "blink" (stand-in for 𦚖)

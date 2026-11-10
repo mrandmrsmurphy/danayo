@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 ---
 >[!tip] This is a page about the character 麺.
 >For the word, see [麺](../words/麺.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-7-9](../lookup/SKIP/SKIP-3/SKIP-3-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Not among the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 10656`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄇㄝㄋ](../syllables/ㄇㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 麵
+Traditional form of 麺, "flour; noodles". SKIP 1-11-9; 20 strokes. Radical 199 麥. It has no rank of its own in the Classical Chinese lists.
+
+### 麪
+Variant form of 麺, "noodles; flour". SKIP 1-7-4; 15 strokes. Radical 199 麥. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[麺]]<rt>ㄇㄝㄋ</rt></ruby> "flour" (stand-in for 麺)

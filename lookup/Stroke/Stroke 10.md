@@ -239,6 +239,9 @@ tags:
 - 鸯 --> 鴦
 - 鸭 --> 鴨
 - 隺 --> 鶴
+- 捣 --> 𢭏
+- 捞 --> 𢭐
+- 脐 --> 𦜝
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -32,6 +32,7 @@ tags: [lookup]
 - 悬 --> 懸
 - 旉 --> 敷
 - 犁 --> 犂
+- 黑 --> 黒
 
 ## Datacheck
 ```dataview

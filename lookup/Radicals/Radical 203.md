@@ -18,6 +18,7 @@ tags: [lookup]
 - 點 --> 点
 - 默 --> 黙
 - 黨 --> 党
+- 黑 --> 黒
 
 ### Forbidden
 - 𪐷 - 国字: Used only in 𪐷い, an alternative spelling of 黒い and 玄い

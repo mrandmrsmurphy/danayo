@@ -21,6 +21,7 @@ tags: [lookup]
 4. <ruby>[亥](../../characters/亥.md)<rt>ㄏㄚㄧ</rt></ruby> - dozen
 5. <ruby>[亦](../../characters/亦%20(char).md)<rt>ㄜㄎ</rt></ruby> - too
 - 产 --> 産
+- 㐫 --> 𡿺
 
 ### +5 Strokes
 6. <ruby>[亨](../../characters/亨.md)<rt>ㄏㄚㄫ</rt></ruby> - go well

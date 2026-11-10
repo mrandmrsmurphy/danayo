@@ -16,6 +16,8 @@ tags: [lookup]
 - 麵 --> 面
 - 麥 --> 麦
 - 麯 --> 曲
+- 麵 --> 麺
+- 麪 --> 麺
 
 ## Data check
 ```dataview

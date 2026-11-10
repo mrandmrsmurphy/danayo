@@ -13,6 +13,7 @@ tags: [lookup]
 ### Aliases
 - 𢦉 --> 空
 - 豔 --> 艶
+- 龞 --> 鼈
 
 ### Forbidden
 - 欟 - 異体字: Zelkova tree; a rare form

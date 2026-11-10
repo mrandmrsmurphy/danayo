@@ -1055,3 +1055,19 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鸚 | 鹦 | 1-11-5 | computed from its parts |
 | 鹵 | 卤 | 4-4-3 | computed from its parts |
 | 麗 | 丽 | 2-1-7 | computed from its parts |
+| 麟 | 麐 | 2-11-7 | computed from its parts |
+| 黒 (char) | 黑 | 2-7-4 | computed from its parts |
+| 鼈 (char) | 鳖 | 2-11-8 | computed from its parts |
+| 齦 | 龈 | 1-8-6 | computed from its parts |
+| 龐 | 庞 | 3-3-5 | computed from its parts |
+| 龐 | 龎 | 3-3-15 | computed from its parts |
+| 龔 | 龚 | 2-5-6 | computed from its parts |
+| 𡿺 | 㐫 | 3-2-4 | computed from its parts |
+| 𢭏 | 捣 | 1-3-7 | computed from its parts |
+| 𢭐 | 捞 | 1-3-7 | computed from its parts |
+| 𥈞 | 瞒 | 1-5-10 | computed from its parts |
+| 𦜝 | 脐 | 1-4-6 | computed from its parts |
+| 𧦅 | 赞 | 2-6-10 | computed from its parts |
+| 𧦅 | 讴 | 1-2-4 | computed from its parts |
+| 側 | 侧 | 1-2-6 | computed from its parts |
+| 務 | 务 | 2-3-3 | computed from its parts |

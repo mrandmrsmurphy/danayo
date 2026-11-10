@@ -202,6 +202,8 @@ tags:
 - 髥 --> 髯
 - 鲛 --> 鮫
 - 碱 --> 鹸
+- 龈 --> 齦
+- 碯 --> 𡿺
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

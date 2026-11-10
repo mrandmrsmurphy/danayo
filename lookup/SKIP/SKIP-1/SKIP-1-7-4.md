@@ -50,6 +50,7 @@ tags:
 - 訢 --> 欣
 - 躭 --> 耽
 - 跃 --> 躍
+- 麪 --> 麺
 
 ## Datacheck
 ```dataview

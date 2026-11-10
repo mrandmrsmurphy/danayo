@@ -55,6 +55,7 @@ tags:
 - 葵 --> 癸
 - 窝 --> 窩
 - 飨 --> 饗
+- 葶 --> 𡈼
 
 ## Datacheck
 ```dataview

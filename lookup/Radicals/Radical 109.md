@@ -25,6 +25,7 @@ tags:
 8. <ruby>[盼](../../characters/盼.md)<rt>ㄆㄚㄋ</rt></ruby> - clear eyed
 9. <ruby>[看](../../characters/看%20(char).md)<rt>ㄎㄚㄋ</rt></ruby> - watch over
 10. <ruby>[県](../../characters/県%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - county
+- 眨 --> 𦚖
 
 ### +5 Strokes
 11. <ruby>[眠](../../characters/眠.md)<rt>ㄇㄝㄇ</rt></ruby> - hibernate
@@ -56,9 +57,11 @@ tags:
 
 ### +10 Strokes
 - 瞑 --> 冥
+- 瞒 --> 𥈞
 
 ### +11 Strokes
 - 瞢 --> 夢
+- 瞞 --> 𥈞
 
 ### +12 Strokes
 23. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance

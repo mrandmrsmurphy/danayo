@@ -68,6 +68,7 @@ tags:
 30. <ruby>[瑟](../../characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> - se (instrument)
 - 瑇 --> 玳
 - 瑳 --> 磋
+- 瑙 --> 𡿺
 
 ### +9 Strokes
 31. <ruby>[瑠](../../characters/瑠.md)<rt>ㄌ⼜</rt></ruby> - lapis lazuli

@@ -17,6 +17,7 @@ tags: [lookup]
 - 龝 --> 秋 (ancient variant)
 - 龞 --> 鼈 (ancient variant; also of 鱉)
 - 𪚦 --> 亀
+- 龞 --> 鼈
 
 ### Forbidden
 - 𪚲 - 国字: Used only in the surname 集𪚲 (Shūwaki)

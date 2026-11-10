@@ -31,7 +31,7 @@ stand_in: 黒
 aliases:
   - 黑
 注音: ㄏㄨㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-10
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 100
 - [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄏㄨㄎ](../syllables/ㄏㄨㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 黑
+Traditional form of 黒, "black" (Radical 203); this is the form the Classical Chinese lists rank. SKIP 2-7-4 (computed: EDRDG does not list it); 12 strokes. Radical 203 黑. It ranks 851 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[黒]]<rt>ㄏㄨㄎ</rt></ruby> "black" (stand-in for 黒)

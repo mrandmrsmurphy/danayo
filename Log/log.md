@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Alias loop, batch 138 (𡿺, 𢭏, 𢭐, 𥈞, 𦚖, 𦜝, 𧦅, 側, 利, 務):** `## Aliases` sections and redirects for 㐫, 瑙, 碯, 擣, 捣, 撈, 捞, 瞞, 瞒, 眨, 臍, 脐, 謳, 赞, 讴, 侧, 鯏 and 务 (瑙, 碯, 擣, 撈, 瞞, 眨, 臍, 謳 and 鯏 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). Removed the description sequence ⿱𭕄凶 from 𡿺 (not a character).
+
+- **Alias loop, batch 137 (麟, 麺, 黎, 黒, 鼈, 鼠, 齦, 龐, 龔, 𡈼):** `## Aliases` sections and redirects for 麐, 麵, 麪, 黑, 龞, 鱉, 鳖, 鼡, 龈, 庞, 龎, 龚, 莛 and 葶 (麵, 麪, 龞, 鱉, 鼡, 莛 and 葶 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-2-12-16 (for 龞) with its index entry. `mc_id` of 鼈 set to 2039 (鱉). Removed the rare 㴝, 𥣥, 𱌇, 䑕 and 厐 (no definitions), so 黎 now has no aliases.
+
 - **Alias loop, batch 136 (鵖, 鵝, 鵠, 鵡, 鵰, 鶴, 鸚, 鹵, 鹸, 麗):** `## Aliases` sections and redirects for 鹅, 鵞, 鹄, 鹉, 雕, 鹤, 隺, 鸖, 鹦, 卤, 鹼, 碱 and 丽 (鵞, 雕, 隺, 鸖, 鹼 and 碱 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). New redirect-only leaf SKIP-1-16-11 (for 鸖) with its index entries. Removed the rare 𱉝, 𫛲 and 𫠗 (no definitions), so 鵖 now has no aliases.
 
 ## 2026-11-09

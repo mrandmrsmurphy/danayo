@@ -56,6 +56,7 @@ tags: [lookup]
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi
 - 鮸 --> 免
 - 鳍 --> 鰭
+- 鯏 --> 利
 
 ### +8 Strokes
 10. <ruby>[鯖](../../characters/鯖.md)<rt>ㄑㄝㄫ</rt></ruby> - mackerel
@@ -64,6 +65,7 @@ tags: [lookup]
 - 鯛 --> 周
 - 鳗 --> 曼
 - 鯰 --> 鮎
+- 鳖 --> 鼈
 
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
@@ -85,6 +87,7 @@ tags: [lookup]
 - 鱇 --> 康
 - 鰻 --> 曼
 - 鱈 --> 雪
+- 鱉 --> 鼈
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray

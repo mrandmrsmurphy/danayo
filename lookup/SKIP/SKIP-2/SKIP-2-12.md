@@ -23,6 +23,7 @@ Top component has 12 strokes. Dominant components: 道, 敬, 敝.
 13. [SKIP-2-12-13](lookup/SKIP/SKIP-2/SKIP-2-12-13.md): 鼈
 14. [SKIP-2-12-14](lookup/SKIP/SKIP-2/SKIP-2-12-14.md): 欝
 15. [SKIP-2-12-15](lookup/SKIP/SKIP-2/SKIP-2-12-15.md): ø
+16. [SKIP-2-12-16](lookup/SKIP/SKIP-2/SKIP-2-12-16.md): ø
 
 ## Base check
 ```base

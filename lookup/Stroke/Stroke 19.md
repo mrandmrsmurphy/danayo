@@ -90,6 +90,7 @@ tags:
 - 騷 --> 騒
 - 騗 --> 騙
 - 鯰 --> 鮎
+- 鳖 --> 鼈
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

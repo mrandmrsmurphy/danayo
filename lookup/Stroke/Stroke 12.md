@@ -238,6 +238,8 @@ tags: [lookup]
 - 鲁 --> 魯
 - 鹅 --> 鵝
 - 鹄 --> 鵠
+- 黑 --> 黒
+- 葶 --> 𡈼
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

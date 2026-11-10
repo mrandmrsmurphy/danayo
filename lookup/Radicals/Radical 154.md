@@ -116,6 +116,7 @@ tags:
 - 赠 --> 贈
 - 赝 --> 贋
 - 賴 --> 頼
+- 赞 --> 𧦅
 
 ### +10 Strokes
 40. <ruby>[購](../../characters/購.md)<rt>ㄍㄛㄨ</rt></ruby> - buy

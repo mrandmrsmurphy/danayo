@@ -123,6 +123,8 @@ tags: [lookup]
 - 损 --> 損
 - 挚 --> 摯
 - 捒 --> 竦
+- 捣 --> 𢭏
+- 捞 --> 𢭐
 
 ### +7 Strokes
 68. <ruby>[捧](../../characters/捧%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - hold up in two hands
@@ -215,6 +217,7 @@ tags: [lookup]
 - 撑 --> 撐
 - 擏 --> 檠
 - 摩 --> 磨
+- 撈 --> 𢭐
 
 ### +12 Strokes
 121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon
@@ -235,6 +238,7 @@ tags: [lookup]
 - 擊 --> 撃
 - 擴 --> 拡
 - 擿 --> 擲
+- 擣 --> 𢭏
 
 ### +14 Strokes
 130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw

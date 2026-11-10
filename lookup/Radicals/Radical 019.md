@@ -29,6 +29,7 @@ tags:
 4. <ruby>[劣](../../characters/劣.md)<rt>ㄌㄝㄊ</rt></ruby> - inferior
 5. <ruby>[劦](../../characters/劦.md)<rt>ㄎㄝㄆ</rt></ruby> - same force
 - 动 --> 動
+- 务 --> 務
 
 ### +5 Strokes
 6. <ruby>[助](../../characters/助.md)<rt>ㄐㄛ</rt></ruby> - rescue

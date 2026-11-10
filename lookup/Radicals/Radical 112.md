@@ -62,6 +62,7 @@ tags: [lookup]
 23. <ruby>[磁](../../characters/磁.md)<rt>ㄐㄧ</rt></ruby> - magnetism
 - 碪 --> 砧
 - 碱 --> 鹸
+- 碯 --> 𡿺
 
 ### +10 Strokes
 24. <ruby>[確](../../characters/確.md)<rt>ㄎㄚㄎ</rt></ruby> - certain

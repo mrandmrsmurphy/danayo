@@ -169,6 +169,9 @@ tags:
 - 髮 --> 髪
 - 鲤 --> 鯉
 - 鹤 --> 鶴
+- 麪 --> 麺
+- 撈 --> 𢭐
+- 瞒 --> 𥈞
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')
