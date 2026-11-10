@@ -32,7 +32,7 @@ stand_in: 費
 aliases:
   - 费
 注音: ㄈㄚㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-2-5-7](../lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1046th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄈㄚㄧ](../syllables/ㄈㄚㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 费
+Simplified Chinese form of 費. SKIP 2-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[費]]<rt>ㄈㄚㄧ</rt></ruby> "expense" (stand-in for 費 (char))

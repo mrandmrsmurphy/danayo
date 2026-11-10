@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 108 (費, 貼, 貿, 賁, 賂, 賃, 賄, 資, 賈, 賊):** `## Aliases` sections and redirects for 费, 贴, 贸, 贲, 赂, 赁, 贿, 资, 贾 and 贼 (computed SKIP codes logged in project_alias_skip_guesses). Removed the rare 戝 (no definition) and 𧵪 from 賊.
+
+- **Alias loop, batch 107 (財, 貢, 貧, 販, 貪, 貫, 貯, 貰, 貳, 貸):** `## Aliases` sections and redirects for 财, 贡, 贫, 贩, 贪, 贯, 贮, 贳, 贰, 貮, 弐 and 贷 (computed SKIP codes for the simplified 贝-forms logged in project_alias_skip_guesses; 貮 and 弐 from EDRDG). Removed the rare 㒲 (a variant of 暮, not a form of 財) from 財.
+
 - **Alias loop, batch 106 (識, 譚, 譜, 護, 讐, 豈, 豎, 豕, 貒, 貞):** `## Aliases` sections and redirects for 识, 谭, 谱, 护, 讎, 岂, 竖, 竪, 猯, 贞 (computed SKIP codes for the simplified forms logged in project_alias_skip_guesses; 讎, 竪 and 猯 from EDRDG). Removed the rare Unicode-only aliases 𢁓, 𡰯, 𧰧 and 𧰬 from 豕 (which now has no aliases) and 䝎 from 貒.
 
 - **Alias loop, batch 105 (謀, 謁, 謂, 謄, 謎, 謐, 謗, 謙, 謡, 謹):** `## Aliases` sections and Stroke/SKIP/Radical redirects for 谋, 谒, 谓, 誊, 谜, 谧, 谤, 谦, 謠, 谣 and 谨 (computed SKIP codes for the simplified forms logged in project_alias_skip_guesses; 謠 from EDRDG). Dropped the rare 詸 (no definition) from 謎's aliases. 謠 supplies 謡's rank, 2367.

@@ -208,6 +208,12 @@ tags:
 - 郢 --> 嬴
 - 诸 --> 諸
 - 诺 --> 諾
+- 赂 --> 賂
+- 赁 --> 賃
+- 贿 --> 賄
+- 资 --> 資
+- 贾 --> 賈
+- 贼 --> 賊
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

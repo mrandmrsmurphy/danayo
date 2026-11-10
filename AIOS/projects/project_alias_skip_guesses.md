@@ -831,3 +831,23 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 豈 | 岂 | 2-3-3 | computed from its parts |
 | 豎 | 竖 | 2-4-5 | computed from its parts |
 | 貞 | 贞 | 2-2-4 | computed from its parts |
+| 貢 | 贡 | 2-3-4 | computed from its parts |
+| 貧 | 贫 | 2-4-4 | computed from its parts |
+| 販 | 贩 | 1-4-4 | computed from its parts |
+| 貪 (char) | 贪 | 2-4-4 | computed from its parts |
+| 貫 | 贯 | 2-4-4 | computed from its parts |
+| 貯 | 贮 | 1-4-4 | computed from its parts |
+| 貰 | 贳 | 2-5-4 | computed from its parts |
+| 貳 (char) | 贰 | 2-5-4 | computed from its parts |
+| 貸 | 贷 | 2-5-4 | computed from its parts |
+| 財 | 财 | 1-4-3 | computed from its parts |
+| 費 (char) | 费 | 2-5-4 | computed from its parts |
+| 貼 (char) | 贴 | 1-4-5 | computed from its parts |
+| 貿 | 贸 | 2-5-4 | computed from its parts |
+| 賁 | 贲 | 2-5-4 | computed from its parts |
+| 賂 | 赂 | 1-4-6 | computed from its parts |
+| 賃 (char) | 赁 | 2-6-4 | computed from its parts |
+| 賄 | 贿 | 1-4-6 | computed from its parts |
+| 資 | 资 | 2-6-4 | computed from its parts |
+| 賈 | 贾 | 2-6-4 | computed from its parts |
+| 賊 | 贼 | 1-4-6 | computed from its parts |

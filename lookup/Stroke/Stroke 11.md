@@ -229,6 +229,7 @@ tags:
 - 谒 --> 謁
 - 谓 --> 謂
 - 谜 --> 謎
+- 貮 --> 貳
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

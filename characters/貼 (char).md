@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 貼.
 >For the word, see [貼](../words/貼.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-5](../lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 5410th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄊㄝㄆ](../syllables/ㄊㄝㄆ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 贴
+Simplified Chinese form of 貼. SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[貼]]<rt>ㄊㄝㄆ</rt></ruby> "paste on, stick to, attach" (stand-in for 貼)

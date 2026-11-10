@@ -17,6 +17,11 @@ tags:
 ### +1 Stroke
 - 货 --> 貨
 - 质 --> 質
+- 贫 --> 貧
+- 贩 --> 販
+- 贪 --> 貪
+- 贯 --> 貫
+- 贮 --> 貯
 
 ### +2 Strokes
 2. <ruby>[貞](../../characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> - chaste
@@ -27,12 +32,25 @@ tags:
 - 𧹒 --> 買
 - 贵 --> 貴
 - 贺 --> 賀
+- 贳 --> 貰
+- 贰 --> 貳
+- 贷 --> 貸
+- 费 --> 費
+- 贴 --> 貼
+- 贸 --> 貿
+- 贲 --> 賁
 
 ### +3 Strokes
 4. <ruby>[財](../../characters/財.md)<rt>ㄐㄚㄧ</rt></ruby> - wealth
 5. <ruby>[貢](../../characters/貢.md)<rt>ㄍㄛㄫ</rt></ruby> - tribute
 - 贡 --> 貢
 - 财 --> 財
+- 赂 --> 賂
+- 赁 --> 賃
+- 贿 --> 賄
+- 资 --> 資
+- 贾 --> 賈
+- 贼 --> 賊
 
 ### +4 Strokes
 6. <ruby>[貧](../../characters/貧.md)<rt>ㄅㄧㄋ</rt></ruby> - poor

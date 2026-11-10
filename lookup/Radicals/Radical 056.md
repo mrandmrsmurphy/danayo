@@ -18,6 +18,7 @@ tags: [lookup]
 - 弍 --> 二
 - 弌 --> 壱
 - 弑 --> 弒
+- 弐 --> 貳
 
 ## Data check
 ```dataview

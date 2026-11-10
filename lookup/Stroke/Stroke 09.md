@@ -206,6 +206,13 @@ tags:
 - 谍 --> 諜
 - 咨 --> 諮
 - 竖 --> 豎
+- 贳 --> 貰
+- 贰 --> 貳
+- 贷 --> 貸
+- 费 --> 費
+- 贴 --> 貼
+- 贸 --> 貿
+- 贲 --> 賁
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

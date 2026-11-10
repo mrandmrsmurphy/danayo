@@ -45,6 +45,7 @@ tags:
 - 灶 --> 竃
 - 妝 --> 粧
 - 杕 --> 舵
+- 财 --> 財
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.

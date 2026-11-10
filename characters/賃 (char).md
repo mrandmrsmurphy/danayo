@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 賃.
 >For the word, see [賃](../words/賃.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-6-7](../lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 4278th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 娘|ɳ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄋㄧㄇ](../syllables/ㄋㄧㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 赁
+Simplified Chinese form of 賃. SKIP 2-6-4 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[賃]]<rt>ㄋㄧㄇ</rt></ruby> "rent" (stand-in for 賃)

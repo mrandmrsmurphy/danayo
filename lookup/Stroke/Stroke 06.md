@@ -137,6 +137,7 @@ tags:
 - 夸 --> 誇
 - 岂 --> 豈
 - 贞 --> 貞
+- 弐 --> 貳
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names
