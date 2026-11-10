@@ -121,6 +121,8 @@ tags:
 - 謠 --> 謡
 - 蹈 --> 踏
 - 蹏 --> 蹄
+- 鎚 --> 錘
+- 鍊 --> 錬
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

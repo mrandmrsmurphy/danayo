@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 錮.
 >For the word, see [錮](../words/錮.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-8-8](../lookup/SKIP/SKIP-2/SKIP-2-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄍㄛ](../syllables/ㄍㄛ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 锢
+Simplified Chinese form of 錮. SKIP 1-5-8 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [錮](../words/錮.md) "confine; imprison" — 錮 stands alone as a word in Dan'a'yo.

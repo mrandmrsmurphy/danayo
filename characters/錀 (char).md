@@ -26,14 +26,12 @@ danayo_id: 8321
 mc_id: 0
 graphemic_classification: 侖
 stand_in: 錀
-aliases:
-  - 𬬭
 注音: ㄌㄛㄋ
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 ```meta-bind-embed
 [[nav/char_info]]

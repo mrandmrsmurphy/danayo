@@ -43,6 +43,7 @@ tags: [lookup]
 14. <ruby>[点](../../characters/点%20(char).md)<rt>ㄉㄝㄇ</rt></ruby> - point
 15. <ruby>[為](../../characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
 - 炮 --> 砲
+- 炼 --> 錬
 
 ### +6 Strokes
 16. <ruby>[烈](../../characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> - fiery
@@ -81,6 +82,7 @@ tags: [lookup]
 - 煇 --> 暈
 - 煖 --> 暖
 - 煠 --> 炸
+- 煉 --> 錬
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid

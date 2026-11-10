@@ -31,6 +31,11 @@ tags: [lookup]
 - 矫 --> 矯
 - 硕 --> 碩
 - 䊀 --> 糊
+- 铳 --> 銃
+- 铜 --> 銅
+- 铣 --> 銑
+- 铭 --> 銘
+- 铗 --> 鋏
 
 ### Forbidden
 - 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.

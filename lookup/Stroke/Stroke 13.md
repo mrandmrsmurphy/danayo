@@ -165,6 +165,15 @@ tags:
 - 输 --> 輸
 - 遞 --> 逓
 - 遙 --> 遥
+- 锯 --> 鋸
+- 锖 --> 錆
+- 锥 --> 錐
+- 锤 --> 錘
+- 锭 --> 錠
+- 锦 --> 錦
+- 锡 --> 錫
+- 煉 --> 錬
+- 锢 --> 錮
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

@@ -43,6 +43,9 @@ tags: [lookup]
 - 睑 --> 瞼
 - 铺 --> 舗
 - 裡 --> 裏
+- 锈 --> 銹
+- 锋 --> 鋒
+- 锄 --> 鋤
 
 ## Datacheck
 ```dataview

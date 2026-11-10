@@ -28,6 +28,7 @@ tags: [lookup]
 - 钦 --> 欽
 - 钝 --> 鈍
 - 钩 --> 鉤
+- 钢 --> 鋼
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
@@ -45,6 +46,11 @@ tags: [lookup]
 5. <ruby>[釣](../../characters/釣.md)<rt>ㄑㄛㄨ</rt></ruby> - angling
 6. <ruby>[釧](../../characters/釧.md)<rt>ㄑㄝㄋ</rt></ruby> - bracelet
 7. <ruby>[釩](../../characters/釩.md)<rt>ㄈㄚㄋ</rt></ruby> - vanadium
+- 铳 --> 銃
+- 铜 --> 銅
+- 铣 --> 銑
+- 铭 --> 銘
+- 铗 --> 鋏
 
 ### +4 Strokes
 8. <ruby>[鈍](../../characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> - dull
@@ -54,6 +60,9 @@ tags: [lookup]
 - 鈢 --> 璽
 - 铺 --> 舗
 - 鈎 --> 鉤
+- 锈 --> 銹
+- 锋 --> 鋒
+- 锄 --> 鋤
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell
@@ -70,6 +79,14 @@ tags: [lookup]
 - 鉩 --> 璽
 - 鉨 --> 璽
 - 鉑 --> 薄
+- 锯 --> 鋸
+- 锖 --> 錆
+- 锥 --> 錐
+- 锤 --> 錘
+- 锭 --> 錠
+- 锦 --> 錦
+- 锡 --> 錫
+- 锢 --> 錮
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver
@@ -114,6 +131,8 @@ tags: [lookup]
 51. <ruby>[鍾](../../characters/鍾%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - alcohol bottle
 - 鍼 --> 針
 - 鎚 --> 槌
+- 鎚 --> 錘
+- 鍊 --> 錬
 
 ### +10 Strokes
 52. <ruby>[鎌](../../characters/鎌%20(char).md)<rt>ㄌㄝㄇ</rt></ruby> - sickle
@@ -136,9 +155,11 @@ tags: [lookup]
 
 ### +13 Strokes
 - 鐸 --> 鈬
+- 鏽 --> 銹
 
 ### +14 Strokes
 - 鑛 --> 鉱
+- 鑄 --> 鋳
 
 ### +15 Strokes
 59. <ruby>[鑑](../../characters/鑑.md)<rt>ㄍㄚㄇ</rt></ruby> - mirror

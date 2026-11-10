@@ -30,7 +30,7 @@ stand_in: 銅
 aliases:
   - 铜
 注音: ㄉㄛㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 75
 - [SKIP-1-7-7](../lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1544th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](../syllables/ㄉㄛㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 铜
+Simplified Chinese form of 銅. SKIP 1-5-6 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[銅]]<rt>ㄉㄛㄫ</rt></ruby> "copper" (stand-in for 銅 (char))

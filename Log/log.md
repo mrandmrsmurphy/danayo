@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Alias loop, batch 120 (鋼, 錀, 錆, 錐, 錘, 錠, 錦, 錫, 錬, 錮):** `## Aliases` sections and redirects for 钢, 锖, 锥, 锤, 鎚, 捶, 锭, 锦, 锡, 鍊, 煉, 炼 and 锢 (鎚, 捶 and 煉 from EDRDG; computed SKIP codes for the rest logged in project_alias_skip_guesses). `mc_id` lowered to 3467 on 錘 (捶) and 3522 on 錬 (煉). Removed the rare 𬬭, 𨭇, 𨪼 and 𨫻 (no definitions), so 錀 now has no aliases.
+
+- **Alias loop, batch 119 (銃, 銅, 銑, 銘, 銹, 鋏, 鋒, 鋤, 鋳, 鋸):** `## Aliases` sections and redirects for 铳, 铜, 铣, 铭, 鏽, 锈, 铗, 锋, 锄, 鑄 and 锯 (鏽 and 鑄 from EDRDG; computed SKIP codes for the simplified 钅-forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-1-8-14 (for 鑄) with its index entry. Removed the rare 𨦇 from 鋏.
+
 - **Alias loop, batch 118 (鈩, 鈬, 鈴, 鈿, 鉗, 鉛, 鉢, 鉤, 鉦, 鉱):** `## Aliases` sections and redirects for 鑪, 鐸, 铃, 钿, 钳, 箝, 铅, 钵, 缽, 钩, 鈎, 钲, 鑛, 礦 and 矿 (鑪, 鐸, 箝, 缽, 鈎, 鑛 and 礦 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). New redirect-only leaf SKIP-1-8-16 (for 鑪) with its index entry. Removed the rare 𬬻, 盋 and 𰽭 (no usable definitions).
 
 - **Alias loop, batch 117 (醤, 醸, 采, 釈, 金, 釘, 釣, 釧, 釩, 鈍):** `## Aliases` sections and redirects for 醬, 酿, 釀, 埰, 釋, 钉, 钓, 钏, 钒 and 钝 (醬, 釀, 埰 and 釋 from EDRDG; computed SKIP codes for the simplified forms logged in project_alias_skip_guesses). Removed the rare 𠊍, 𨤾 and 玔 (no usable definitions), so 金 now has no aliases.

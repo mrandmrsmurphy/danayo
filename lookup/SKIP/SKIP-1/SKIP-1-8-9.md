@@ -22,6 +22,8 @@ tags: [lookup]
 - 鍼 --> 針
 - 鎚 --> 槌
 - 䭅 --> 糊
+- 鎚 --> 錘
+- 鍊 --> 錬
 
 ## Datacheck
 ```dataview

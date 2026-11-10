@@ -914,3 +914,22 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鉤 (char) | 钩 | 1-5-4 | computed from its parts |
 | 鉦 | 钲 | 1-5-5 | computed from its parts |
 | 鉱 | 矿 | 1-5-3 | computed from its parts |
+| 銃 (char) | 铳 | 1-5-6 | computed from its parts |
+| 銅 (char) | 铜 | 1-5-6 | computed from its parts |
+| 銑 | 铣 | 1-5-6 | computed from its parts |
+| 銘 | 铭 | 1-5-6 | computed from its parts |
+| 銹 (char) | 锈 | 1-5-7 | computed from its parts |
+| 鋏 (char) | 铗 | 1-5-6 | computed from its parts |
+| 鋒 | 锋 | 1-5-7 | computed from its parts |
+| 鋤 | 锄 | 1-5-7 | computed from its parts |
+| 鋸 (char) | 锯 | 1-5-8 | computed from its parts |
+| 鋼 | 钢 | 1-5-4 | computed from its parts |
+| 錆 | 锖 | 1-5-8 | computed from its parts |
+| 錐 | 锥 | 1-5-8 | computed from its parts |
+| 錘 | 锤 | 1-5-8 | computed from its parts |
+| 錠 (char) | 锭 | 1-5-8 | computed from its parts |
+| 錦 | 锦 | 1-5-8 | computed from its parts |
+| 錫 | 锡 | 1-5-8 | computed from its parts |
+| 錬 | 鍊 | 1-8-9 | computed from its parts |
+| 錬 | 炼 | 1-4-5 | computed from its parts |
+| 錮 (char) | 锢 | 1-5-8 | computed from its parts |

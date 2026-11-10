@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鋸.
 >For the word, see [鋸](../words/鋸.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-8](../lookup/SKIP/SKIP-1/SKIP-1-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄍ⼄](../syllables/ㄍ⼄.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 锯
+Simplified Chinese form of 鋸. SKIP 1-5-8 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [鋸](../words/鋸.md) "saw" — 鋸 stands alone as a word in Dan'a'yo.

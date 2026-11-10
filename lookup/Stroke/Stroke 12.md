@@ -224,6 +224,9 @@ tags: [lookup]
 - 辉 --> 輝
 - 奠 --> 鄭
 - 鈎 --> 鉤
+- 锈 --> 銹
+- 锋 --> 鋒
+- 锄 --> 鋤
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

@@ -151,6 +151,7 @@ tags: [lookup]
 - 据 --> 拠
 - 掷 --> 擲
 - 捿 --> 棲
+- 捶 --> 錘
 
 ### +8 Strokes
 91. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm

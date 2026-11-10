@@ -80,6 +80,7 @@ tags:
 - 赋 --> 賦
 - 赌 --> 賭
 - 赎 --> 贖
+- 煉 --> 錬
 
 ## Datacheck
 ```dataview

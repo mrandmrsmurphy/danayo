@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 55
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 銹.
 >For the word, see [銹](../words/銹.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-7](../lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 8367th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄙ⼜](../syllables/ㄙ⼜.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 鏽
+Traditional form of 銹, "rust; to rust". SKIP 1-8-12; 21 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 锈
+Simplified Chinese form of 銹. SKIP 1-5-7 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[銹]]<rt>ㄙ⼜</rt></ruby> "rust"
