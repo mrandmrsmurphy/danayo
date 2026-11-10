@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 30 (SKIP-2-3-3 to 2-3-9, SKIP-2-4-1, 2-4-10, 2-4-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 29 (SKIP-2-3-12 to 2-3-20, SKIP-2-3-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the orphaned redirects `騫 → 鍵` (SKIP-2-3-17) and `巍 → 魏` (SKIP-2-3-18): neither 鍵 nor 魏 lists them as an alias and no other lookup page carries them. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 28 (SKIP-2-2-3 to 2-2-9, SKIP-2-3-1, 2-3-10, 2-3-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **囑 added as an alias of 嘱 (user decision):** `aliases:` now lists 囑 (traditional form, EDRDG SKIP 1-3-21, 24 strokes); new `## Aliases` section; redirects on Stroke 24, Radical 030 and the existing SKIP-1-3-21 entry. 嘱 has no Classical Chinese rank (nor does 囑), so `mc_id` stays blank.
