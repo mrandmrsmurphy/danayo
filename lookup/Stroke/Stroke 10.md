@@ -224,6 +224,8 @@ tags:
 - 铅 --> 鉛
 - 钵 --> 鉢
 - 钲 --> 鉦
+- 铄 --> 鑠
+- 钻 --> 鑽
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

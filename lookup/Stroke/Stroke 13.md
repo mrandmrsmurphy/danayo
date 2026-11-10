@@ -174,6 +174,12 @@ tags:
 - 锡 --> 錫
 - 煉 --> 錬
 - 锢 --> 錮
+- 错 --> 錯
+- 键 --> 鍵
+- 滈 --> 鎬
+- 鉴 --> 鑑
+- 锣 --> 鑼
+- 鉆 --> 鑽
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

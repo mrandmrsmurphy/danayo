@@ -243,6 +243,7 @@ tags:
 - 铭 --> 銘
 - 铗 --> 鋏
 - 捶 --> 錘
+- 铠 --> 鎧
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

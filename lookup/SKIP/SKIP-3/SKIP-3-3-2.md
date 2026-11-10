@@ -29,6 +29,7 @@ tags: [lookup]
 - 弍 --> [[二 (char)]] (ancient variant of 二)
 - 弍 --> 二
 - 辽 --> 遼
+- 闪 --> 閃
 
 ### Forbidden
 - 込 - 国字: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.

@@ -15,6 +15,7 @@ Top component has 15 strokes.
 5. none
 6. none
 7. [SKIP-2-15-7](lookup/SKIP/SKIP-2/SKIP-2-15-7.md): ø
+8. [SKIP-2-15-8](lookup/SKIP/SKIP-2/SKIP-2-15-8.md): ø
 
 ## Base check
 ```base

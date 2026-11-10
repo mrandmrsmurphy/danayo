@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鍵.
 >For the word, see [鍵](../words/鍵.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-9](../lookup/SKIP/SKIP-1/SKIP-1-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 4371st most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三開|ɣiᴇn]] → [ㄍ⼶ㄋ](../syllables/ㄍ⼶ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 键
+Simplified Chinese form of 鍵. SKIP 1-5-8 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鍵]]<rt>ㄍ⼶ㄋ</rt></ruby> "key" (stand-in for 鍵)

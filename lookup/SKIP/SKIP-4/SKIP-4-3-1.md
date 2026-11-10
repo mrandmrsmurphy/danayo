@@ -40,6 +40,7 @@ tags: [lookup]
 - 亐 --> 于
 - 丌 --> 其
 - 习 --> 習
+- 长 --> 長
 
 ## Datacheck
 ```dataview

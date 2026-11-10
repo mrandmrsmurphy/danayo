@@ -29,6 +29,7 @@ tags: [lookup]
 - 钝 --> 鈍
 - 钩 --> 鉤
 - 钢 --> 鋼
+- 钟 --> 鍾
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
@@ -41,6 +42,8 @@ tags: [lookup]
 - 铅 --> 鉛
 - 钵 --> 鉢
 - 钲 --> 鉦
+- 铄 --> 鑠
+- 钻 --> 鑽
 
 ### +3 Strokes
 5. <ruby>[釣](../../characters/釣.md)<rt>ㄑㄛㄨ</rt></ruby> - angling
@@ -51,6 +54,7 @@ tags: [lookup]
 - 铣 --> 銑
 - 铭 --> 銘
 - 铗 --> 鋏
+- 铠 --> 鎧
 
 ### +4 Strokes
 8. <ruby>[鈍](../../characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> - dull
@@ -63,6 +67,8 @@ tags: [lookup]
 - 锈 --> 銹
 - 锋 --> 鋒
 - 锄 --> 鋤
+- 锅 --> 鍋
+- 锁 --> 鎖
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell
@@ -87,6 +93,11 @@ tags: [lookup]
 - 锦 --> 錦
 - 锡 --> 錫
 - 锢 --> 錮
+- 错 --> 錯
+- 键 --> 鍵
+- 鉴 --> 鑑
+- 锣 --> 鑼
+- 鉆 --> 鑽
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver
@@ -96,6 +107,10 @@ tags: [lookup]
 25. <ruby>[銘](../../characters/銘.md)<rt>ㄇㄝㄫ</rt></ruby> - inscription
 26. <ruby>[銭](../../characters/銭.md)<rt>ㄐㄝㄋ</rt></ruby> - coin
 - 銓 --> 選
+- 镀 --> 鍍
+- 锻 --> 鍛
+- 锹 --> 鍬
+- 锺 --> 鍾
 
 ### +7 Strokes
 27. <ruby>[銹](../../characters/銹%20(char).md)<rt>ㄙ⼜</rt></ruby> - rust
@@ -104,6 +119,8 @@ tags: [lookup]
 30. <ruby>[鋤](../../characters/鋤.md)<rt>ㄐㄛ</rt></ruby> - hoe
 31. <ruby>[鋭](../../characters/鋭.md)<rt>⼶</rt></ruby> - sharp
 32. <ruby>[鋳](../../characters/鋳.md)<rt>ㄐㄨ</rt></ruby> - cast (metal)
+- 镐 --> 鎬
+- 镇 --> 鎮
 
 ### +8 Strokes
 33. <ruby>[鋸](../../characters/鋸%20(char).md)<rt>ㄍ⼄</rt></ruby> - saw
@@ -121,6 +138,8 @@ tags: [lookup]
 45. <ruby>[録](../../characters/録.md)<rt>ㄌㄛㄎ</rt></ruby> - record
 - 錢 --> 銭
 - 錕 --> 昆
+- 錄 --> 録
+- 镜 --> 鏡
 
 ### +9 Strokes
 46. <ruby>[鍋](../../characters/鍋%20(char).md)<rt>ㄍ⺢</rt></ruby> - pot
@@ -144,6 +163,7 @@ tags: [lookup]
 - 鎔 --> 溶
 - 䥅 --> 琴
 - 䥆 --> 琴
+- 鎭 --> 鎮
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror
@@ -156,14 +176,17 @@ tags: [lookup]
 ### +13 Strokes
 - 鐸 --> 鈬
 - 鏽 --> 銹
+- 鐮 --> 鎌
 
 ### +14 Strokes
 - 鑛 --> 鉱
 - 鑄 --> 鋳
+- 鑒 --> 鑑
 
 ### +15 Strokes
 59. <ruby>[鑑](../../characters/鑑.md)<rt>ㄍㄚㄇ</rt></ruby> - mirror
 60. <ruby>[鑠](../../characters/鑠.md)<rt>ㄙㄚㄎ</rt></ruby> - melt
+- 鑚 --> 鑽
 
 ### +16 Strokes
 61. <ruby>[鑫](../../characters/鑫.md)<rt>ㄏㄜㄇ</rt></ruby> - prosperous

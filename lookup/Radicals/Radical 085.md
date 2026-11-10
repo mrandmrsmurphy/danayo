@@ -242,6 +242,7 @@ tags: [lookup]
 - 滥 --> 濫
 - 滩 --> 灘
 - 滄 --> 蒼
+- 滈 --> 鎬
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through

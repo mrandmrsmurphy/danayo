@@ -68,6 +68,7 @@ tags:
 - 轟 --> 軣
 - 鐸 --> 鈬
 - 鏽 --> 銹
+- 鐮 --> 鎌
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

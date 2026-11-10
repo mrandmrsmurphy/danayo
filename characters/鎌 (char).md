@@ -27,14 +27,13 @@ mc_id: 4747
 graphemic_classification: "兼"
 stand_in: "鎌"
 aliases:
-  - 𰾮
   - 鐮
 注音: "ㄌㄝㄇ"
 kwin: false
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鎌.
 >For the word, see [鎌](../words/鎌.md)
@@ -48,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄌㄝㄇ](../syllables/ㄌㄝㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 鐮
+Variant form of 鎌, "sickle"; the form Chinese uses. SKIP 1-8-13; 21 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [鎌](../words/鎌.md) "sickle" — 鎌 stands alone as a word in Dan'a'yo.

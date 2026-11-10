@@ -38,7 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鍾.
 >For the word, see [鍾](../words/鍾.md)
@@ -52,6 +52,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-9](../lookup/SKIP/SKIP-1/SKIP-1-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](../syllables/ㄐㄛㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 钟
+Simplified Chinese form of 鍾. SKIP 1-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 锺
+Simplified Chinese form of 鍾. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [鍾](../words/鍾.md) "alcohol bottle" — 鍾 stands alone as a word in Dan'a'yo.

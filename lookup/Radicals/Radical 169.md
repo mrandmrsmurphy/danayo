@@ -21,6 +21,9 @@ tags: [lookup]
 ### +-1 Strokes
 - 闷 --> 悶
 
+### +-3 Strokes
+- 闪 --> 閃
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 

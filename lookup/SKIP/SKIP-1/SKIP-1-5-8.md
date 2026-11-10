@@ -51,6 +51,9 @@ tags: [lookup]
 - 锦 --> 錦
 - 锡 --> 錫
 - 锢 --> 錮
+- 错 --> 錯
+- 键 --> 鍵
+- 锣 --> 鑼
 
 ## Datacheck
 ```dataview

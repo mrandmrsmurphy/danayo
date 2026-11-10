@@ -34,12 +34,8 @@ stand_in: 長
 aliases:
   - 长
   - 镸
-  - 仧
-  - 𠑿
-  - 𡕣
-  - 𠇬
 注音: ㄐㄚㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -57,6 +53,14 @@ boundedness: 75
 - [SKIP-2-5-3](../lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 95th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](../syllables/ㄐㄚㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 长
+Simplified Chinese form of 長, "long; to grow". SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 镸
+The radical form of 長 (Radical 168, written 镸 when it stands alone), kept as a handle for 長. SKIP 4-7-1; 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[長]]<rt>ㄐㄚㄫ</rt></ruby> "long" (stand-in for 長)

@@ -933,3 +933,24 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 錬 | 鍊 | 1-8-9 | computed from its parts |
 | 錬 | 炼 | 1-4-5 | computed from its parts |
 | 錮 (char) | 锢 | 1-5-8 | computed from its parts |
+| 錯 | 错 | 1-5-8 | computed from its parts |
+| 録 | 录 | 2-3-5 | computed from its parts |
+| 録 | 錄 | 1-8-8 | computed from its parts |
+| 鍋 (char) | 锅 | 1-5-7 | computed from its parts |
+| 鍍 | 镀 | 1-5-9 | computed from its parts |
+| 鍛 | 锻 | 1-5-9 | computed from its parts |
+| 鍬 (char) | 锹 | 1-5-9 | computed from its parts |
+| 鍵 (char) | 键 | 1-5-8 | computed from its parts |
+| 鍾 (char) | 钟 | 1-5-4 | computed from its parts |
+| 鍾 (char) | 锺 | 1-5-9 | computed from its parts |
+| 鎖 (char) | 锁 | 1-5-7 | computed from its parts |
+| 鎧 | 铠 | 1-5-6 | computed from its parts |
+| 鎬 | 镐 | 1-5-10 | computed from its parts |
+| 鎮 (char) | 镇 | 1-5-10 | computed from its parts |
+| 鏡 (char) | 镜 | 1-5-11 | computed from its parts |
+| 鑑 | 鉴 | 2-5-8 | computed from its parts |
+| 鑠 | 铄 | 1-5-5 | computed from its parts |
+| 鑼 | 锣 | 1-5-8 | computed from its parts |
+| 鑽 | 钻 | 1-5-5 | computed from its parts |
+| 長 (char) | 长 | 4-3-1 | computed from its parts |
+| 閃 | 闪 | 3-3-2 | computed from its parts |

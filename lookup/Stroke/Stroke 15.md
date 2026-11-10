@@ -158,6 +158,8 @@ tags:
 - 蝤 --> 酋
 - 醉 --> 酔
 - 醋 --> 酢
+- 镐 --> 鎬
+- 镇 --> 鎮
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

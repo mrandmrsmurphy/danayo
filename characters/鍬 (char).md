@@ -26,7 +26,7 @@ joyo_level: "日本人名用漢字"
 hsk_level: "4"
 hanmun_edu_level: "無"
 danayo_id: 7249
-mc_id: 0
+mc_id:
 graphemic_classification: "秋"
 stand_in: "鍬"
 aliases:
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鍬.
 >For the word, see [鍬](../words/鍬.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-9](../lookup/SKIP/SKIP-1/SKIP-1-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md). No attested historical Guangyun entry was found for 鍬 itself (`mc_id: 0`); the stored initial/final are a reconstruction from the phonetic series (秋) rather than a directly attested reading.
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 锹
+Simplified Chinese form of 鍬. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [鍬](../words/鍬.md) "shovel" — 鍬 stands alone as a word in Dan'a'yo.

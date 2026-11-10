@@ -12,6 +12,10 @@ tags: [lookup]
 ### Used
 1. <ruby>[長](../../characters/長%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - long
 
+### Aliases
+- 长 --> 長
+- 镸 --> 長
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

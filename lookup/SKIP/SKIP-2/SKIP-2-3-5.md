@@ -69,6 +69,7 @@ tags:
 - 帘 --> 簾
 - 苩 --> 葩
 - 苏 --> 蘇
+- 录 --> 録
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

@@ -227,6 +227,9 @@ tags: [lookup]
 - 锈 --> 銹
 - 锋 --> 鋒
 - 锄 --> 鋤
+- 锅 --> 鍋
+- 锁 --> 鎖
+- 鄗 --> 鎬
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

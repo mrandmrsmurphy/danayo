@@ -188,6 +188,10 @@ tags:
 - 廓 --> 郭
 - 酿 --> 醸
 - 箝 --> 鉗
+- 镀 --> 鍍
+- 锻 --> 鍛
+- 锹 --> 鍬
+- 锺 --> 鍾
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

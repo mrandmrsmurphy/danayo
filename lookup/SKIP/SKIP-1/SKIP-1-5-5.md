@@ -52,6 +52,8 @@ tags:
 - 铅 --> 鉛
 - 钵 --> 鉢
 - 钲 --> 鉦
+- 铄 --> 鑠
+- 钻 --> 鑽
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.

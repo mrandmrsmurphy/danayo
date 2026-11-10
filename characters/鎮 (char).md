@@ -42,7 +42,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 鎮.
 >For the word, see [鎮](../words/鎮.md)
@@ -56,6 +56,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 1746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄑㄧㄋ](../syllables/ㄑㄧㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 鎭
+Variant form of 鎮, "to press down, to guard; a town". SKIP 1-8-10; 18 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 镇
+Simplified Chinese form of 鎮. SKIP 1-5-10 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鎮]]<rt>ㄑㄧㄋ</rt></ruby> "tranquilize" (stand-in for 鎮 (char))

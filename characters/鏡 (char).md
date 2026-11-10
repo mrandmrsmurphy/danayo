@@ -34,10 +34,9 @@ mc_id: 2583
 graphemic_classification: 竟
 stand_in: 鏡
 aliases:
-  - 𰽔
   - 镜
 注音: ㄍ⼶ㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -55,6 +54,11 @@ boundedness: 75
 - [SKIP-1-8-11](../lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - 2583rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄍ⼶ㄫ](../syllables/ㄍ⼶ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 镜
+Simplified Chinese form of 鏡. SKIP 1-5-11 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鏡]]<rt>ㄍ⼶ㄫ</rt></ruby> "mirror, lens" (stand-in for 鏡 (char))

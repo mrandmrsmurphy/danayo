@@ -37,6 +37,7 @@ tags: [lookup]
 - 鉩 --> 璽
 - 鉨 --> 璽
 - 鉑 --> 薄
+- 鉆 --> 鑽
 
 ## Datacheck
 ```dataview

@@ -36,6 +36,7 @@ tags: [lookup]
 - 铣 --> 銑
 - 铭 --> 銘
 - 铗 --> 鋏
+- 铠 --> 鎧
 
 ### Forbidden
 - 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.

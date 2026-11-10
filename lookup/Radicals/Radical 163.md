@@ -49,6 +49,7 @@ tags:
 
 ### +5 Strokes
 20. <ruby>[鄂](../../characters/鄂.md)<rt>ㄚㄎ</rt></ruby> - E (state)
+- 鄗 --> 鎬
 
 ### +6 Strokes
 21. <ruby>[鄒](../../characters/鄒.md)<rt>ㄑㄨ</rt></ruby> - Chu kingdom

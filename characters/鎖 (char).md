@@ -35,7 +35,7 @@ stand_in: "鎖"
 aliases:
   - 锁
 注音: "ㄙ⺢"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 75
 - [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 5055th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄙ⺢](../syllables/ㄙ⺢.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 锁
+Simplified Chinese form of 鎖. SKIP 1-5-7 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鎖]]<rt>ㄙ⺢</rt></ruby> "chain" (stand-in for 鎖 (char))
