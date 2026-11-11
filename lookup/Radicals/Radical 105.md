@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 3
 radical: 癶
 tags: [lookup]
@@ -10,15 +10,12 @@ tags: [lookup]
 
 ## Strokes
 
-
 ### +4 Strokes
 1. <ruby>[発](../../characters/発%20(char).md)<rt>ㄈㄚㄊ</rt></ruby> - issue forth
 2. <ruby>[癸](../../characters/癸.md)<rt>ㄍㄨㄧ</rt></ruby> - tenth heavenly stem
 
 ### +7 Strokes
 3. <ruby>[登](../../characters/登%20(char).md)<rt>ㄉㄨㄫ</rt></ruby> - mount
-
-### Aliases
 - 發 --> 発
 
 ## Data check

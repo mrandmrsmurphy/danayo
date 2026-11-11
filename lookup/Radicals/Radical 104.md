@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 23
 radical: 疒
 tags: [lookup]
@@ -22,6 +22,7 @@ tags: [lookup]
 1. <ruby>[疫](../../characters/疫.md)<rt>⼶ㄎ</rt></ruby> - pestilence
 - 疯 --> 瘋
 - 疮 --> 瘡
+- ¡疤! - 違法字
 
 ### +5 Strokes
 2. <ruby>[疱](../../characters/疱.md)<rt>ㄆㄚㄨ</rt></ruby> - acne
@@ -32,6 +33,7 @@ tags: [lookup]
 7. <ruby>[症](../../characters/症.md)<rt>ㄐㄧㄫ</rt></ruby> - disease
 - 痂 --> 加
 - 痈 --> 用
+- ¡疼! - 違法字
 
 ### +6 Strokes
 8. <ruby>[痕](../../characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
@@ -77,26 +79,20 @@ tags: [lookup]
 
 ### +14 Strokes
 - 癡 --> 痴
+- 𤻮 --> 応
 
 ### +15 Strokes
 - 癥 --> 症
 
 ### +16 Strokes
 - 癩 --> 厉
+- ¡癪! - 違法字
 
 ### +17 Strokes
 - 癬 --> 鮮
 
 ### +18 Strokes
 - 癰 --> 用
-
-### Forbidden
-- 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
-- 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
-- 癪 - 国字: Originally 'menstrual cramps', then 'anger', then 'spasm'
-
-### Aliases
-- 𤻮 --> 応
 
 ## Data check
 ```dataview

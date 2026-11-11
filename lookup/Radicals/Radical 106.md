@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 白
 tags: [lookup]
@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### +2 Strokes
 3. <ruby>[皀](../../characters/皀.md)<rt>ㄆㄨㄆ</rt></ruby> - vessel full of food
+- 皃 --> 貌
 
 ### +3 Strokes
 4. <ruby>[的](../../characters/的.md)<rt>ㄉㄝㄎ</rt></ruby> - target
@@ -29,6 +30,8 @@ tags: [lookup]
 
 ### +5 Strokes
 - 皋 --> 睾
+- 皋 --> 皐
+- 畠 --> 田
 
 ### +6 Strokes
 7. <ruby>[皐](../../characters/皐.md)<rt>ㄍㄚㄨ</rt></ruby> - river highland
@@ -41,11 +44,6 @@ tags: [lookup]
 
 ### +13 Strokes
 - 皨 --> 星
-
-### Aliases
-- 皋 --> 皐
-- 皃 --> 貌
-- 畠 --> 田
 
 ## Data check
 ```dataview
