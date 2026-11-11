@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 10
 radical: 八
 tags: [lookup]
@@ -15,22 +15,23 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[公](../../characters/公%20(char).md)<rt>ㄍㄛㄫ</rt></ruby> - sir
-
 3. <ruby>[兮](../../characters/兮%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> - pshaw
 4. <ruby>[六](../../characters/六%20(char).md)<rt>ㄌㄨㄎ</rt></ruby> - six
+- ¡兯! - 違法字
 
 ### +3 Strokes
 - 兰 --> 蘭
 
 ### +4 Strokes
 5. <ruby>[共](../../characters/共%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - with
+- 兴 --> 興
+- 关 --> 関
 
 ### +5 Strokes
 6. <ruby>[兵](../../characters/兵.md)<rt>ㄅ⼶ㄫ</rt></ruby> - soldier
 
 ### +6 Strokes
 7. <ruby>[其](../../characters/其%20(char).md)<rt>ㄍㄜ</rt></ruby> - this
-
 8. <ruby>[典](../../characters/典.md)<rt>ㄉㄝㄋ</rt></ruby> - dictionary
 
 ### +7 Strokes
@@ -46,16 +47,11 @@ tags: [lookup]
 ### +10 Strokes
 10. <ruby>[具](../../characters/具.md)<rt>ㄍㄨ</rt></ruby> - tool
 
+### +14 Strokes
+- 冀 --> 希
+
 ## Other
 - 分 has this radical as a component, but is not listed under this radical.
-
-### Forbidden
-- 兯 - 口訣: Korean 구결 for '한'.
-
-### Aliases
-- 兴 --> 興
-- 关 --> 関
-- 冀 --> 希
 
 ## Data check
 ```dataview

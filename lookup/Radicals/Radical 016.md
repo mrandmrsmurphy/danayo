@@ -1,7 +1,7 @@
 ---
 size: 4
 radical: 几
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags: [lookup]
 
 ---
@@ -15,11 +15,10 @@ tags: [lookup]
 3. <ruby>[凰](../../characters/凰.md)<rt>ㄏ⺢ㄫ</rt></ruby> - phoenix
 4. <ruby>[凱](../../characters/凱.md)<rt>ㄎㄚㄧ</rt></ruby> - triumphant song
 
-
 ### Forbidden
-- 凧 - 国字: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
-- 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
-- 凩 - 国字: 国字 for 'wintry wind', こがらし
+- ¡凧! - 違法字
+- ¡凪! - 違法字
+- ¡凩! - 違法字
 
 ### Aliases
 - 几 --> 幾

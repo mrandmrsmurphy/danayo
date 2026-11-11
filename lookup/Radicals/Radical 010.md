@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 16
 radical: 儿
 tags: [lookup]
@@ -28,6 +28,7 @@ tags: [lookup]
 6. <ruby>[充](../../characters/充.md)<rt>ㄑㄨㄫ</rt></ruby> - fill
 7. <ruby>[先](../../characters/先.md)<rt>ㄙㄝㄋ</rt></ruby> - prior
 8. <ruby>[兆](../../characters/兆.md)<rt>ㄐㄚㄨ</rt></ruby> - omen
+- 兇 --> 凶
 
 ### +5 Strokes
 9. <ruby>[克](../../characters/克%20(char).md)<rt>ㄎㄨㄎ</rt></ruby> - practice self-restraint
@@ -39,6 +40,8 @@ tags: [lookup]
 ### +6 Strokes
 13. <ruby>[兎](../../characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> - rabbit
 - 兒 --> 児
+- 兖 --> 兗
+- 兔 --> 兎
 
 ### +7 Strokes
 14. <ruby>[兗](../../characters/兗.md)<rt>⼶ㄋ</rt></ruby> - Yanzhou (place name)
@@ -49,13 +52,8 @@ tags: [lookup]
 ### +9 Strokes
 16. <ruby>[兜](../../characters/兜%20(char).md)<rt>ㄉㄨ</rt></ruby> - helmet
 
-### Aliases
-- 兖 --> 兗
-- 兔 --> 兎
-- 兇 --> 凶
-
-### Forbidden
-- 𪞄 - 国字: An alternative form of 魁
+### +13 Strokes
+- ¡𪞄! - 違法字
 
 ## Data check
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 10
 radical: 冫
 tags: [lookup]
@@ -19,14 +19,18 @@ tags: [lookup]
 - 冱 --> 冴
 - 冲 --> 衝
 - 冰 --> 氷
+- 决 --> 決
 
 ### +5 Strokes
 2. <ruby>[冷](../../characters/冷%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - cool
 3. <ruby>[冴](../../characters/冴.md)<rt>ㄏㄛ</rt></ruby> - freeze
-
 4. <ruby>[冶](../../characters/冶.md)<rt>⼘</rt></ruby> - smelt
 - 况 --> 況
 - 冻 --> 凍
+
+### +6 Strokes
+- 净 --> 浄
+- 冽 --> 列
 
 ### +8 Strokes
 5. <ruby>[凄](../../characters/凄.md)<rt>ㄑㄝㄧ</rt></ruby> - miserable
@@ -48,11 +52,6 @@ tags: [lookup]
 
 ### +14 Strokes
 10. <ruby>[凝](../../characters/凝.md)<rt>ㄜㄫ</rt></ruby> - congeal
-
-### Aliases
-- 净 --> 浄
-- 决 --> 決
-- 冽 --> 列
 
 ## Data check
 ```dataview

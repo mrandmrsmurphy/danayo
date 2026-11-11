@@ -4,6 +4,22 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Radical loop, firing 16 (Radical 017):** prosaic-style page (size 5) already in order; verified the five entries and two aliases (击, 凾) against the characters' own radical and alias data; no changes needed. Stamped Radical 017.
+
+- **Radical loop, firing 15 (Radical 016):** prosaic-style page (size 4); verified the four entries and four aliases against the characters' own radical and alias data (all backed) and shortened the three forbidden lines (凧, 凪, 凩) to `¡X! - 違法字`. Stamped Radical 016.
+
+- **Radical loop, firing 14 (Radical 015):** grouped page (size 10); verified the ten entries, their groups and all aliases against the characters' own radical and alias data (all backed). Migrated the bottom Aliases block (净, 决, 冽) into the +N groups and removed a stray blank line that split the numbered list in +5. Stamped Radical 015.
+
+- **Radical loop, firing 13 (Radical 014):** grouped page (size 8) already in the in-group standard; verified the eight entries, their groups and the five aliases against the characters' own radical and alias data; no changes needed. Stamped Radical 014.
+
+- **Radical loop, firing 12 (Radical 013):** prosaic-style page (size 6); verified the six entries and the seven aliases against the characters' own radical and alias data (all backed) and shortened the forbidden line for 冋 to `¡冋! - 違法字`. Stamped Radical 013.
+
+- **Radical loop, firing 11 (Radical 012):** grouped page (size 10); verified the ten entries, their groups and the seven aliases against the characters' own radical and alias data. Migrated the Forbidden (`¡兯!`) and Aliases (兴, 关, 冀) blocks that sat under `## Other` into the +N groups (new +14 group for 冀) and removed stray blank lines that split the numbered lists in +2 and +6. Stamped Radical 012.
+
+- **Radical loop, firing 10 (Radical 011):** grouped page (size 3); verified the three entries and their groups against the characters' own radical and stroke data. Migrated the bottom Aliases and Forbidden sections into the +N groups (`¡㒱! - 違法字`), dropped the placeholder `forbidden 㒱` and the plain redirects already covered by an annotated line (`𠓛 → 集`, `㒰 → 全`, `內 → 内`, `兩 → 両`, `㒳 → 両`). Stamped Radical 011.
+
+- **Radical loop, firing 9 (Radical 010):** grouped page (size 16); verified the sixteen entries and their groups against the characters' own radical and stroke data, and all aliases (儿, 兑, 兒, 兔, 兖) against the characters' alias lists. Migrated the bottom Aliases (兖, 兔, 兇) and Forbidden (`¡𪞄!`, `- 違法字`) sections into the +N groups (new +13 group for 𪞄). Stamped Radical 010.
+
 - **Radical loop, firing 8 (Radical 008):** grouped page (size 11); verified the eleven entries, their groups and the aliases against the characters' own radical and alias data (all backed), and migrated the bottom Forbidden section into the groups (`¡亪! - 違法字`). Stamped Radical 008.
 
 - **Radical loop, firing 7 (Radical 007):** grouped page (size 9); verified the nine entries and groups against the characters' own radical and stroke data. Migrated the bottom Forbidden section into the groups (`¡亍!` and `¡亟!`, `- 違法字`), dropped the placeholder lines `forbidden 亍` and `forbidden 亟`, the plain redirects already covered by an annotated line (亖, 云, 亚, 亞) and `亏 → variant of 虧` (虧 has no page). Stamped Radical 007.

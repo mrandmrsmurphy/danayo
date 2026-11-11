@@ -1,7 +1,7 @@
 ---
 size: 3
 radical: 入
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags: [lookup]
 
 ---
@@ -15,15 +15,13 @@ tags: [lookup]
 
 ### +1 Stroke
 - 𠓛 --> ancient variant of 集
-- 𠓛 --> 集
 
 ### +2 Strokes
 - 內 --> simplified/variant form of 内
 
 ### +3 Strokes
 - 㒰 --> ancient variant of 全
-- forbidden 㒱
-- 㒱 --> 夢
+- ¡㒱! - 違法字
 
 ### +4 Strokes
 2. <ruby>[全](../../characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby> - whole
@@ -37,15 +35,6 @@ tags: [lookup]
 
 ### +7 Strokes
 3. <ruby>[兪](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - agree to
-
-### Aliases
-- 㒰 --> 全
-- 內 --> 内
-- 兩 --> 両
-- 㒳 --> 両
-
-### Forbidden
-- 㒱 - 국자: Korean variant of 夢 'dream'
 
 ## Data check
 ```dataview

@@ -1,6 +1,6 @@
 ---
 size: 6
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 radical: 冂
 tags: [lookup]
 
@@ -27,7 +27,7 @@ tags: [lookup]
 - 冄 --> 冉
 
 ### Forbidden
-- 冋 - 混乱: "Distant borders; the wilderness beyond the city" (Shuowen). Component only -- phonetic component of [[迥]], though 迥 uses 冋's voiced OC variant (ɡʷeːŋʔ), not its own primary voiceless-initial reading (modern jiōng vs 迥's jiǒng) -- real placement would need separate research, not a simple match to 迥's own syllable.
+- ¡冋! - 違法字
 
 ## Data check
 ```dataview
