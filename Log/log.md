@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 57 (SKIP-1-13-4, 1-14-4, 1-16-4, 1-17-4, 1-17-5, 1-18-10, 1-4-19, 1-9-12, SKIP-2-12-10, 2-12-12):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. The stroke-count heuristic flagged SKIP-1-17-4 and 1-9-12, but 22 is the true total of 歡, and SKIP-1-9-12 collects aliases of different stroke counts (饒, 鞾, 饑) under one code, so its single stroke_count cannot match them all; nothing changed. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 56 (SKIP-2-13-11, 2-13-7, 2-16-2, 2-19-4, 2-8-12, SKIP-3-2-14, 3-5-14, 3-8-11, SKIP-1-10-16, 1-12-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 55 (SKIP-3-9-5, SKIP-1-17-2, 1-17-7, 1-2-1, 1-2-3, 1-5-15, SKIP-2-1-12, 2-1-8, 2-12-11, 2-12-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. The stroke-count heuristic flagged SKIP-1-17-2, 1-17-7 and 1-5-15, but their stroke_count values (20, 25, 19) are the real totals of 勸, 觀, 襤 and 礦, so nothing changed. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 54 (SKIP-2-7-1, 2-7-14, 2-8-1, 2-9-1, 2-9-9, SKIP-3-10-6, 3-5-16, 3-5-2, 3-5-3, 3-8-13):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
