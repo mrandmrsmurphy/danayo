@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 3
 radical: 玄
 tags: [lookup]
@@ -14,7 +14,6 @@ tags: [lookup]
 1. <ruby>[玄](../../characters/玄%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - profound
 
 ### +4 Strokes
-- 玅 --> variant of 妙
 - 玅 --> 妙
 
 ### +5 Strokes

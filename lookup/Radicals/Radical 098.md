@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 7
 radical: 瓦
 tags: [lookup]
@@ -13,12 +13,26 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[瓦](../../characters/瓦%20(char).md)<rt>⺢</rt></ruby> - tile
 
+### +2 Strokes
+- ¡瓧! - 違法字
+
+### +3 Strokes
+- ¡瓩! - 違法字
+
+### +4 Strokes
+- 瓯 --> 甌
+- ¡瓰! - 違法字
+
+### +5 Strokes
+- ¡瓴! - 違法字
+
 ### +6 Strokes
 2. <ruby>[瓶](../../characters/瓶%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - jug
 3. <ruby>[瓷](../../characters/瓷.md)<rt>ㄑㄧ</rt></ruby> - porcelain
 
 ### +9 Strokes
 4. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
+- ¡𤭯! - 違法字
 
 ### +10 Strokes
 - 甎 --> 磚
@@ -31,16 +45,6 @@ tags: [lookup]
 
 ### +14 Strokes
 7. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar
-
-### Aliases
-- 瓯 --> 甌
-
-### Forbidden
-- 瓰 - 国字: 国字 for the decigram (瓦 + 分)
-- 瓧 - 国字: 国字 for the decagram; a dated symbol for ten grams
-- 瓴 - 混乱: Classical: an earthenware jar for water; also concave roof tiles
-- 瓩 - 国字: 国字 for the kilogram (瓦 + 千), from the Meiji period; a symbol for kilogram
-- 𤭯 - 国字: 国字 (瓦 + 泉); Wiktionary records no definition
 
 ## Data check
 ```dataview

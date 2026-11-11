@@ -1,7 +1,7 @@
 ---
 size: 38
 radical: 玉
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 tags:
   - lookup
 ---
@@ -10,9 +10,14 @@ tags:
 
 ## Strokes
 
-### +0 Strokes
+### -1 Stroke
 1. <ruby>[王](../../characters/王%20(char).md)<rt>⺢ㄫ</rt></ruby> - king
+
+### +0 Strokes
 2. <ruby>[玉](../../characters/玉%20(char).md)<rt>⼄ㄎ</rt></ruby> - jade
+
+### +1 Stroke
+- 玑 --> 璣
 
 ### +2 Strokes
 3. <ruby>[玖](../../characters/玖.md)<rt>ㄎ⼜</rt></ruby> - jade
@@ -21,6 +26,7 @@ tags:
 4. <ruby>[玩](../../characters/玩.md)<rt>⺢ㄋ</rt></ruby> - toy
 - 玪 --> 琳
 - 环 --> 環
+- 现 --> 現
 
 ### +4 Strokes
 5. <ruby>[玲](../../characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> - tinkling of jade
@@ -39,6 +45,7 @@ tags:
 15. <ruby>[班](../../characters/班%20(char).md)<rt>ㄆㄚㄋ</rt></ruby> - group
 - 珡 --> 琴
 - 玺 --> 璽
+- 珪 --> 硅
 
 ### +6 Strokes
 16. <ruby>[現](../../characters/現%20(char).md)<rt>ㄏ⼶ㄋ</rt></ruby> - present
@@ -97,11 +104,6 @@ tags:
 
 ### +15 Strokes
 - 瓏 --> 龍
-
-### Aliases
-- 玑 --> 璣
-- 珪 --> 硅
-- 现 --> 現
 
 ## Data check
 ```dataview

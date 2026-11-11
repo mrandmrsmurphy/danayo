@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 098 (瓦)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (瓯 → 甌 and five forbidden glyphs as `¡X! - 違法字` lines), stamped.
+- **Radical 097 (瓜)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (瓜 +0, 瓢 +12, 瓣 → 弁 filed by stroke count), stamped.
+- **Radical 096 (玉)**: refiled 王 (stroke_count 4, one fewer than the radical) under a new `### -1 Stroke` group, as 才 is under 手; moved the bottom Aliases block into the +N Strokes groups, stamped.
+- **Radical 095 (玄)**: removed the duplicate annotated redirect `玅 --> variant of 妙` (the plain alias-backed `玅 --> 妙` stays); 3 characters and groups verified, stamped.
+- **Radical 094 (犬)**: removed legacy annotated redirect lines ("traditional form of…", "simplified of…", "variant of…") that duplicated alias-backed redirects and sat in wrong stroke groups; converted 貍 → 狸, 貓 → 猫, 豬 → 猪, 兽 → 獣 to plain redirects filed by the Stroke pages' counts; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups; kept the six annotated redirects with no alias backing (叐, 𡗜, 𤝜 → 犮; 雎 → 狙; 狢, 貉 → 狸) and re-filed 雎/狢/貉 by their stroke counts; stamped.
 - **Radical 093 (牛)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (牠 → 他, ¡㸴! as a 違法字 line), stamped.
 - **Radical 092 (牙)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 牙 was already present), stamped.
 - **Radical 091 (片)**: verified (3 characters, groups and 3 alias-backed redirects correct), stamped; no content change.
