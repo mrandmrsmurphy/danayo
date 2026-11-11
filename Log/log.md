@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Radical loop, firing 21 (Radical 022):** prosaic-style page (size 1) already in order; verified the entry 匡 and the alias 匯 → 彙 against the characters' own radical and alias data; no changes needed. Stamped Radical 022.
+
+- **Radical loop, firing 20 (Radical 021):** prosaic-style page (size 4) already in order; verified the four entries and two aliases (匘, 㔬) against the characters' own radical and alias data; no changes needed. Stamped Radical 021.
+
+- **Radical loop, firing 19 (Radical 020):** grouped page (size 6); verified the six entries, their groups and the redirects (匀, 匊, 匋, 匐) against the characters' own radical and alias data (all backed). Migrated the bottom Forbidden section (`¡匁!`, `¡匂!`, `- 違法字`) into the +2 group. Stamped Radical 020.
+
+- **Radical loop, firing 18 (Radical 019):** grouped page (size 28); verified the 28 entries and their groups against the characters' own radical and stroke data. Migrated the bottom Forbidden (`¡㔖!`, `¡㔔!`, `¡𪟧!`) and Aliases (勞, 劳) sections into the +N groups, removed ten plain redirects already covered by an annotated line (动, 务, 劲, 势, 劳, 勋, 勛, 勞, 勳, 勸) and the stale `𠠲 → variant of 力` (力 no longer lists 𠠲 as an alias). Stamped Radical 019.
+
+- **Radical loop, firing 17 (Radical 018):** grouped page (size 39); verified the 39 entries and their groups against the characters' own radical and stroke data, and every redirect (划, 刘, 则, 刚, 创, 删, 别, 剎, 剏, 剑, 剔, 剥, 剧, 剩, 劍, 劑, 劒, 劔) against its main character's alias list. Migrated the bottom Aliases (劍, 剑, 别, 删, 划, 剧) and Forbidden (`¡刖! - 違法字`) sections into the +N groups. Stamped Radical 018.
+
 - **Radical loop, firing 16 (Radical 017):** prosaic-style page (size 5) already in order; verified the five entries and two aliases (击, 凾) against the characters' own radical and alias data; no changes needed. Stamped Radical 017.
 
 - **Radical loop, firing 15 (Radical 016):** prosaic-style page (size 4); verified the four entries and four aliases against the characters' own radical and alias data (all backed) and shortened the three forbidden lines (凧, 凪, 凩) to `¡X! - 違法字`. Stamped Radical 016.

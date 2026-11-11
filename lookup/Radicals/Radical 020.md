@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 6
 radical: 勹
 tags: [lookup]
@@ -21,6 +21,8 @@ tags: [lookup]
 3. <ruby>[勻](../../characters/勻.md)<rt>⼜ㄋ</rt></ruby> - equal
 4. <ruby>[勾](../../characters/勾.md)<rt>ㄍㄛㄨ</rt></ruby> - seduce
 - 匀 --> 勻
+- ¡匁! - 違法字
+- ¡匂! - 違法字
 
 ### +3 Strokes
 5. <ruby>[包](../../characters/包%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - wrap
@@ -34,10 +36,6 @@ tags: [lookup]
 
 ### +9 Strokes
 - 匐 --> 伏
-
-### Forbidden
-- 匁 - 国字: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
-- 匂 - 国字: A "new" Japanese character.  <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.
 
 ## Data check
 ```dataview

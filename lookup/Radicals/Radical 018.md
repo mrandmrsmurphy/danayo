@@ -1,7 +1,7 @@
 ---
 size: 39
 radical: 刀
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags:
   - lookup
 ---
@@ -34,6 +34,8 @@ tags:
 - 刚 --> 剛
 - 创 --> 創
 - 刘 --> 劉
+- 划 --> 劃
+- ¡刖! - 違法字
 
 ### +5 Strokes
 9. <ruby>[初](../../characters/初.md)<rt>ㄑㄛ</rt></ruby> - beginning
@@ -41,6 +43,8 @@ tags:
 11. <ruby>[別](../../characters/別%20(char).md)<rt>ㄅㄝㄊ</rt></ruby> - don't
 12. <ruby>[利](../../characters/利.md)<rt>ㄌㄧㄜ</rt></ruby> - profit
 13. <ruby>[刪](../../characters/刪.md)<rt>ㄙㄚㄋ</rt></ruby> - delete
+- 别 --> 別
+- 删 --> 刪
 
 ### +6 Strokes
 14. <ruby>[刮](../../characters/刮.md)<rt>ㄍ⺢ㄊ</rt></ruby> - scrape
@@ -58,6 +62,7 @@ tags:
 - 剋 --> 克
 - 剏 --> 創
 - 剎 --> 刹
+- 剑 --> 剣
 
 ### +8 Strokes
 24. <ruby>[剖](../../characters/剖.md)<rt>ㄈㄛㄨ</rt></ruby> - dissect
@@ -68,6 +73,7 @@ tags:
 - 剔 --> 剃
 - 剠 --> 掠
 - 剥 --> 剝
+- 剧 --> 劇
 
 ### +9 Strokes
 29. <ruby>[削](../../characters/削%20(char).md)<rt>ㄙ⼘ㄎ</rt></ruby> - scrape
@@ -91,22 +97,12 @@ tags:
 ### +13 Strokes
 38. <ruby>[劇](../../characters/劇%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - drama
 39. <ruby>[劉](../../characters/劉.md)<rt>ㄌ⼜</rt></ruby> - conquer
+- 劍 --> 剣
 
 ### +14 Strokes
 - 劑 --> 剤
-
-### Aliases
-- 劍 --> 剣
-- 剑 --> 剣
 - 劔 --> 剣
 - 劒 --> 剣
-- 别 --> 別
-- 删 --> 刪
-- 划 --> 劃
-- 剧 --> 劇
-
-### Forbidden
-- 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.
 
 ## Data check
 ```dataview
