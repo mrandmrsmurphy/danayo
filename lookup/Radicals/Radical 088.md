@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 父
 tags: [lookup]
 
@@ -8,18 +8,25 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 88 is 父, "father", 4 strokes. Characters classified here are grouped by this shape rather than by a shared meaning.
 
-## Characters
-### Used
-1. <ruby>[父](../../characters/父.md)<rt>ㄅㄨ</rt></ruby> - father
-2. <ruby>[爹](../../characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
-3. <ruby>[爺](../../characters/爺.md)<rt>⼘</rt></ruby> - grandpa
+## Strokes
 
-### Aliases
-- 㸘 --> 万
+### +0 Strokes
+1. <ruby>[父](../../characters/父.md)<rt>ㄅㄨ</rt></ruby> - father
+
+### +2 Strokes
 - 爷 --> 爺
 
-### Forbidden
-- 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+### +4 Strokes
+- ¡爸! - 違法字
+
+### +6 Strokes
+2. <ruby>[爹](../../characters/爹.md)<rt>ㄉㄚ</rt></ruby> - father
+
+### +7 Strokes
+- 㸘 --> 万
+
+### +9 Strokes
+3. <ruby>[爺](../../characters/爺.md)<rt>⼘</rt></ruby> - grandpa
 
 ## Data check
 ```dataview

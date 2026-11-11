@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 爻
 tags: [lookup]
 
@@ -8,11 +8,13 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 89 is 爻, the alternating line pattern used in the I Ching (易經), 4 strokes. 爽 is the only character classified here.
 
-## Characters
-### Used
-1. <ruby>[爽](../../characters/爽.md)<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing
-### Aliases
+## Strokes
+
+### +5 Strokes
 - 爼 --> 俎
+
+### +7 Strokes
+1. <ruby>[爽](../../characters/爽.md)<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing
 
 ## Data check
 ```dataview

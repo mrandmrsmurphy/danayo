@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 089 (爻)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (爼 → 俎 +5, 爽 +7), stamped.
+- **Radical 088 (父)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (父 +0, 爹 +6, 爺 +9; 㸘 and 爷 redirects and ¡爸! filed by stroke count), stamped.
+- **Radical 087 (爪)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (爪 +0, 爬 +4, 爰 +5, 爵 +13; redirects 爭, 爯, 爱, 爲, 𤔢 filed by stroke count), kept the 舜 note under `### Other`, stamped.
+- **Radical 086 (火)**: refiled 熊 from +20 to +10 (stroke_count 14) and renumbered the entries; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, stamped.
+- **Radical 085 (水)**: verified (175 characters, groups and 123 alias-backed redirect lines correct); removed 2 stray blank lines in the numbered list, stamped.
 - **Radical 084 (气)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (气 → 気 +0, 気 +2, ¡𬇐! +5, 氣 → 気 +6, 㲵 → 宵 +7, ¡氮! +8), stamped.
 - **Radical 083 (氏)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (氏 +0; 氐 and 民 +1), stamped.
 - **Radical 082 (毛)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (毛 +0; 毫, ¡毟!, 毬 → 球 under +7), stamped.

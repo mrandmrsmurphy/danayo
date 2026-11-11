@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 175
 radical: 水
 tags: [lookup]
@@ -29,7 +29,6 @@ tags: [lookup]
 10. <ruby>[汝](../../characters/汝%20(char).md)<rt>ㄋㄛㄧ</rt></ruby> - you dear
 11. <ruby>[江](../../characters/江.md)<rt>ㄍㄚㄫ</rt></ruby> - river
 12. <ruby>[池](../../characters/池%20(char).md)<rt>ㄐㄨㄧ</rt></ruby> - pond
-
 13. <ruby>[汐](../../characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> - evening tide
 - ¡汢! - 違法字
 - 汤 --> 湯
@@ -287,7 +286,6 @@ tags: [lookup]
 158. <ruby>[潤](../../characters/潤%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - soft
 159. <ruby>[潰](../../characters/潰%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - crush
 160. <ruby>[澄](../../characters/澄.md)<rt>ㄑㄚㄫ</rt></ruby> - clear
-
 161. <ruby>[澈](../../characters/澈.md)<rt>ㄐㄝㄊ</rt></ruby> - penetrate
 - 潑 --> 発
 - 漿 --> 将

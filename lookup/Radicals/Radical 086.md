@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 46
 radical: 火
 tags: [lookup]
@@ -45,6 +45,7 @@ tags: [lookup]
 15. <ruby>[為](../../characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
 - 炮 --> 砲
 - 炼 --> 錬
+- 烂 --> 乱
 
 ### +6 Strokes
 16. <ruby>[烈](../../characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> - fiery
@@ -57,12 +58,16 @@ tags: [lookup]
 - 烛 --> 燭
 - 烧 --> 焼
 - 烟 --> 煙
+- 热 --> 熱
+- 烧 --> 熱
+- ¡烤! - 違法字
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
 - 焕 --> 煥
 - 焔 --> 炎
 - 焔 --> 焰
+- ¡焊! - 違法字
 
 ### +8 Strokes
 20. <ruby>[焚](../../characters/焚.md)<rt>ㄅㄨㄋ</rt></ruby> - burn
@@ -89,62 +94,53 @@ tags: [lookup]
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
+35. <ruby>[熊](../../characters/熊%20(char).md)<rt>ㄨㄫ</rt></ruby> - bear
 - 熒 --> 蛍
 - 煽 --> 扇
 - 熔 --> 溶
 - 煼 --> 炒
 - 熏 --> 薫
+- 熈 --> 熙
+- ¡熕! - 違法字
 
 ### +11 Strokes
-35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
-36. <ruby>[熨](../../characters/熨.md)<rt>⼜ㄊ</rt></ruby> - flatiron
-37. <ruby>[熬](../../characters/熬.md)<rt>ㄚㄨ</rt></ruby> - cook
-38. <ruby>[熱](../../characters/熱%20(char).md)<rt>ㄋ⼶ㄊ</rt></ruby> - heat up
+36. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
+37. <ruby>[熨](../../characters/熨.md)<rt>⼜ㄊ</rt></ruby> - flatiron
+38. <ruby>[熬](../../characters/熬.md)<rt>ㄚㄨ</rt></ruby> - cook
+39. <ruby>[熱](../../characters/熱%20(char).md)<rt>ㄋ⼶ㄊ</rt></ruby> - heat up
 
 ### +12 Strokes
-39. <ruby>[燃](../../characters/燃.md)<rt>ㄋ⼶ㄋ</rt></ruby> - burn
-40. <ruby>[燐](../../characters/燐.md)<rt>ㄌㄧㄋ</rt></ruby> - phosphorus
-41. <ruby>[燕](../../characters/燕.md)<rt>ㄝㄋ</rt></ruby> - swallow (bird)
+40. <ruby>[燃](../../characters/燃.md)<rt>ㄋ⼶ㄋ</rt></ruby> - burn
+41. <ruby>[燐](../../characters/燐.md)<rt>ㄌㄧㄋ</rt></ruby> - phosphorus
+42. <ruby>[燕](../../characters/燕.md)<rt>ㄝㄋ</rt></ruby> - swallow (bird)
 - 燌 --> 焚
 - 燓 --> 焚
 - 燔 --> 焚
 - 燄 --> 焰
 - 燎 --> 療
 - 燒 --> 焼
+- 燈 --> 灯
+- ¡燙! - 違法字
+- ¡燵! - 違法字
 
 ### +13 Strokes
-42. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched
-43. <ruby>[燦](../../characters/燦.md)<rt>ㄑㄚㄋ</rt></ruby> - bright
-44. <ruby>[燭](../../characters/燭.md)<rt>ㄑㄛㄎ</rt></ruby> - candle
+43. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched
+44. <ruby>[燦](../../characters/燦.md)<rt>ㄑㄚㄋ</rt></ruby> - bright
+45. <ruby>[燭](../../characters/燭.md)<rt>ㄑㄛㄎ</rt></ruby> - candle
 - 營 --> 営
 
 ### +14 Strokes
 - 燿 --> 耀
 
 ### +15 Strokes
-45. <ruby>[爆](../../characters/爆.md)<rt>ㄅㄛㄎ</rt></ruby> - explode
+46. <ruby>[爆](../../characters/爆.md)<rt>ㄅㄛㄎ</rt></ruby> - explode
 
 ### +16 Strokes
 - 爐 --> 炉
 - 爓 --> 焰
 
-### +20 Strokes
-46. <ruby>[熊](../../characters/熊%20(char).md)<rt>ㄨㄫ</rt></ruby> - bear
-
-### Aliases
+### +17 Strokes
 - 爛 --> 乱
-- 烂 --> 乱
-- 燈 --> 灯
-- 熈 --> 熙
-- 热 --> 熱
-- 烧 --> 熱
-
-### Forbidden
-- 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
-- 焊 - 官话: HSK/3.
-- 燙 - 官话: HSK/2.
-- 熕 - 国字: kou, おおずつ (a type of cannon).
-- 燵 - 国字: 国字 for the 'kotatsu' (foot warmer)
 
 ## Data check
 ```dataview
