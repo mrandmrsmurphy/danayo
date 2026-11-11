@@ -1,18 +1,21 @@
 ---
 size: 1
 radical: 鼓
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 207 is 鼓, "drum", 13 strokes. It shows a drum on a stand (壴) struck by a hand (支), and heads words for drumming and percussion. Only 鼓 itself is filed here.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[鼓](../../characters/鼓%20(char).md)<rt>ㄍㄛ</rt></ruby> - drum
 
-### Aliases
+### +5 Strokes
 - 鼕 --> 冬
+
+### +6 Strokes
 - 鼗 --> 鞀
 
 ## Data check

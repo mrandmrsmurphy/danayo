@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 4
 radical: 龍
 tags: [lookup]
@@ -21,27 +21,31 @@ In the Kangxi Dictionary 14 characters (out of 40,000) are under this radical.
 
 It occurs as a phonetic complement in some fairly common Chinese characters, for example 聾 = "deaf", which is composed of 龍 "dragon" and the "ear" 耳 radical, "a word with meaning related to ears and pronounced similarly to 龍: "dragon gives sound, ear gives meaning".
 
-## Characters
-### Used
-1. <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
-2. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - huge
-3. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - present
-4. <ruby>[[龕 (char)|龕]]<rt>ㄌㄚㄇ</rt></ruby> - shrine
+## Strokes
 
-### Aliases
-- 龛 --> 龕
-* 龎 --> variant of 龐
-* 龏 --> variant of 恭
-* 龒 --> ancient variant of 龍 
-- 龎 --> 龐
-- 龚 --> 龔
+### -11 Strokes
 - 龙 --> 龍
 
-### Forbidden
-* 龑 - a 9th century made-up name = 龍 + 天
-* 龓 - obscure C character, forbidden in Dan'a'yo
-* 龖/龘 - (obsolete) vista of a dragon in flight, forbidden
-* 龗/靇 - rain dragon = 雨 + 龍
+### -5 Strokes
+- 龛 --> 龕
+- 龚 --> 龔
+
+### +0 Strokes
+1. <ruby>[龍](../../characters/龍%20(char).md)<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
+
+### +2 Strokes
+- 龎 --> 龐
+
+### +3 Strokes
+2. <ruby>[龐](../../characters/龐.md)<rt>ㄅㄚㄫ</rt></ruby> - huge
+
+### +6 Strokes
+3. <ruby>[龔](../../characters/龔.md)<rt>ㄍㄛㄫ</rt></ruby> - present
+4. <ruby>[龕](../../characters/龕%20(char).md)<rt>ㄌㄚㄇ</rt></ruby> - shrine
+
+### Other
+- 龏 (a variant of 恭) and 龒 (an ancient variant of 龍) are listed as variants, but neither is an alias on its target's page.
+- 龑 (a 9th-century coinage, 龍 + 天), 龓 (obscure), 龖/龘 (obsolete, a dragon in flight) and 龗/靇 (rain dragon, 雨 + 龍) are forbidden in Dan'a'yo.
 
 ## Data check
 ```dataview
