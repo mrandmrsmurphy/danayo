@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight
+1. <ruby>[八](characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight
 ### Aliases
 - 刂 --> Radical 018, from 刀
 - 儿 --> 児

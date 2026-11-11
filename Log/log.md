@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 58 (SKIP-2-12-9, 2-13-6, 2-15-7, 2-19-3, 2-20-5, 2-4-18, SKIP-3-2-28, 3-5-15, 3-5-17, SKIP-1-1-1) — sweep complete:** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Replaced a stray non-breaking space in the 八 entry of SKIP-1-1-1. The stroke-count flags on SKIP-2-15-7 and 2-20-5 are alias-only leaves whose stroke_count matches the alias's real total. Every SKIP leaf now carries today's stamp.
+
 - **SKIP leaf loop, firing 57 (SKIP-1-13-4, 1-14-4, 1-16-4, 1-17-4, 1-17-5, 1-18-10, 1-4-19, 1-9-12, SKIP-2-12-10, 2-12-12):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. The stroke-count heuristic flagged SKIP-1-17-4 and 1-9-12, but 22 is the true total of 歡, and SKIP-1-9-12 collects aliases of different stroke counts (饒, 鞾, 饑) under one code, so its single stroke_count cannot match them all; nothing changed. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 56 (SKIP-2-13-11, 2-13-7, 2-16-2, 2-19-4, 2-8-12, SKIP-3-2-14, 3-5-14, 3-8-11, SKIP-1-10-16, 1-12-11):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
