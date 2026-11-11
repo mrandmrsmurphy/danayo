@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 彐
 tags:
   - lookup
@@ -20,7 +20,7 @@ tags:
 - 录 --> 録
 
 ### Forbidden
-- 彔 - 국자: 'to carve wood' 한문교육용기초한자/이름.  Descendants: 祿 , 緑 , 録
+- ¡彔! - 違法字
 
 ## Data check
 ```dataview

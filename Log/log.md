@@ -4,6 +4,13 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 061 (心)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, refiled 懺 from +17 to +16 (stroke_count 20), removed a stray blank line in the list, stamped.
+- **Radical loop, firing 59 (Radical 060):** grouped page (size 25); verified the 25 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (徵 → 徴) and Forbidden (`¡㣴!`, `¡很!`, `¡𭛝!`, `- 違法字`) sections into the +N groups. Stamped Radical 060.
+
+- **Radical loop, firing 58 (Radical 059):** grouped page (size 10) already in the in-group standard; verified the ten entries, their groups and the redirect 彥 → 彦 against the characters' own radical and alias data (backed); no changes needed. Stamped Radical 059.
+
+- **Radical loop, firing 57 (Radical 058):** prosaic-style page (size 3); verified the three entries and three aliases (彚, 归, 录) against the characters' own radical and alias data (all backed) and shortened the forbidden line for 彔 to `¡彔! - 違法字`. Stamped Radical 058.
+
 - **Radical loop, firing 56 (Radical 057):** grouped page (size 16); verified the sixteen entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (彆, 彊, 强) and Forbidden (`¡㢱!`, `¡彁!`, `¡弖!`, `- 違法字`) sections into the +N groups. Stamped Radical 057.
 
 - **Radical loop, firing 55 (Radical 056):** prosaic-style page (size 2) already in order; verified the two entries (式, 弒) and five aliases against the characters' own radical and alias data (all backed); no changes needed. Stamped Radical 056.

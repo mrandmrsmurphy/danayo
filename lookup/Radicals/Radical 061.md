@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 107
 radical: 心
 tags: [lookup]
@@ -32,6 +32,7 @@ tags: [lookup]
 11. <ruby>[快](../../characters/快%20(char).md)<rt>ㄎ⺢ㄧ</rt></ruby> - sharp
 - 忼 --> 慷
 - 忻 --> 欣
+- 忧 --> 憂
 
 ### +4 Strokes
 12. <ruby>[念](../../characters/念.md)<rt>ㄋㄝㄇ</rt></ruby> - thought
@@ -40,7 +41,6 @@ tags: [lookup]
 15. <ruby>[怗](../../characters/怗.md)<rt>ㄊㄧㄆ</rt></ruby> - observant
 16. <ruby>[性](../../characters/性.md)<rt>ㄙㄧㄫ</rt></ruby> - gender
 17. <ruby>[怪](../../characters/怪.md)<rt>ㄍ⺢ㄧ</rt></ruby> - strange
-
 18. <ruby>[怯](../../characters/怯%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> - cowardly
 - 态 --> 態
 - 㤅 --> 忌
@@ -50,6 +50,11 @@ tags: [lookup]
 - 怜 --> 憐
 - 忿 --> 憤
 - 怂 --> 従
+- 㤅 --> 愛
+- ¡怾! - 違法字
+- ¡怕! - 違法字
+- ¡怺! - 違法字
+- ¡𪫧! - 違法字
 
 ### +5 Strokes
 19. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry
@@ -62,7 +67,6 @@ tags: [lookup]
 26. <ruby>[恨](../../characters/恨%20(char).md)<rt>ㄏㄚㄋ</rt></ruby> - hate
 27. <ruby>[恰](../../characters/恰%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> - exactly
 28. <ruby>[悔](../../characters/悔.md)<rt>ㄏㄛㄧ</rt></ruby> - repent
-
 29. <ruby>[恍](../../characters/恍.md)<rt>ㄍ⺢ㄫ</rt></ruby> - vague
 - 恬 --> 甜
 - 恆 --> 恒
@@ -70,6 +74,7 @@ tags: [lookup]
 - 恸 --> 動
 - 怸 --> 悉
 - 恃 --> 持
+- ¡怎! - 違法字
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance
@@ -92,6 +97,8 @@ tags: [lookup]
 - 悯 --> 憫
 - 恖 --> 思
 - 悌 --> 弟
+- 恳 --> 懇
+- ¡恷! - 違法字
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -115,6 +122,7 @@ tags: [lookup]
 - 悬 --> 懸
 - 惞 --> 欣
 - 惭 --> 慙
+- ¡您! - 違法字
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad
@@ -133,6 +141,7 @@ tags: [lookup]
 - 惩 --> 懲
 - 惺 --> 星
 - 惠 --> 恵
+- ¡愣! - 違法字
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
@@ -151,6 +160,7 @@ tags: [lookup]
 - 愼 --> 慎
 - 愍 --> 憫
 - 惷 --> 蠢
+- ¡慍! - 違法字
 
 ### +10 Strokes
 76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity
@@ -185,6 +195,7 @@ tags: [lookup]
 - 慼 --> 戚
 - 𢡛 --> 満
 - 慫 --> 従
+- 憮 --> 無
 
 ### +12 Strokes
 94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful
@@ -193,15 +204,17 @@ tags: [lookup]
 97. <ruby>[憶](../../characters/憶.md)<rt>ㄧㄎ</rt></ruby> - recollect
 98. <ruby>[憾](../../characters/憾.md)<rt>ㄏㄚㄇ</rt></ruby> - regrettable
 99. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - miss
-
 100. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
 101. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
 - 憻 --> 坦
 - 懒 --> 懶
 - 懞 --> 蒙
+- ¡懂! - 違法字
+- ¡憋! - 違法字
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
+- 應 --> 応
 
 ### +14 Strokes
 103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
@@ -214,9 +227,8 @@ tags: [lookup]
 
 ### +16 Strokes
 105. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
-
-### +17 Strokes
 106. <ruby>[懺](../../characters/懺.md)<rt>ㄑㄚㄇ</rt></ruby> - repent
+- 懼 --> 惧
 
 ### +18 Strokes
 107. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
@@ -224,27 +236,8 @@ tags: [lookup]
 ### +19 Strokes
 - 戀 --> 恋
 
-### Aliases
-- 懼 --> 惧
-- 恳 --> 懇
+### +24 Strokes
 - 𢦉 --> 空
-- 忧 --> 憂
-- 應 --> 応
-- 㤅 --> 愛
-- 憮 --> 無
-
-### Forbidden
-- 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
-- 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
-- 懂 - 官话: HSK/1, but Chinese only.
-- 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
-- 怎 - 混乱: HSK/1, but too close to 何
-- 慍 - 混乱: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
-- 愣 - 官话: HSK/3.
-- 憋 - 官话: HSK/4.
-- 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.
-- 怺 - 国字: 'to endure' (こらえる)
-- 𪫧 - 国字: A rare spelling of 面白い, 'interesting'
 
 ## Data check
 ```dataview

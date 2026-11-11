@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 25
 radical: 彳
 tags:
@@ -9,6 +9,9 @@ tags:
 > Radical 60 is 彳, step or walk; left half of 行, appears on the left side of characters (SKIP-1-3-x). No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
+
+### +3 Strokes
+- ¡𭛝! - 違法字
 
 ### +4 Strokes
 1. <ruby>[彷](../../characters/彷.md)<rt>ㄆㄚㄫ</rt></ruby> - resemble
@@ -27,6 +30,7 @@ tags:
 9. <ruby>[律](../../characters/律.md)<rt>ㄌㄨㄊ</rt></ruby> - statute
 10. <ruby>[後](../../characters/後%20(char).md)<rt>ㄏㄨㄛ</rt></ruby> - after
 11. <ruby>[徊](../../characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> - loiter
+- ¡很! - 違法字
 
 ### +7 Strokes
 12. <ruby>[徐](../../characters/徐.md)<rt>ㄙ⼄</rt></ruby> - slowly
@@ -58,17 +62,11 @@ tags:
 - 徵 --> 征
 - 德 --> 徳
 - 徹 --> 澈
+- 徵 --> 徴
+- ¡㣴! - 違法字
 
 ### +14 Strokes
 25. <ruby>[徽](../../characters/徽.md)<rt>ㄏㄨㄧ</rt></ruby> - badge
-
-### Aliases
-- 徵 --> 徴
-
-### Forbidden
-- 㣴 - 국자: Korean-coined hanja for '황' ('the first note, 황종 (黃鐘, hwangjong) of the Shí-èr-lǜ musical scale')
-- 很 - 官话: HSK/1, but we use 頗 instead.  It's use as a meaningless filler in Mandarin makes it unsuitable as "very".
-- 𭛝 - 異体字: A handwritten (ゲバ字) form used for 衛
 
 ## Data check
 ```dataview
