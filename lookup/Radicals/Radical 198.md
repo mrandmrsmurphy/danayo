@@ -1,23 +1,30 @@
 ---
 size: 5
 radical: 鹿
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 198 is 鹿, "deer", 11 strokes. It is a pictograph of a deer with antlers, head, body, and legs, and heads the names of deer and related animals. The mythical 麒 and 麟 (the male and female qilin) and the abstract 麗 "beautiful" are filed here too, as well as 麓 "foot of a mountain", a forest-and-deer compound.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[鹿](../../characters/鹿%20(char).md)<rt>ㄌㄛㄎ</rt></ruby> - deer
+
+### +7 Strokes
+- 麐 --> 麟
+
+### +8 Strokes
 2. <ruby>[麒](../../characters/麒.md)<rt>ㄍㄧ</rt></ruby> - qilin
 3. <ruby>[麓](../../characters/麓.md)<rt>ㄌㄛㄎ</rt></ruby> - mountain foot
 4. <ruby>[麗](../../characters/麗.md)<rt>ㄌㄝ</rt></ruby> - beautiful
-5. <ruby>[麟](../../characters/麟.md)<rt>ㄌㄧㄋ</rt></ruby> - qilin
 
-### Aliases
+### +10 Strokes
 - 麝 --> 射
-- 麐 --> 麟
+
+### +12 Strokes
+5. <ruby>[麟](../../characters/麟.md)<rt>ㄌㄧㄋ</rt></ruby> - qilin
 
 ## Data check
 ```dataview

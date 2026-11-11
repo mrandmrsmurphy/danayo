@@ -1,17 +1,18 @@
 ---
 size: 1
 radical: 黄
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 201 is 黃 (written 黄 in Japanese), "yellow", 12 strokes. It was originally a pictograph of a person wearing a pendant of yellow jade, later narrowed to the color itself. Yellow holds a central place in East Asian cosmology as the color of earth and of the legendary Yellow Emperor (黃帝), and later became the color reserved for imperial dress.
 
-## Characters
-### Used
+## Strokes
+
+### -1 Stroke
 1. <ruby>[黄](../../characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
 
-### Aliases
+### +0 Strokes
 - 黃 --> 黄
 
 ## Data check

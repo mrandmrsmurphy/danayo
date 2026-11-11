@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 201 (黃)**: converted the `## Characters` / `### Used` / `### Aliases` layout to `## Strokes`, counted from the radical's Kangxi 12 strokes (黄, 11 strokes, in a `### -1 Stroke` group as 才 is under 手; 黃 → 黄 filed under +0), stamped.
+- **Radical 200 (麻)**: converted the `## Characters` / `### Used` / `### Forbidden` layout to the standard +N Strokes groups (麻 +0; ¡麼! +3 and ¡麿! +7 as 違法字 lines; the annotated `麽 --> variant of 麼, forbidden with it` kept beside 麼 in +3, since 麽 is only listed as a variant on the forbidden list), stamped.
+- **Radical 199 (麦)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups, counted from the radical's Kangxi 11 strokes (麦, 7 strokes, in a `### -4 Strokes` group as 才 is under 手; 麺 +5; five redirects filed by stroke count), stamped.
+- **Radical 198 (鹿)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (鹿 +0, 麒 麓 麗 +8, 麟 +12, counted from the radical's Kangxi 11 strokes; 麝 → 射 and 麐 → 麟 filed by stroke count), stamped.
 - **Radical 197 (鹵)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (鹵 +3 from its `stroke_count` of 14, 鹸 +8, counted from the radical's Kangxi 11 strokes; 鹹 → 咸, 鹽 → 塩, 鹼 → 鹸 filed by stroke count), stamped.
 - **Radical 196 (鳥)**: merged the redirect lines under seven malformed `### +-N Strokes` headings into negative groups ahead of +0; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (19 lines, six forbidden glyphs as 違法字 lines), stamped.
 - **Radical 195 (魚)**: fixed the malformed heading `### +-3 Strokes` to `### -3 Strokes`; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (30 lines: four redirects and 26 forbidden glyphs as 違法字 lines); the redirects `鯛 --> 周`, `鱶 --> 養` and `鯰 --> 鮎` became `¡X! - 違法字` lines because those glyphs are on the forbidden list; stamped.
