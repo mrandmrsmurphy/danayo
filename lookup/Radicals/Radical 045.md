@@ -1,7 +1,7 @@
 ---
 size: 2
 radical: 屮
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 tags: [lookup]
 
 ---

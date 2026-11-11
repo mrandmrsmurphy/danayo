@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 24
 radical: 巾
 tags:
@@ -23,10 +23,12 @@ tags:
 
 ### +3 Strokes
 4. <ruby>[帆](../../characters/帆%20(char).md)<rt>ㄆㄚㄇ</rt></ruby> - sail
+- 师 --> 師
 
 ### +4 Strokes
 5. <ruby>[希](../../characters/希.md)<rt>ㄏㄧㄜ</rt></ruby> - rare
 - 帐 --> 帳
+- 帋 --> 紙
 
 ### +5 Strokes
 6. <ruby>[帚](../../characters/帚.md)<rt>ㄐㄨ</rt></ruby> - broom
@@ -52,6 +54,7 @@ tags:
 16. <ruby>[常](../../characters/常.md)<rt>ㄙ⼘ㄫ</rt></ruby> - common
 - 帶 --> 帯
 - 帷 --> 帳
+- 帼 --> 国
 
 ### +9 Strokes
 17. <ruby>[帽](../../characters/帽.md)<rt>ㄇㄚㄨ</rt></ruby> - cap
@@ -59,10 +62,14 @@ tags:
 19. <ruby>[幇](../../characters/幇.md)<rt>ㄅㄚㄫ</rt></ruby> - help
 - 幄 --> 帳
 - 幈 --> 屏
+- 幂 --> 冪
 
 ### +10 Strokes
 20. <ruby>[幌](../../characters/幌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - curtain
 21. <ruby>[幕](../../characters/幕%20(char).md)<rt>ㄇㄚㄎ</rt></ruby> - curtain
+
+### +11 Strokes
+- 幗 --> 国
 
 ### +12 Strokes
 22. <ruby>[幡](../../characters/幡.md)<rt>ㄈㄛㄋ</rt></ruby> - flag
@@ -71,13 +78,6 @@ tags:
 
 ### +14 Strokes
 - 幫 --> 幇
-
-### Aliases
-- 幂 --> 冪
-- 帋 --> 紙
-- 幗 --> 国
-- 帼 --> 国
-- 师 --> 師
 
 ## Data check
 ```dataview

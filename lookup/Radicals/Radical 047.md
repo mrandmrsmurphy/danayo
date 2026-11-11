@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 6
 radical: 巛
 tags: [lookup]
@@ -31,7 +31,7 @@ tags: [lookup]
 ### +12 Strokes
 - 巤 --> 鬣
 
-### Aliases
+### +21 Strokes
 - 𢀎 --> 河
 
 ## Data check

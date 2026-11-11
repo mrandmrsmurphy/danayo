@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 6
 radical: 工
 tags: [lookup]
@@ -18,8 +18,16 @@ tags: [lookup]
 3. <ruby>[巧](../../characters/巧.md)<rt>ㄎ⼘ㄨ</rt></ruby> - skillful
 4. <ruby>[巨](../../characters/巨.md)<rt>ㄍ⼄</rt></ruby> - giant
 
+### +3 Strokes
+- ¡巪! - 違法字
+- ¡𪩣! - 違法字
+
 ### +4 Strokes
 5. <ruby>[巫](../../characters/巫.md)<rt>ㄇㄨ</rt></ruby> - shaman
+
+### +6 Strokes
+- ¡巬! - 違法字
+- ¡巭! - 違法字
 
 ### +7 Strokes
 6. <ruby>[差](../../characters/差.md)<rt>ㄑㄚ</rt></ruby> - discriminate
@@ -27,12 +35,8 @@ tags: [lookup]
 ### +12 Strokes
 - 㠮 --> 肛
 
-### Forbidden
-- 巪 - 국자: Personal name: 꺽 from 1562
-- 巬 - 국자: Korean-coined hanja for '부' ('worker')
-- 巭 - 국자: Variant of 巬, 부 ('worker')
-- 𪩣 - 国字: A ligature of 大工, 'carpenter'
-- 𪩩 - 国字: An alternative form of 一 'one'
+### +14 Strokes
+- ¡𪩩! - 違法字
 
 ## Data check
 ```dataview

@@ -1,7 +1,7 @@
 ---
 size: 7
 radical: 己
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 tags: [lookup]
 
 ---
@@ -19,7 +19,7 @@ tags: [lookup]
 7. <ruby>[巽](../../characters/巽.md)<rt>ㄙㄛㄋ</rt></ruby> - southeast
 
 ### Forbidden
-- 巼 - 국자: Korean-coined hanja for '팟'; place name
+- ¡巼! - 違法字
 
 ### Aliases
 - 㠯 --> 以

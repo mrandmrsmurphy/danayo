@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 24
 radical: 广
 tags:
@@ -27,6 +27,7 @@ tags:
 5. <ruby>[床](../../characters/床%20(char).md)<rt>ㄙ⼘ㄇ</rt></ruby> - bed
 - 库 --> 庫
 - 庐 --> 廬
+- 应 --> 応
 
 ### +5 Strokes
 6. <ruby>[店](../../characters/店.md)<rt>ㄉㄝㄇ</rt></ruby> - shop
@@ -43,6 +44,7 @@ tags:
 ### +7 Strokes
 11. <ruby>[庫](../../characters/庫.md)<rt>ㄎㄛ</rt></ruby> - storehouse
 12. <ruby>[庭](../../characters/庭.md)<rt>ㄉㄝㄫ</rt></ruby> - courtyard
+- 座 --> 坐
 
 ### +8 Strokes
 13. <ruby>[庵](../../characters/庵.md)<rt>ㄚㄇ</rt></ruby> - greenhouse
@@ -59,10 +61,12 @@ tags:
 - 廄 --> 厩
 - 廐 --> 厩
 - 庽 --> 寓
+- 廁 --> 厠
 
 ### +10 Strokes
 20. <ruby>[廈](../../characters/廈.md)<rt>ㄏㄚ</rt></ruby> - building
 21. <ruby>[廉](../../characters/廉%20(char).md)<rt>ㄌ⼶ㄇ</rt></ruby> - upright
+- 𢊍 --> 厨
 
 ### +11 Strokes
 - 廏 --> 厩
@@ -74,6 +78,8 @@ tags:
 - 廞 --> 嵌
 - 廣 --> 広
 - 廢 --> 廃
+- 廚 --> 厨
+- ¡廤! - 違法字
 
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack
@@ -83,16 +89,6 @@ tags:
 
 ### +22 Strokes
 - 廳 --> 庁
-
-### Aliases
-- 廁 --> 厠
-- 廚 --> 厨
-- 𢊍 --> 厨
-- 座 --> 坐
-- 应 --> 応
-
-### Forbidden
-- 廤 - 국자: Korean-coined hanja for '곶' ('to place')
 
 ## Data check
 ```dataview
