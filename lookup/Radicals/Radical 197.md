@@ -1,19 +1,24 @@
 ---
 size: 2
 radical: 鹵
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 197 is 鹵, "saline soil", 11 strokes. It pictures salt crystals in a basket or pan, and by extension salt flats and brine. In compounds it carries the sense of salt or alkali, as in 鹸 (alkali, the base for soap).
 
-## Characters
-### Used
+## Strokes
+
+### +3 Strokes
 1. <ruby>[鹵](../../characters/鹵.md)<rt>ㄌㄛㄊ</rt></ruby> - saline soil
+
+### +8 Strokes
 2. <ruby>[鹸](../../characters/鹸%20(char).md)<rt>ㄑㄝㄇ</rt></ruby> - alkali
 
-### Aliases
+### +9 Strokes
 - 鹹 --> 咸
+
+### +13 Strokes
 - 鹽 --> 塩
 - 鹼 --> 鹸
 

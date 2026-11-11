@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 18
 radical: 魚
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### +-3 Strokes
+### -3 Strokes
 - 鱼 --> 魚
 
 ### +0 Strokes
@@ -23,6 +23,7 @@ tags: [lookup]
 - 鲇 --> 鮎
 - 鲐 --> 鮐
 - 鲍 --> 鮑
+- ¡魞! - 違法字
 
 ### +3 Strokes
 - 鲜 --> 鮮
@@ -34,6 +35,7 @@ tags: [lookup]
 3. <ruby>[魶](../../characters/魶%20(char).md)<rt>ㄋㄨㄆ</rt></ruby> - giant salamander
 - 鲣 --> 堅
 - 鲤 --> 鯉
+- ¡魸! - 違法字
 
 ### +5 Strokes
 4. <ruby>[鮎](../../characters/鮎%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sweetfish
@@ -43,6 +45,10 @@ tags: [lookup]
 - 鲭 --> 鯖
 - 鲲 --> 鯤
 - 鲸 --> 鯨
+- ¡鮓! - 違法字
+- ¡鮖! - 違法字
+- ¡鮗! - 違法字
+- ¡𫙕! - 違法字
 
 ### +6 Strokes
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark
@@ -51,6 +57,8 @@ tags: [lookup]
 - 鮟 --> 安
 - 鮭 --> 圭
 - 鳄 --> 鰐
+- ¡鮨! - 違法字
+- ¡鮱! - 違法字
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi
@@ -58,15 +66,22 @@ tags: [lookup]
 - 鳍 --> 鰭
 - 鯏 --> 利
 - 鳏 --> 鰥
+- 鮹 --> 章
+- 鯎 --> 成
+- 鯑 --> 希
 
 ### +8 Strokes
 10. <ruby>[鯖](../../characters/鯖.md)<rt>ㄑㄝㄫ</rt></ruby> - mackerel
 11. <ruby>[鯤](../../characters/鯤.md)<rt>ㄍㄛㄋ</rt></ruby> - mythical fish
 12. <ruby>[鯨](../../characters/鯨.md)<rt>ㄍ⼶ㄫ</rt></ruby> - whale
-- 鯛 --> 周
 - 鳗 --> 曼
-- 鯰 --> 鮎
 - 鳖 --> 鼈
+- ¡鯛! - 違法字
+- ¡鯥! - 違法字
+- ¡鯰! - 違法字
+- ¡鯱! - 違法字
+- ¡鯳! - 違法字
+- ¡𩸕! - 違法字
 
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
@@ -75,11 +90,16 @@ tags: [lookup]
 - 鰒 --> 腹
 - 鰕 --> 蝦
 - 鳞 --> 鱗
+- ¡鰘! - 違法字
+- ¡鰚! - 違法字
 
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin
 16. <ruby>[鰥](../../characters/鰥.md)<rt>ㄍ⺢ㄇ</rt></ruby> - widower
 - 鰩 --> 鱏
+- ¡鰯! - 違法字
+- ¡𫠍! - 違法字
+- ¡鰰! - 違法字
 
 ### +11 Strokes
 - 鰹 --> 堅
@@ -89,6 +109,7 @@ tags: [lookup]
 - 鰻 --> 曼
 - 鱈 --> 雪
 - 鱉 --> 鼈
+- 鱆 --> 章
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
@@ -96,49 +117,23 @@ tags: [lookup]
 - 鱒 --> 尊
 - 鱘 --> 鱏
 - 鱝 --> 鱏
+- ¡鱛! - 違法字
 
 ### +13 Strokes
 - 鱧 --> 豊
+- ¡鱫! - 違法字
+- ¡鱜! - 違法字
+- ¡鱩! - 違法字
+- ¡鱪! - 違法字
 
 ### +14 Strokes
-- 鱶 --> 養
+- ¡鱰! - 違法字
+
+### +15 Strokes
+- ¡鱶! - 違法字
 
 ### +16 Strokes
 - 鱷 --> 鰐
-
-### Aliases
-- 鱆 --> 章
-- 鮹 --> 章
-- 鯎 --> 成
-- 鯑 --> 希
-
-### Forbidden
-- 鱶 - 国字: 国字 for 'shark', ふか
-- 鮨 - 国字: 'sushi'; an old Chinese character (minced fish) that Japan reused for sushi, and Chinese now borrows back
-- 鮓 - 官话: Salted and fermented fish (the precursor of narezushi); Cantonese 'of poor quality'
-- 鮖 - 国字: Japanese fluvial sculpin (Cottus pollux).  Use 杜父魚
-- 鰯 - 国字: 'sardines'.  Use 沙丁魚 instead.  In the 日本人名用漢字.
-- 鱛 - 国字: 'lizardfish'.  Use 狗母魚.
-- 魞 - 国字: 'weir, trap'.  Use 漁具
-- 鯛 - 混乱: Sea bream, a real character that can be broken into parts; variant 鲷
-- 𫠍 - 国字: 'Japanese needlefish'
-- 魸 - 国字: Amur catfish (Silurus asotus). なまず (namazu).  Use 鮎
-- 鮗 - 国字: Japanese-invented character for dotted gizzard shad, Konosirus punctatus, Use 鱅!  Ignore C's 鿴!
-- 鱰 - 国字: Japanese-invented character. Mahi-mahi
-- 鯥 - 国字: 'gnome fish'
-- 鯰 - 国字: 'cat fish' Use 鮎
-- 鯱 - 国字: 'killer whale', 'orca', 'shachihoko' -> [[虎鯨]]
-- 鮱 - 国字: 'adult flathead mullet'
-- 𫙕 - 国字: conger.  Just use 弸長魚
-- 鰰 - 国字: 'sailfin sandfish' (はたはた)
-- 鱫 - 国字: 国字 (魚 + 愛); Wiktionary records no definition
-- 鰘 - 国字: むろあじ (a Japanese fish name).
-- 鰚 - 国字: Japanese-invented character.
-- 鱜 - 国字: きょう.
-- 鱩 - 国字: hatahata, Sailfin Sandfish.
-- 鱪 - 国字: mahi-mahi, dolphinfish.
-- 鯳 - 国字: Alaska pollock; 魚 + 底 ('bottom, pelagic')
-- 𩸕 - 国字: Silver-stripe round herring, daggertooth pike conger; 魚 + 長 ('long')
 
 ## Data check
 ```dataview

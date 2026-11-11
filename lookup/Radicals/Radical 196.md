@@ -3,33 +3,32 @@ size: 22
 radical: 鳥
 tags:
   - lookup
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 ---
 > [[Radicals]]
 > Radical 196 is 鳥, "bird", 11 strokes (simplified 鸟). It pictures a long-tailed bird, and heads the names of birds and words about plumage and flight.
 
 ## Strokes
 
-### +-6 Strokes
+### -6 Strokes
 - 鸟 --> 鳥
 
-### +-3 Strokes
-- 鸢 --> 鳶
+### -4 Strokes
+- 鸠 --> 鳩
+- 鸡 --> 鶏
 
-### +-2 Strokes
+### -3 Strokes
+- 鸢 --> 鳶
+- 鸣 --> 鳴
+
+### -2 Strokes
 - 鸥 --> 鴎
 
-### +-1 Strokes
+### -1 Stroke
 - 鸳 --> 鴛
-
-### +-1 Strokes
 - 鸯 --> 鴦
-
-### +-1 Strokes
 - 鸭 --> 鴨
-
-### +-4 Strokes
-- 鸠 --> 鳩
+- 𫛡 --> 鴔
 
 ### +0 Strokes
 1. <ruby>[鳥](../../characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
@@ -44,6 +43,8 @@ date-last-perfect: 2026-10-05
 2. <ruby>[鳩](../../characters/鳩.md)<rt>ㄎ⼜</rt></ruby> - pigeon
 - 鳯 --> 鳳
 - 鹉 --> 鵡
+- 鳫 --> 雁
+- ¡鳰! - 違法字
 
 ### +3 Strokes
 3. <ruby>[鳳](../../characters/鳳.md)<rt>ㄆㄨㄫ</rt></ruby> - phoenix
@@ -54,6 +55,7 @@ date-last-perfect: 2026-10-05
 6. <ruby>[鴎](../../characters/鴎%20(char).md)<rt>ㄛㄨ</rt></ruby> - seagull
 - 鴉 --> 烏
 - 鹤 --> 鶴
+- 鴈 --> 雁
 
 ### +5 Strokes
 7. <ruby>[鴔](../../characters/鴔.md)<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
@@ -62,10 +64,14 @@ date-last-perfect: 2026-10-05
 10. <ruby>[鴨](../../characters/鴨%20(char).md)<rt>ㄚㄆ</rt></ruby> - duck
 - 鴠 --> 蛋
 - 鹦 --> 鸚
+- ¡鴫! - 違法字
 
 ### +6 Strokes
 11. <ruby>[鴻](../../characters/鴻.md)<rt>ㄏㄛㄫ</rt></ruby> - swan
 12. <ruby>[鵉](../../characters/鵉.md)<rt>ㄌㄚㄋ</rt></ruby> - luan
+- 鹫 --> 就
+- ¡鵆! - 違法字
+- ¡鵇! - 違法字
 
 ### +7 Strokes
 13. <ruby>[鵖](../../characters/鵖.md)<rt>ㄅㄨㄆ</rt></ruby> - hoopoe
@@ -80,11 +86,22 @@ date-last-perfect: 2026-10-05
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot
 17. <ruby>[鵰](../../characters/鵰%20(char).md)<rt>ㄑㄨㄛ</rt></ruby> - eagle
 18. <ruby>[鶏](../../characters/鶏%20(char).md)<rt>ㄍㄝㄧ</rt></ruby> - chicken
+- 鵬 --> 朋
+- 䳟 --> 明
+- ¡鶎! - 違法字
+
+### +9 Strokes
+- ¡鶫! - 違法字
 
 ### +10 Strokes
 19. <ruby>[鶴](../../characters/鶴%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - crane
 - 鷁 --> 益
 - 鶺 --> 脊
+- 鷄 --> 鶏
+- 鶵 --> 雛
+- 鷆 --> 真
+- 鷏 --> 真
+- 鶸 --> 弱
 
 ### +11 Strokes
 - 鹳 --> 鸛
@@ -110,29 +127,6 @@ date-last-perfect: 2026-10-05
 
 ### +19 Strokes
 - 鸞 --> 鵉
-
-### Aliases
-- 鵬 --> 朋
-- 鷄 --> 鶏
-- 鸡 --> 鶏
-- 鶵 --> 雛
-- 𫛡 --> 鴔
-- 䳟 --> 明
-- 鷆 --> 真
-- 鷏 --> 真
-- 鴈 --> 雁
-- 鳫 --> 雁
-- 鹫 --> 就
-- 鶸 --> 弱
-- 鸣 --> 鳴
-
-### Forbidden
-- 鳰 - 国字: 'grebe'.  Use 鸊鷉 or 浮巣鳥 or 息長鳥?
-- 鶫 - 国字: 'thrush' (つぐみ), a slight simplification of 鶇
-- 鶎 - 国字: 国字 (宗 + 鳥); Wiktionary records no definition
-- 鴫 - 国字: Japanese-invented character, snipe or sandpiper.
-- 鵆 - 国字: Plover.
-- 鵇 - 国字: Japanese-invented.
 
 ## Data check
 ```dataview

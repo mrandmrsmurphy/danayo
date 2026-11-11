@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 197 (鹵)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (鹵 +3 from its `stroke_count` of 14, 鹸 +8, counted from the radical's Kangxi 11 strokes; 鹹 → 咸, 鹽 → 塩, 鹼 → 鹸 filed by stroke count), stamped.
+- **Radical 196 (鳥)**: merged the redirect lines under seven malformed `### +-N Strokes` headings into negative groups ahead of +0; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (19 lines, six forbidden glyphs as 違法字 lines), stamped.
+- **Radical 195 (魚)**: fixed the malformed heading `### +-3 Strokes` to `### -3 Strokes`; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (30 lines: four redirects and 26 forbidden glyphs as 違法字 lines); the redirects `鯛 --> 周`, `鱶 --> 養` and `鯰 --> 鮎` became `¡X! - 違法字` lines because those glyphs are on the forbidden list; stamped.
+- **Radical 194 (鬼)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (鬼 +0, 魁 and 魂 +4, 魄 and 魅 +5, 魏 +8, 魑 and 魔 +11, counted from the radical's Kangxi 10 strokes; five redirects filed by stroke count), stamped.
+- **Radical 193 (鬲)**: converted the `## Characters` / `### Note` / `### Aliases` layout to `## Strokes` (no characters are filed here; 𩱦 → 炒 and 鬻 → 粥 filed by stroke count); removed `鬲 --> 隔` and the note's claim that 鬲 is an alias of 隔, because 隔's page lists no aliases; stamped.
 - **Radical 192 (鬯)**: converted the `## Characters` / `### Note` / `### Aliases` layout to `## Strokes` (no characters are filed here; the note is kept above the groups; 鬱 and 鬰 → 欝 filed by stroke count), stamped.
 - **Radical 191 (鬥)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (䦧 +6, counted from the radical's Kangxi 10 strokes; eight redirects filed by stroke count), stamped.
 - **Radical 190 (髟)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (髪 +4, 髯 +5, 鬚 +12, 鬣 +15, counted from the radical's Kangxi 10 strokes; eight redirects and ¡髭! filed by stroke count), stamped.
