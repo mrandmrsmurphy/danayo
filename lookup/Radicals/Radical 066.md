@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 21
 radical: 攴
 tags: [lookup]
@@ -12,9 +12,11 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[攴](../../characters/攴.md)<rt>ㄆㄨㄎ</rt></ruby> - knock
+- 攵 --> 攴
 
 ### +2 Strokes
 - 攷 --> 考
+- 收 --> 収
 
 ### +3 Strokes
 2. <ruby>[改](../../characters/改%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - redo
@@ -44,6 +46,7 @@ tags: [lookup]
 - 敍 --> 叙
 - 敘 --> 叙
 - 啟 --> 啓
+- 敎 --> 教
 
 ### +8 Strokes
 13. <ruby>[敢](../../characters/敢.md)<rt>ㄍㄚㄇ</rt></ruby> - dare to
@@ -66,6 +69,7 @@ tags: [lookup]
 
 ### +12 Strokes
 21. <ruby>[整](../../characters/整%20(char).md)<rt>ㄐㄝㄫ</rt></ruby> - orderly
+- ¡敾! - 違法字
 
 ### +13 Strokes
 - 斂 --> 㪘
@@ -76,14 +80,6 @@ tags: [lookup]
 ## Other
 - 肇 has this radical as a component, but is not listed under this radical.
 - 赦 has this radical as a component, but is not listed under this radical.
-
-### Aliases
-- 收 --> 収
-- 攵 --> 攴
-- 敎 --> 教
-
-### Forbidden
-- 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名
 
 ## Data check
 ```dataview

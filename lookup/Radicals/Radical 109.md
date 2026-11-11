@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 29
 radical: 目
 tags:
@@ -12,6 +12,9 @@ tags:
 
 ### +0 Strokes
 1. <ruby>[目](../../characters/目%20(char).md)<rt>ㄇㄨㄎ</rt></ruby> - eye
+
+### +2 Strokes
+- ¡盯! - 違法字
 
 ### +3 Strokes
 2. <ruby>[盲](../../characters/盲.md)<rt>ㄇㄚㄫ</rt></ruby> - blind
@@ -26,10 +29,12 @@ tags:
 9. <ruby>[看](../../characters/看%20(char).md)<rt>ㄎㄚㄋ</rt></ruby> - watch over
 10. <ruby>[県](../../characters/県%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - county
 - 眨 --> 𦚖
+- 眀 --> 明
 
 ### +5 Strokes
 11. <ruby>[眠](../../characters/眠.md)<rt>ㄇㄝㄇ</rt></ruby> - hibernate
 12. <ruby>[真](../../characters/真%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> - true
+- 眞 --> 真
 
 ### +6 Strokes
 13. <ruby>[眺](../../characters/眺.md)<rt>ㄊㄛㄨ</rt></ruby> - stare
@@ -50,6 +55,7 @@ tags:
 20. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
 - 睪 --> 睾
 - 睪 --> 尺
+- ¡睜! - 違法字
 
 ### +9 Strokes
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
@@ -59,6 +65,7 @@ tags:
 ### +10 Strokes
 - 瞑 --> 冥
 - 瞒 --> 𥈞
+- ¡瞇! - 違法字
 
 ### +11 Strokes
 - 瞢 --> 夢
@@ -70,6 +77,8 @@ tags:
 25. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
 26. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
 27. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
+- ¡瞧! - 違法字
+- ¡瞪! - 違法字
 
 ### +13 Strokes
 28. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
@@ -77,17 +86,8 @@ tags:
 - 瞹 --> 曖
 - 矇 --> 蒙
 
-### Aliases
-- 眀 --> 明
-- 眞 --> 真
+### +15 Strokes
 - 矍 --> 衢
-
-### Forbidden
-- 睜 - 官话: HSK/2.
-- 盯 - 官话: HSK/3, Chinese only.
-- 瞇 - 官话: HSK/3.
-- 瞧 - 官话: HSK/2, Chinese only.
-- 瞪 - 官话: HSK/3.
 
 ## Data check
 ```dataview
