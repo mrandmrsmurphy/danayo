@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 162
 radical: 木
 tags: [lookup]
@@ -270,7 +270,6 @@ tags: [lookup]
 133. <ruby>[槙](../../characters/槙.md)<rt>ㄉㄝㄋ</rt></ruby> - tree tip
 134. <ruby>[模](../../characters/模.md)<rt>ㄇㄛ</rt></ruby> - imitate
 135. <ruby>[樺](../../characters/樺.md)<rt>ㄏ⺢</rt></ruby> - birch
-
 136. <ruby>[榜](../../characters/榜.md)<rt>ㄆㄚㄫ</rt></ruby> - posted list
 - 槕 --> 桌
 - 榎 --> 夏

@@ -4,6 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 076 (欠)**: verified (12 characters, groups and 8 alias-backed redirects correct), stamped; no content change.
+- **Radical 075 (木)**: verified (162 characters, groups and 116 redirect lines correct and alias-backed); removed one stray blank line in the numbered list, stamped.
+- **Radical 074 (月)**: moved the bottom Forbidden/Aliases blocks into the +N Strokes groups (朞 → 期, ¡膤! as a 違法字 line), stamped.
+- **Radical 073 (曰)**: verified (11 characters, groups and the 曾 → 曽 redirect correct); removed stray double blank lines, stamped.
+- **Radical 072 (日)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, stamped.
+- **Radical 071 (无)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (无 → 無 under +0, 既 under +6, 旣 → 既 under +7), stamped.
+- **Radical 070 (方)**: moved the bottom Forbidden block into the +N Strokes groups (¡旀!, ¡㫇!, ¡㫈!, ¡旕! as 違法字 lines), stamped.
+- **Radical 069 (斤)**: verified (7 characters, groups and the three redirects all correct), stamped; no content change.
+- **Radical 068 (斗)**: moved the bottom Forbidden block into the +N Strokes groups (¡㪲! and ¡㪳! as 違法字 lines), stamped.
 - **Radical 067 (文)**: verified (4 characters, groups and aliases all correct; no redirects needed), stamped; no content change.
 - **Radical 065 (支)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 支 was already present), stamped.
 - **Radical 064 (手)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, removed a stray blank line in the numbered list, stamped.

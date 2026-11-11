@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 60
 radical: 日
 tags: [lookup]
@@ -27,6 +27,7 @@ tags: [lookup]
 8. <ruby>[旱](../../characters/旱.md)<rt>ㄏㄚㄋ</rt></ruby> - drought
 - 旷 --> 広
 - 时 --> 時
+- ¡𬀧! - 違法字
 
 ### +4 Strokes
 9. <ruby>[旺](../../characters/旺.md)<rt>⺢ㄫ</rt></ruby> - flourish
@@ -59,6 +60,8 @@ tags: [lookup]
 - 昿 --> 広
 - 𫞂 --> 旺
 - 昻 --> 昂
+- 昸 --> 冬
+- 㫡 --> 冬
 
 ### +6 Strokes
 32. <ruby>[時](../../characters/時%20(char).md)<rt>ㄙㄧ</rt></ruby> - when
@@ -76,6 +79,7 @@ tags: [lookup]
 - 晝 --> 昼
 - 晧 --> 皓
 - 晚 --> 晩
+- 晟 --> 成
 
 ### +8 Strokes
 39. <ruby>[晩](../../characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby> - evening
@@ -89,6 +93,8 @@ tags: [lookup]
 - 𣈆 --> 晋
 - 暂 --> 暫
 - 晽 --> 林
+- ¡暃! - 違法字
+- ¡𪰪! - 違法字
 
 ### +9 Strokes
 47. <ruby>[暇](../../characters/暇.md)<rt>ㄏㄚ</rt></ruby> - spare time
@@ -111,6 +117,7 @@ tags: [lookup]
 55. <ruby>[暫](../../characters/暫.md)<rt>ㄐㄚㄇ</rt></ruby> - temporary
 56. <ruby>[暴](../../characters/暴%20(char).md)<rt>ㄅㄛㄎ</rt></ruby> - violent
 - 曏 --> 向
+- 𣉻 --> 知
 
 ### +12 Strokes
 57. <ruby>[曇](../../characters/曇%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - overcast
@@ -132,17 +139,6 @@ tags: [lookup]
 
 ### +19 Strokes
 - 曬 --> 晒
-
-### Aliases
-- 昸 --> 冬
-- 㫡 --> 冬
-- 𣉻 --> 知
-- 晟 --> 成
-
-### Forbidden
-- 暃 - 幽霊文字: "the color of the sun"
-- 𬀧 - 国字: Abbreviation for 日下; used only in old place names such as 𬀧部 (Kusakabe)
-- 𪰪 - 国字: 'dawn' (日 + 來)
 
 ## Data check
 ```dataview

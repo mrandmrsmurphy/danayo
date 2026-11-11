@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 方
 tags: [lookup]
@@ -18,10 +18,13 @@ tags: [lookup]
 
 ### +5 Strokes
 3. <ruby>[施](../../characters/施.md)<rt>ㄙㄝ</rt></ruby> - implement
+- ¡旀! - 違法字
+- ¡㫈! - 違法字
 
 ### +6 Strokes
 4. <ruby>[旁](../../characters/旁.md)<rt>ㄅㄚㄫ</rt></ruby> - right part of a character
 5. <ruby>[旅](../../characters/旅.md)<rt>ㄌ⼄</rt></ruby> - travel
+- ¡㫇! - 違法字
 
 ### +7 Strokes
 6. <ruby>[旋](../../characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> - revolve
@@ -30,15 +33,10 @@ tags: [lookup]
 
 ### +9 Strokes
 - 旒 --> 㐬
+- ¡旕! - 違法字
 
 ### +10 Strokes
 8. <ruby>[旗](../../characters/旗.md)<rt>ㄎㄧ</rt></ruby> - banner
-
-### Forbidden
-- 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
-- 㫇 - 국자: Korean-coined hanja for '억', used for transliteration
-- 㫈 - 국자: Korean-coined hanja for '엉', used for transliteration
-- 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
 
 ## Data check
 ```dataview

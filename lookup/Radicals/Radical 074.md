@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 11
 radical: 月
 tags: [lookup]
@@ -33,15 +33,13 @@ tags: [lookup]
 ### +8 Strokes
 9. <ruby>[朝](../../characters/朝%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - morning
 10. <ruby>[期](../../characters/期%20(char).md)<rt>ㄎㄧ</rt></ruby> - period
+- 朞 --> 期
+
+### +11 Strokes
+- ¡膤! - 違法字
 
 ### +16 Strokes
 11. <ruby>[朧](../../characters/朧.md)<rt>ㄌㄛㄫ</rt></ruby> - hazy
-
-### Forbidden
-- 膤 - 国字: 月+雪; 国字 for 'snow', 'snow-white flesh'
-
-### Aliases
-- 朞 --> 期
 
 ## Data check
 ```dataview

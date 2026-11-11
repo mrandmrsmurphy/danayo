@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 无
 tags: [lookup]
 
@@ -8,12 +8,15 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 71 is 无, "not" or "none". 既 is the only character classified here.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
+- 无 --> 無
+
+### +6 Strokes
 1. <ruby>[既](../../characters/既.md)<rt>ㄍㄧㄜ</rt></ruby> - already
 
-### Aliases
-- 无 --> 無
+### +7 Strokes
 - 旣 --> 既
 
 ## Data check

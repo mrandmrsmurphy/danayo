@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 11
 radical: 曰
 tags: [lookup]
@@ -15,7 +15,6 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[曲](../../characters/曲.md)<rt>ㄎ⼄ㄎ</rt></ruby> - tune
-
 3. <ruby>[曳](../../characters/曳.md)<rt>⼶</rt></ruby> - trail
 
 ### +3 Strokes
@@ -29,7 +28,6 @@ tags: [lookup]
 
 ### +7 Strokes
 7. <ruby>[曽](../../characters/曽%20(char).md)<rt>ㄐㄜㄫ</rt></ruby> - great-
-
 8. <ruby>[曼](../../characters/曼.md)<rt>ㄇㄚㄋ</rt></ruby> - long
 9. <ruby>[曹](../../characters/曹.md)<rt>ㄐㄚㄨ</rt></ruby> - official
 

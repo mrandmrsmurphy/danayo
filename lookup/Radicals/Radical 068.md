@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 5
 radical: 斗
 tags: [lookup]
@@ -12,6 +12,12 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[斗](../../characters/斗%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - peck
+
+### +1 Stroke
+- ¡㪳! - 違法字
+
+### +2 Strokes
+- ¡㪲! - 違法字
 
 ### +6 Strokes
 2. <ruby>[料](../../characters/料.md)<rt>ㄌ⼘ㄨ</rt></ruby> - material
@@ -27,10 +33,6 @@ tags: [lookup]
 
 ### +10 Strokes
 5. <ruby>[斡](../../characters/斡.md)<rt>⺢ㄊ</rt></ruby> - revolve
-
-### Forbidden
-- 㪲 - 국자: Korean-coined hanja for '둑', used in personal and place names
-- 㪳 - 국자: Korean-coined hanja for '둥', seen in names of slaves and maidservants in ancient documents
 
 ## Data check
 ```dataview
