@@ -10,7 +10,7 @@ tags:
 
 ## Strokes
 
-### +-2 Strokes
+### -2 Strokes
 - ¡龷! - 違法字
 
 ### -1 Stroke

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 69
 radical: 辵
 tags: [lookup]
@@ -10,11 +10,21 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 边 --> 辺
+### -3 Strokes
+- ¡辷! - 違法字
 
-### +-2 Strokes
+### -2 Strokes
 - 辽 --> 遼
+- ¡辻! - 違法字
+- ¡込! - 違法字
+
+### -1 Stroke
+- 边 --> 辺
+- 过 --> 過
+- 达 --> 達
+- ¡辿! - 違法字
+- ¡𨑕! - 違法字
+- ¡﨤! - 違法字
 
 ### +0 Strokes
 - 进 --> 進
@@ -24,11 +34,14 @@ tags: [lookup]
 - 远 --> 遠
 - 迁 --> 遷
 - 迈 --> 邁
+- 连 --> 連
+- ¡迚! - 違法字
 
 ### +1 Stroke
 - 迦 --> 珈
 - 这 --> 這
 - 还 --> 還
+- ¡迲! - 違法字
 
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
@@ -41,6 +54,8 @@ tags: [lookup]
 4. <ruby>[迅](../../characters/迅.md)<rt>ㄙ⼜ㄋ</rt></ruby> - swift
 - 适 --> 適
 - 选 --> 選
+- 迴 --> 回
+- ¡逛! - 違法字
 
 ### +4 Strokes
 5. <ruby>[近](../../characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby> - near
@@ -54,6 +69,9 @@ tags: [lookup]
 10. <ruby>[迭](../../characters/迭.md)<rt>ㄉㄚㄊ</rt></ruby> - alternate
 11. <ruby>[述](../../characters/述.md)<rt>ㄙㄨㄊ</rt></ruby> - narrate
 - 遗 --> 遺
+- 䢠 --> 送
+- 逹 --> 達
+- ¡遖! - 違法字
 
 ### +6 Strokes
 12. <ruby>[迥](../../characters/迥%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - distant
@@ -65,6 +83,7 @@ tags: [lookup]
 18. <ruby>[迷](../../characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - be lost
 - 遞 --> 逓
 - 遙 --> 遥
+- ¡𨕫! - 違法字
 
 ### +7 Strokes
 19. <ruby>[透](../../characters/透%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - transparent
@@ -113,6 +132,7 @@ tags: [lookup]
 54. <ruby>[遠](../../characters/遠%20(char).md)<rt>ㄛㄋ</rt></ruby> - far
 55. <ruby>[遡](../../characters/遡.md)<rt>ㄙㄛ</rt></ruby> - go upstream
 56. <ruby>[遣](../../characters/遣%20(char).md)<rt>ㄎㄝㄋ</rt></ruby> - dispatch
+- 邇 --> 爾
 
 ### +11 Strokes
 57. <ruby>[遭](../../characters/遭.md)<rt>ㄐㄚㄨ</rt></ruby> - encounter
@@ -137,28 +157,6 @@ tags: [lookup]
 
 ### +20 Strokes
 69. <ruby>[邏](../../characters/邏.md)<rt>ㄌㄚ</rt></ruby> - patrol
-
-### Aliases
-- 迴 --> 回
-- 䢠 --> 送
-- 邇 --> 爾
-- 连 --> 連
-- 过 --> 過
-- 逹 --> 達
-- 达 --> 達
-
-### Forbidden
-- 迲 - 국자: 한문교육용기초한자/이름 - '겁'
-- 逛 - 官话: HSK/2 but Chinese only
-- 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
-- 辿 - 国字: On 日本人名用漢字, but relatively unused
-- 込 - 国字: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.
-- 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
-- 遖 - 国字: 国字 for 'appare' (excellent)
-- 𨕫 - 国字: Used only in the place name 𨕫ノ尾 (Shime-no-o) on Iki Island, Nagasaki
-- 辷 - 国字: 'to glide, skate, slip' (すべる)
-- 迚 - 国字: 'very, exceedingly, awfully' (とても)
-- 﨤 - 国字: 国字 (辶 + 及); Wiktionary records no definition in Japanese
 
 ## Data check
 ```dataview

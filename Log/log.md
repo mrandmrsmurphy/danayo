@@ -4,6 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 166 (里)**: verified (4 characters, groups and the 釐 → 厘 redirect correct), stamped; no content change.
+- **Radical 165 (釆)**: verified (3 characters, groups and the 釋 → 釈 redirect correct), stamped; no content change.
+- **Radical 164 (酉)**: moved the bottom Aliases block into the +N Strokes groups (醗, 醱 → 発, 醫 → 医), stamped.
+- **Radical 163 (邑)**: fixed the malformed heading `### +-2 Strokes` to `### -2 Strokes`; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (邨 → 村, 鄱 → 番 and ¡𨛗! as a 違法字 line), stamped.
+- **Radical 162 (辵)**: fixed the malformed headings `### +-1 Strokes` and `### +-2 Strokes` to `### -1 Stroke` and `### -2 Strokes` (ordered -3, -2, -1, +0; the -3 group was created by the migration); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (seven redirects and eleven forbidden glyphs as 違法字 lines), stamped.
+- **Radical 161 (辰)**: verified (3 characters, groups and 2 alias-backed redirects correct), stamped; no content change.
+- **Radical 160 (辛)**: verified (5 characters, groups and 5 alias-backed redirects correct), stamped; no content change.
+- **AIOS/scripts/radical_fmt.py**: `heading()` now writes negative groups as `### -1 Stroke` / `### -3 Strokes` instead of the malformed `### +-1 Strokes`, which `radical_migrate.py` and the alias/forbidden tools produced for characters with fewer strokes than the radical.
+- **Radical 159 (車)**: fixed the malformed headings `### +-2 Strokes`, `### +-1 Strokes` and a `### +-3 Strokes` that the migration tool created, to `### -2 Strokes`, `### -1 Stroke` and `### -3 Strokes`; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (nine redirects and ¡𨋳!, ¡𨏍! as 違法字 lines), stamped.
 - **Radical 158 (身)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (身 +0, 躬 +3; 躭 → 耽, 躳 → 躬 and eight forbidden glyphs as 違法字 lines filed by stroke count), stamped.
 - **Radical 157 (足)**: moved the bottom Forbidden/Aliases blocks into the +N Strokes groups (蹶 → 決, 躇 → 着 and six forbidden glyphs as 違法字 lines), stamped.
 - **Radical 156 (走)**: moved the bottom Forbidden block into the +N Strokes groups (¡趁!, ¡趟!, ¡趕! as 違法字 lines), stamped.
@@ -23,7 +32,7 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - **Radical 143 (血)**: verified (3 characters, groups and 4 alias-backed redirects correct), stamped; no content change.
 - **Radical 142 (虫)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (蚯, 蚬, 蛔, 蜚, 蠱, 蛊 redirects and ¡﨡!, ¡蟎! as 違法字 lines), stamped.
 - **Radical 141 (虍)**: moved the bottom Aliases block into the +N Strokes groups (號 → 号, 處 → 処), stamped.
-- **Radical 140 (艸)**: fixed the malformed heading `### +-1 Strokes` to `### -1 Stroke`; refiled 菲 (+5 → +8), 莽 (+6 → +7) and 茜 (+7 → +6) by their `stroke_count` (baseline 3, as the page intro states) and renumbered the entries; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (23 lines, nine forbidden glyphs as 違法字 lines), stamped.
+- **Radical 140 (艸)**: fixed the malformed headings `### +-1 Strokes` and `### +-2 Strokes` (the latter created by the migration tool) to `### -1 Stroke` and `### -2 Strokes`; refiled 菲 (+5 → +8), 莽 (+6 → +7) and 茜 (+7 → +6) by their `stroke_count` (baseline 3, as the page intro states) and renumbered the entries; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (23 lines, nine forbidden glyphs as 違法字 lines), stamped.
 - **Radical 139 (色)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (色 +0, 艶 +13), stamped.
 - **Radical 138 (艮)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (艮 +0, 良 +1, 艱 +11; 艰 → 艱 filed by stroke count); dropped the annotated duplicate `艰 --> simplified form of 艱`, stamped.
 - **Radical 137 (舟)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (舟 +0, 航 and 般 +4, 舵 舶 舷 船 +5, 艇 +7, 艙 +10, 艦 +15; 𦩻, 舱, 舰 redirects and ¡艘!, ¡艠! filed by stroke count), stamped.

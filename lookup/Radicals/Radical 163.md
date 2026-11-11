@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 24
 radical: 邑
 tags:
@@ -10,7 +10,7 @@ tags:
 
 ## Strokes
 
-### +-2 Strokes
+### -2 Strokes
 - 邓 --> 鄧
 
 ### +0 Strokes
@@ -22,6 +22,7 @@ tags:
 - 邮 --> 郵
 - 邹 --> 鄒
 - 邻 --> 隣
+- 邨 --> 村
 
 ### +1 Stroke
 6. <ruby>[邱](../../characters/邱.md)<rt>ㄍㄨ</rt></ruby> - hill
@@ -34,6 +35,7 @@ tags:
 11. <ruby>[郊](../../characters/郊.md)<rt>ㄍ⼄ㄨ</rt></ruby> - outskirts
 12. <ruby>[郎](../../characters/郎.md)<rt>ㄌㄚㄫ</rt></ruby> - youthful man
 - 郑 --> 鄭
+- ¡𨛗! - 違法字
 
 ### +3 Strokes
 13. <ruby>[郝](../../characters/郝.md)<rt>ㄏㄚㄎ</rt></ruby> - place name
@@ -61,17 +63,11 @@ tags:
 ### +7 Strokes
 22. <ruby>[鄙](../../characters/鄙.md)<rt>ㄈㄧㄜ</rt></ruby> - rustic
 - 鄰 --> 隣
+- 鄱 --> 番
 
 ### +8 Strokes
 23. <ruby>[鄧](../../characters/鄧.md)<rt>ㄉㄨㄫ</rt></ruby> - Teng
 24. <ruby>[鄭](../../characters/鄭.md)<rt>ㄐㄝㄫ</rt></ruby> - Zheng
-
-### Aliases
-- 邨 --> 村
-- 鄱 --> 番
-
-### Forbidden
-- 𨛗 - 国字: 国字 (邑 + 阝, 7 + 2 strokes); Wiktionary records no definition
 
 ## Data check
 ```dataview

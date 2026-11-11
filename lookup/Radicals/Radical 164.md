@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 22
 radical: 酉
 tags: [lookup]
@@ -49,6 +49,7 @@ tags: [lookup]
 16. <ruby>[醍](../../characters/醍.md)<rt>ㄊㄝㄧ</rt></ruby> - essential oil
 17. <ruby>[醐](../../characters/醐.md)<rt>ㄏㄛㄨ</rt></ruby> - purest cream
 18. <ruby>[醒](../../characters/醒.md)<rt>ㄙㄝㄫ</rt></ruby> - sober
+- 醗 --> 発
 
 ### +10 Strokes
 19. <ruby>[醜](../../characters/醜.md)<rt>ㄑㄨㄛ</rt></ruby> - ugly
@@ -57,6 +58,10 @@ tags: [lookup]
 ### +11 Strokes
 - 醩 --> 糟
 - 醬 --> 醤
+- 醫 --> 医
+
+### +12 Strokes
+- 醱 --> 発
 
 ### +13 Strokes
 21. <ruby>[醴](../../characters/醴.md)<rt>ㄌㄝㄧ</rt></ruby> - sweet water
@@ -64,11 +69,6 @@ tags: [lookup]
 
 ### +17 Strokes
 - 釀 --> 醸
-
-### Aliases
-- 醗 --> 発
-- 醱 --> 発
-- 醫 --> 医
 
 ## Data check
 ```dataview
