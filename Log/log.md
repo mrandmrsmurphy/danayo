@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical loop, firing 56 (Radical 057):** grouped page (size 16); verified the sixteen entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (彆, 彊, 强) and Forbidden (`¡㢱!`, `¡彁!`, `¡弖!`, `- 違法字`) sections into the +N groups. Stamped Radical 057.
+
+- **Radical loop, firing 55 (Radical 056):** prosaic-style page (size 2) already in order; verified the two entries (式, 弒) and five aliases against the characters' own radical and alias data (all backed); no changes needed. Stamped Radical 056.
+
+- **Radical loop, firing 54 (Radical 055):** grouped page (size 4); verified the four entries and their groups against the characters' own radical and stroke data, and all four redirects against their main characters' alias lists (backed). Migrated the bottom Aliases (弃, 开) into the +N groups. Stamped Radical 055.
+
+- **Radical loop, firing 53 (Radical 054):** prosaic-style page (size 3) already in order; verified the three entries (延, 廷, 建) and the one alias against the characters' own radical and alias data (backed); no changes needed. Stamped Radical 054.
+
 - **Radical loop, firing 52 (Radical 053):** grouped page (size 24); verified the 24 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (廁, 廚, 𢊍, 座, 应) and Forbidden (`¡廤! - 違法字`) sections into the +N groups. Stamped Radical 053.
 
 - **Radical loop, firing 51 (Radical 052):** grouped page (size 4) already in the in-group standard; verified the four entries, their groups and the one redirect against the characters' own radical and alias data (backed); no changes needed. Stamped Radical 052.

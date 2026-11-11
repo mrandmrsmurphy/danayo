@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 4
 radical: 廾
 tags: [lookup]
@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +1 Stroke
 1. <ruby>[廿](../../characters/廿.md)<rt>ㄋㄧㄆ</rt></ruby> - twentieth
+- 开 --> 開
 
 ### +2 Strokes
 2. <ruby>[弁](../../characters/弁%20(char).md)<rt>ㄅ⼘ㄋ</rt></ruby> - discuss
@@ -21,16 +22,13 @@ tags: [lookup]
 
 ### +4 Strokes
 3. <ruby>[弄](../../characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - tamper with
+- 弃 --> 棄
 
 ### +11 Strokes
 - 㢡 --> 奨
 
 ### +12 Strokes
 4. <ruby>[弊](../../characters/弊%20(char).md)<rt>ㄆㄝㄧ</rt></ruby> - evil
-
-### Aliases
-- 弃 --> 棄
-- 开 --> 開
 
 ## Data check
 ```dataview

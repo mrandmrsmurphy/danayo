@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 16
 radical: 弓
 tags: [lookup]
@@ -16,6 +16,7 @@ tags: [lookup]
 ### +1 Stroke
 2. <ruby>[引](../../characters/引%20(char).md)<rt>ㄧㄋ</rt></ruby> - pull
 3. <ruby>[弔](../../characters/弔%20(char).md)<rt>ㄐㄝㄎ</rt></ruby> - mourn
+- ¡弖! - 違法字
 
 ### +2 Strokes
 4. <ruby>[弘](../../characters/弘.md)<rt>ㄏㄛㄫ</rt></ruby> - enlarge
@@ -33,6 +34,7 @@ tags: [lookup]
 9. <ruby>[弥](../../characters/弥%20(char).md)<rt>ㄇㄝ</rt></ruby> - increasingly
 10. <ruby>[弧](../../characters/弧.md)<rt>ㄏㄛ</rt></ruby> - arc
 - 弩 --> 努
+- ¡㢱! - 違法字
 
 ### +6 Strokes
 11. <ruby>[弯](../../characters/弯.md)<rt>⺢ㄇ</rt></ruby> - bend
@@ -48,25 +50,25 @@ tags: [lookup]
 15. <ruby>[弾](../../characters/弾.md)<rt>ㄉㄚㄋ</rt></ruby> - bullet
 16. <ruby>[弼](../../characters/弼.md)<rt>ㄅㄧㄊ</rt></ruby> - assistant to the emperor
 - 弻 --> 弼
+- 强 --> 強
+
+### +10 Strokes
+- ¡彁! - 違法字
+
+### +11 Strokes
+- 彆 --> 別
 
 ### +12 Strokes
 - 彈 --> 弾
+
+### +13 Strokes
+- 彊 --> 強
 
 ### +14 Strokes
 - 彌 --> 弥
 
 ### +19 Strokes
 - 彎 --> 弯
-
-### Aliases
-- 彆 --> 別
-- 彊 --> 強
-- 强 --> 強
-
-### Forbidden
-- 㢱 - 국자: Korean place-name character; same as 旀
-- 彁 - 幽霊文字: Likely to be an error of 彊
-- 弖 - 国字: phonetic for 'te'
 
 ## Data check
 ```dataview
