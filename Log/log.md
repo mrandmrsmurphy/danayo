@@ -4,6 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 136 (舛)**: verified (3 characters, groups correct, no aliases or redirects needed), stamped; no content change.
+- **Radical 135 (舌)**: verified (3 characters, groups and 3 alias-backed redirects correct), stamped; no content change.
+- **Radical 134 (臼)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (臼 +0, 舅 +7, 興 +10; entries renumbered in stroke order; six redirects filed by stroke count), stamped.
+- **Radical 133 (至)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (至 +0, 致 +4, 臺 → 台 filed by stroke count), stamped.
+- **Radical 132 (自)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (自 +0, 臭 +3), stamped.
+- **Radical 131 (臣)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (臣 +1, 臥 +3, 臨 +12, counted from the radical's Kangxi 6 strokes; 臧 → 臓 and 臦 → 囧 filed by stroke count), kept the 頤 note under `### Other`, stamped.
+- **Radical 130 (肉)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (胶 → 交, 膽 → 胆, 胜 → 勝, 腱 → 建 and ¡臉!, ¡脖!, ¡肚!, ¡膵! as 違法字 lines), stamped.
+- **Radical 129 (聿)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (肆 +7, 肇 +8; 肅, 肃 → 粛 and 肈 → 肇 filed by stroke count), stamped.
+- **Radical 128 (耳)**: moved the bottom Aliases block into the +N Strokes groups (聲 → 声, 聯 → 連, 联 → 連), stamped.
 - **Radical 127 (耒)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` layout (耕 and 耗 both under +4, stroke_count 10), stamped.
 - **Radical 126 (而)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (而 +0, 耐 +3, 耑 → 専 filed by stroke count), stamped.
 - **Radical 125 (老)**: verified (4 characters, groups correct, no aliases or redirects needed), stamped; no content change.

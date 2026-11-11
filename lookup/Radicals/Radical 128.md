@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 14
 radical: 耳
 tags: [lookup]
@@ -30,6 +30,7 @@ tags: [lookup]
 
 ### +6 Strokes
 6. <ruby>[聒](../../characters/聒.md)<rt>ㄍ⺢ㄆ</rt></ruby> - noisy
+- 联 --> 連
 
 ### +7 Strokes
 7. <ruby>[聖](../../characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> - holy
@@ -48,6 +49,8 @@ tags: [lookup]
 12. <ruby>[聴](../../characters/聴%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - listen
 - 聳 --> 竦
 - 聰 --> 聡
+- 聲 --> 声
+- 聯 --> 連
 
 ### +12 Strokes
 13. <ruby>[職](../../characters/職.md)<rt>ㄐㄧㄎ</rt></ruby> - duty
@@ -56,11 +59,6 @@ tags: [lookup]
 14. <ruby>[聾](../../characters/聾.md)<rt>ㄌㄛㄫ</rt></ruby> - deaf
 - 聽 --> 聴
 - 䏊 --> 聾
-
-### Aliases
-- 聲 --> 声
-- 聯 --> 連
-- 联 --> 連
 
 ## Data check
 ```dataview

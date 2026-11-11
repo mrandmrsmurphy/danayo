@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 69
 radical: 肉
 tags: [lookup]
@@ -21,6 +21,7 @@ tags: [lookup]
 6. <ruby>[肛](../../characters/肛.md)<rt>ㄍㄚㄫ</rt></ruby> - anus
 7. <ruby>[肝](../../characters/肝.md)<rt>ㄍㄚㄋ</rt></ruby> - liver
 - 肠 --> 腸
+- ¡肚! - 違法字
 
 ### +2 Strokes
 8. <ruby>[䏜](../../characters/䏜.md)<rt>ㄇㄚㄆ</rt></ruby> - plump
@@ -57,6 +58,7 @@ tags: [lookup]
 - 脉 --> 脈
 - 胧 --> 朧
 - 胫 --> 脛
+- 胜 --> 勝
 
 ### +4 Strokes
 30. <ruby>[胰](../../characters/胰.md)<rt>ㄧㄜ</rt></ruby> - pancreas
@@ -75,6 +77,7 @@ tags: [lookup]
 - 胶 --> 膠
 - 脓 --> 膿
 - 脐 --> 𦜝
+- 胶 --> 交
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
@@ -84,6 +87,7 @@ tags: [lookup]
 - 脫 --> 脱
 - 脗 --> 吻
 - 脣 --> 唇
+- ¡脖! - 違法字
 
 ### +6 Strokes
 44. <ruby>[脹](../../characters/脹.md)<rt>ㄑㄚㄫ</rt></ruby> - swell
@@ -93,6 +97,7 @@ tags: [lookup]
 48. <ruby>[𦜝](../../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> - navel
 - 腑 --> 府
 - 腊 --> 臘
+- 腱 --> 建
 
 ### +7 Strokes
 49. <ruby>[腎](../../characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> - kidney
@@ -121,6 +126,7 @@ tags: [lookup]
 61. <ruby>[膝](../../characters/膝.md)<rt>ㄙㄜㄊ</rt></ruby> - knee
 62. <ruby>[膠](../../characters/膠.md)<rt>ㄍ⼄ㄨ</rt></ruby> - glue
 63. <ruby>[膣](../../characters/膣%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - pussy
+- ¡膵! - 違法字
 
 ### +10 Strokes
 64. <ruby>[膨](../../characters/膨.md)<rt>ㄆㄚㄫ</rt></ruby> - swell
@@ -131,6 +137,8 @@ tags: [lookup]
 66. <ruby>[膿](../../characters/膿%20(char).md)<rt>ㄋㄛㄫ</rt></ruby> - pus
 67. <ruby>[臆](../../characters/臆.md)<rt>ㄧㄎ</rt></ruby> - feelings
 - 臂 --> 卑
+- 膽 --> 胆
+- ¡臉! - 違法字
 
 ### +12 Strokes
 - 臍 --> 𦜝
@@ -141,18 +149,6 @@ tags: [lookup]
 
 ### +15 Strokes
 - 臟 --> 臓
-
-### Aliases
-- 胶 --> 交
-- 膽 --> 胆
-- 胜 --> 勝
-- 腱 --> 建
-
-### Forbidden
-- 臉 - 官话: HSK/2, 'cheek', 'face' --> 頬, 面; radical ⺼ (肉)
-- 脖 - 官话: HSK/2.
-- 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
-- 膵 - 国字: A recent Japanese invention.  Use 胰 for 'pancreas'
 
 ## Data check
 ```dataview

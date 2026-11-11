@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 radical: 臣
 tags: [lookup]
 
@@ -8,18 +8,25 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 131 is 臣, "minister", 6 strokes. The glyph began as a pictograph of an upturned eye, the lowered gaze of a servant or captive, and came to mean a subject or official serving a ruler. Very few characters are filed under it: 臥 "crouch", a person bent over with eyes cast down, and 臨 "approach", to look down on something from above.
 
-## Characters
-### Used
+## Strokes
+
+### +1 Stroke
 1. <ruby>[臣](../../characters/臣.md)<rt>ㄙㄧㄋ</rt></ruby> - minister
+
+### +3 Strokes
 2. <ruby>[臥](../../characters/臥%20(char).md)<rt>⺢</rt></ruby> - crouch
+
+### +6 Strokes
+- 臦 --> 囧
+
+### +8 Strokes
+- 臧 --> 臓
+
+### +12 Strokes
 3. <ruby>[臨](../../characters/臨.md)<rt>ㄌㄧㄇ</rt></ruby> - approach
 
 ### Other
 - [頤](../../characters/頤.md) has this radical as a component, but is not listed under this radical.
-
-### Aliases
-- 臧 --> 臓
-- 臦 --> 囧
 
 ## Data check
 ```dataview

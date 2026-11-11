@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 radical: 至
 tags:
   - lookup
@@ -8,12 +8,15 @@ tags:
 > [[Radicals]]
 > Radical 133 is 至, "arrive", 6 strokes. Oracle-bone forms show an arrow (矢) landing on a line for the ground, so the sense is to reach a destination; later script no longer looks like an arrow. Only 至 itself and 致 "cause", to bring something all the way to its end, are filed here.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[至](../../characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> - until
+
+### +4 Strokes
 2. <ruby>[致](../../characters/致%20(char).md)<rt>ㄑㄧㄜ</rt></ruby> - cause
 
-### Aliases
+### +8 Strokes
 - 臺 --> 台
 
 ## Data check
