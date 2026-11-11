@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 13
 radical: 子
 tags: [lookup]
@@ -51,11 +51,11 @@ tags: [lookup]
 ### +11 Strokes
 - 孵 --> 孚
 
+### +13 Strokes
+- 學 --> 学
+
 ### +14 Strokes
 - 孺 --> 儒
-
-### Aliases
-- 學 --> 学
 
 ## Data check
 ```dataview

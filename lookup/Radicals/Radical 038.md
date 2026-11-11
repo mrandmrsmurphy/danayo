@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 62
 radical: 女
 tags: [lookup]
@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[奴](../../characters/奴.md)<rt>ㄋㄛ</rt></ruby> - slave
+- ¡奶! - 違法字
 
 ### +3 Strokes
 3. <ruby>[好](../../characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - good
@@ -25,6 +26,7 @@ tags: [lookup]
 - 奸 --> 姦
 - 妈 --> 媽
 - 妇 --> 婦
+- ¡她! - 違法字
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant
@@ -39,6 +41,7 @@ tags: [lookup]
 - 妒 --> 妬
 - 妝 --> 粧
 - 姊 --> 姉
+- ¡妛! - 違法字
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous
@@ -82,6 +85,7 @@ tags: [lookup]
 - 娱 --> 娯
 - 娑 --> 沙
 - 娉 --> 聘
+- 娚 --> 南
 
 ### +8 Strokes
 42. <ruby>[娶](../../characters/娶.md)<rt>ㄑㄨ</rt></ruby> - marry
@@ -94,6 +98,8 @@ tags: [lookup]
 - 婴 --> 嬰
 - 婪 --> 林
 - 婬 --> 淫
+- 娼 --> 唱
+- ¡𪥽! - 違法字
 
 ### +9 Strokes
 49. <ruby>[婿](../../characters/婿%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - bridegroom
@@ -104,15 +110,16 @@ tags: [lookup]
 - 媆 --> 嫩
 - 媿 --> 愧
 - 媚 --> 眉
+- ¡媤! - 違法字
 
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant
 53. <ruby>[嫁](../../characters/嫁.md)<rt>ㄍㄚ</rt></ruby> - give in marriage
 54. <ruby>[嫉](../../characters/嫉.md)<rt>ㄐㄧㄊ</rt></ruby> - envy
 55. <ruby>[嫌](../../characters/嫌.md)<rt>ㄏㄝㄇ</rt></ruby> - detest
-
 56. <ruby>[嫂](../../characters/嫂.md)<rt>ㄙㄚㄨ</rt></ruby> - sister-in-law
 - 媾 --> 溝
+- ¡媸! - 違法字
 
 ### +11 Strokes
 57. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife
@@ -131,26 +138,13 @@ tags: [lookup]
 
 ### +14 Strokes
 62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - infant
+- ¡嬶! - 違法字
 
 ### +16 Strokes
 - 嬾 --> 懶
 
 ### +17 Strokes
 - 孃 --> 娘
-
-### Aliases
-- 她 --> 他
-- 娚 --> 南
-- 娼 --> 唱
-
-### Forbidden
-- 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
-- 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.
-- 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
-- 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女
-- 媸 - 異体字: Use 蚩 + 女.
-- 嬶 - 国字: 'overbearing wife' 嬶天下
-- 𪥽 - 国字: An alternative form of 嫗, 'old woman'
 
 ## Data check
 ```dataview

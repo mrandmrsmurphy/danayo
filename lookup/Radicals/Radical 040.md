@@ -1,7 +1,7 @@
 ---
 size: 46
 radical: 宀
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 tags:
   - lookup
 ---
@@ -27,8 +27,8 @@ tags:
 ### +4 Strokes
 5. <ruby>[宋](../../characters/宋.md)<rt>ㄙㄛㄫ</rt></ruby> - Song
 6. <ruby>[完](../../characters/完.md)<rt>ㄏ⺢ㄋ</rt></ruby> - finish
-
 7. <ruby>[宏](../../characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> - grand
+- 㝎 --> 定
 
 ### +5 Strokes
 8. <ruby>[宕](../../characters/宕.md)<rt>ㄉㄚㄫ</rt></ruby> - cave dwelling
@@ -43,6 +43,7 @@ tags:
 - 实 --> 実
 - 审 --> 審
 - 宠 --> 寵
+- 宔 --> 主
 
 ### +6 Strokes
 17. <ruby>[客](../../characters/客.md)<rt>ㄎㄚㄎ</rt></ruby> - guest
@@ -51,6 +52,7 @@ tags:
 - 宫 --> 宮
 - 宩 --> 屎
 - 宪 --> 憲
+- 宥 --> 有
 
 ### +7 Strokes
 20. <ruby>[宮](../../characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> - royal court
@@ -109,11 +111,6 @@ tags:
 
 ## Other
 - [字](../../characters/字%20(char).md) has 宀 in it, but is listed under 子.
-
-### Aliases
-- 宔 --> 主
-- 宥 --> 有
-- 㝎 --> 定
 
 ## Data check
 ```dataview

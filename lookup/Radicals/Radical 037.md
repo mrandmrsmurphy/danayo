@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 23
 radical: 大
 tags: [lookup]
@@ -17,16 +17,20 @@ tags: [lookup]
 3. <ruby>[夫](../../characters/夫%20(char).md)<rt>ㄈㄜ</rt></ruby> - man
 4. <ruby>[天](../../characters/天%20(char).md)<rt>ㄊㄝㄋ</rt></ruby> - sky
 5. <ruby>[太](../../characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - great
+- 夬 --> 決
 
 ### +2 Strokes
 6. <ruby>[央](../../characters/央.md)<rt>⼘ㄫ</rt></ruby> - center
 7. <ruby>[失](../../characters/失.md)<rt>ㄙㄧㄊ</rt></ruby> - lose
 - 夲 --> 本
+- 头 --> 頭
+- ¡𡗗! - 違法字
 
 ### +3 Strokes
 8. <ruby>[夷](../../characters/夷.md)<rt>ㄧㄜ</rt></ruby> - barbarian
 - 夺 --> 奪
 - 夸 --> 誇
+- ¡夻! - 違法字
 
 ### +4 Strokes
 9. <ruby>[夹](../../characters/夹.md)<rt>ㄍ⼘ㄆ</rt></ruby> - clip
@@ -38,6 +42,8 @@ tags: [lookup]
 12. <ruby>[奇](../../characters/奇.md)<rt>ㄍㄨㄧ</rt></ruby> - strange
 13. <ruby>[奉](../../characters/奉.md)<rt>ㄅㄛㄫ</rt></ruby> - serve
 - 奋 --> 奮
+- 奌 --> 点
+- 㚔 --> 幸
 
 ### +6 Strokes
 14. <ruby>[奏](../../characters/奏.md)<rt>ㄙㄛㄨ</rt></ruby> - play music
@@ -51,6 +57,9 @@ tags: [lookup]
 ### +7 Strokes
 17. <ruby>[套](../../characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - covering
 18. <ruby>[奚](../../characters/奚%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> - how
+
+### +8 Strokes
+- 奛 --> 明
 
 ### +9 Strokes
 19. <ruby>[奢](../../characters/奢.md)<rt>ㄙ⼘</rt></ruby> - extravagant
@@ -68,17 +77,6 @@ tags: [lookup]
 
 ### +13 Strokes
 23. <ruby>[奮](../../characters/奮.md)<rt>ㄈㄨㄋ</rt></ruby> - stirred up
-
-### Aliases
-- 奛 --> 明
-- 奌 --> 点
-- 㚔 --> 幸
-- 夬 --> 決
-- 头 --> 頭
-
-### Forbidden
-- 夻 - 국자: Invented character for 'cod', 구
-- 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.
 
 ## Data check
 ```dataview

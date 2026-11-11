@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 6
 radical: 夕
 tags: [lookup]
@@ -17,6 +17,7 @@ tags: [lookup]
 2. <ruby>[外](../../characters/外.md)<rt>⺢ㄧ</rt></ruby> - outside
 3. <ruby>[夗](../../characters/夗.md)<rt>⼄ㄋ</rt></ruby> - to turn over when asleep
 - 夘 --> 夗
+- 夘 --> 卯
 
 ### +3 Strokes
 4. <ruby>[多](../../characters/多%20(char).md)<rt>ㄉㄜ</rt></ruby> - many
@@ -24,15 +25,14 @@ tags: [lookup]
 ### +5 Strokes
 5. <ruby>[夜](../../characters/夜%20(char).md)<rt>⼘</rt></ruby> - night
 
+### +7 Strokes
+- ¡夞! - 違法字
+
+### +8 Strokes
+- ¡夠! - 違法字
+
 ### +10 Strokes
 6. <ruby>[夢](../../characters/夢%20(char).md)<rt>ㄇㄨㄫ</rt></ruby> - dream
-
-### Aliases
-- 夘 --> 卯
-
-### Forbidden
-- 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
-- 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
 
 ## Data check
 ```dataview

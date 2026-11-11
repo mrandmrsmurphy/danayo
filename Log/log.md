@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical loop, firing 39 (Radical 040):** grouped page (size 46); verified the 46 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the Aliases block (宔, 宥, 㝎) that sat under `## Other` into the +N groups. Stamped Radical 040.
+
+- **Radical loop, firing 38 (Radical 039):** grouped page (size 13); verified the thirteen entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases block (學 → 学) into its +N group. Stamped Radical 039.
+
+- **Radical loop, firing 37 (Radical 038):** grouped page (size 62); verified the 62 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (娚, 娼) and Forbidden (奶, 媤, 妛, 媸, 嬶, 𪥽 and 她, now `¡X! - 違法字`) sections into the +N groups; the old `她 → 他` redirect became the forbidden line, as the migration tool files a forbidden glyph. Stamped Radical 038.
+
+- **Radical loop, firing 36 (Radical 037):** grouped page (size 23); verified the 23 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (奛, 奌, 㚔, 夬, 头) and Forbidden (`¡夻!`, `¡𡗗!`, `- 違法字`) sections into the +N groups; no redirect lost or added. Stamped Radical 037.
+
+- **Radical loop, firing 35 (Radical 036):** grouped page (size 6); verified the six entries and their groups against the characters' own radical and stroke data. Migrated the bottom Aliases (夘 → 卯) and Forbidden (`¡夞!`, `¡夠!`, `- 違法字`) sections into the +N groups (new +7 and +8 groups). Open question: 夘 is listed as an alias of both 卯 and 夗, so the page carries both redirects until the user picks one parent. Stamped Radical 036.
+
 - **Radical loop, firing 34 (Radical 035):** prosaic-style page (size 1) already in order; verified the entry 夏 and the two aliases against the characters' own radical and alias data (all backed); no changes needed. Stamped Radical 035.
 
 - **Radical loop, firing 33 (Radical 034):** prosaic-style page (size 2); verified the two entries and three aliases (处, 备, 夆) against the characters' own radical and alias data (all backed) and shortened the forbidden line for 复 to `¡复! - 違法字`. Stamped Radical 034.
