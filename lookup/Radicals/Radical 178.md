@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 2
 radical: 韋
 tags: [lookup]
@@ -7,14 +7,19 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 178 is 韋, "tanned leather", 9 strokes. It is a pictograph of feet circling a walled place, borrowed for the sense of soft tanned leather, and later used as a phonetic, as in 韓 "Han Korea".
 
-## Characters
-### Used
-1. <ruby>[韋](../../characters/韋.md)<rt>ㄨㄧ</rt></ruby> - tanned leather
-2. <ruby>[韓](../../characters/韓.md)<rt>ㄏㄚㄋ</rt></ruby> - Han Korean
+## Strokes
 
-### Aliases
-- 韩 --> 韓
+### -5 Strokes
 - 韦 --> 韋
+
+### +1 Stroke
+1. <ruby>[韋](../../characters/韋.md)<rt>ㄨㄧ</rt></ruby> - tanned leather
+
+### +3 Strokes
+- 韩 --> 韓
+
+### +9 Strokes
+2. <ruby>[韓](../../characters/韓.md)<rt>ㄏㄚㄋ</rt></ruby> - Han Korean
 
 ## Data check
 ```dataview
