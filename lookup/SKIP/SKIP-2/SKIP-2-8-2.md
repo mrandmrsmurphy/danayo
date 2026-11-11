@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-10
 size: 1
 stroke_count: 10
 skip_number: 2-8-2
@@ -13,7 +13,6 @@ tags: [lookup]
 1. <ruby>[隼](/characters/隼%20(char).md)<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
 ### Aliases
 - 隻 --> 只
-- 鬯 --> 暢
 - 珡 --> 琴
 
 ### Forbidden
