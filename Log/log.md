@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 205 (黽)**: converted the `## Characters` / `### Used` layout to `## Strokes` (鼈 +12, counted from the radical's Kangxi 13 strokes); removed the redirects `鼄 --> 蛛`, `鼅 --> 蜘`, `䵹 --> 蜘` and `鼇 --> 鰲`, because 蛛 and 蜘 list no aliases and 鰲 has no page (rare Unicode-only forms, not added as aliases); kept the `### Other` notes; stamped.
+- **Radical 204 (黹)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (黻 +5, 黼 +7, counted from the radical's Kangxi 12 strokes), stamped.
+- **Radical 203 (黑)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups, counted from the radical's Kangxi 12 strokes (黒, 11 strokes, in a `### -1 Stroke` group; 黙 +3, 黛 +4, 黜 +5; four redirects and ¡𪐷! filed by stroke count), stamped.
+- **Radical 202 (黍)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (黍 +0, 黎 +3, counted from the radical's Kangxi 12 strokes; 䵘 → 晒 and 黏 → 粘 filed by stroke count), stamped.
 - **Radical 201 (黃)**: converted the `## Characters` / `### Used` / `### Aliases` layout to `## Strokes`, counted from the radical's Kangxi 12 strokes (黄, 11 strokes, in a `### -1 Stroke` group as 才 is under 手; 黃 → 黄 filed under +0), stamped.
 - **Radical 200 (麻)**: converted the `## Characters` / `### Used` / `### Forbidden` layout to the standard +N Strokes groups (麻 +0; ¡麼! +3 and ¡麿! +7 as 違法字 lines; the annotated `麽 --> variant of 麼, forbidden with it` kept beside 麼 in +3, since 麽 is only listed as a variant on the forbidden list), stamped.
 - **Radical 199 (麦)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups, counted from the radical's Kangxi 11 strokes (麦, 7 strokes, in a `### -4 Strokes` group as 才 is under 手; 麺 +5; five redirects filed by stroke count), stamped.

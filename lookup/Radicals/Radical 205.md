@@ -1,21 +1,16 @@
 ---
 size: 1
 radical: 黽
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 205 is 黽, "frog", 13 strokes. It is a pictograph of a toad or frog seen from above, with a broad body and splayed legs, and heads amphibians and turtles. Only the soft-shell turtle 鼈 is filed here; many other water creatures are classed under 虫.
 
-## Characters
-### Used
-1. <ruby>[鼈](../../characters/鼈%20(char).md)<rt>ㄅㄝㄊ</rt></ruby> - soft-shell turtle
+## Strokes
 
-### Aliases
-- 鼄 --> 蛛
-- 鼅 --> 蜘
-- 鼇 --> 鰲
-- 䵹 --> 蜘
+### +12 Strokes
+1. <ruby>[鼈](../../characters/鼈%20(char).md)<rt>ㄅㄝㄊ</rt></ruby> - soft-shell turtle
 
 ### Other
 - [蝿](../../characters/蝿.md) contains this radical as a component, but is listed under 虫.

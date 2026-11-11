@@ -1,27 +1,34 @@
 ---
 size: 4
 radical: 黒
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags: [lookup]
 ---
 > [[Radicals]]
 > Radical 203 is 黑 (written 黒 in Japanese), "black", 12 strokes. It is variously explained as a chimney window blackened by soot, or a person's face marked by a tattoo of punishment. It covers dark colors and things darkened, from 黛 (a black pigment used to paint eyebrows) to 黙 (silent, mouth held dark and still) and 黜 (to demote or dismiss, figuratively "blacken" someone's standing).
 
-## Characters
-### Used
-1. <ruby>[黒](../../characters/黒%20(char).md)<rt>ㄏㄨㄎ</rt></ruby> - black
-2. <ruby>[黙](../../characters/黙.md)<rt>ㄇㄨㄎ</rt></ruby> - silent
-3. <ruby>[黛](../../characters/黛.md)<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
-4. <ruby>[黜](../../characters/黜.md)<rt>ㄊㄨㄊ</rt></ruby> - dethrone
+## Strokes
 
-### Aliases
-- 點 --> 点
-- 默 --> 黙
-- 黨 --> 党
+### -1 Stroke
+1. <ruby>[黒](../../characters/黒%20(char).md)<rt>ㄏㄨㄎ</rt></ruby> - black
+
+### +0 Strokes
 - 黑 --> 黒
 
-### Forbidden
-- 𪐷 - 国字: Used only in 𪐷い, an alternative spelling of 黒い and 玄い
+### +3 Strokes
+2. <ruby>[黙](../../characters/黙.md)<rt>ㄇㄨㄎ</rt></ruby> - silent
+
+### +4 Strokes
+3. <ruby>[黛](../../characters/黛.md)<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
+- 默 --> 黙
+
+### +5 Strokes
+4. <ruby>[黜](../../characters/黜.md)<rt>ㄊㄨㄊ</rt></ruby> - dethrone
+- 點 --> 点
+- ¡𪐷! - 違法字
+
+### +8 Strokes
+- 黨 --> 党
 
 ## Data check
 ```dataview
