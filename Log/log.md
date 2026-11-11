@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 127 (耒)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` layout (耕 and 耗 both under +4, stroke_count 10), stamped.
+- **Radical 126 (而)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (而 +0, 耐 +3, 耑 → 専 filed by stroke count), stamped.
+- **Radical 125 (老)**: verified (4 characters, groups correct, no aliases or redirects needed), stamped; no content change.
+- **Radical 124 (羽)**: moved the bottom Aliases block into the +N Strokes groups (翳 → 影), stamped.
 - **Radical 123 (羊)**: moved the bottom Aliases block into the +N Strokes groups (羔 → 皐), stamped.
 - **Radical 122 (网)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (9 characters filed by stroke count, 罒 under a `-1 Stroke` group and 罓 under +0 with their component-only notes kept); dropped the annotated `simplified form of` duplicates of 罗 → 羅 and 罢 → 罷; filed 罚 → 罰, 罗 → 羅, 罢 → 罷, 网 → 網, ¡罖!, ¡罩! by stroke count, stamped.
 - **Radical 121 (缶)**: verified (4 characters, groups and 5 alias-backed redirects correct), stamped; no content change.

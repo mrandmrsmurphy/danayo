@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 16
 radical: 羽
 tags: [lookup]
@@ -43,15 +43,13 @@ tags: [lookup]
 
 ### +11 Strokes
 14. <ruby>[翼](../../characters/翼.md)<rt>ㄧㄎ</rt></ruby> - wing
+- 翳 --> 影
 
 ### +12 Strokes
 15. <ruby>[翻](../../characters/翻%20(char).md)<rt>ㄈㄛㄋ</rt></ruby> - flip
 
 ### +14 Strokes
 16. <ruby>[耀](../../characters/耀.md)<rt>⼄ㄨ</rt></ruby> - shine
-
-### Aliases
-- 翳 --> 影
 
 ## Data check
 ```dataview
