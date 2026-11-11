@@ -1,7 +1,7 @@
 ---
 size: 3
 radical: 丶
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags: [lookup]
 
 ---
@@ -20,7 +20,7 @@ tags: [lookup]
 - 义 --> 義
 
 ### Forbidden
-- 丷 - 口訣: Korean 구결 for '하다'
+- ¡丷! - 違法字
 ### Other
 - [叉](../../characters/叉%20(char).md) has a 'dot' in it, but isn't listed under this radical.
 - 丶 --> 主

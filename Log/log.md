@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Radical loop, firing 3 (Radical 003):** prosaic-style page (size 3); verified the three entries (丸, 丹, 主) and the four aliases (丼, 举, 为, 义) against the characters' own radical and alias data, and shortened the forbidden line for 丷 to `¡丷! - 違法字`. Stamped Radical 003.
+
+- **Radical loop, firing 2 (Radical 002):** verified the 2 entries (中, 串) and groups against the characters' radical data. Migrated the bottom Aliases and Forbidden sections into the +N groups (forbidden 㐃 and 丵 now `¡X! - 違法字`), dropped the duplicate `个 → 個` and the placeholder lines `forbidden 丩`, `forbidden 㐃` and `forbidden 丵` (丩 is an alias of 糾, not on the forbidden list). Stamped Radical 002.
+
+- **Radical loop, firing 1 (Radical 001):** character list, +N groups and size (20) verified against the characters' own `radical` and stroke data. Migrated the bottom Aliases and Forbidden sections into the +N Strokes groups with radical_migrate.py (new groups +4 to +11 entries for 业, 㐀, 𠀃, 𠀇, 两, 严, 丆, 丟, 𠁈), standardised the forbidden lines to `¡X! - 違法字`, and removed 17 plain redirects already covered by an annotated line (e.g. `丂 → 考` under `丂 → ancient variant of 于 and of 考`) plus the legacy `丟/丢` bullet. Also corrected the 心 count on Radicals.md from 106 to 107. Stamped Radical 001.
+
 - **SKIP leaf loop, firing 58 (SKIP-2-12-9, 2-13-6, 2-15-7, 2-19-3, 2-20-5, 2-4-18, SKIP-3-2-28, 3-5-15, 3-5-17, SKIP-1-1-1) — sweep complete:** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Replaced a stray non-breaking space in the 八 entry of SKIP-1-1-1. The stroke-count flags on SKIP-2-15-7 and 2-20-5 are alias-only leaves whose stroke_count matches the alias's real total. Every SKIP leaf now carries today's stamp.
 
 - **SKIP leaf loop, firing 57 (SKIP-1-13-4, 1-14-4, 1-16-4, 1-17-4, 1-17-5, 1-18-10, 1-4-19, 1-9-12, SKIP-2-12-10, 2-12-12):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. The stroke-count heuristic flagged SKIP-1-17-4 and 1-9-12, but 22 is the true total of 歡, and SKIP-1-9-12 collects aliases of different stroke counts (饒, 鞾, 饑) under one code, so its single stroke_count cannot match them all; nothing changed. Stamped the ten leaves.

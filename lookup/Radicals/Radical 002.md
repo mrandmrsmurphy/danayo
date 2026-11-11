@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 radical: 丨
 tags: [lookup]
 
@@ -11,11 +11,10 @@ Radical 2 is 丨, a vertical bar, 1 stroke; it is a component only and is not a 
 ## Strokes
 _no +0, because it is not a stand-alone character_
 ### +1 Stroke
-- forbidden 丩
 - 丩 --> 糾
 ### +2 Strokes
 - 个 --> 個
-- forbidden 㐃
+- ¡㐃! - 違法字
 ### +3 Strokes
 1. <ruby>[中](../../characters/中.md)<rt>ㄐㄨㄫ</rt></ruby> - center
 - 丰 --> 豊
@@ -27,15 +26,8 @@ _no +0, because it is not a stand-alone character_
 ### +8 Strokes
 - 临 --> 臨
 ### +9 Strokes
-- forbidden 丵
 - 𠁰 --> 乖
-
-### Aliases
-- 个 --> 個
-
-### Forbidden
-- 㐃 - 국자: Variant of 亇, 'hammer'/마/망치, use 槌
-- 丵 - 混乱: Component only -- semantic component of [[叢]] (alongside phonetic 取). Its real Middle Chinese placement would fall in the already heavily-populated ㄐㄚㄎ/ㄐㄛㄎ syllables, so it isn't being elevated to its own Dan'a'yo character; no independent meaning needed.
+- ¡丵! - 違法字
 
 ## Data check
 ```dataview

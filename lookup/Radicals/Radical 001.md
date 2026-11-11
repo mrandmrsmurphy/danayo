@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 20
 radical: 一
 tags:
@@ -18,8 +18,7 @@ Radical 1 is 一, the number one.
 - 丂 --> ancient variant of 于 and of 考
 - 丄 --> ancient variant of 上
 - 丅 --> ancient variant of 下
-- 丂 --> 考
-- 丄 --> 上
+- ¡丆! - 違法字
 
 ### +2 Strokes
 4. <ruby>[万](../../characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
@@ -31,8 +30,7 @@ Radical 1 is 一, the number one.
 - 丌 --> ancient variant of 其
 - 亐 --> ancient variant of 于
 - 卄 --> ancient variant of 廿
-- 亐 --> 于
-- 丌 --> 其
+- 𠀃 --> 且
 
 ### +3 Strokes
 10. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
@@ -41,8 +39,8 @@ Radical 1 is 一, the number one.
 12. <ruby>[丑](../../characters/丑.md)<rt>ㄑㄨ</rt></ruby> - second of 12 earthly branches
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
-- 专 --> 専
 - 𠀋 --> 丈
+- 𠀇 --> 且
 
 ### +4 Strokes
 13. <ruby>[且](../../characters/且%20(char).md)<rt>ㄑㄛ</rt></ruby> - also
@@ -55,17 +53,13 @@ Radical 1 is 一, the number one.
 - 东 --> ancient variant of 東
 - 丝 --> ancient variant of 糸
 - 㐀 --> ancient variant of 丘 
-- 丗 --> 世
-- 丛 --> 叢
-- 丝 --> 糸
-- 东 --> 東
 
 ### +5 Strokes
 18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄜㄫ</rt></ruby> - rescue
 19. <ruby>[両](../../characters/両%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - both
 - 㐂 --> ancient variant of 喜
 - 丠 --> ancient variant of 丘 and 冀
-* ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
+- ¡丟! - 違法字
 
 ### +6 Strokes
 - 丣 --> ancient variant of 酉 and 卯
@@ -75,32 +69,18 @@ Radical 1 is 一, the number one.
 - 鿖 --> ancient contraction
 - 𠀡 --> ancient variant of 天
 - 𠀧 --> V variant of 三
-- 丣 --> 酉
 
 ### +7 Strokes
 20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side
 - 丧 --> ancient variant of 喪
-- 丧 --> 喪
-- 丽 --> 麗
 
 ### +8 Strokes 
 * ¡鿗! --> ancient contraction, so 違法字
 
 *All other forms are missing from dictionary or are chữ Nôm inventions.*
 
-### Aliases
-- 丅 --> 下
-- 𠀇 --> 且
-- 𠀃 --> 且
-- 㐀 --> 丘
-- 业 --> 業
+### +11 Strokes
 - 𠁈 --> 君
-- 两 --> 両
-- 严 --> 厳
-
-### Forbidden
-- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl); an ancient variant of 厂 'cliff' (Radical 027)
-- 丟 - 中国制造: HSK/1, but mainly Chinese.
 
 ## Data check
 ```dataview
