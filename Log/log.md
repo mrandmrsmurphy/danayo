@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 51 (SKIP-4-6-4, 4-7-1 to 4-7-4, 4-8-1 to 4-8-4, 4-9-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 50 (SKIP-4-4-2 to 4-4-4, 4-5-1 to 4-5-4, 4-6-1 to 4-6-3):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 49 (SKIP-4-15-4, 4-2-1 to 4-2-4, 4-3-1 to 4-3-4, 4-4-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 48 (SKIP-4-1-4, 4-10-2 to 4-10-4, 4-11-3, 4-11-4, 4-12-4, 4-13-1, 4-13-3, 4-14-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
