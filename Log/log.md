@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 41 (SKIP-3-3-10 to 3-3-18, SKIP-3-3-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. In SKIP-3-3-2 removed the annotated duplicate `弍 → [[二 (char)]]` (the plain `弍 → 二` stays). Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 40 (SKIP-3-2-20, 3-2-22, SKIP-3-2-3 to 3-2-9, SKIP-3-3-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including SKIP-3-2-20, the redirect-only leaf built during the alias loop; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 39 (SKIP-3-10-7, 3-10-8, SKIP-3-2-1, 3-2-10 to 3-2-13, 3-2-15, 3-2-17, 3-2-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. In SKIP-3-10-8 merged the separate Redirect block into the Aliases block, dropped the duplicate `鬩 → [[䦧 (char)]]` and removed `魍 → 罔` (罔 only notes 魍 as a 代用字 relationship, not an alias). Removed `厮 → 廝` from SKIP-3-2-12 (廝 has no page and no alias entry). Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 38 (SKIP-3-1-1, 3-1-2, 3-1-4, 3-1-7, SKIP-3-10-10, 3-10-11, 3-10-14, 3-10-16, 3-10-4, 3-10-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the duplicated `鬧 → 閙` redirect in SKIP-3-10-5. Stamped the ten leaves (SKIP-1 and SKIP-2 are now fully stamped; SKIP-3 and SKIP-4 remain).
 
 - **SKIP leaf loop, firing 37 (SKIP-2-8-6 to 2-8-9, SKIP-2-9-12, SKIP-2-9-2, 2-9-4 to 2-9-7):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.

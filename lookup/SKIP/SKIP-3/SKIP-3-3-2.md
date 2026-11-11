@@ -1,7 +1,7 @@
 ---
 size: 14
 stroke_count: 5
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-10
 skip_number: 3-3-2
 tags: [lookup]
 
@@ -26,7 +26,6 @@ tags: [lookup]
 14. <ruby>[瓜](/characters/瓜.md)<rt>ㄍ⺢</rt></ruby> "cucumber; melon"
 
 ### Aliases
-- 弍 --> [[二 (char)]] (ancient variant of 二)
 - 弍 --> 二
 - 辽 --> 遼
 - 闪 --> 閃
