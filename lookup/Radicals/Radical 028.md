@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 厶
 tags: [lookup]
 
@@ -17,7 +17,7 @@ tags: [lookup]
 - [公 (char)](../../characters/公%20(char).md) has this in it, but isn't listed by this radical.
 
 ### Forbidden
-- 厼 - 口訣: Korean 구결 for '이', '며' and '너'
+- ¡厼! - 違法字
 
 ### Aliases
 - 厷 --> 宏

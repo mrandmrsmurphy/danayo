@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 11
 radical: 厂
 tags: [lookup]
@@ -10,9 +10,13 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- 厂 --> 廠
+
 ### +2 Strokes
 1. <ruby>[厄](../../characters/厄.md)<rt>ㄜㄎ</rt></ruby> - burden
 - 厅 --> 庁
+- ¡历! - 違法字
 
 ### +3 Strokes
 2. <ruby>[厉](../../characters/厉%20(char).md)<rt>ㄌㄝ</rt></ruby> - whetstone
@@ -23,6 +27,7 @@ tags: [lookup]
 
 ### +6 Strokes
 3. <ruby>[厓](../../characters/厓.md)<rt>⺢ㄧ</rt></ruby> - precipice
+- 厕 --> 厠
 
 ### +7 Strokes
 4. <ruby>[厘](../../characters/厘%20(char).md)<rt>ㄌㄧ</rt></ruby> - centi-
@@ -42,6 +47,8 @@ tags: [lookup]
 
 ### +12 Strokes
 - 厭 --> 嫌
+- 㕑 --> 厨
+- 厰 --> 廠
 
 ### +13 Strokes
 - 厲 --> 厉
@@ -51,15 +58,6 @@ tags: [lookup]
 
 ### +28 Strokes
 - 厵 --> 源
-
-### Aliases
-- 厕 --> 厠
-- 㕑 --> 厨
-- 厰 --> 廠
-- 厂 --> 廠
-
-### Forbidden
-- 历 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[暦]] ("calendar, almanac") and [[歴]] ("past, experience, history"). Rather than pick one to claim it as an alias, or split its meaning across both, it's simply forbidden.
 
 ## Data check
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 123
 radical: 口
 tags: [lookup]
@@ -32,6 +32,8 @@ tags: [lookup]
 - 𠮟 --> 叱
 - 叹 --> 嘆
 - 叶 --> 葉
+- ¡另! - 違法字
+- ¡叼! - 違法字
 
 ### +3 Strokes
 17. <ruby>[各](../../characters/各%20(char).md)<rt>ㄍㄚㄎ</rt></ruby> - each
@@ -66,7 +68,6 @@ tags: [lookup]
 39. <ruby>[呉](../../characters/呉.md)<rt>ㄛ</rt></ruby> - a warring state
 40. <ruby>[告](../../characters/告.md)<rt>ㄍㄚㄨ</rt></ruby> - inform
 41. <ruby>[呑](../../characters/呑.md)<rt>ㄊㄚㄋ</rt></ruby> - swallow
-
 42. <ruby>[吠](../../characters/吠.md)<rt>ㄈㄝ</rt></ruby> - bark
 - 𠯑 --> 括
 - 员 --> 員
@@ -80,7 +81,11 @@ tags: [lookup]
 - 吨 --> 噸
 - 听 --> 聴
 - 吪 --> 訛
-- 吶 --> 訥
+- 呙 --> 咼
+- 吿 --> 告
+- ¡吶! - 違法字
+- ¡吵! - 違法字
+- ¡呀! - 違法字
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference
@@ -97,6 +102,9 @@ tags: [lookup]
 - 咒 --> 呪
 - 咀 --> 嘴
 - 咏 --> 詠
+- ¡㕾! - 違法字
+- ¡呢! - 違法字
+- ¡咋! - 違法字
 
 ### +6 Strokes
 52. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite
@@ -115,6 +123,13 @@ tags: [lookup]
 - 咨 --> 諮
 - 响 --> 響
 - 咢 --> 愕
+- 𠱩 --> 君
+- 𠱭 --> 君
+- 𠱰 --> 君
+- 咲 --> 笑
+- ¡哎! - 違法字
+- ¡咱! - 違法字
+- ¡哘! - 違法字
 
 ### +7 Strokes
 62. <ruby>[員](../../characters/員.md)<rt>ㄨㄋ</rt></ruby> - personnel
@@ -135,6 +150,11 @@ tags: [lookup]
 - 哪 --> 那
 - 哿 --> 加
 - 啊 --> 阿
+- 唤 --> 喚
+- 哩 --> 里
+- ¡唟! - 違法字
+- ¡㖙! - 違法字
+- ¡唜! - 違法字
 
 ### +8 Strokes
 77. <ruby>[唯](../../characters/唯%20(char).md)<rt>⼶ㄧ</rt></ruby> - only
@@ -152,6 +172,12 @@ tags: [lookup]
 - 啞 --> 唖
 - 啑 --> 喋
 - 啬 --> 嗇
+- ¡㖯! - 違法字
+- ¡㖰! - 違法字
+- ¡㖱! - 違法字
+- ¡㖲! - 違法字
+- ¡㖳! - 違法字
+- ¡啦! - 違法字
 
 ### +9 Strokes
 87. <ruby>[啼](../../characters/啼.md)<rt>ㄊㄝ</rt></ruby> - cry
@@ -177,6 +203,11 @@ tags: [lookup]
 - 喷 --> 噴
 - 嘅 --> 慨
 - 喰 --> 餐
+- 單 --> 単
+- 喃 --> 南
+- ¡喸! - 違法字
+- ¡啤! - 違法字
+- ¡喂! - 違法字
 
 ### +10 Strokes
 103. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity
@@ -185,11 +216,16 @@ tags: [lookup]
 106. <ruby>[嗚](../../characters/嗚.md)<rt>ㄛ</rt></ruby> - sob
 107. <ruby>[嗣](../../characters/嗣.md)<rt>ㄙㄜ</rt></ruby> - heir
 108. <ruby>[嘆](../../characters/嘆%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - moan
-
 109. <ruby>[嗇](../../characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - stingy
 - ¡嗮! - 違法字
 - 嗜 --> 耆
 - 嗁 --> 啼
+- 𠺞 --> 君
+- ¡嗭! - 違法字
+- ¡㗠! - 違法字
+- ¡嗎! - 違法字
+- ¡嗯! - 違法字
+- ¡嗡! - 違法字
 
 ### +11 Strokes
 110. <ruby>[呕](../../characters/呕.md)<rt>ㄛㄨ</rt></ruby> - vomit
@@ -198,6 +234,9 @@ tags: [lookup]
 113. <ruby>[噌](../../characters/噌.md)<rt>ㄑㄨㄫ</rt></ruby> - whoosh
 - 嘔 --> 呕
 - 嗽 --> 漱
+- 嘖 --> 責
+- ¡嘛! - 違法字
+- ¡嘍! - 違法字
 
 ### +12 Strokes
 114. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏ⺢</rt></ruby> - thump
@@ -207,6 +246,7 @@ tags: [lookup]
 118. <ruby>[噴](../../characters/噴.md)<rt>ㄆㄛㄋ</rt></ruby> - erupt
 - 噂 --> 尊
 - 噛 --> 咬
+- 嘿 --> 黙
 
 ### +13 Strokes
 119. <ruby>[嘴](../../characters/嘴.md)<rt>ㄑㄨㄧ</rt></ruby> - bill
@@ -214,6 +254,8 @@ tags: [lookup]
 121. <ruby>[噸](../../characters/噸%20(char).md)<rt>ㄊㄛㄋ</rt></ruby> - ton
 - 噤 --> 禁
 - 噪 --> 喿
+- 噹 --> 当
+- ¡噺! - 違法字
 
 ### +14 Strokes
 122. <ruby>[嚇](../../characters/嚇%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - scare
@@ -228,65 +270,16 @@ tags: [lookup]
 
 ### +17 Strokes
 - 嚼 --> 爵
+- 嚴 --> 厳
+- ¡嚷! - 違法字
 
 ### +19 Strokes
 - 囊 --> 嚢
+- ¡囎! - 違法字
 
 ### +21 Strokes
 - 囓 --> 咬
 - 囑 --> 嘱
-
-### Aliases
-- 唤 --> 喚
-- 單 --> 単
-- 嘖 --> 責
-- 𠺞 --> 君
-- 𠱩 --> 君
-- 𠱭 --> 君
-- 𠱰 --> 君
-- 噹 --> 当
-- 哩 --> 里
-- 喃 --> 南
-- 呙 --> 咼
-- 嘿 --> 黙
-- 嚴 --> 厳
-- 咲 --> 笑
-- 吿 --> 告
-
-### Forbidden
-- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
-- 㖯 - 국자: Korean-coined hanja for '똥'/shit (proto-Hangǔl)
-- 㖰 - 異体字: Variant of 㖯, '똥'/shit (proto-Hangǔl)
-- 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
-- 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
-- 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
-- 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
-- 嗭 - 국자: Korean-coined hanja for '짓' (proto-Hangǔl); place name
-- 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name
-- 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
-- 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
-- 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
-- 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
-- 另 - 中国制造: On HSK/2 only.  We use 他 or 彼 instead
-- 吶 - 混乱: Used for sound, but we'd never agree.  Use 叫 for the meaning and 那 for the sound.
-- 嗎 - 中国制造: Chinese SFP.  Use 乎 instead.  HSK/1
-- 吵 - 中国制造: "to argue" Use 弁論.  HSK/2
-- 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻
-- 呀 - 官话: HSK/1 and 한문교육용기초한자/이름.  Even in Mandarin, equivalent to 啊.
-- 呢 - 混乱: HSK/1
-- 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
-- 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
-- 啦 - 官话: Mandarin colloquial sentence-final particle, a contraction of 了啊 (le a)
-- 喂 - 官话: HSK/1, but not international -- used for the phone-answering "hello" sound in Chinese.
-- 嗯 - 官话: HSK/1.  Chinese SFP of recent coinage.
-- 嚷 - 官话: HSK/2.
-- 叼 - 官话: HSK/4, but very made-up.
-- 咋 - 官话: HSK/2, but Chinese only.
-- 嗡 - 官话: HSK/3.
-- 嘍 - 官话: HSK/3, but not used outside of China.
-- 哘 - 国字: 国字 (口 + 行); Wiktionary records no definition
-- 噺 - 国字: An alternative form of 話, 'story' (はなし)
-- 囎 - 国字: Used only in the place name 囎唹 (Sōo)
 
 ## Data check
 ```dataview

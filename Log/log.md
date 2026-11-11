@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical loop, firing 30 (Radical 031):** grouped page (size 16); verified the sixteen entries, their groups and every redirect against the characters' own radical and alias data (all backed). Migrated the bottom Aliases (圍, 围, 國, 图; 圖 was already in its group) and Forbidden (`¡圕! - 違法字`) sections into the +N groups. Stamped Radical 031.
+
+- **Radical loop, firing 29 (Radical 030):** grouped page (size 123); verified the 123 entries and their groups against the characters' own radical and stroke data, and checked every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (15 lines) and Forbidden (33 lines) sections into the +N groups with radical_migrate.py, the forbidden lines now `¡X! - 違法字`. Stamped Radical 030.
+
+- **Radical loop, firing 28 (Radical 029):** grouped page (size 14); verified the fourteen entries, their groups and all aliases (叛, 发, 㕛, 变, 叏, 叠) against the characters' own radical and alias data (all backed). Migrated the bottom Aliases and Forbidden (`¡叟! - 違法字`) sections into the +N groups (new +3 and +8 groups) and removed a stray blank line that split the numbered list in +2. Stamped Radical 029.
+
+- **Radical loop, firing 27 (Radical 028):** prosaic-style page (size 2); verified the two entries and the six aliases (厷, 县, 參, 叁, 厶, 㕗) against the characters' own radical and alias data (all backed) and shortened the forbidden line for 厼 to `¡厼! - 違法字`. Stamped Radical 028.
+
+- **Radical loop, firing 26 (Radical 027):** grouped page (size 11); verified the eleven entries, their groups and all aliases (厕, 㕑, 厲, 厅, 厈, 压, 厦, 厭) against the characters' own radical and alias data (all backed). Migrated the bottom Aliases (厕, 㕑, 厰, 厂) and Forbidden (`¡历! - 違法字`) sections into the +N groups (new +0 group for the radical handle 厂 → 廠). Stamped Radical 027.
+
 - **Radical loop, firing 25 (Radical 026):** grouped page (size 8); verified the eight entries, their groups and all aliases (卬, 卻, 卽, 卷, 卫) against the characters' own radical and alias data (all backed). Migrated the bottom Aliases (卬, 卽, 卷) and Forbidden (`¡卪!`, `¡𰆊!`, `¡厁!`, `- 違法字`) sections into the +N groups (new +0, +2, +6 and +11 groups). Stamped Radical 026.
 
 ## 2026-11-10

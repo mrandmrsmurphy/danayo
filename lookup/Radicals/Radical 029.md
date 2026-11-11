@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 14
 radical: 又
 tags: [lookup]
@@ -21,17 +21,26 @@ tags: [lookup]
 4. <ruby>[双](../../characters/双%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - pair, double
 5. <ruby>[収](../../characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - recover
 6. <ruby>[友](../../characters/友.md)<rt>⼜ㄛ</rt></ruby> - friend
-
 7. <ruby>[反](../../characters/反%20(char).md)<rt>ㄈㄛㄋ</rt></ruby> - anti-
+- 㕛 --> 友
+
+### +3 Strokes
+- 发 --> 発
+- 叏 --> 決
 
 ### +6 Strokes
 8. <ruby>[叔](../../characters/叔.md)<rt>ㄙㄨㄎ</rt></ruby> - uncle
 9. <ruby>[取](../../characters/取.md)<rt>ㄑㄛㄨ</rt></ruby> - take
 10. <ruby>[受](../../characters/受.md)<rt>ㄙ⼜</rt></ruby> - receive
+- 变 --> 変
 
 ### +7 Strokes
 11. <ruby>[叙](../../characters/叙.md)<rt>ㄙ⼄</rt></ruby> - express, state
 12. <ruby>[叚](../../characters/叚.md)<rt>ㄎㄚ</rt></ruby> - false
+- 叛 --> 反
+
+### +8 Strokes
+- ¡叟! - 違法字
 
 ### +11 Strokes
 - 叠 --> 畳
@@ -41,16 +50,6 @@ tags: [lookup]
 
 ### +16 Strokes
 14. <ruby>[叢](../../characters/叢.md)<rt>ㄐㄛㄫ</rt></ruby> - collection
-
-### Aliases
-- 叛 --> 反
-- 发 --> 発
-- 㕛 --> 友
-- 变 --> 変
-- 叏 --> 決
-
-### Forbidden
-- 叟 - 混乱: Real word ("old man"), listed on 表外字 (Hyōgai) only, no other list. Component in [[嫂]]/[[捜]]/[[痩 (char)|痩]].
 
 ## Data check
 ```dataview
