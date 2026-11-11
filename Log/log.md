@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 38 (SKIP-3-1-1, 3-1-2, 3-1-4, 3-1-7, SKIP-3-10-10, 3-10-11, 3-10-14, 3-10-16, 3-10-4, 3-10-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the duplicated `鬧 → 閙` redirect in SKIP-3-10-5. Stamped the ten leaves (SKIP-1 and SKIP-2 are now fully stamped; SKIP-3 and SKIP-4 remain).
+
 - **SKIP leaf loop, firing 37 (SKIP-2-8-6 to 2-8-9, SKIP-2-9-12, SKIP-2-9-2, 2-9-4 to 2-9-7):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 36 (SKIP-2-7-7, 2-7-9, SKIP-2-8-10, 2-8-11, 2-8-13, 2-8-16, SKIP-2-8-2 to 2-8-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. Removed the orphaned redirect `鬯 → 暢` from SKIP-2-8-2: the 暢 page records that 鬯 was deliberately removed as an alias. Stamped the ten leaves.
