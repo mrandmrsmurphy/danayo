@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 16
 radical: 隹
 tags: [lookup]
@@ -16,6 +16,7 @@ tags: [lookup]
 2. <ruby>[隼](../../characters/隼%20(char).md)<rt>ㄙ⼜ㄫ</rt></ruby> - peregrine falcon
 - 难 --> 難
 - 隺 --> 鶴
+- 隻 --> 只
 
 ### +3 Strokes
 3. <ruby>[雀](../../characters/雀.md)<rt>ㄐㄚㄎ</rt></ruby> - sparrow
@@ -32,6 +33,7 @@ tags: [lookup]
 10. <ruby>[雌](../../characters/雌.md)<rt>ㄑㄝ</rt></ruby> - female
 11. <ruby>[雍](../../characters/雍.md)<rt>ㄛㄫ</rt></ruby> - harmonious
 - 䧹 --> 鷹
+- 雏 --> 雛
 
 ### +6 Strokes
 12. <ruby>[雑](../../characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> - miscellaneous
@@ -50,14 +52,10 @@ tags: [lookup]
 - 雚 --> 鸛
 - 雝 --> 雍
 - 雜 --> 雑
+- 雞 --> 鶏
 
 ### +11 Strokes
 16. <ruby>[離](../../characters/離.md)<rt>ㄌㄝㄧ</rt></ruby> - depart
-
-### Aliases
-- 雞 --> 鶏
-- 雏 --> 雛
-- 隻 --> 只
 
 ## Data check
 ```dataview

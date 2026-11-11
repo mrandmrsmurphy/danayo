@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 3
 radical: 青
 tags: [lookup]
@@ -11,6 +11,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[青](../../characters/青%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - blue
+- 靑 --> 青
 
 ### +5 Strokes
 2. <ruby>[靖](../../characters/靖.md)<rt>ㄐㄧㄫ</rt></ruby> - pacify
@@ -23,9 +24,6 @@ tags: [lookup]
 
 ### +10 Strokes
 - 靝 --> 天
-
-### Aliases
-- 靑 --> 青
 
 ## Data check
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 63
 radical: 金
 tags: [lookup]
@@ -10,14 +10,12 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 针 --> 針
-
-### +-1 Strokes
-- 钉 --> 釘
-
-### +-2 Strokes
+### -2 Strokes
 - 钇 --> 乙
+
+### -1 Stroke
+- 针 --> 針
+- 钉 --> 釘
 
 ### +0 Strokes
 1. <ruby>[金](../../characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - metal
@@ -60,6 +58,8 @@ tags: [lookup]
 - 铭 --> 銘
 - 铗 --> 鋏
 - 铠 --> 鎧
+- 银 --> 銀
+- ¡釺! - 違法字
 
 ### +4 Strokes
 8. <ruby>[鈍](../../characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> - dull
@@ -104,6 +104,7 @@ tags: [lookup]
 - 鉴 --> 鑑
 - 锣 --> 鑼
 - 鉆 --> 鑽
+- ¡鈾! - 違法字
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver
@@ -118,6 +119,7 @@ tags: [lookup]
 - 锹 --> 鍬
 - 锺 --> 鍾
 - 銕 --> 鉄
+- ¡𨦈! - 違法字
 
 ### +7 Strokes
 27. <ruby>[銹](../../characters/銹%20(char).md)<rt>ㄙ⼜</rt></ruby> - rust
@@ -130,6 +132,8 @@ tags: [lookup]
 - 镇 --> 鎮
 - 銳 --> 鋭
 - 鋨 --> 鉄
+- ¡鋁! - 違法字
+- ¡錺! - 違法字
 
 ### +8 Strokes
 33. <ruby>[鋸](../../characters/鋸%20(char).md)<rt>ㄍ⼄</rt></ruby> - saw
@@ -149,6 +153,8 @@ tags: [lookup]
 - 錕 --> 昆
 - 錄 --> 録
 - 镜 --> 鏡
+- 錶 --> 表
+- ¡錻! - 違法字
 
 ### +9 Strokes
 46. <ruby>[鍋](../../characters/鍋%20(char).md)<rt>ㄍ⺢</rt></ruby> - pot
@@ -173,11 +179,16 @@ tags: [lookup]
 - 䥅 --> 琴
 - 䥆 --> 琴
 - 鎭 --> 鎮
+- 𨪙 --> 将
+- ¡鎺! - 違法字
+- ¡鎹! - 違法字
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror
 - 鏗 --> 堅
 - 鏇 --> 旋
+- 鏘 --> 将
+- ¡鏟! - 違法字
 
 ### +12 Strokes
 58. <ruby>[鐘](../../characters/鐘%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - bell
@@ -189,6 +200,7 @@ tags: [lookup]
 - 鏽 --> 銹
 - 鐮 --> 鎌
 - 鐵 --> 鉄
+- ¡鑓! - 違法字
 
 ### +14 Strokes
 - 鑛 --> 鉱
@@ -207,24 +219,6 @@ tags: [lookup]
 ### +19 Strokes
 62. <ruby>[鑼](../../characters/鑼.md)<rt>ㄌㄚ</rt></ruby> - gong
 63. <ruby>[鑽](../../characters/鑽.md)<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel)
-
-### Forbidden
-- 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
-- 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
-- 鏟 - 官话: HSK/3. "Shovel" -- others use 鍬 instead. No existing vault citations.
-- 錺 - 国字: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
-- 鑓 - 国字: lance, spear, javelin --> 鎗/槍
-- 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
-- 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
-- 釺 - 国字: 金 (“money”) + 千 (“thousand”), representing Portuguese mil réis (literally “thousand reals”).
-- 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
-- 鎹 - 国字: clamp
-
-### Aliases
-- 錶 --> 表
-- 鏘 --> 将
-- 𨪙 --> 将
-- 银 --> 銀
 
 ## Data check
 ```dataview

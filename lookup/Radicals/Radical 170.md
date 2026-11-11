@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 35
 radical: 阜
 tags: [lookup]
@@ -9,16 +9,12 @@ tags: [lookup]
 
 ## Strokes
 
-### +-2 Strokes
-- 阪 --> 坂
-
-### +-2 Strokes
-- 阵 --> 陣
-
-### +-3 Strokes
+### -3 Strokes
 - 队 --> 隊
 
-### +-2 Strokes
+### -2 Strokes
+- 阪 --> 坂
+- 阵 --> 陣
 - 阶 --> 階
 
 ### -1 Stroke
@@ -28,6 +24,7 @@ tags: [lookup]
 - 陆 --> 陸
 - 际 --> 際
 - 陇 --> 龍
+- 阳 --> 陽
 
 ### +0 Strokes
 3. <ruby>[阜](../../characters/阜.md)<rt>ㄅ⼜</rt></ruby> - mound
@@ -38,6 +35,7 @@ tags: [lookup]
 - 陕 --> 陝
 - 陈 --> 陳
 - 陏 --> 随
+- ¡𨸶! - 違法字
 
 ### +1 Stroke
 8. <ruby>[陋](../../characters/陋.md)<rt>ㄌ⼘ㄨ</rt></ruby> - ugly
@@ -57,6 +55,8 @@ tags: [lookup]
 16. <ruby>[除](../../characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> - exclude
 - 陼 --> 渚
 - 陷 --> 陥
+- ¡陡! - 違法字
+- ¡陦! - 違法字
 
 ### +3 Strokes
 17. <ruby>[陪](../../characters/陪%20(char).md)<rt>ㄅㄛㄧ</rt></ruby> - accompany
@@ -100,14 +100,6 @@ tags: [lookup]
 
 ### +10 Strokes
 - 隴 --> 龍
-
-### Aliases
-- 阳 --> 陽
-
-### Forbidden
-- 陡 - 官话: HSK/3.
-- 陦 - 異体字: Alternative form of 島, 'island'
-- 𨸶 - 国字: 国字 (阝 + 平); Wiktionary records no definition
 
 ## Data check
 ```dataview

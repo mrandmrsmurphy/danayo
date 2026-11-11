@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 21
 radical: 門
 tags: [lookup]
@@ -9,35 +9,29 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 间 --> 間
+### -5 Strokes
+- 门 --> 門
 
-### +-2 Strokes
-- 闭 --> 閉
-
-### +-1 Strokes
-- 闲 --> 閑
-
-### +-1 Strokes
-- 闷 --> 悶
-
-### +-3 Strokes
+### -3 Strokes
 - 闪 --> 閃
 
-### +-1 Strokes
-- 闵 --> 閔
-
-### +-2 Strokes
+### -2 Strokes
+- 闭 --> 閉
 - 闫 --> 閻
-
-### +-2 Strokes
 - 闯 --> 闖
+- 问 --> 問
 
-### +-1 Strokes
+### -1 Stroke
+- 间 --> 間
+- 闲 --> 閑
+- 闷 --> 悶
+- 闵 --> 閔
 - 闰 --> 閏
+- 𫔭 --> 開
 
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
+- 闹 --> 閙
 
 ### +1 Stroke
 - 闻 --> 聞
@@ -48,12 +42,14 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[閃](../../characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - flash
 - 阅 --> 閲
+- 閅 --> 門
 
 ### +3 Strokes
 3. <ruby>[閉](../../characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> - shut
 - 阋 --> 䦧
 - 阎 --> 閻
 - 閆 --> 閻
+- 阐 --> 闡
 
 ### +4 Strokes
 4. <ruby>[開](../../characters/開%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - open
@@ -63,6 +59,7 @@ tags: [lookup]
 8. <ruby>[閔](../../characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - urge
 - 閒 --> 閑
 - 阔 --> 闊
+- ¡閖! - 違法字
 
 ### +5 Strokes
 9. <ruby>[閙](../../characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy
@@ -88,6 +85,9 @@ tags: [lookup]
 17. <ruby>[闊](../../characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad
 - 闆 --> 板
 - 闌 --> 䦨
+- 闇 --> 暗
+- ¡闏! - 違法字
+- ¡𨵱! - 違法字
 
 ### +10 Strokes
 18. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude
@@ -96,25 +96,13 @@ tags: [lookup]
 
 ### +11 Strokes
 - 闚 --> 窺
+- 關 --> 関
 
 ### +12 Strokes
 21. <ruby>[闡](../../characters/闡.md)<rt>ㄑㄝㄋ</rt></ruby> - clarify
 
-### Aliases
-- 闹 --> 閙
+### +13 Strokes
 - 闢 --> 辟
-- 閅 --> 門
-- 门 --> 門
-- 阐 --> 闡
-- 闇 --> 暗
-- 𫔭 --> 開
-- 關 --> 関
-- 问 --> 問
-
-### Forbidden
-- 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
-- 閖 - 国字: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
-- 𨵱 - 国字: Used only in the place name 野𨵱 (Nokazuki) in Asakita-ku, Hiroshima
 
 ## Data check
 ```dataview

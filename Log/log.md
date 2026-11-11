@@ -4,6 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 175 (非)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (非 +0, 靠 +7, 靡 +11), stamped.
+- **Radical 174 (青)**: moved the bottom Aliases block into the +N Strokes groups (靑 → 青), stamped.
+- **Radical 173 (雨)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (霄, 䨭 → 宵, 霦 → 彬, 霹 → 辟, 霤 → 留, 霰 → 散 and ¡雫! as a 違法字 line), stamped.
+- **Radical 172 (隹)**: moved the bottom Aliases block into the +N Strokes groups (雞 → 鶏, 雏 → 雛, 隻 → 只), stamped.
+- **Radical 171 (隶)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (隷 under +8; 隶 → 隷 under +0, 隸 → 隷 filed by stroke count), stamped.
+- **Radical 170 (阜)**: merged the redirect lines under three malformed `### +-N Strokes` headings (plus one proper `-1 Stroke`) into negative groups ahead of +0; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (4 lines, three forbidden glyphs as 違法字 lines), stamped.
+- **Radical 169 (門)**: merged the nine redirect lines under nine malformed `### +-N Strokes` headings into `### -3 Strokes`, `### -2 Strokes` and `### -1 Stroke`; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (12 lines, three forbidden glyphs as 違法字 lines), stamped.
+- **Radical 168 (長)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard `## Strokes` layout (長 under +0; 长 → 長 and 镸 → 長 filed by stroke count), stamped.
+- **Radical 167 (金)**: merged the redirect lines under the malformed `### +-1 Strokes` (twice) and `### +-2 Strokes` headings into `### -2 Strokes` and `### -1 Stroke`; moved the bottom Forbidden/Aliases blocks into the +N Strokes groups (14 lines, ten forbidden glyphs as 違法字 lines), stamped.
 - **Radical 166 (里)**: verified (4 characters, groups and the 釐 → 厘 redirect correct), stamped; no content change.
 - **Radical 165 (釆)**: verified (3 characters, groups and the 釋 → 釈 redirect correct), stamped; no content change.
 - **Radical 164 (酉)**: moved the bottom Aliases block into the +N Strokes groups (醗, 醱 → 発, 醫 → 医), stamped.

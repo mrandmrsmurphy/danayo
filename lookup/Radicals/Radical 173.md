@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 20
 radical: 雨
 tags: [lookup]
@@ -15,6 +15,7 @@ tags: [lookup]
 ### +3 Strokes
 2. <ruby>[雪](../../characters/雪%20(char).md)<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 - 雩 --> 雨
+- ¡雫! - 違法字
 
 ### +4 Strokes
 3. <ruby>[雰](../../characters/雰.md)<rt>ㄈㄨㄋ</rt></ruby> - ambience
@@ -37,6 +38,7 @@ tags: [lookup]
 11. <ruby>[霊](../../characters/霊.md)<rt>ㄌㄝㄫ</rt></ruby> - ghost
 12. <ruby>[霅](../../characters/霅.md)<rt>ㄙㄛㄆ</rt></ruby> - thunder
 - 霉 --> 梅
+- 霄 --> 宵
 
 ### +8 Strokes
 13. <ruby>[霍](../../characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - sudden
@@ -48,31 +50,29 @@ tags: [lookup]
 16. <ruby>[霞](../../characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
 - 䨣 --> 覇
 
+### +10 Strokes
+- 霤 --> 留
+
 ### +11 Strokes
 17. <ruby>[霧](../../characters/霧%20(char).md)<rt>ㄇㄨ</rt></ruby> - fog
 18. <ruby>[霫](../../characters/霫.md)<rt>ㄙㄨㄆ</rt></ruby> - heavy rain
 - 霭 --> 靄
+- 䨭 --> 宵
+- 霦 --> 彬
+
+### +12 Strokes
+- 霰 --> 散
 
 ### +13 Strokes
 19. <ruby>[露](../../characters/露%20(char).md)<rt>ㄌㄛ</rt></ruby> - dew
 - 霸 --> 覇
+- 霹 --> 辟
 
 ### +16 Strokes
 20. <ruby>[靄](../../characters/靄.md)<rt>ㄚㄧ</rt></ruby> - hazy
 - 靈 --> 霊
 - 靂 --> 歴
 - 靃 --> 霍
-
-### Aliases
-- 霄 --> 宵
-- 䨭 --> 宵
-- 霦 --> 彬
-- 霹 --> 辟
-- 霤 --> 留
-- 霰 --> 散
-
-### Forbidden
-- 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
 
 ## Data check
 ```dataview
