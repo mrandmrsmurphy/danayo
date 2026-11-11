@@ -61,7 +61,6 @@ tags:
 - 猗 --> 倚
 - 猟 --> 獵
 - 猎 --> 獵
-- 兽 --> 獣
 
 ### +8 Strokes
 21. <ruby>[猩](../../characters/猩.md)<rt>ㄙㄝㄫ</rt></ruby> - orangutan
@@ -83,12 +82,10 @@ tags:
 ### +10 Strokes
 27. <ruby>[獄](../../characters/獄.md)<rt>⼄ㄎ</rt></ruby> - prison
 - 獃 --> 呆
-- 貍 --> 狸
 
 ### +11 Strokes
 - 獎 --> 奨
 - ¡獤! - 違法字
-- 貓 --> 猫
 
 ### +12 Strokes
 28. <ruby>[獣](../../characters/獣.md)<rt>ㄙ⼜</rt></ruby> - animal
@@ -96,7 +93,6 @@ tags:
 - 獬 --> 解
 - 獨 --> 独
 - 獭 --> 獺
-- 豬 --> 猪
 
 ### +15 Strokes
 30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter

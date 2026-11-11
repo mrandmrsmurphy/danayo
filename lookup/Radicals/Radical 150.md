@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 radical: 谷
 tags: [lookup]
 
@@ -8,8 +8,9 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 150 is 谷, "valley", 7 strokes. The character is traditionally analysed as water emerging from the mouth of a gorge. It is rarely used as a classifier; it more often supplies the sound in characters such as 浴 and 欲, which are filed under other radicals. Only 谷 itself is filed here.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[谷](../../characters/谷%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> - valley
 
 ## Data check

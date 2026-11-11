@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 153 (豸)**: verified (3 characters, groups and 5 alias-backed redirects correct), stamped; no content change.
+- **Radical 094 (犬)**: removed `兽 --> 獣`, `貍 --> 狸`, `貓 --> 猫`, `豬 --> 猪`, which I had filed there by mistake: each belongs to another radical's page and is already on it (Radical 012, 153, 153 and 152).
+- **Radical 152 (豕)**: moved the bottom Aliases block into the +N Strokes groups (豬 → 猪), stamped.
+- **Radical 151 (豆)**: verified (4 characters, groups and 2 alias-backed redirects correct), stamped; no content change.
+- **Radical 150 (谷)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 谷 was already present), stamped.
 - **Radical 149 (言)**: merged 19 redirect lines scattered under 19 malformed `### +-N Strokes` headings into three proper groups (`### -3 Strokes`, `### -2 Strokes`, `### -1 Stroke`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (24 lines, four forbidden glyphs as 違法字 lines), stamped.
 - **Radical 148 (角)**: moved the bottom Forbidden block into the +N Strokes groups (¡鵤! as a 違法字 line), stamped.
 - **Radical 147 (見)**: fixed the malformed headings `### +-1 Strokes` and `### +-3 Strokes` to `### -1 Stroke` and `### -3 Strokes` (ordered before +0); moved the bottom Aliases block into the +N Strokes groups (视 → 視), stamped.

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 6
 radical: 豕
 tags: [lookup]
@@ -32,7 +32,7 @@ tags: [lookup]
 ### +8 Strokes
 - 豫 --> 予
 
-### Aliases
+### +9 Strokes
 - 豬 --> 猪
 
 ## Data check
