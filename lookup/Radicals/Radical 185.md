@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 1
 radical: 首
 tags: [lookup]
@@ -7,8 +7,9 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 185 is 首, "head", 9 strokes. It depicts the head of a person or animal with hair on top, and extends to the sense of a leader or the first of anything. Only 首 itself is filed under it in the corpus.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[首](../../characters/首.md)<rt>ㄙ⼜</rt></ruby> - head
 
 ## Data check

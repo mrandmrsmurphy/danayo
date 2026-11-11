@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 188 (骨)**: moved the bottom Aliases block into the +N Strokes groups (髓 → 髄, 體 → 体), stamped.
+- **Radical 187 (馬)**: merged the redirect lines under eleven malformed `### +-N Strokes` headings into negative groups (`-5` to `-1`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (駛, 驶 → 使, 駿, 骏 → 俊, 马 → 馬 and ¡駲! as a 違法字 line), stamped.
+- **Radical 186 (香)**: moved the bottom Aliases block into the +N Strokes groups (馫 → 馨), stamped.
+- **Radical 185 (首)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 首 was already present), stamped.
 - **Radical 184 (食)**: merged the redirect lines under five malformed `### +-N Strokes` headings into negative groups (`-4`, `-2`, `-1`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (饭 → 飯, 饱 → 飽 and ¡䭏!, ¡饂!, ¡𩛰! as 違法字 lines), stamped.
 - **Radical 183 (飛)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (飛 +0; 飞 → 飛 and 飜 → 翻 filed by stroke count); removed `䬡 --> 翻`, which is not in 翻's aliases (rare Unicode-only form, not added as an alias); stamped.
 - **Radical 182 (風)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (風 +0, 颯 +5; 颱, 风, 颳, 飒 → redirects and ¡颪! filed by stroke count), stamped.

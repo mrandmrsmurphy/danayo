@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 2
 radical: 香
 tags: [lookup]
@@ -15,7 +15,7 @@ tags: [lookup]
 ### +11 Strokes
 2. <ruby>[馨](../../characters/馨.md)<rt>ㄏㄝㄫ</rt></ruby> - fragrant
 
-### Aliases
+### +18 Strokes
 - 馫 --> 馨
 
 ## Data check

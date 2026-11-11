@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 3
 radical: 骨
 tags: [lookup]
@@ -22,7 +22,7 @@ tags: [lookup]
 ### +11 Strokes
 - 髒 --> 臓
 
-### Aliases
+### +13 Strokes
 - 髓 --> 髄
 - 體 --> 体
 

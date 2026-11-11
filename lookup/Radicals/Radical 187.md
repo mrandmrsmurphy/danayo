@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 22
 radical: 馬
 tags: [lookup]
@@ -9,42 +9,35 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 骂 --> 罵
+### -7 Strokes
+- 马 --> 馬
 
-### +-5 Strokes
+### -5 Strokes
 - 驭 --> 馭
 
-### +-4 Strokes
+### -4 Strokes
 - 驰 --> 馳
-
-### +-4 Strokes
 - 驯 --> 馴
 
-### +-3 Strokes
+### -3 Strokes
 - 驳 --> 駁
 
-### +-2 Strokes
+### -2 Strokes
 - 驿 --> 駅
-
-### +-2 Strokes
 - 驻 --> 駐
-
-### +-2 Strokes
 - 驹 --> 駒
-
-### +-2 Strokes
 - 驾 --> 駕
-
-### +-2 Strokes
 - 驼 --> 駝
+- 驶 --> 使
 
-### +-1 Strokes
+### -1 Stroke
+- 骂 --> 罵
 - 骆 --> 駱
 
 ### +0 Strokes
 1. <ruby>[馬](../../characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
 - 验 --> 験
+- 骏 --> 俊
 
 ### +1 Stroke
 - 骑 --> 騎
@@ -72,13 +65,16 @@ tags: [lookup]
 13. <ruby>[駕](../../characters/駕.md)<rt>ㄍㄚ</rt></ruby> - palanquin
 14. <ruby>[駝](../../characters/駝.md)<rt>ㄉㄚ</rt></ruby> - humpbacked
 - 駞 --> 駝
+- 駛 --> 使
 
 ### +6 Strokes
 15. <ruby>[駱](../../characters/駱.md)<rt>ㄌㄚㄎ</rt></ruby> - camel
 - 駮 --> 駁
+- ¡駲! - 違法字
 
 ### +7 Strokes
 - 騃 --> 呆
+- 駿 --> 俊
 
 ### +8 Strokes
 16. <ruby>[騎](../../characters/騎.md)<rt>ㄍㄨㄧ</rt></ruby> - ride horseback
@@ -113,16 +109,6 @@ tags: [lookup]
 
 ### +16 Strokes
 - 驢 --> 馿
-
-### Aliases
-- 駛 --> 使
-- 驶 --> 使
-- 駿 --> 俊
-- 骏 --> 俊
-- 马 --> 馬
-
-### Forbidden
-- 駲 - 幽霊文字: A ghost character
 
 ## Data check
 ```dataview
