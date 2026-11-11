@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 13
 radical: 寸
 tags: [lookup]
@@ -19,10 +19,12 @@ tags: [lookup]
 ### +3 Strokes
 2. <ruby>[寺](../../characters/寺.md)<rt>ㄙㄚ</rt></ruby> - temple (Buddhist)
 - 寻 --> 尋
+- 导 --> 導
 
 ### +4 Strokes
 3. <ruby>[寿](../../characters/寿.md)<rt>ㄙ⼜</rt></ruby> - old age
 4. <ruby>[対](../../characters/対.md)<rt>ㄉㄛㄧ</rt></ruby> - oppose
+- ¡寽! - 違法字
 
 ### +5 Strokes
 - 尀 --> 叵
@@ -40,6 +42,7 @@ tags: [lookup]
 ### +8 Strokes
 10. <ruby>[尉](../../characters/尉%20(char).md)<rt>ㄨㄊ</rt></ruby> - officer
 - 專 --> 専
+- 將 --> 将
 
 ### +9 Strokes
 11. <ruby>[尋](../../characters/尋%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - inquire for
@@ -51,13 +54,6 @@ tags: [lookup]
 
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide
-
-### Aliases
-- 导 --> 導
-- 將 --> 将
-
-### Forbidden
-- 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
 
 ## Data check
 ```dataview

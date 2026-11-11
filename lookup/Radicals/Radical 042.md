@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 小
 tags: [lookup]
@@ -16,6 +16,11 @@ tags: [lookup]
 ### +1 Stroke
 2. <ruby>[少](../../characters/少%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> - few
 
+### +2 Strokes
+- 尓 --> 爾
+- 尔 --> 爾
+- ¡龸! - 違法字
+
 ### +3 Strokes
 3. <ruby>[尗](../../characters/尗.md)<rt>ㄙ⼜ㄎ</rt></ruby> - bean
 4. <ruby>[尖](../../characters/尖.md)<rt>ㄐㄝㄇ</rt></ruby> - sharp
@@ -24,6 +29,10 @@ tags: [lookup]
 
 ### +5 Strokes
 6. <ruby>[尚](../../characters/尚%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - still
+- 尙 --> 尚
+
+### +6 Strokes
+- 尝 --> 嘗
 
 ### +9 Strokes
 7. <ruby>[尞](../../characters/尞%20(char).md)<rt>ㄌ⼘</rt></ruby> - bonfire
@@ -33,15 +42,6 @@ tags: [lookup]
 
 ### +11 Strokes
 8. <ruby>[爾](../../characters/爾%20(char).md)<rt>ㄋㄝ</rt></ruby> - yes
-
-### Aliases
-- 尝 --> 嘗
-- 尙 --> 尚
-- 尓 --> 爾
-- 尔 --> 爾
-
-### Forbidden
-- 龸 - 幽霊文字: Zero notes, zero real citations in this vault -- a bare decomposition-component glyph.
 
 ## Data check
 ```dataview

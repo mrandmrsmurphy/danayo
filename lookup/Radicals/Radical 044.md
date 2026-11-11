@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 21
 radical: 尸
 tags: [lookup]
@@ -39,6 +39,7 @@ tags: [lookup]
 13. <ruby>[屎](../../characters/屎%20(char).md)<rt>ㄏㄜ</rt></ruby> - excrement
 14. <ruby>[屏](../../characters/屏.md)<rt>ㄅㄧㄫ</rt></ruby> - folding screen
 - 屍 --> 死
+- ¡𡱖! - 違法字
 
 ### +7 Strokes
 15. <ruby>[屑](../../characters/屑%20(char).md)<rt>ㄙㄝㄊ</rt></ruby> - scraps
@@ -61,9 +62,6 @@ tags: [lookup]
 
 ### +18 Strokes
 - 屬 --> 属
-
-### Forbidden
-- 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition
 
 ## Data check
 ```dataview

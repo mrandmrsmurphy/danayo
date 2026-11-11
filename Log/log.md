@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical loop, firing 43 (Radical 044):** grouped page (size 21); verified the 21 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Forbidden section (`¡𡱖! - 違法字`) into its +N group. Stamped Radical 044.
+
+- **Radical loop, firing 42 (Radical 043):** prosaic-style page (size 3) already in order; verified the three entries (尤, 尭, 就) against the characters' own radical data; the page has no aliases or forbidden entries and the characters' alias data adds none; no changes needed. Stamped Radical 043.
+
+- **Radical loop, firing 41 (Radical 042):** grouped page (size 8); verified the eight entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (尝, 尙, 尓, 尔) and Forbidden (`¡龸! - 違法字`) sections into the +N groups. Stamped Radical 042.
+
+- **Radical loop, firing 40 (Radical 041):** grouped page (size 13); verified the thirteen entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (导, 將) and Forbidden (`¡寽! - 違法字`) sections into the +N groups. Stamped Radical 041.
+
 - **Radical loop, firing 39 (Radical 040):** grouped page (size 46); verified the 46 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the Aliases block (宔, 宥, 㝎) that sat under `## Other` into the +N groups. Stamped Radical 040.
 
 - **Radical loop, firing 38 (Radical 039):** grouped page (size 13); verified the thirteen entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases block (學 → 学) into its +N group. Stamped Radical 039.
