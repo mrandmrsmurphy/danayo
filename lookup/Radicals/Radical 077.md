@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 9
 radical: 止
 tags: [lookup]
@@ -45,7 +45,7 @@ tags: [lookup]
 ### +12 Strokes
 - 歷 --> 歴
 
-### Aliases
+### +14 Strokes
 - 歸 --> 帰
 
 ## Data check

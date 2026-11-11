@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 毋
 tags:
   - lookup
@@ -8,15 +8,22 @@ tags:
 > [[Radicals]]
 > Radical 80 is 毋, 4 strokes. Characters classified here are grouped by this shape rather than by a shared meaning; 母 ("mother") is the best-known of them.
 
-## Characters
-### Used
-1. <ruby>[母](../../characters/母.md)<rt>ㄇㄛㄨ</rt></ruby> - mother
-2. <ruby>[毎](../../characters/毎%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> - each
-3. <ruby>[毒](../../characters/毒%20(char).md)<rt>ㄉㄛㄎ</rt></ruby> - poisonous
+## Strokes
 
-### Aliases
-- 每 --> 毎
+### +0 Strokes
 - 毋 --> 母
+
+### +1 Stroke
+1. <ruby>[母](../../characters/母.md)<rt>ㄇㄛㄨ</rt></ruby> - mother
+
+### +2 Strokes
+2. <ruby>[毎](../../characters/毎%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> - each
+
+### +3 Strokes
+- 每 --> 毎
+
+### +4 Strokes
+3. <ruby>[毒](../../characters/毒%20(char).md)<rt>ㄉㄛㄎ</rt></ruby> - poisonous
 
 ## Data check
 ```dataview

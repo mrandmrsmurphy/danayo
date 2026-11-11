@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 080 (毋)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (毋 → 母 under +0, 母 +1, 毎 +2, 每 → 毎 +3, 毒 +4), stamped.
+- **Radical 079 (殳)**: verified (8 characters, groups and 5 alias-backed redirects correct), stamped; no content change.
+- **Radical 078 (歹)**: verified (8 characters, groups and 4 alias-backed redirects correct), stamped; no content change.
+- **Radical 077 (止)**: moved the bottom Aliases block into the +N Strokes groups (歸 → 帰), stamped.
 - **Radical 076 (欠)**: verified (12 characters, groups and 8 alias-backed redirects correct), stamped; no content change.
 - **Radical 075 (木)**: verified (162 characters, groups and 116 redirect lines correct and alias-backed); removed one stray blank line in the numbered list, stamped.
 - **Radical 074 (月)**: moved the bottom Forbidden/Aliases blocks into the +N Strokes groups (朞 → 期, ¡膤! as a 違法字 line), stamped.
