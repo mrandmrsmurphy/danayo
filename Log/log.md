@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 192 (鬯)**: converted the `## Characters` / `### Note` / `### Aliases` layout to `## Strokes` (no characters are filed here; the note is kept above the groups; 鬱 and 鬰 → 欝 filed by stroke count), stamped.
+- **Radical 191 (鬥)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (䦧 +6, counted from the radical's Kangxi 10 strokes; eight redirects filed by stroke count), stamped.
+- **Radical 190 (髟)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (髪 +4, 髯 +5, 鬚 +12, 鬣 +15, counted from the radical's Kangxi 10 strokes; eight redirects and ¡髭! filed by stroke count), stamped.
+- **Radical 189 (高)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard `## Strokes` layout (高 under +0; 䯨 → 敲 filed by stroke count), stamped.
 - **Radical 188 (骨)**: moved the bottom Aliases block into the +N Strokes groups (髓 → 髄, 體 → 体), stamped.
 - **Radical 187 (馬)**: merged the redirect lines under eleven malformed `### +-N Strokes` headings into negative groups (`-5` to `-1`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (駛, 驶 → 使, 駿, 骏 → 俊, 马 → 馬 and ¡駲! as a 違法字 line), stamped.
 - **Radical 186 (香)**: moved the bottom Aliases block into the +N Strokes groups (馫 → 馨), stamped.
