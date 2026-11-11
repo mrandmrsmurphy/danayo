@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 士
 tags: [lookup]
@@ -15,6 +15,9 @@ tags: [lookup]
 
 ### +1 Stroke
 2. <ruby>[壬](../../characters/壬.md)<rt>ㄋㄧㄇ</rt></ruby> - ninth heavenly stem
+
+### +2 Strokes
+- ¡壭! - 違法字
 
 ### +3 Strokes
 3. <ruby>[壮](../../characters/壮.md)<rt>ㄐ⺢ㄫ</rt></ruby> - bulky
@@ -42,9 +45,6 @@ tags: [lookup]
 
 ### +11 Strokes
 - 壽 --> 寿
-
-### Forbidden
-- 壭 - 口訣: Korean 구결 for '산'.
 
 ## Data check
 ```dataview

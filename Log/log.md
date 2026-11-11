@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical loop, firing 34 (Radical 035):** prosaic-style page (size 1) already in order; verified the entry 夏 and the two aliases against the characters' own radical and alias data (all backed); no changes needed. Stamped Radical 035.
+
+- **Radical loop, firing 33 (Radical 034):** prosaic-style page (size 2); verified the two entries and three aliases (处, 备, 夆) against the characters' own radical and alias data (all backed) and shortened the forbidden line for 复 to `¡复! - 違法字`. Stamped Radical 034.
+
+- **Radical loop, firing 32 (Radical 033):** grouped page (size 8); verified the eight entries, their groups and every redirect against the characters' own radical and alias data (all backed). Migrated the bottom Forbidden section (`¡壭! - 違法字`) into a new +2 group. Stamped Radical 033.
+
+- **Radical loop, firing 31 (Radical 032):** grouped page (size 67); verified the 67 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (圣, 坮, 场, 塲) and Forbidden (13 lines, now `¡X! - 違法字`) sections into the +N groups; no redirect was lost or added. Stamped Radical 032.
+
 - **Radical loop, firing 30 (Radical 031):** grouped page (size 16); verified the sixteen entries, their groups and every redirect against the characters' own radical and alias data (all backed). Migrated the bottom Aliases (圍, 围, 國, 图; 圖 was already in its group) and Forbidden (`¡圕! - 違法字`) sections into the +N groups. Stamped Radical 031.
 
 - **Radical loop, firing 29 (Radical 030):** grouped page (size 123); verified the 123 entries and their groups against the characters' own radical and stroke data, and checked every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (15 lines) and Forbidden (33 lines) sections into the +N groups with radical_migrate.py, the forbidden lines now `¡X! - 違法字`. Stamped Radical 030.

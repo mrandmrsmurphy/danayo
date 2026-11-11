@@ -1,7 +1,7 @@
 ---
 size: 2
 radical: 夂
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 tags: [lookup]
 
 ---
@@ -14,7 +14,7 @@ tags: [lookup]
 2. <ruby>[夌](../../characters/夌.md)<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
 
 ### Forbidden
-- 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
+- ¡复! - 違法字
 
 ### Aliases
 - 处 --> 処

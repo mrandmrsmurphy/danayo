@@ -1,6 +1,6 @@
 ---
 size: 67
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 土
 tags:
   - lookup
@@ -16,16 +16,22 @@ tags:
 ### +1 Stroke
 2. <ruby>[𡈼](../../characters/𡈼.md)<rt>ㄊㄧㄋ</rt></ruby> - stalk
 - 圡 --> 土
+- ¡龶! - 違法字
 
 ### +2 Strokes
 3. <ruby>[圧](../../characters/圧%20(char).md)<rt>ㄚㄊ</rt></ruby> - press
 - 圢 --> 町
+- 圣 --> 聖
+- ¡圦! - 違法字
 
 ### +3 Strokes
 4. <ruby>[在](../../characters/在%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - exist
 5. <ruby>[圭](../../characters/圭.md)<rt>ㄍ⼔ㄧ</rt></ruby> - jade tablet
 6. <ruby>[地](../../characters/地%20(char).md)<rt>ㄉㄧㄜ</rt></ruby> - land
 - 圩 --> 墟
+- 场 --> 場
+- ¡圸! - 違法字
+- ¡圷! - 違法字
 
 ### +4 Strokes
 7. <ruby>[坂](../../characters/坂.md)<rt>ㄅㄛㄋ</rt></ruby> - slope
@@ -33,7 +39,6 @@ tags:
 9. <ruby>[坊](../../characters/坊.md)<rt>ㄈㄚㄫ</rt></ruby> - workshop
 10. <ruby>[坐](../../characters/坐%20(char).md)<rt>ㄐ⺢</rt></ruby> - sit
 11. <ruby>[坑](../../characters/坑%20(char).md)<rt>ㄎㄚㄫ</rt></ruby> - pit
-
 12. <ruby>[址](../../characters/址.md)<rt>ㄐㄧ</rt></ruby> - site
 - 坚 --> 堅
 - 块 --> 塊
@@ -52,6 +57,9 @@ tags:
 - 坸 --> 垢
 - 坭 --> 泥
 - 坡 --> 浦
+- 坮 --> 台
+- ¡垈! - 違法字
+- ¡垉! - 違法字
 
 ### +6 Strokes
 17. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model
@@ -61,6 +69,9 @@ tags:
 21. <ruby>[城](../../characters/城.md)<rt>ㄙㄧㄫ</rt></ruby> - castle
 - 垫 --> 墊
 - 垦 --> 墾
+- ¡垮! - 違法字
+- ¡垰! - 違法字
+- ¡垳! - 違法字
 
 ### +7 Strokes
 22. <ruby>[埃](../../characters/埃.md)<rt>ㄚㄧ</rt></ruby> - fine dirt
@@ -68,6 +79,7 @@ tags:
 24. <ruby>[培](../../characters/培.md)<rt>ㄈㄛㄧ</rt></ruby> - cultivate
 - 埗 --> 埠
 - 埈 --> 峻
+- ¡﨏! - 違法字
 
 ### +8 Strokes
 25. <ruby>[域](../../characters/域%20(char).md)<rt>ㄨㄧㄎ</rt></ruby> - domain
@@ -100,6 +112,7 @@ tags:
 45. <ruby>[塚](../../characters/塚%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - hillock
 - 堺 --> 界
 - 堯 --> 尭
+- ¡塀! - 違法字
 
 ### +10 Strokes
 46. <ruby>[塊](../../characters/塊%20(char).md)<rt>ㄎㄛㄧ</rt></ruby> - lump
@@ -112,6 +125,7 @@ tags:
 - 塙 --> 確
 - 塐 --> 塑
 - 塡 --> 填
+- ¡塰! - 違法字
 
 ### +11 Strokes
 53. <ruby>[塵](../../characters/塵.md)<rt>ㄐㄧㄋ</rt></ruby> - dirt
@@ -125,6 +139,7 @@ tags:
 - 墙 --> 牆
 - 塼 --> 磚
 - 墅 --> 野
+- 塲 --> 場
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall
@@ -133,6 +148,7 @@ tags:
 - 墮 --> 堕
 - 㙮 --> 塔
 - 增 --> 増
+- ¡墹! - 違法字
 
 ### +13 Strokes
 62. <ruby>[墾](../../characters/墾.md)<rt>ㄎㄚㄋ</rt></ruby> - cultivate
@@ -160,27 +176,6 @@ tags:
 
 ### +17 Strokes
 - 壤 --> 壌
-
-### Aliases
-- 圣 --> 聖
-- 坮 --> 台
-- 场 --> 場
-- 塲 --> 場
-
-### Forbidden
-- 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
-- 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
-- 垮 - 官话: HSK/4, but novel.
-- 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.
-- 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
-- 圷 - 国字: 'low lands'.  For the sound, use 下.  For the meaning, use 低地.
-- 塰 - 国字: title of a Noh play
-- 垰 - 国字: 'mountain pass'
-- 圦 - 国字: 'underground sluice' Use 水門
-- 垳 - 国字: 'cliff'; used in place names
-- 﨏 - 国字: 国字 (土 + 谷); Wiktionary records no definition in Japanese
-- 墹 - 国字: 'cliff'; used only in place names in Shizuoka Prefecture
-- 塀 - 国字: 常用漢字/高等.  Meaning synonymous with 壁.
 
 ## Data check
 ```dataview
