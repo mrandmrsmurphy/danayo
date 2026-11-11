@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 34
 radical: 石
 tags: [lookup]
@@ -18,6 +18,7 @@ tags: [lookup]
 ### +3 Strokes
 - 码 --> 碼
 - 矿 --> 鉱
+- 矽 --> 硅
 
 ### +4 Strokes
 2. <ruby>[砒](../../characters/砒.md)<rt>ㄆㄧ</rt></ruby> - arsenic
@@ -26,6 +27,7 @@ tags: [lookup]
 - 砂 --> 沙
 - 砚 --> 硯
 - 砖 --> 磚
+- ¡砍! - 違法字
 
 ### +5 Strokes
 5. <ruby>[砧](../../characters/砧.md)<rt>ㄉㄨㄇ</rt></ruby> - anvil
@@ -34,12 +36,14 @@ tags: [lookup]
 8. <ruby>[砲](../../characters/砲.md)<rt>ㄅ⼘ㄨ</rt></ruby> - cannon
 9. <ruby>[破](../../characters/破%20(char).md)<rt>ㄆㄜ</rt></ruby> - rend
 - 础 --> 礎
+- ¡砸! - 違法字
 
 ### +6 Strokes
 10. <ruby>[砦](../../characters/砦.md)<rt>ㄐㄚㄧ</rt></ruby> - abatis
 11. <ruby>[硅](../../characters/硅.md)<rt>ㄍ⼜ㄎ</rt></ruby> - silicon
 - 硃 --> 朱
 - 硕 --> 碩
+- 硏 --> 研
 
 ### +7 Strokes
 12. <ruby>[硝](../../characters/硝.md)<rt>ㄙ⼄ㄨ</rt></ruby> - saltpetre
@@ -47,6 +51,8 @@ tags: [lookup]
 14. <ruby>[硬](../../characters/硬%20(char).md)<rt>ㄚㄫ</rt></ruby> - hard
 15. <ruby>[硯](../../characters/硯.md)<rt>ㄝㄋ</rt></ruby> - inkstone
 - 确 --> 確
+- ¡硴! - 違法字
+- ¡硲! - 違法字
 
 ### +8 Strokes
 16. <ruby>[硼](../../characters/硼.md)<rt>ㄅㄛㄫ</rt></ruby> - borax
@@ -54,6 +60,8 @@ tags: [lookup]
 18. <ruby>[碍](../../characters/碍.md)<rt>ㄚㄧ</rt></ruby> - obstruct
 19. <ruby>[碗](../../characters/碗%20(char).md)<rt>⺢ㄋ</rt></ruby> - bowl
 - 碎 --> 砕
+- ¡碰! - 違法字
+- ¡碓! - 違法字
 
 ### +9 Strokes
 20. <ruby>[碑](../../characters/碑.md)<rt>ㄅㄧ</rt></ruby> - tombstone
@@ -93,18 +101,6 @@ tags: [lookup]
 
 ### +15 Strokes
 34. <ruby>[礬](../../characters/礬.md)<rt>ㄆㄛㄇ</rt></ruby> - alum
-
-### Aliases
-- 矽 --> 硅
-- 硏 --> 研
-
-### Forbidden
-- 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
-- 砸 - 官话: HSK/3.  Modern Mandarin coinage.
-- 砍 - 官话: HSK/2. "To chop." No existing vault citations.
-- 硴 - 国字: Stone + flower = oyster
-- 硲 - 国字: 'ravine, gap, gorge'; also the surname はざま
-- 碓 - 国字: 日本人名用漢字.  Use 杵 instead.
 
 ## Data check
 ```dataview

@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 114 (禸)**: moved the bottom Aliases block into the +N Strokes groups (𥝅 → 万), stamped.
+- **Radical 113 (示)**: moved the bottom Aliases block into the +N Strokes groups (禦 → 御, 祂 → 他, 禄 → 祿), stamped.
+- **Radical 112 (石)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (矽 → 硅, 硏 → 研 and ¡碰!, ¡砸!, ¡砍!, ¡硴!, ¡硲!, ¡碓! as 違法字 lines), stamped.
+- **Radical 111 (矢)**: moved the bottom Aliases block into the +N Strokes groups (𥎵 and 𥏼 → 知), stamped.
 - **Radical 110 (矛)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 矛 was already present), stamped.
 - **Radical 109 (目)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (眀, 眞, 矍 redirects and ¡睜!, ¡盯!, ¡瞇!, ¡瞧!, ¡瞪! as 違法字 lines), stamped.
 - **Radical 066 (攴)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (收 → 収, 攵 → 攴, 敎 → 教 and ¡敾! as a 違法字 line), kept the `## Other` notes, stamped.

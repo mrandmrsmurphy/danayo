@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 4
 radical: 禸
 tags: [lookup]
@@ -23,7 +23,7 @@ tags: [lookup]
 ### +8 Strokes
 4. <ruby>[禽](../../characters/禽.md)<rt>ㄎㄧㄇ</rt></ruby> - fowl
 
-### Aliases
+### +10 Strokes
 - 𥝅 --> 万
 
 ## Data check

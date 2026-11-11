@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 7
 radical: 矢
 tags: [lookup]
@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +5 Strokes
 4. <ruby>[矩](../../characters/矩%20(char).md)<rt>ㄎ⼄</rt></ruby> - carpenter's square
+- 𥎵 --> 知
 
 ### +6 Strokes
 - 矫 --> 矯
@@ -31,12 +32,11 @@ tags: [lookup]
 ### +8 Strokes
 6. <ruby>[矮](../../characters/矮%20(char).md)<rt>⺢ㄧ</rt></ruby> - short (person)
 
+### +11 Strokes
+- 𥏼 --> 知
+
 ### +12 Strokes
 7. <ruby>[矯](../../characters/矯.md)<rt>ㄍ⼘ㄨ</rt></ruby> - rectify
-
-### Aliases
-- 𥎵 --> 知
-- 𥏼 --> 知
 
 ## Data check
 ```dataview

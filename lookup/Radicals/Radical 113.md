@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 25
 radical: 示
 tags:
@@ -16,6 +16,7 @@ tags:
 
 ### +2 Strokes
 3. <ruby>[祁](../../characters/祁.md)<rt>ㄍㄧㄜ</rt></ruby> - surname
+- 祂 --> 他
 
 ### +3 Strokes
 4. <ruby>[社](../../characters/社.md)<rt>ㄙ⼘</rt></ruby> - company
@@ -44,6 +45,7 @@ tags:
 
 ### +7 Strokes
 19. <ruby>[祷](../../characters/祷.md)<rt>ㄉㄚㄨ</rt></ruby> - pray
+- 禄 --> 祿
 
 ### +8 Strokes
 20. <ruby>[祿](../../characters/祿.md)<rt>ㄌㄛㄎ</rt></ruby> - wealth
@@ -61,15 +63,13 @@ tags:
 - 禧 --> 喜
 - 禪 --> 禅
 
+### +12 Strokes
+- 禦 --> 御
+
 ### +13 Strokes
 - 禮 --> 礼
 - 禰 --> 祢
 - 禱 --> 祷
-
-### Aliases
-- 禦 --> 御
-- 祂 --> 他
-- 禄 --> 祿
 
 ## Data check
 ```dataview
