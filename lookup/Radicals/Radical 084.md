@@ -1,6 +1,6 @@
 ---
 size: 1
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 气
 tags: [lookup]
 
@@ -8,18 +8,25 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 84 is 气, steam or breath, 4 strokes. 気 is the only character classified here.
 
-## Characters
-### Used
-1. <ruby>[気](../../characters/気%20(char).md)<rt>ㄎㄧㄜ</rt></ruby> - feeling
+## Strokes
 
-### Aliases
-- 㲵 --> 宵
-- 氣 --> 気
+### +0 Strokes
 - 气 --> 気
 
-### Forbidden
-- 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).
-- 𬇐 - 国字: 'electricity', an abbreviated ligature of 電気
+### +2 Strokes
+1. <ruby>[気](../../characters/気%20(char).md)<rt>ㄎㄧㄜ</rt></ruby> - feeling
+
+### +5 Strokes
+- ¡𬇐! - 違法字
+
+### +6 Strokes
+- 氣 --> 気
+
+### +7 Strokes
+- 㲵 --> 宵
+
+### +8 Strokes
+- ¡氮! - 違法字
 
 ## Data check
 ```dataview

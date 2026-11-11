@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 084 (气)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (气 → 気 +0, 気 +2, ¡𬇐! +5, 氣 → 気 +6, 㲵 → 宵 +7, ¡氮! +8), stamped.
+- **Radical 083 (氏)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (氏 +0; 氐 and 民 +1), stamped.
+- **Radical 082 (毛)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (毛 +0; 毫, ¡毟!, 毬 → 球 under +7), stamped.
+- **Radical 081 (比)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (比 +0, 毕 → 畢 +2, 毘 and 毗 → 毘 +5), stamped.
 - **Radical 080 (毋)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (毋 → 母 under +0, 母 +1, 毎 +2, 每 → 毎 +3, 毒 +4), stamped.
 - **Radical 079 (殳)**: verified (8 characters, groups and 5 alias-backed redirects correct), stamped; no content change.
 - **Radical 078 (歹)**: verified (8 characters, groups and 4 alias-backed redirects correct), stamped; no content change.

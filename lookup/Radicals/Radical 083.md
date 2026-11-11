@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 氏
 tags:
   - lookup
@@ -8,9 +8,12 @@ tags:
 > [[Radicals]]
 > Radical 83 is 氏, "clan", 4 strokes. Characters classified here are grouped by this shape rather than by a shared meaning.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[氏](../../characters/氏.md)<rt>ㄙㄧㄜ</rt></ruby> - clan
+
+### +1 Stroke
 2. <ruby>[氐](../../characters/氐.md)<rt>ㄉㄝ</rt></ruby> - root
 3. <ruby>[民](../../characters/民.md)<rt>ㄇㄧㄋ</rt></ruby> - citizen
 
