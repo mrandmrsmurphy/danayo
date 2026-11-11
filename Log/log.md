@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 102 (田)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (six redirects and ¡畓!, ¡畑!, ¡畩! as 違法字 lines), stamped.
+- **Radical 101 (用)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (用 +0, 甫 and 甬 +2; 甯 → 寧 and ¡甭! filed by stroke count), stamped.
+- **Radical 100 (生)**: moved the bottom Aliases block into the +N Strokes groups (𤯞 → 青), stamped.
+- **Radical 099 (甘)**: verified (3 characters, groups correct, no aliases or redirects needed), stamped; no content change.
 - **Radical 098 (瓦)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (瓯 → 甌 and five forbidden glyphs as `¡X! - 違法字` lines), stamped.
 - **Radical 097 (瓜)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (瓜 +0, 瓢 +12, 瓣 → 弁 filed by stroke count), stamped.
 - **Radical 096 (玉)**: refiled 王 (stroke_count 4, one fewer than the radical) under a new `### -1 Stroke` group, as 才 is under 手; moved the bottom Aliases block into the +N Strokes groups, stamped.

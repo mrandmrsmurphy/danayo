@@ -1,6 +1,6 @@
 ---
 size: 3
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 radical: 用
 tags: [lookup]
 
@@ -8,16 +8,19 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 101 is 用, "use", 5 strokes. Characters classified here are grouped by this shape rather than by a shared meaning.
 
-## Characters
-### Used
+## Strokes
+
+### +0 Strokes
 1. <ruby>[用](../../characters/用.md)<rt>⼄ㄫ</rt></ruby> - use
+
+### +2 Strokes
 2. <ruby>[甫](../../characters/甫.md)<rt>ㄆㄨ</rt></ruby> - just now
 3. <ruby>[甬](../../characters/甬.md)<rt>⼄ㄫ</rt></ruby> - Yong River
 
-### Forbidden
-- 甭 - 官话: HSK/3.  A northern Mandarin colloquial contraction of 不 + 用 (needn't).
+### +4 Strokes
+- ¡甭! - 違法字
 
-### Aliases
+### +7 Strokes
 - 甯 --> 寧
 
 ## Data check

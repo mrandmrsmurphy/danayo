@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 22
 radical: 田
 tags: [lookup]
@@ -20,6 +20,7 @@ tags: [lookup]
 ### +2 Strokes
 5. <ruby>[町](../../characters/町.md)<rt>ㄊㄝㄫ</rt></ruby> - ridge between fields
 6. <ruby>[男](../../characters/男.md)<rt>ㄋㄚㄇ</rt></ruby> - man
+- 甸 --> 田
 
 ### +3 Strokes
 7. <ruby>[画](../../characters/画.md)<rt>ㄏ⺢ㄎ</rt></ruby> - draw
@@ -29,6 +30,8 @@ tags: [lookup]
 8. <ruby>[畏](../../characters/畏%20(char).md)<rt>ㄛㄧ</rt></ruby> - fear
 9. <ruby>[界](../../characters/界.md)<rt>ㄍ⼶</rt></ruby> - zone
 10. <ruby>[畐](../../characters/畐.md)<rt>ㄅㄨㄎ</rt></ruby> - roll of cloth
+- ¡畓! - 違法字
+- ¡畑! - 違法字
 
 ### +5 Strokes
 11. <ruby>[畔](../../characters/畔%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> - ridge
@@ -40,14 +43,19 @@ tags: [lookup]
 15. <ruby>[略](../../characters/略%20(char).md)<rt>ㄌ⼘ㄎ</rt></ruby> - abbreviate
 16. <ruby>[異](../../characters/異.md)<rt>ㄧ</rt></ruby> - different
 17. <ruby>[畢](../../characters/畢.md)<rt>ㄆㄧㄊ</rt></ruby> - all in all
+- ¡畩! - 違法字
 
 ### +7 Strokes
 18. <ruby>[番](../../characters/番%20(char).md)<rt>ㄈㄚㄋ</rt></ruby> - time
 19. <ruby>[畳](../../characters/畳%20(char).md)<rt>ㄉㄝㄆ</rt></ruby> - folding mat
 20. <ruby>[畴](../../characters/畴.md)<rt>ㄐㄨㄛ</rt></ruby> - field, category
+- 畫 --> 画
+- 畱 --> 留
 
 ### +8 Strokes
 - 畺 --> 疆
+- 當 --> 当
+- 畵 --> 画
 
 ### +9 Strokes
 - 畼 --> 暢
@@ -58,6 +66,7 @@ tags: [lookup]
 
 ### +13 Strokes
 - 㽬 --> 副
+- 㽬 --> 放
 
 ### +14 Strokes
 22. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary
@@ -65,19 +74,6 @@ tags: [lookup]
 
 ### +17 Strokes
 - 疊 --> 畳
-
-### Aliases
-- 當 --> 当
-- 㽬 --> 放
-- 甸 --> 田
-- 畵 --> 画
-- 畫 --> 画
-- 畱 --> 留
-
-### Forbidden
-- 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
-- 畑 - 国字: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
-- 畩 - 国字: A Japanese-invented character.
 
 ## Data check
 ```dataview
