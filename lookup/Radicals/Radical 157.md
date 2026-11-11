@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 23
 radical: 足
 tags:
@@ -12,6 +12,9 @@ tags:
 
 ### +0 Strokes
 1. <ruby>[足](../../characters/足%20(char).md)<rt>ㄐㄛㄎ</rt></ruby> - foot
+
+### +2 Strokes
+- ¡趴! - 違法字
 
 ### +3 Strokes
 - 𧿆 --> 爬
@@ -35,6 +38,7 @@ tags:
 10. <ruby>[践](../../characters/践.md)<rt>ㄐㄝㄋ</rt></ruby> - tread
 11. <ruby>[跨](../../characters/跨%20(char).md)<rt>ㄎ⺢</rt></ruby> - straddle
 12. <ruby>[跪](../../characters/跪%20(char).md)<rt>ㄎ⼔ㄧ</rt></ruby> - kneel
+- ¡跟! - 違法字
 
 ### +7 Strokes
 13. <ruby>[踊](../../characters/踊.md)<rt>⼄ㄫ</rt></ruby> - jump
@@ -47,6 +51,8 @@ tags:
 15. <ruby>[踏](../../characters/踏.md)<rt>ㄊㄚㄆ</rt></ruby> - step on
 16. <ruby>[踪](../../characters/踪.md)<rt>ㄐㄛㄫ</rt></ruby> - remains
 - 踐 --> 践
+- ¡踢! - 違法字
+- ¡踩! - 違法字
 
 ### +9 Strokes
 17. <ruby>[踵](../../characters/踵.md)<rt>ㄐㄛㄫ</rt></ruby> - heel
@@ -63,10 +69,14 @@ tags:
 - 蹧 --> 糟
 - 蹟 --> 跡
 - 蹤 --> 踪
+- 躇 --> 着
 
 ### +12 Strokes
 20. <ruby>[蹲](../../characters/蹲%20(char).md)<rt>ㄐㄛㄋ</rt></ruby> - squat
 21. <ruby>[蹴](../../characters/蹴%20(char).md)<rt>ㄑㄨㄎ</rt></ruby> - kick
+- 蹶 --> 決
+- ¡蹬! - 違法字
+- ¡蹭! - 違法字
 
 ### +13 Strokes
 22. <ruby>[躁](../../characters/躁.md)<rt>ㄐㄚㄨ</rt></ruby> - irascible
@@ -77,18 +87,6 @@ tags:
 
 ### +18 Strokes
 - 躥 --> 竄
-
-### Forbidden
-- 跟 - 中国制造: HSK/1, Use 踵 instead
-- 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
-- 踢 - 官话: HSK/1, but use 蹴 instead.
-- 蹬 - 官话: HSK/3.
-- 蹭 - 官话: HSK/4.
-- 踩 - 官话: HSK/2.
-
-### Aliases
-- 蹶 --> 決
-- 躇 --> 着
 
 ## Data check
 ```dataview

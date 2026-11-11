@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 9
 radical: 走
 tags: [lookup]
@@ -25,12 +25,15 @@ tags: [lookup]
 5. <ruby>[越](../../characters/越%20(char).md)<rt>⼔ㄊ</rt></ruby> - exceed
 6. <ruby>[超](../../characters/超%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - transcend
 - 趋 --> 趨
+- ¡趁! - 違法字
 
 ### +7 Strokes
 7. <ruby>[趙](../../characters/趙.md)<rt>ㄐㄚㄨ</rt></ruby> - Zhao
+- ¡趕! - 違法字
 
 ### +8 Strokes
 8. <ruby>[趣](../../characters/趣.md)<rt>ㄑㄨ</rt></ruby> - interest
+- ¡趟! - 違法字
 
 ### +9 Strokes
 - 䞼 --> 竄
@@ -43,11 +46,6 @@ tags: [lookup]
 
 ### +14 Strokes
 - 趯 --> 躍
-
-### Forbidden
-- 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
-- 趟 - 官话: HSK/2.
-- 趕 - 官话: HSK/2, Mandarin only.
 
 ## Data check
 ```dataview

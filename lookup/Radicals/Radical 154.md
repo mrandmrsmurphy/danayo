@@ -1,7 +1,7 @@
 ---
 size: 44
 radical: 貝
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags:
   - lookup
 ---
@@ -31,7 +31,6 @@ tags:
 3. <ruby>[負](../../characters/負%20(char).md)<rt>ㄅ⼜</rt></ruby> - carry
 - 贞 --> 貞
 - 负 --> 負
-- 贠 --> 員
 - 𧹒 --> 買
 - 贵 --> 貴
 - 贺 --> 賀
@@ -111,6 +110,7 @@ tags:
 37. <ruby>[質](../../characters/質.md)<rt>ㄐㄧㄊ</rt></ruby> - essence
 38. <ruby>[賭](../../characters/賭.md)<rt>ㄉㄛ</rt></ruby> - gamble
 - 賤 --> 賎
+- 賣 --> 売
 
 ### +9 Strokes
 39. <ruby>[賢](../../characters/賢.md)<rt>ㄏㄝㄋ</rt></ruby> - wise
@@ -118,6 +118,7 @@ tags:
 - 赝 --> 贋
 - 賴 --> 頼
 - 赞 --> 𧦅
+- 赞 --> 賛
 
 ### +10 Strokes
 40. <ruby>[購](../../characters/購.md)<rt>ㄍㄛㄨ</rt></ruby> - buy
@@ -129,18 +130,14 @@ tags:
 
 ### +12 Strokes
 43. <ruby>[贋](../../characters/贋%20(char).md)<rt>ㄚㄋ</rt></ruby> - counterfeit
+- 贊 --> 賛
+
+### +13 Strokes
+- ¡贏! - 違法字
 
 ### +15 Strokes
 44. <ruby>[贖](../../characters/贖.md)<rt>ㄙ⼄ㄎ</rt></ruby> - ransom
 - 贗 --> 贋
-
-### Aliases
-- 贊 --> 賛
-- 赞 --> 賛
-- 賣 --> 売
-
-### Forbidden
-- 贏 - 官话: HSK/1, but use 勝 instead for "to win".
 
 ## Data check
 ```dataview
