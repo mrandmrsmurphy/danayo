@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 43 (SKIP-3-4-11 to 3-4-15, 3-4-19, SKIP-3-4-2 to 3-4-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 42 (SKIP-3-3-21, 3-3-22, SKIP-3-3-3 to 3-3-9, SKIP-3-4-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 41 (SKIP-3-3-10 to 3-3-18, SKIP-3-3-2):** checked each leaf against the characters' own `skip_number` and `## Aliases` data. In SKIP-3-3-2 removed the annotated duplicate `弍 → [[二 (char)]]` (the plain `弍 → 二` stays). Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 40 (SKIP-3-2-20, 3-2-22, SKIP-3-2-3 to 3-2-9, SKIP-3-3-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including SKIP-3-2-20, the redirect-only leaf built during the alias loop; no differences found. Stamped the ten leaves.
