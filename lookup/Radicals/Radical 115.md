@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 35
 radical: 禾
 tags: [lookup]
@@ -28,6 +28,8 @@ tags: [lookup]
 8. <ruby>[秒](../../characters/秒%20(char).md)<rt>ㄇ⼄ㄨ</rt></ruby> - second (time)
 - 种 --> 種
 - 秏 --> 耗
+- 秌 --> 秋
+- 秕 --> 比
 
 ### +5 Strokes
 9. <ruby>[秘](../../characters/秘.md)<rt>ㄅㄧㄜ</rt></ruby> - secret
@@ -46,12 +48,14 @@ tags: [lookup]
 16. <ruby>[程](../../characters/程.md)<rt>ㄉㄧㄫ</rt></ruby> - extent
 17. <ruby>[稍](../../characters/稍%20(char).md)<rt>ㄙ⼘ㄨ</rt></ruby> - slightly
 - 稅 --> 税
+- 稀 --> 希
 
 ### +8 Strokes
 18. <ruby>[稗](../../characters/稗.md)<rt>ㄅㄚㄧ</rt></ruby> - millet
 19. <ruby>[稚](../../characters/稚.md)<rt>ㄉㄧㄜ</rt></ruby> - young
 20. <ruby>[稜](../../characters/稜.md)<rt>ㄌㄨㄫ</rt></ruby> - edge
 21. <ruby>[稟](../../characters/稟.md)<rt>ㄅㄨㄇ</rt></ruby> - report
+- 稔 --> 念
 
 ### +9 Strokes
 22. <ruby>[稲](../../characters/稲.md)<rt>ㄉㄚㄨ</rt></ruby> - rice plant
@@ -74,6 +78,7 @@ tags: [lookup]
 - 穅 --> 糟
 - 穌 --> 蘇
 - 穎 --> 頴
+- 穐 --> 秋
 
 ### +12 Strokes
 - 穗 --> 穂
@@ -81,6 +86,7 @@ tags: [lookup]
 ### +13 Strokes
 33. <ruby>[穫](../../characters/穫.md)<rt>ㄏ⺢ㄎ</rt></ruby> - harvest
 34. <ruby>[穢](../../characters/穢.md)<rt>ㄝ</rt></ruby> - filthy
+- ¡䆆! - 違法字
 
 ### +14 Strokes
 - 穩 --> 穏
@@ -88,16 +94,6 @@ tags: [lookup]
 ### +17 Strokes
 35. <ruby>[穣](../../characters/穣%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
 - 穰 --> 穣
-
-### Aliases
-- 穐 --> 秋
-- 秌 --> 秋
-- 秕 --> 比
-- 稀 --> 希
-- 稔 --> 念
-
-### Forbidden
-- 䆆 - 국자: dry rice
 
 ## Data check
 ```dataview

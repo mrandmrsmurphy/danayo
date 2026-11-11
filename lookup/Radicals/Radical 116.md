@@ -1,6 +1,6 @@
 ---
 size: 21
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 radical: 穴
 tags: [lookup]
 

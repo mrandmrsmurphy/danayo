@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 19
 radical: 米
 tags: [lookup]
@@ -13,14 +13,23 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[米](../../characters/米%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - rice (uncooked)
 
+### +2 Strokes
+- ¡𫂲! - 違法字
+- ¡籵! - 違法字
+
 ### +3 Strokes
 - 类 --> 類
 - 娄 --> 婁
+- ¡粁! - 違法字
+- ¡籾! - 違法字
+- ¡粂! - 違法字
 
 ### +4 Strokes
 2. <ruby>[粉](../../characters/粉%20(char).md)<rt>ㄈㄨㄋ</rt></ruby> - powder
 3. <ruby>[粋](../../characters/粋.md)<rt>ㄙㄨㄧ</rt></ruby> - pure
 4. <ruby>[粄 (char)](../../characters/粄%20(char).md)<rt>ㄅㄧㄇ</rt></ruby> - rice cake
+- 粃 --> 比
+- ¡粍! - 違法字
 
 ### +5 Strokes
 5. <ruby>[粘](../../characters/粘%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sticky
@@ -36,11 +45,14 @@ tags: [lookup]
 12. <ruby>[粧](../../characters/粧.md)<rt>ㄐ⺢ㄫ</rt></ruby> - put on make up
 - 粪 --> 糞
 - 粦 --> 燐
+- ¡粭! - 違法字
+- ¡粫! - 違法字
 
 ### +7 Strokes
 - 粲 --> 燦
 - 粳 --> 更
 - 粵 --> 粤
+- 粮 --> 糧
 
 ### +8 Strokes
 13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit
@@ -49,10 +61,12 @@ tags: [lookup]
 
 ### +9 Strokes
 14. <ruby>[糊](../../characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled
+- ¡糎! - 違法字
 
 ### +10 Strokes
 15. <ruby>[糖](../../characters/糖%20(char).md)<rt>ㄉ⺢ㄫ</rt></ruby> - sugar
 - 糙 --> 造
+- ¡糘! - 違法字
 
 ### +11 Strokes
 16. <ruby>[糞](../../characters/糞%20(char).md)<rt>ㄈㄨㄇ</rt></ruby> - poop
@@ -64,22 +78,6 @@ tags: [lookup]
 
 ### +14 Strokes
 - 糯 --> 需
-
-### Aliases
-- 粮 --> 糧
-- 粃 --> 比
-
-### Forbidden
-- 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff
-- 粁 - 国字: kilometer, Use 千米
-- 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
-- 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
-- 粂 - 国字: surname
-- 粫 - 国字: 'nonglutinous grain'
-- 糘 - 国字: 'chaff'
-- 糎 - 国字: Japanese-invented character for centimeter, 厘米.
-- 籵 - 国字: Japanese-invented character for 十米 (decameter).
-- 粍 - 国字: Japanese-invented character for 毫米 (millimeter).
 
 ## Data check
 ```dataview

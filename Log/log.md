@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 119 (米)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (粮 → 糧, 粃 → 比 and ten forbidden glyphs as 違法字 lines), stamped.
+- **Radical 118 (竹)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (箇 → 個, 筑 → 築 and 11 forbidden glyphs as 違法字 lines); 筺 is on the forbidden list, so its `筺 --> 筐` redirect became a `¡筺! - 違法字` line; stamped.
+- **Radical 117 (立)**: moved the bottom Forbidden block into the +N Strokes groups (¡竍!, ¡竡!, ¡竏! as 違法字 lines), stamped.
+- **Radical 116 (穴)**: verified (21 characters, groups and 13 alias-backed redirects correct), stamped; no content change.
+- **Radical 115 (禾)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (穐, 秌, 秕, 稀, 稔 redirects and ¡䆆! as a 違法字 line), stamped.
 - **Radical 114 (禸)**: moved the bottom Aliases block into the +N Strokes groups (𥝅 → 万), stamped.
 - **Radical 113 (示)**: moved the bottom Aliases block into the +N Strokes groups (禦 → 御, 祂 → 他, 禄 → 祿), stamped.
 - **Radical 112 (石)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (矽 → 硅, 硏 → 研 and ¡碰!, ¡砸!, ¡砍!, ¡硴!, ¡硲!, ¡碓! as 違法字 lines), stamped.

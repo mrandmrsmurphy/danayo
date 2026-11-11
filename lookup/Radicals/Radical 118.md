@@ -1,7 +1,7 @@
 ---
 size: 43
 radical: 竹
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags:
   - lookup
 ---
@@ -19,6 +19,7 @@ tags:
 ### +3 Strokes
 3. <ruby>[竿](../../characters/竿.md)<rt>ㄍㄚㄋ</rt></ruby> - bamboo pole
 - 笈 --> 及
+- ¡𥫤! - 違法字
 
 ### +4 Strokes
 4. <ruby>[笑](../../characters/笑%20(char).md)<rt>ㄙ⼄ㄨ</rt></ruby> - laugh
@@ -36,6 +37,8 @@ tags:
 - 笺 --> 箋
 - 笃 --> 篤
 - 笼 --> 籠
+- ¡笨! - 違法字
+- ¡笹! - 違法字
 
 ### +6 Strokes
 11. <ruby>[筆](../../characters/筆%20(char).md)<rt>ㄆㄨㄊ</rt></ruby> - pen
@@ -48,12 +51,16 @@ tags:
 18. <ruby>[答](../../characters/答%20(char).md)<rt>ㄉㄚㄆ</rt></ruby> - answer
 19. <ruby>[策](../../characters/策.md)<rt>ㄑㄚㄎ</rt></ruby> - scheme
 - 筝 --> 箏
+- 筑 --> 築
 
 ### +7 Strokes
 20. <ruby>[節](../../characters/節%20(char).md)<rt>ㄐㄝㄊ</rt></ruby> - node
 - 简 --> 簡
 - 筩 --> 筒
 - 筱 --> 篠
+- ¡筽! - 違法字
+- ¡筷! - 違法字
+- ¡筺! - 違法字
 
 ### +8 Strokes
 21. <ruby>[箋](../../characters/箋.md)<rt>ㄐㄝㄋ</rt></ruby> - memo
@@ -66,6 +73,7 @@ tags:
 - 箪 --> 簞
 - 箫 --> 簫
 - 箝 --> 鉗
+- 箇 --> 個
 
 ### +9 Strokes
 27. <ruby>[箭](../../characters/箭.md)<rt>ㄐㄝㄋ</rt></ruby> - arrow
@@ -87,10 +95,13 @@ tags:
 - 簒 --> 竄
 - 簘 --> 簫
 - 篲 --> 彗
+- ¡簗! - 違法字
+- ¡簓! - 違法字
 
 ### +12 Strokes
 36. <ruby>[簞](../../characters/簞.md)<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket
 37. <ruby>[簡](../../characters/簡.md)<rt>ㄍㄚㄋ</rt></ruby> - concise
+- ¡簱! - 違法字
 
 ### +13 Strokes
 38. <ruby>[簫](../../characters/簫.md)<rt>ㄙㄛㄨ</rt></ruby> - xiao
@@ -100,6 +111,7 @@ tags:
 
 ### +14 Strokes
 41. <ruby>[籍](../../characters/籍.md)<rt>ㄐㄝㄎ</rt></ruby> - record
+- ¡籏! - 違法字
 
 ### +15 Strokes
 42. <ruby>[籃](../../characters/籃.md)<rt>ㄌㄚㄇ</rt></ruby> - basket
@@ -107,30 +119,13 @@ tags:
 
 ### +16 Strokes
 43. <ruby>[籠](../../characters/籠%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - basket
+- ¡籡! - 違法字
 
 ### +17 Strokes
 - 籤 --> 選
 
 ### +18 Strokes
 - 籬 --> 離
-
-### Aliases
-- 箇 --> 個
-- 筺 --> 筐
-- 筑 --> 築
-
-### Forbidden
-- 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker
-- 筷 - 官话: 'chopsticks' --> 箸.  HSK/2
-- 笨 - 官话: 'stupid; clumsy; heavy'
-- 筺 - 異体字: Variant of 筐, 'bamboo basket or chest'
-- 簗 - 国字: 'fish weir, fish trap' (やな); also a surname
-- 簱 - 国字: Rare Japanese character; Wiktionary records no definition
-- 籏 - 異体字: 'flag'; a rare form beside 旗
-- 籡 - 国字: Rare Japanese character; Wiktionary records no definition
-- 𥫤 - 国字: 国字 (竹 + 弓); Wiktionary records no definition
-- 簓 - 国字: 'bamboo whisk' (ささら); also a folk instrument
-- 笹 - 国字: "bamboo grass",  竹 (“bamboo”) + abbreviated 葉 (“leaf”).   Use 世 for sound
 
 ## Data check
 ```dataview

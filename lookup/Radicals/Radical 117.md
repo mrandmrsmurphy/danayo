@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 9
 radical: 立
 tags: [lookup]
@@ -12,6 +12,12 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[立](../../characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand
+
+### +2 Strokes
+- ¡竍! - 違法字
+
+### +3 Strokes
+- ¡竏! - 違法字
 
 ### +4 Strokes
 - 竖 --> 豎
@@ -26,6 +32,7 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[竟](../../characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - finally
 4. <ruby>[章](../../characters/章%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - chapter
+- ¡竡! - 違法字
 
 ### +7 Strokes
 5. <ruby>[竣](../../characters/竣.md)<rt>ㄑㄨㄋ</rt></ruby> - complete
@@ -43,11 +50,6 @@ tags: [lookup]
 
 ### +17 Strokes
 - 竸 --> 競
-
-### Forbidden
-- 竍 - 国字: 'decaliter' --> 十升
-- 竡 - 国字: 立 + 百.  Abbreviation for 'hectolitre'.   We use [[百升]].
-- 竏 - 国字: Japanese-invented character for 千升 (kiloliter).
 
 ## Data check
 ```dataview
