@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 47 (SKIP-3-8-10, 3-8-2, 3-8-4, 3-8-6 to 3-8-9, SKIP-3-9-2, 3-9-9, SKIP-4-1-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. SKIP-3 is now fully stamped; only the SKIP-4 leaves remain. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 46 (SKIP-3-6-8, 3-6-9, SKIP-3-7-13, SKIP-3-7-2 to 3-7-5, 3-7-7 to 3-7-9):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including SKIP-3-7-13, the redirect-only leaf built during the alias loop; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 45 (SKIP-3-5-6 to 3-5-9, SKIP-3-6-11, SKIP-3-6-3 to 3-6-7):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 44 (SKIP-3-4-6 to 3-4-9, SKIP-3-5-10, 3-5-12, 3-5-13, 3-5-18, 3-5-4, 3-5-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data, including SKIP-3-5-18, the redirect-only leaf built during the alias loop; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 43 (SKIP-3-4-11 to 3-4-15, 3-4-19, SKIP-3-4-2 to 3-4-5):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 42 (SKIP-3-3-21, 3-3-22, SKIP-3-3-3 to 3-3-9, SKIP-3-4-10):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
