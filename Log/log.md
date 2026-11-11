@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 093 (牛)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (牠 → 他, ¡㸴! as a 違法字 line), stamped.
+- **Radical 092 (牙)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 牙 was already present), stamped.
+- **Radical 091 (片)**: verified (3 characters, groups and 3 alias-backed redirects correct), stamped; no content change.
+- **Radical 090 (爿)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (牒 +9, 牆 +13, listed in stroke order, so 牒 is now no. 1 and 牆 no. 2); dropped the empty Aliases heading, stamped.
 - **Radical 089 (爻)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (爼 → 俎 +5, 爽 +7), stamped.
 - **Radical 088 (父)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (父 +0, 爹 +6, 爺 +9; 㸘 and 爷 redirects and ¡爸! filed by stroke count), stamped.
 - **Radical 087 (爪)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (爪 +0, 爬 +4, 爰 +5, 爵 +13; redirects 爭, 爯, 爱, 爲, 𤔢 filed by stroke count), kept the 舜 note under `### Other`, stamped.

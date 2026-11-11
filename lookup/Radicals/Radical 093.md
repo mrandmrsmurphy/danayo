@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 12
 radical: 牛
 tags: [lookup]
@@ -19,6 +19,7 @@ tags: [lookup]
 ### +3 Strokes
 3. <ruby>[牢](../../characters/牢.md)<rt>ㄌㄚㄨ</rt></ruby> - prison
 4. <ruby>[牡](../../characters/牡.md)<rt>ㄇㄛㄨ</rt></ruby> - male
+- 牠 --> 他
 
 ### +4 Strokes
 5. <ruby>[牧](../../characters/牧%20(char).md)<rt>ㄇㄨㄎ</rt></ruby> - shepherd
@@ -27,6 +28,7 @@ tags: [lookup]
 ### +5 Strokes
 7. <ruby>[牲](../../characters/牲.md)<rt>ㄙㄚㄫ</rt></ruby> - animal sacrifice
 - 牵 --> 牽
+- ¡㸴! - 違法字
 
 ### +6 Strokes
 8. <ruby>[特](../../characters/特.md)<rt>ㄉㄜㄎ</rt></ruby> - special
@@ -46,12 +48,6 @@ tags: [lookup]
 
 ### +16 Strokes
 - 犧 --> 犠
-
-### Aliases
-- 牠 --> 他
-
-### Forbidden
-- 㸴 - 국자: 소 a rare surname
 
 ## Data check
 ```dataview
