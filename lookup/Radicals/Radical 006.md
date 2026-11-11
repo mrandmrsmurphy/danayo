@@ -1,7 +1,7 @@
 ---
 size: 4
 radical: 亅
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags: [lookup]
 
 ---
@@ -21,7 +21,7 @@ tags: [lookup]
 - 㐧 --> 第
 
 ### Forbidden
-- 亇 - 국자: 'hammer'/마/망치, use 槌
+- ¡亇! - 違法字
 
 ## Data check
 ```dataview

@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **Radical loop, firing 8 (Radical 008):** grouped page (size 11); verified the eleven entries, their groups and the aliases against the characters' own radical and alias data (all backed), and migrated the bottom Forbidden section into the groups (`¡亪! - 違法字`). Stamped Radical 008.
+
+- **Radical loop, firing 7 (Radical 007):** grouped page (size 9); verified the nine entries and groups against the characters' own radical and stroke data. Migrated the bottom Forbidden section into the groups (`¡亍!` and `¡亟!`, `- 違法字`), dropped the placeholder lines `forbidden 亍` and `forbidden 亟`, the plain redirects already covered by an annotated line (亖, 云, 亚, 亞) and `亏 → variant of 虧` (虧 has no page). Stamped Radical 007.
+
+- **Radical loop, firing 6 (Radical 006):** prosaic-style page (size 4); verified the four entries and three aliases against the characters' own radical and alias data (亊 is backed by 事's alias section), and shortened the forbidden line for 亇 to `¡亇! - 違法字`. Stamped Radical 006.
+
+- **Radical loop, firing 5 (Radical 005):** prosaic-style page (size 7); verified the seven entries and seven aliases against the characters' own radical and alias data (all backed), and shortened all 27 forbidden lines (every one is on 文法 - 98違法字) to `¡X! - 違法字`. Stamped Radical 005.
+
+- **Radical loop, firing 4 (Radical 004):** prosaic-style page (size 10); verified the ten entries and the thirteen aliases against the characters' own radical and alias data (all backed), and shortened the six forbidden lines (乊, 乒, 乓, 𠂇, 乄, 〆) to `¡X! - 違法字`. Stamped Radical 004.
+
 - **Radical loop, firing 3 (Radical 003):** prosaic-style page (size 3); verified the three entries (丸, 丹, 主) and the four aliases (丼, 举, 为, 义) against the characters' own radical and alias data, and shortened the forbidden line for 丷 to `¡丷! - 違法字`. Stamped Radical 003.
 
 - **Radical loop, firing 2 (Radical 002):** verified the 2 entries (中, 串) and groups against the characters' radical data. Migrated the bottom Aliases and Forbidden sections into the +N groups (forbidden 㐃 and 丵 now `¡X! - 違法字`), dropped the duplicate `个 → 個` and the placeholder lines `forbidden 丩`, `forbidden 㐃` and `forbidden 丵` (丩 is an alias of 糾, not on the forbidden list). Stamped Radical 002.

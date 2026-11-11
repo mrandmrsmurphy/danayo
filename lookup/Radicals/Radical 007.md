@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 9
 radical: 二
 tags: [lookup]
@@ -15,8 +15,8 @@ tags: [lookup]
 
 ### +1 Stroke
 2. <ruby>[于](../../characters/于%20(char).md)<rt>ㄨ</rt></ruby> - to
-- forbidden 亍
-- 亏 --> variant of 虧
+
+- ¡亍! - 違法字
 
 Note: 三 is organized under Radical 1.
 
@@ -28,8 +28,6 @@ Note: 三 is organized under Radical 1.
 - 亓 --> variant of 其
 - 云 --> variant of 雲
 - 𠄡 --> 五
-- 亖 --> 四
-- 云 --> 雲
 
 ### +3 Strokes
 - 亗 --> variant of 歳
@@ -38,7 +36,6 @@ Note: 三 is organized under Radical 1.
 6. <ruby>[亘](../../characters/亘%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby> - swirl
 7. <ruby>[亙](../../characters/亙%20(char).md)<rt>ㄍㄨㄫ</rt></ruby> - across
 - 亚 --> variant of 亜
-- 亚 --> 亜
 
 ### +5 Strokes
 8. <ruby>[亜](../../characters/亜.md)<rt>ㄚ</rt></ruby> - secondary
@@ -47,12 +44,7 @@ Note: 三 is organized under Radical 1.
 9. <ruby>[些](../../characters/些.md)<rt>ㄙㄚ</rt></ruby> - a little
 - 亝 --> variant of 斉
 - 亞 --> variant of 亜
-- forbidden 亟
-- 亞 --> 亜
-
-### Forbidden
-- 亍 - 국자: Korean place names 촉
-- 亟 - 混乱: "Urgently, repeatedly, extremely" in Classical Chinese. Component only -- phonetic component of [[極 (char)|極]].
+- ¡亟! - 違法字
 
 ## Data check
 ```dataview

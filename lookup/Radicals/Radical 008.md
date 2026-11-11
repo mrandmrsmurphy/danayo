@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 11
 radical: 亠
 tags: [lookup]
@@ -27,6 +27,7 @@ tags: [lookup]
 6. <ruby>[亨](../../characters/亨.md)<rt>ㄏㄚㄫ</rt></ruby> - go well
 7. <ruby>[㐬](../../characters/㐬.md)<rt>ㄌ⼜ㄛ</rt></ruby> - strings of jade hanging from a crown
 - 亩 --> 畝
+- ¡亪! - 違法字
 
 ### +6 Strokes
 8. <ruby>[享](../../characters/享.md)<rt>ㄏ⼘ㄫ</rt></ruby> - enjoy
@@ -42,9 +43,6 @@ tags: [lookup]
 
 ### +11 Strokes
 11. <ruby>[亶](../../characters/亶.md)<rt>ㄉㄚㄋ</rt></ruby> - sincere
-
-### Forbidden
-- 亪 - 口訣: Korean 구결 for '란/난/역'
 
 ## Data check
 ```dataview

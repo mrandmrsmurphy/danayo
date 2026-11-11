@@ -1,7 +1,7 @@
 ---
 size: 7
 radical: 乙
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 tags: [lookup]
 
 ---
@@ -19,33 +19,34 @@ tags: [lookup]
 7. <ruby>[乾](../../characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
 
 ### Forbidden
-- 乜 - 方言: Cantonese/dialects only
-- 㐉 - 국자: Korean-coined hanja for "slave" or "maid", 절.
-- 乥 - 口訣: Korean 구결 for '홀'
-- 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names
-- 乬 - 국자: Korean-coined hanja for '걸, to hang'; also used in Korean place names
-- 乯 - 口訣: Korean 구결 for '올'
-- 乲 - 口訣: Korean 구결 for '잘'
-- 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名
-- 乻 - 국자: Korean-coined hanja for '얼' and '늘', used for names and place names
-- 㐇 - 국자: Korean-coined hanja for '굴', a personal name; also the name of a dried fish
-- 㐈 - 국자: Korean-coined hanja for '둘'
-- 㐊 - 국자: Korean-coined hanja for '살', used for transliteration
-- 㐋 - 국자: Korean-coined hanja for '톨', used for transliteration
-- 𠃗 - 국자: Korean-coined hanja for '울', used for transliteration. On 単亜語/敎育用基礎漢字/名
-- 㐎 - 국자: Korean-coined hanja for '글' (writing)
-- 㐏 - 口訣: Korean 구결 for '올'
-- 乧 - 국자: Korean-coined hanja for '둘', used for transliteration. On 単亜語/敎育用基礎漢字/名
-- 㐓 - 국자: Korean-coined hanja for '갈', used for transliteration
-- 乭 - 국자: Korean-coined hanja for '돌' (rock), used mainly in personal names. On 単亜語/敎育用基礎漢字/名
-- 㐘 - 국자: Korean-coined hanja for '쌀' (rice)
-- 乤 - 국자: Korean-coined hanja for '할', first character of the place name 乤浦 (Halpho)
-- 乷 - 국자: Korean-coined hanja for '살', used for transliteration. On 単亜語/敎育用基礎漢字/名
-- 㐠 - 口訣: Korean 구결 for '율'
-- 乼 - 국자: Korean-coined hanja for '줄' (rope), used mainly in place names
-- 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan
-- 㐢 - 국자: Korean-coined hanja for '뜰'
-- 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'
+- ¡乜! - 違法字
+- ¡㐉! - 違法字
+- ¡乥! - 違法字
+- ¡乫! - 違法字
+- ¡乬! - 違法字
+- ¡乯! - 違法字
+- ¡乲! - 違法字
+- ¡乺! - 違法字
+- ¡乻! - 違法字
+- ¡㐇! - 違法字
+- ¡㐈! - 違法字
+- ¡㐊! - 違法字
+- ¡㐋! - 違法字
+- ¡𠃗! - 違法字
+- ¡㐎! - 違法字
+- ¡㐏! - 違法字
+- ¡乧! - 違法字
+- ¡㐓! - 違法字
+- ¡乭! - 違法字
+- ¡㐘! - 違法字
+- ¡乤! - 違法字
+- ¡乷! - 違法字
+- ¡㐠! - 違法字
+- ¡乼! - 違法字
+- ¡乽! - 違法字
+- ¡㐢! - 違法字
+- ¡𫡤! - 違法字
+
 ### Aliases
 - 亂 --> 乱
 - 书 --> 書
