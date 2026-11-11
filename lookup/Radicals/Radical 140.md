@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 121
 radical: 艸
 tags:
@@ -10,8 +10,15 @@ tags:
 
 ## Strokes
 
-### +-1 Strokes
+### +-2 Strokes
+- ¡龷! - 違法字
+
+### -1 Stroke
 - 艺 --> 芸
+
+### +0 Strokes
+- 艸 --> 草
+- 节 --> 節
 
 ### +1 Stroke
 - 芯 --> 心
@@ -19,6 +26,8 @@ tags:
 - 苇 --> 葦
 - 苍 --> 蒼
 - 芜 --> 蕪
+- 芩 --> 今
+- ¡苆! - 違法字
 
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
@@ -40,6 +49,8 @@ tags:
 - 荡 --> 蕩
 - 荐 --> 薦
 - 莛 --> 𡈼
+- 药 --> 薬
+- 荣 --> 栄
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -60,6 +71,9 @@ tags:
 - 莖 --> 茎
 - 莕 --> 荇
 - 莲 --> 蓮
+- 荅 --> 答
+- ¡莻! - 違法字
+- ¡获! - 違法字
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
@@ -78,7 +92,6 @@ tags:
 29. <ruby>[茉](../../characters/茉.md)<rt>ㄇㄚㄊ</rt></ruby> - white jasmin
 30. <ruby>[茎](../../characters/茎%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> - stem
 
-31. <ruby>[菲](../../characters/菲.md)<rt>ㄈㄧ</rt></ruby> - fragrant
 - 萤 --> 蛍
 - 菓 --> 果
 - 菠 --> 波
@@ -92,18 +105,23 @@ tags:
 - 萠 --> 萌
 - 萨 --> 薩
 - 萝 --> 蘿
+- 萅 --> 春
+- 菁 --> 青
+- 菏 --> 河
+- 著 --> 着
+- ¡萙! - 違法字
 
 ### +6 Strokes
-32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
-33. <ruby>[茫](../../characters/茫.md)<rt>ㄇㄚㄫ</rt></ruby> - vast
-34. <ruby>[茶](../../characters/茶%20(char).md)<rt>ㄑㄚ</rt></ruby> - tea
-35. <ruby>[茸](../../characters/茸.md)<rt>ㄋ⼄ㄫ</rt></ruby> - growth
-36. <ruby>[荇](../../characters/荇.md)<rt>ㄏ⼶ㄫ</rt></ruby> - Limnanthemum nymphoides
-37. <ruby>[草](../../characters/草%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - grass
-38. <ruby>[荊](../../characters/荊.md)<rt>ㄎ⼶ㄫ</rt></ruby> - thorn
-39. <ruby>[荒](../../characters/荒.md)<rt>ㄏ⺢ㄫ</rt></ruby> - laid waste
-40. <ruby>[荘](../../characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> - villa
-41. <ruby>[莽](../../characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> - poisonous
+31. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
+32. <ruby>[茫](../../characters/茫.md)<rt>ㄇㄚㄫ</rt></ruby> - vast
+33. <ruby>[茶](../../characters/茶%20(char).md)<rt>ㄑㄚ</rt></ruby> - tea
+34. <ruby>[茸](../../characters/茸.md)<rt>ㄋ⼄ㄫ</rt></ruby> - growth
+35. <ruby>[荇](../../characters/荇.md)<rt>ㄏ⼶ㄫ</rt></ruby> - Limnanthemum nymphoides
+36. <ruby>[草](../../characters/草%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - grass
+37. <ruby>[荊](../../characters/荊.md)<rt>ㄎ⼶ㄫ</rt></ruby> - thorn
+38. <ruby>[荒](../../characters/荒.md)<rt>ㄏ⺢ㄫ</rt></ruby> - laid waste
+39. <ruby>[荘](../../characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> - villa
+40. <ruby>[茜](../../characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
 - 茻 --> 莽
 - 䓣 --> 㒼
 - 萧 --> 䔥
@@ -114,32 +132,34 @@ tags:
 - 葶 --> 𡈼
 
 ### +7 Strokes
-42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
-43. <ruby>[荷](../../characters/荷.md)<rt>ㄏㄚ</rt></ruby> - luggage
-44. <ruby>[荻](../../characters/荻.md)<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus
-45. <ruby>[莉](../../characters/莉.md)<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
-46. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
-47. <ruby>[茜](../../characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
-48. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
+41. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
+42. <ruby>[荷](../../characters/荷.md)<rt>ㄏㄚ</rt></ruby> - luggage
+43. <ruby>[荻](../../characters/荻.md)<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus
+44. <ruby>[莉](../../characters/莉.md)<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
+45. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
+46. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
+47. <ruby>[莽](../../characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> - poisonous
 - 蒦 --> 獲
 - 蔭 --> 陰
 - 营 --> 営
 - 𦳊 --> 屎
 - 蒨 --> 茜
 - 蓑 --> 衰
+- 蓉 --> 容
 
 ### +8 Strokes
-49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
-50. <ruby>[菅](../../characters/菅.md)<rt>ㄍㄚㄋ</rt></ruby> - coarse grass
-51. <ruby>[菊](../../characters/菊%20(char).md)<rt>ㄍㄨㄎ</rt></ruby> - chrysanthemum
-52. <ruby>[菌](../../characters/菌.md)<rt>ㄍ⼜ㄋ</rt></ruby> - fungus
-53. <ruby>[菜](../../characters/菜.md)<rt>ㄑㄚㄧ</rt></ruby> - vegetable
-54. <ruby>[菩](../../characters/菩.md)<rt>ㄅㄛ</rt></ruby> - sacred tree
-55. <ruby>[菫](../../characters/菫.md)<rt>ㄍㄧㄋ</rt></ruby> - celery
-56. <ruby>[菱](../../characters/菱%20(char).md)<rt>ㄌㄜㄫ</rt></ruby> - water chestnut
-57. <ruby>[萄](../../characters/萄.md)<rt>ㄉㄚㄨ</rt></ruby> - grapes
-58. <ruby>[萌](../../characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> - bud
-59. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
+48. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
+49. <ruby>[菅](../../characters/菅.md)<rt>ㄍㄚㄋ</rt></ruby> - coarse grass
+50. <ruby>[菊](../../characters/菊%20(char).md)<rt>ㄍㄨㄎ</rt></ruby> - chrysanthemum
+51. <ruby>[菌](../../characters/菌.md)<rt>ㄍ⼜ㄋ</rt></ruby> - fungus
+52. <ruby>[菜](../../characters/菜.md)<rt>ㄑㄚㄧ</rt></ruby> - vegetable
+53. <ruby>[菩](../../characters/菩.md)<rt>ㄅㄛ</rt></ruby> - sacred tree
+54. <ruby>[菫](../../characters/菫.md)<rt>ㄍㄧㄋ</rt></ruby> - celery
+55. <ruby>[菱](../../characters/菱%20(char).md)<rt>ㄌㄜㄫ</rt></ruby> - water chestnut
+56. <ruby>[萄](../../characters/萄.md)<rt>ㄉㄚㄨ</rt></ruby> - grapes
+57. <ruby>[萌](../../characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> - bud
+58. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
+59. <ruby>[菲](../../characters/菲.md)<rt>ㄈㄧ</rt></ruby> - fragrant
 - 蓝 --> 藍
 - 蔘 --> 参
 - 蒔 --> 時
@@ -183,6 +203,8 @@ tags:
 - 蕗 --> 路
 - 蕭 --> 䔥
 - 薑 --> 姜
+- 薆 --> 愛
+- ¡𦻙! - 違法字
 
 ### +11 Strokes
 83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
@@ -195,6 +217,7 @@ tags:
 - 藂 --> 叢
 - 薶 --> 埋
 - 藉 --> 謝
+- 藉 --> 借
 
 ### +12 Strokes
 90. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower
@@ -211,6 +234,7 @@ tags:
 - 薰 --> 薫
 - 藪 --> 薮
 - 薯 --> 藷
+- 藥 --> 薬
 
 ### +13 Strokes
 99. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia
@@ -234,6 +258,8 @@ tags:
 - 蘚 --> 鮮
 - 蘗 --> 檗
 - 蘆 --> 芦
+- ¡蘰! - 違法字
+- ¡蘒! - 違法字
 
 ### +15 Strokes
 113. <ruby>[薮](../../characters/薮.md)<rt>ㄙㄛㄨ</rt></ruby> - marsh
@@ -247,35 +273,11 @@ tags:
 119. <ruby>[蘇](../../characters/蘇.md)<rt>ㄙㄛ</rt></ruby> - revive
 120. <ruby>[蘭](../../characters/蘭.md)<rt>ㄌㄚㄋ</rt></ruby> - lily
 
+### +17 Strokes
+- ¡虄! - 違法字
+
 ### +19 Strokes
 121. <ruby>[蘿](../../characters/蘿.md)<rt>ㄌㄚ</rt></ruby> - radish
-
-### Aliases
-- 藥 --> 薬
-- 药 --> 薬
-- 芩 --> 今
-- 萅 --> 春
-- 艸 --> 草
-- 菁 --> 青
-- 荣 --> 栄
-- 菏 --> 河
-- 藉 --> 借
-- 蓉 --> 容
-- 薆 --> 愛
-- 著 --> 着
-- 荅 --> 答
-- 节 --> 節
-
-### Forbidden
-- 莻 - 국자: 'late' - 늦
-- 虄 - 국자: '살'
-- 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
-- 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
-- 苆 - 国字: Rare Japanese character; Wiktionary records no definition
-- 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
-- 蘰 - 国字: Used only as a surname (かずら)
-- 𦻙 - 国字: 'oral traditions left out of the official history'
-- 蘒 - 国字: An alternative form of 萩, mainly used for some surnames
 
 ## Data check
 ```dataview

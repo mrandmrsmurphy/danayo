@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 140 (艸)**: fixed the malformed heading `### +-1 Strokes` to `### -1 Stroke`; refiled 菲 (+5 → +8), 莽 (+6 → +7) and 茜 (+7 → +6) by their `stroke_count` (baseline 3, as the page intro states) and renumbered the entries; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (23 lines, nine forbidden glyphs as 違法字 lines), stamped.
+- **Radical 139 (色)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (色 +0, 艶 +13), stamped.
+- **Radical 138 (艮)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (艮 +0, 良 +1, 艱 +11; 艰 → 艱 filed by stroke count); dropped the annotated duplicate `艰 --> simplified form of 艱`, stamped.
+- **Radical 137 (舟)**: converted the `## Characters` / `### Used` / `### Forbidden` / `### Aliases` layout to the standard +N Strokes groups (舟 +0, 航 and 般 +4, 舵 舶 舷 船 +5, 艇 +7, 艙 +10, 艦 +15; 𦩻, 舱, 舰 redirects and ¡艘!, ¡艠! filed by stroke count), stamped.
 - **Radical 136 (舛)**: verified (3 characters, groups correct, no aliases or redirects needed), stamped; no content change.
 - **Radical 135 (舌)**: verified (3 characters, groups and 3 alias-backed redirects correct), stamped; no content change.
 - **Radical 134 (臼)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (臼 +0, 舅 +7, 興 +10; entries renumbered in stroke order; six redirects filed by stroke count), stamped.
