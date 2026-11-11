@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 戶
 tags: [lookup]
@@ -12,9 +12,12 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[戸](../../characters/戸.md)<rt>ㄏㄛ</rt></ruby> - door
+- 戶 --> 戸
+- 户 --> 戸
 
 ### +3 Strokes
 2. <ruby>[戻](../../characters/戻.md)<rt>ㄌㄝㄊ</rt></ruby> - re-
+- 戼 --> 卯
 
 ### +4 Strokes
 3. <ruby>[房](../../characters/房%20(char).md)<rt>ㄅㄚㄫ</rt></ruby> - room
@@ -32,11 +35,6 @@ tags: [lookup]
 
 ### +8 Strokes
 8. <ruby>[扉](../../characters/扉%20(char).md)<rt>ㄈㄨㄧ</rt></ruby> - front door
-
-### Aliases
-- 戼 --> 卯
-- 戶 --> 戸
-- 户 --> 戸
 
 ## Data check
 ```dataview

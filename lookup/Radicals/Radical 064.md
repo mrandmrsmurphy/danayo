@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 138
 radical: 手
 tags: [lookup]
@@ -21,6 +21,8 @@ tags: [lookup]
 3. <ruby>[打](../../characters/打.md)<rt>ㄉㄚ</rt></ruby> - hit
 - 払 --> 拂
 - 扑 --> 撲
+- ¡扒! - 違法字
+- ¡扔! - 違法字
 
 ### +2 Strokes
 4. <ruby>[扱](../../characters/扱%20(char).md)<rt>ㄑㄚㄆ</rt></ruby> - handle
@@ -31,6 +33,7 @@ tags: [lookup]
 - 扫 --> 掃
 - 托 --> 託
 - 扠 --> 叉
+- ¡扛! - 違法字
 
 ### +3 Strokes
 5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up
@@ -53,6 +56,12 @@ tags: [lookup]
 - 扳 --> 攀
 - 扵 --> 於
 - 护 --> 護
+- 报 --> 報
+- ¡扭! - 違法字
+- ¡找! - 違法字
+- ¡扯! - 違法字
+- ¡抖! - 違法字
+- ¡抓! - 違法字
 
 ### +4 Strokes
 19. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward
@@ -83,6 +92,10 @@ tags: [lookup]
 - 抬 --> 擡
 - 拇 --> 母
 - 择 --> 択
+- 拔 --> 抜
+- 拋 --> 抛
+- 拨 --> 発
+- ¡拆! - 違法字
 
 ### +5 Strokes
 40. <ruby>[括](../../characters/括.md)<rt>ㄍ⺢ㄊ</rt></ruby> - embrace
@@ -102,6 +115,9 @@ tags: [lookup]
 - 挥 --> 揮
 - 𢫼 --> 掻
 - 捓 --> 揶
+- 拏 --> 拿
+- ¡挖! - 違法字
+- ¡挧! - 違法字
 
 ### +6 Strokes
 52. <ruby>[拳](../../characters/拳.md)<rt>ㄍ⼔ㄋ</rt></ruby> - fist
@@ -128,6 +144,11 @@ tags: [lookup]
 - 捒 --> 竦
 - 捣 --> 𢭏
 - 捞 --> 𢭐
+- 挐 --> 拿
+- 㧱 --> 拿
+- ¡捗! - 違法字
+- ¡捡! - 違法字
+- ¡捆! - 違法字
 
 ### +7 Strokes
 68. <ruby>[捧](../../characters/捧%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - hold up in two hands
@@ -157,6 +178,12 @@ tags: [lookup]
 - 掷 --> 擲
 - 捿 --> 棲
 - 捶 --> 錘
+- 掴 --> 国
+- 捲 --> 巻
+- ¡掉! - 違法字
+- ¡掀! - 違法字
+- ¡掂! - 違法字
+- ¡𪮇! - 違法字
 
 ### +8 Strokes
 91. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm
@@ -181,6 +208,10 @@ tags: [lookup]
 - 搅 --> 撹
 - 搁 --> 擱
 - 揽 --> 攬
+- 揃 --> 前
+- 𫝼 --> 発
+- ¡揪! - 違法字
+- ¡掰! - 違法字
 
 ### +9 Strokes
 104. <ruby>[損](../../characters/損.md)<rt>ㄙㄛㄋ</rt></ruby> - lose
@@ -193,6 +224,9 @@ tags: [lookup]
 - 摇 --> 揺
 - 摆 --> 擺
 - 摅 --> 攄
+- ¡搶! - 違法字
+- ¡搓! - 違法字
+- ¡搞! - 違法字
 
 ### +10 Strokes
 109. <ruby>[摘](../../characters/摘%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - pinch
@@ -201,6 +235,9 @@ tags: [lookup]
 - 摸 --> 模
 - 摧 --> 催
 - 摮 --> 敲
+- 摑 --> 国
+- ¡摔! - 違法字
+- ¡摟! - 違法字
 
 ### +11 Strokes
 110. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere
@@ -221,6 +258,9 @@ tags: [lookup]
 - 擏 --> 檠
 - 摩 --> 磨
 - 撈 --> 𢭐
+- 撥 --> 発
+- 撒 --> 散
+- ¡撕! - 違法字
 
 ### +12 Strokes
 121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon
@@ -232,6 +272,8 @@ tags: [lookup]
 - 撿 --> 揀
 - 擎 --> 檠
 - 擇 --> 択
+- ¡擋! - 違法字
+- ¡𪮷! - 違法字
 
 ### +13 Strokes
 125. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry
@@ -243,6 +285,7 @@ tags: [lookup]
 - 擴 --> 拡
 - 擿 --> 擲
 - 擣 --> 𢭏
+- ¡擠! - 違法字
 
 ### +14 Strokes
 130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw
@@ -250,14 +293,17 @@ tags: [lookup]
 132. <ruby>[擾](../../characters/擾.md)<rt>ㄋ⼄ㄨ</rt></ruby> - disturb
 133. <ruby>[攄](../../characters/攄.md)<rt>ㄑㄛ</rt></ruby> - spread
 134. <ruby>[攅](../../characters/攅.md)<rt>ㄐㄚㄋ</rt></ruby> - save
+- 擧 --> 挙
 
 ### +15 Strokes
 135. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
 - 𢸪 --> 掻
 - 攒 --> 攅
+- ¡攏! - 違法字
 
 ### +16 Strokes
 136. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
+- ¡攔! - 違法字
 
 ### +17 Strokes
 - 攜 --> 携
@@ -272,56 +318,6 @@ tags: [lookup]
 
 ### +21 Strokes
 138. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
-
-### Aliases
-- 拔 --> 抜
-- 拋 --> 抛
-- 拏 --> 拿
-- 挐 --> 拿
-- 㧱 --> 拿
-- 揃 --> 前
-- 撥 --> 発
-- 𫝼 --> 発
-- 拨 --> 発
-- 摑 --> 国
-- 掴 --> 国
-- 报 --> 報
-- 捲 --> 巻
-- 擧 --> 挙
-- 撒 --> 散
-
-### Forbidden
-- 扭 - 官话: Used only in Chinese (Mandarin)
-- 找 - 中国制造: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
-- 扒 - 官话: HSK/3 and 4, but Chinese only.
-- 拆 - 官话: HSK/2, but not used elsewhere.
-- 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
-- 挖 - 官话: HSK/2.
-- 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
-- 掉 - 官话: HSK/1 and Korean Name.
-- 擋 - 官话: HSK/2, but unknown elsewhere.
-- 擠 - 官话: HSK/1.
-- 摔 - 官话: HSK/2.
-- 撕 - 官话: HSK/2.
-- 捡 - 官话: Simplified form of 撿, 'to pick up'; Mandarin
-- 搶 - 官话: HSK/2.  "Plunder, rob."
-- 扯 - 官话: HSK/3, but not used elsewhere.
-- 抖 - 官话: HSK/3.
-- 揪 - 官话: HSK/3.
-- 搓 - 官话: HSK/3.
-- 摟 - 官话: HSK/3.
-- 攏 - 官话: HSK/3.
-- 攔 - 官话: HSK/2.
-- 扛 - 官话: 'to lift with both hands; to carry on the shoulder'
-- 抓 - 官话: HSK/2, but too Mandarin, and the Japanese meaning is different.  For "grab" use 捕; for "pinch" use 捏.
-- 捆 - 官话: HSK/2, but no international pedigree.
-- 搞 - 官话: HSK/1.
-- 掀 - 官话: HSK/2.
-- 掰 - 官话: HSK/4, recent Mandarin coinage.
-- 掂 - 官话: HSK/4.
-- 挧 - 幽霊文字: Japanese horse chestnut
-- 𪮇 - 国字: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
-- 𪮷 - 国字: 扌+合+辛.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
 
 ## Data check
 ```dataview

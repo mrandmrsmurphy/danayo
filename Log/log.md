@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 067 (文)**: verified (4 characters, groups and aliases all correct; no redirects needed), stamped; no content change.
+- **Radical 065 (支)**: switched the `## Characters` / `### Used` layout to the standard `## Strokes` / `### +0 Strokes` layout (the single entry 支 was already present), stamped.
+- **Radical 064 (手)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, removed a stray blank line in the numbered list, stamped.
+- **Radical 063 (戶)**: moved the bottom Aliases block into the +N Strokes groups (戼 → 卯, 戶/户 → 戸), stamped.
+- **Radical 062 (戈)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (redirects re-filed by stroke count), stamped.
 - **Radical 061 (心)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups, refiled 懺 from +17 to +16 (stroke_count 20), removed a stray blank line in the list, stamped.
 - **Radical loop, firing 59 (Radical 060):** grouped page (size 25); verified the 25 entries and their groups against the characters' own radical and stroke data, and every redirect against its main character's alias list (all backed). Migrated the bottom Aliases (徵 → 徴) and Forbidden (`¡㣴!`, `¡很!`, `¡𭛝!`, `- 違法字`) sections into the +N groups. Stamped Radical 060.
 
