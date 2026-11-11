@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-10
 
+- **SKIP leaf loop, firing 55 (SKIP-3-9-5, SKIP-1-17-2, 1-17-7, 1-2-1, 1-2-3, 1-5-15, SKIP-2-1-12, 2-1-8, 2-12-11, 2-12-6):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. The stroke-count heuristic flagged SKIP-1-17-2, 1-17-7 and 1-5-15, but their stroke_count values (20, 25, 19) are the real totals of 勸, 觀, 襤 and 礦, so nothing changed. Stamped the ten leaves.
+
+- **SKIP leaf loop, firing 54 (SKIP-2-7-1, 2-7-14, 2-8-1, 2-9-1, 2-9-9, SKIP-3-10-6, 3-5-16, 3-5-2, 3-5-3, 3-8-13):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. Stamped the ten leaves.
+
 - **SKIP leaf loop, firing 53 (SKIP-1-2-17, 1-2-20, 1-3-25, 1-4-20, 1-4-24, 1-5-16, 1-8-13, 1-9-15, SKIP-2-10-1, 2-6-1):** checked each leaf against the characters' own `skip_number` and `## Aliases` data; no differences found. My stroke-count heuristic (left + right strokes) flagged SKIP-1-2-20 as 21 vs 22, but 21 is the correct Unihan total for 儼 (亻 counts as one stroke there), so the leaf, Stroke 21 and Radical 009 stay as they are. Stamped the ten leaves.
 
 - **SKIP leaf loop, firing 52 (SKIP-4-9-2 to 4-9-4, SKIP-1-3-20, 1-12-1, 1-13-3, SKIP-2-12-15, 2-14-15, 2-9-18, SKIP-1-1-5):** the last three leaves from the original 2026-10-31 batch plus the oldest of the leaves stamped on 2026-11-05 to 2026-11-09; checked each against the characters' own `skip_number` and `## Aliases` data, no differences found. Stamped the ten leaves.
