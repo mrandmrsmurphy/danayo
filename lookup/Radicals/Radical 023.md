@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 5
 radical: 匸
 tags: [lookup]

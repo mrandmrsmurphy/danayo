@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 4
 radical: 卜
 tags: [lookup]
@@ -21,7 +21,7 @@ tags: [lookup]
 - 卤 --> 鹵
 
 ### Forbidden
-- 卡 - 混乱: HSK/2, but use 牌
+- ¡卡! - 違法字
 
 ## Data check
 ```dataview

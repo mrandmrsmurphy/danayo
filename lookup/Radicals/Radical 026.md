@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 8
 radical: 卩
 tags: [lookup]
@@ -10,8 +10,15 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- ¡𰆊! - 違法字
+
 ### +1 Stroke
 - 卫 --> 衛
+- ¡卪! - 違法字
+
+### +2 Strokes
+- 卬 --> 卯
 
 ### +3 Strokes
 1. <ruby>[卯](../../characters/卯.md)<rt>ㄇ⼘ㄨ</rt></ruby> - fourth earthly branch
@@ -25,22 +32,19 @@ tags: [lookup]
 5. <ruby>[却](../../characters/却%20(char).md)<rt>ㄎ⼘ㄎ</rt></ruby> - but
 6. <ruby>[卵](../../characters/卵.md)<rt>ㄌㄚㄋ</rt></ruby> - egg
 
+### +6 Strokes
+- 卷 --> 巻
+
 ### +7 Strokes
 7. <ruby>[卸](../../characters/卸%20(char).md)<rt>ㄙ⼘</rt></ruby> - retire
 - 卻 --> 却
+- 卽 --> 即
 
 ### +10 Strokes
 8. <ruby>[卿](../../characters/卿%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - noble
 
-### Aliases
-- 卬 --> 卯
-- 卽 --> 即
-- 卷 --> 巻
-
-### Forbidden
-- 卪 - 口訣: Korean 구결 for '절'
-- 𰆊 - 口訣: Korean 구결 for 'ㄴ'
-- 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name
+### +11 Strokes
+- ¡厁! - 違法字
 
 ## Data check
 ```dataview

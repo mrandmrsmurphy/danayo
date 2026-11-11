@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-10
 size: 14
 radical: 十
 tags: [lookup]
@@ -15,12 +15,14 @@ tags: [lookup]
 
 ### +1 Stroke
 2. <ruby>[千](../../characters/千.md)<rt>ㄑㄝㄋ</rt></ruby> - thousand
+- ¡卂! - 違法字
 
 ### +2 Strokes
 3. <ruby>[升](../../characters/升%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - litre
 4. <ruby>[午](../../characters/午.md)<rt>ㄛ</rt></ruby> - noon
 - 卐 --> 卍
 - 卆 --> 卒
+- ¡卅! - 違法字
 
 ### +3 Strokes
 5. <ruby>[卉](../../characters/卉.md)<rt>ㄏㄨㄧ</rt></ruby> - flowering plant
@@ -35,6 +37,8 @@ tags: [lookup]
 8. <ruby>[協](../../characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> - cooperate
 9. <ruby>[卒](../../characters/卒.md)<rt>ㄐㄨㄊ</rt></ruby> - soldier
 10. <ruby>[卓](../../characters/卓.md)<rt>ㄊㄚㄎ</rt></ruby> - profound
+- 单 --> 単
+- 卖 --> 売
 
 ### +7 Strokes
 11. <ruby>[卑](../../characters/卑%20(char).md)<rt>ㄅㄝ</rt></ruby> - lowly
@@ -43,14 +47,6 @@ tags: [lookup]
 
 ### +10 Strokes
 14. <ruby>[博](../../characters/博.md)<rt>ㄅㄚㄎ</rt></ruby> - broad
-
-### Aliases
-- 单 --> 単
-- 卖 --> 売
-
-### Forbidden
-- 卂 - 混乱: "To fly swiftly" (Shuowen). Purely archaic, never used standalone. Component only -- phonetic component of [[虱 (char)|虱]], [[訊]], and [[迅]].
-- 卅 - 混乱: Classical ligature for "thirty" (= 三十). No existing vault citations; redundant with the compositional 三十.
 
 ## Data check
 ```dataview

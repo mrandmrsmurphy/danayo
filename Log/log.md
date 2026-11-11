@@ -2,7 +2,17 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-11
+
+- **Radical loop, firing 25 (Radical 026):** grouped page (size 8); verified the eight entries, their groups and all aliases (卬, 卻, 卽, 卷, 卫) against the characters' own radical and alias data (all backed). Migrated the bottom Aliases (卬, 卽, 卷) and Forbidden (`¡卪!`, `¡𰆊!`, `¡厁!`, `- 違法字`) sections into the +N groups (new +0, +2, +6 and +11 groups). Stamped Radical 026.
+
 ## 2026-11-10
+
+- **Radical loop, firing 24 (Radical 025):** prosaic-style page (size 4); verified the four entries and three aliases (𠀝, 卢, 卤) against the characters' own radical and alias data (all backed) and shortened the forbidden line for 卡 to `¡卡! - 違法字`. Stamped Radical 025.
+
+- **Radical loop, firing 23 (Radical 024):** grouped page (size 14); verified the fourteen entries, their groups and all six aliases (卆, 协, 卐, 单, 华, 卖) against the characters' own radical and alias data. Migrated the bottom Aliases (单, 卖) and Forbidden (`¡卂!`, `¡卅!`, `- 違法字`) sections into the +N groups. Stamped Radical 024.
+
+- **Radical loop, firing 22 (Radical 023):** grouped page (size 5) already in order; verified the five entries, their groups and the redirect 區 → 区 against the characters' own radical and alias data; no changes needed. Stamped Radical 023.
 
 - **Radical loop, firing 21 (Radical 022):** prosaic-style page (size 1) already in order; verified the entry 匡 and the alias 匯 → 彙 against the characters' own radical and alias data; no changes needed. Stamped Radical 022.
 
