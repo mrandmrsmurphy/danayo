@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 7
 radical: 行
 tags: [lookup]
@@ -22,6 +22,7 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[街](../../characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street
 - 衖 --> 巷
+- 衕 --> 同
 
 ### +9 Strokes
 4. <ruby>[衝](../../characters/衝%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - collide
@@ -33,9 +34,6 @@ tags: [lookup]
 
 ### +18 Strokes
 7. <ruby>[衢](../../characters/衢%20(char).md)<rt>ㄍㄨ</rt></ruby> - crossroads
-
-### Aliases
-- 衕 --> 同
 
 ## Data check
 ```dataview

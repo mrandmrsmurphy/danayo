@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 3
 radical: 角
 tags: [lookup]
@@ -17,11 +17,11 @@ tags: [lookup]
 2. <ruby>[触](../../characters/触.md)<rt>ㄑㄛㄎ</rt></ruby> - contact
 3. <ruby>[解](../../characters/解%20(char).md)<rt>ㄍ⼘ㄧ</rt></ruby> - explain
 
+### +11 Strokes
+- ¡鵤! - 違法字
+
 ### +13 Strokes
 - 觸 --> 触
-
-### Forbidden
-- 鵤 - 国字: 'grosbeak'. Use 斑鳩
 
 ## Data check
 ```dataview

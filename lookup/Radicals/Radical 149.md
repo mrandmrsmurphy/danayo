@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 94
 radical: 言
 tags: [lookup]
@@ -10,62 +10,33 @@ tags: [lookup]
 
 ## Strokes
 
-### +-3 Strokes
+### -3 Strokes
 - 计 --> 計
-
-### +-2 Strokes
-- 训 --> 訓
-
-### +-1 Strokes
-- 访 --> 訪
-
-### +-1 Strokes
-- 设 --> 設
-
-### +-1 Strokes
-- 许 --> 許
-
-### +-1 Strokes
-- 讲 --> 講
-
-### +-2 Strokes
-- 议 --> 議
-
-### +-3 Strokes
 - 认 --> 認
-
-### +-1 Strokes
-- 论 --> 論
-
-### +-3 Strokes
 - 订 --> 訂
-
-### +-3 Strokes
 - 讣 --> 訃
 
-### +-2 Strokes
+### -2 Strokes
+- 训 --> 訓
+- 议 --> 議
 - 讯 --> 訊
-
-### +-2 Strokes
 - 讬 --> 託
+- 讨 --> 討
+- 记 --> 記
 
-### +-1 Strokes
+### -1 Stroke
+- 访 --> 訪
+- 设 --> 設
+- 许 --> 許
+- 讲 --> 講
+- 论 --> 論
 - 讹 --> 訛
-
-### +-1 Strokes
 - 讼 --> 訟
-
-### +-1 Strokes
 - 诀 --> 訣
-
-### +-1 Strokes
 - 讷 --> 訥
-
-### +-1 Strokes
 - 讳 --> 諱
-
-### +-1 Strokes
 - 讴 --> 𧦅
+- 讽 --> 風
 
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
@@ -77,6 +48,7 @@ tags: [lookup]
 - 诈 --> 詐
 - 诅 --> 詛
 - 识 --> 識
+- 诏 --> 詔
 
 ### +1 Stroke
 - 试 --> 試
@@ -89,6 +61,7 @@ tags: [lookup]
 - 详 --> 詳
 - 诛 --> 誅
 - 诗 --> 詩
+- 话 --> 話
 
 ### +2 Strokes
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise
@@ -119,6 +92,10 @@ tags: [lookup]
 - 诸 --> 諸
 - 诺 --> 諾
 - 诽 --> 誹
+- 诞 --> 誕
+- 谈 --> 談
+- 谄 --> 諂
+- 课 --> 課
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -157,6 +134,9 @@ tags: [lookup]
 - 谦 --> 謙
 - 谣 --> 謡
 - 谢 --> 謝
+- 註 --> 注
+- ¡𫌷! - 違法字
+- ¡𮘁! - 違法字
 
 ### +6 Strokes
 28. <ruby>[詣](../../characters/詣%20(char).md)<rt>ㄝㄧ</rt></ruby> - visit
@@ -175,6 +155,8 @@ tags: [lookup]
 41. <ruby>[誠](../../characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> - sincere
 - 誊 --> 謄
 - 谨 --> 謹
+- 詹 --> 旦
+- 谬 --> 謬
 
 ### +7 Strokes
 42. <ruby>[誌](../../characters/誌.md)<rt>ㄐㄧ</rt></ruby> - symbolize
@@ -192,6 +174,7 @@ tags: [lookup]
 - 誡 --> 戒
 - 谭 --> 譚
 - 谱 --> 譜
+- 䛡 --> 話
 
 ### +8 Strokes
 52. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
@@ -209,6 +192,8 @@ tags: [lookup]
 64. <ruby>[謁](../../characters/謁%20(char).md)<rt>ㄝㄊ</rt></ruby> - visit
 - 䛷 --> 婉
 - 諄 --> 純
+- 諏 --> 取
+- ¡諚! - 違法字
 
 ### +9 Strokes
 65. <ruby>[諌](../../characters/諌.md)<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
@@ -226,6 +211,7 @@ tags: [lookup]
 - 諼 --> 萱
 - 䛻 --> 誘
 - 諫 --> 諌
+- 諷 --> 風
 
 ### +10 Strokes
 77. <ruby>[謄](../../characters/謄.md)<rt>ㄉㄜㄫ</rt></ruby> - copy
@@ -254,6 +240,7 @@ tags: [lookup]
 90. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
 - 證 --> 証
 - 謿 --> 嘲
+- 䜌 --> 乱
 
 ### +13 Strokes
 91. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment
@@ -263,45 +250,24 @@ tags: [lookup]
 - 譯 --> 訳
 - 譫 --> 瞻
 - 譽 --> 誉
+- 譬 --> 比
+- ¡𬣐! - 違法字
 
 ### +15 Strokes
 - 讀 --> 読
+- 讃 --> 賛
 
 ### +16 Strokes
 94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
 - 讎 --> 讐
+- 變 --> 変
 
 ### +17 Strokes
 - 讓 --> 譲
 - 讙 --> 歓
 
-### Aliases
-- 䜌 --> 乱
-- 诏 --> 詔
-- 诞 --> 誕
-- 讃 --> 賛
+### +19 Strokes
 - 讚 --> 賛
-- 讨 --> 討
-- 谈 --> 談
-- 詹 --> 旦
-- 谄 --> 諂
-- 讽 --> 風
-- 諷 --> 風
-- 註 --> 注
-- 记 --> 記
-- 谬 --> 謬
-- 變 --> 変
-- 譬 --> 比
-- 话 --> 話
-- 䛡 --> 話
-- 课 --> 課
-- 諏 --> 取
-
-### Forbidden
-- 諚 - 国字: "the lord's command" じょう, not used in modern times
-- 𫌷 - 国字: 'telegram', from 電信
-- 𮘁 - 国字: 'telegram'
-- 𬣐 - 国字: 'gentle', 'fun'
 
 ## Data check
 ```dataview

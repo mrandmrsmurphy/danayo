@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 5
 radical: 虍
 tags: [lookup]
@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### +5 Strokes
 3. <ruby>[虚](../../characters/虚%20(char).md)<rt>ㄏ⼄</rt></ruby> - void
+- 處 --> 処
 
 ### +6 Strokes
 - 虛 --> 虚
@@ -29,13 +30,10 @@ tags: [lookup]
 ### +7 Strokes
 4. <ruby>[虞](../../characters/虞.md)<rt>ㄨ</rt></ruby> - anxious
 5. <ruby>[虜](../../characters/虜.md)<rt>ㄌㄛ</rt></ruby> - take captive
+- 號 --> 号
 
 ### +13 Strokes
 - 𧈉 --> 覇
-
-### Aliases
-- 號 --> 号
-- 處 --> 処
 
 ## Data check
 ```dataview

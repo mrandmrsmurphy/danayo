@@ -1,7 +1,7 @@
 ---
 size: 44
 radical: 虫
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 tags:
   - lookup
 ---
@@ -29,6 +29,7 @@ tags:
 7. <ruby>[蚤](../../characters/蚤.md)<rt>ㄐㄚㄨ</rt></ruby> - flea
 - 蚌 --> 蜂
 - 蚣 --> 公
+- 蚬 --> 蜆
 
 ### +5 Strokes
 8. <ruby>[蛇](../../characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> - snake
@@ -36,6 +37,9 @@ tags:
 10. <ruby>[蛍](../../characters/蛍%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - firefly
 11. <ruby>[蛉](../../characters/蛉.md)<rt>ㄌㄝㄫ</rt></ruby> - dragonfly
 - 蛎 --> 厉
+- 蚯 --> 丘
+- 蛊 --> 古
+- ¡﨡! - 違法字
 
 ### +6 Strokes
 12. <ruby>[蛙](../../characters/蛙.md)<rt>⺢</rt></ruby> - frog
@@ -47,6 +51,7 @@ tags:
 - 䖵 --> 昆
 - 蛰 --> 蟄
 - 蛪 --> 霓
+- 蛔 --> 回
 
 ### +7 Strokes
 18. <ruby>[蛾](../../characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
@@ -68,6 +73,7 @@ tags:
 - 蝕 --> 食
 - 蜙 --> 公
 - 蜺 --> 霓
+- 蜚 --> 飛
 
 ### +9 Strokes
 25. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
@@ -94,6 +100,7 @@ tags:
 37. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis
 38. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
 39. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
+- ¡蟎! - 違法字
 
 ### +12 Strokes
 - 蟠 --> 盤
@@ -118,23 +125,14 @@ tags:
 ### +15 Strokes
 44. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
 
+### +17 Strokes
+- 蠱 --> 古
+
 ### +18 Strokes
 - 蠶 --> 蚕
 
 ### +19 Strokes
 - 蠻 --> 蛮
-
-### Aliases
-- 蚯 --> 丘
-- 蚬 --> 蜆
-- 蛔 --> 回
-- 蜚 --> 飛
-- 蠱 --> 古
-- 蛊 --> 古
-
-### Forbidden
-- 﨡 - 国字: 国字 for the jewel beetle
-- 蟎 - 国字: 'mite' Use 壁虱
 
 ## Data check
 ```dataview

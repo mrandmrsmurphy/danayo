@@ -4,6 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 149 (言)**: merged 19 redirect lines scattered under 19 malformed `### +-N Strokes` headings into three proper groups (`### -3 Strokes`, `### -2 Strokes`, `### -1 Stroke`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (24 lines, four forbidden glyphs as 違法字 lines), stamped.
+- **Radical 148 (角)**: moved the bottom Forbidden block into the +N Strokes groups (¡鵤! as a 違法字 line), stamped.
+- **Radical 147 (見)**: fixed the malformed headings `### +-1 Strokes` and `### +-3 Strokes` to `### -1 Stroke` and `### -3 Strokes` (ordered before +0); moved the bottom Aliases block into the +N Strokes groups (视 → 視), stamped.
+- **Radical 146 (襾)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (西 +0, 要 +3, 覆 +12, 覇 +13; 覃 → 湛 filed by stroke count), stamped.
+- **Radical 145 (衣)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (襠, 裆, 衹 redirects and ¡裹!, ¡裃!, ¡褝!, ¡襅! as 違法字 lines); dropped the annotated duplicate `裡 --> variant of 裏`; turned the alias-backed `錶 --> variant of 表` into a plain `錶 --> 表` under +10 (Stroke 16); moved the unbacked `制 --> variant of 製` to +2 (8 strokes); stamped.
+- **Radical 144 (行)**: moved the bottom Aliases block into the +N Strokes groups (衕 → 同), stamped.
+- **Radical 143 (血)**: verified (3 characters, groups and 4 alias-backed redirects correct), stamped; no content change.
+- **Radical 142 (虫)**: moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (蚯, 蚬, 蛔, 蜚, 蠱, 蛊 redirects and ¡﨡!, ¡蟎! as 違法字 lines), stamped.
+- **Radical 141 (虍)**: moved the bottom Aliases block into the +N Strokes groups (號 → 号, 處 → 処), stamped.
 - **Radical 140 (艸)**: fixed the malformed heading `### +-1 Strokes` to `### -1 Stroke`; refiled 菲 (+5 → +8), 莽 (+6 → +7) and 茜 (+7 → +6) by their `stroke_count` (baseline 3, as the page intro states) and renumbered the entries; moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (23 lines, nine forbidden glyphs as 違法字 lines), stamped.
 - **Radical 139 (色)**: converted the `## Characters` / `### Used` layout to the standard +N Strokes groups (色 +0, 艶 +13), stamped.
 - **Radical 138 (艮)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (艮 +0, 良 +1, 艱 +11; 艰 → 艱 filed by stroke count); dropped the annotated duplicate `艰 --> simplified form of 艱`, stamped.

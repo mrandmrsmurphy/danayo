@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 8
 radical: 見
 tags: [lookup]
@@ -10,11 +10,11 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 观 --> 観
-
-### +-3 Strokes
+### -3 Strokes
 - 见 --> 見
+
+### -1 Stroke
+- 观 --> 観
 
 ### +0 Strokes
 1. <ruby>[見](../../characters/見%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - see
@@ -22,6 +22,7 @@ tags: [lookup]
 ### +1 Stroke
 - 规 --> 規
 - 觅 --> 覓
+- 视 --> 視
 
 ### +2 Strokes
 - 觉 --> 覚
@@ -53,9 +54,6 @@ tags: [lookup]
 
 ### +18 Strokes
 - 觀 --> 観
-
-### Aliases
-- 视 --> 視
 
 ## Data check
 ```dataview
