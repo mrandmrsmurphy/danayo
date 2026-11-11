@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 9
 radical: 羊
 tags: [lookup]
@@ -18,6 +18,9 @@ tags: [lookup]
 2. <ruby>[美](../../characters/美%20(char).md)<rt>ㄇㄧ</rt></ruby> - beautiful
 - 羗 --> 羌
 
+### +4 Strokes
+- 羔 --> 皐
+
 ### +5 Strokes
 3. <ruby>[羚](../../characters/羚.md)<rt>ㄌㄝㄫ</rt></ruby> - antelope
 4. <ruby>[羞](../../characters/羞.md)<rt>ㄙㄨㄛ</rt></ruby> - shame
@@ -34,9 +37,6 @@ tags: [lookup]
 
 ### +13 Strokes
 9. <ruby>[羸](../../characters/羸.md)<rt>ㄌㄨㄧ</rt></ruby> - weakness
-
-### Aliases
-- 羔 --> 皐
 
 ## Data check
 ```dataview

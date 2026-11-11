@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 84
 radical: 糸
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
+### -1 Stroke
 - 纠 --> 糾
 
 ### +0 Strokes
@@ -34,6 +34,7 @@ tags: [lookup]
 - 纲 --> 綱
 - 纬 --> 緯
 - 纯 --> 純
+- 纸 --> 紙
 
 ### +2 Strokes
 - 终 --> 終
@@ -47,6 +48,7 @@ tags: [lookup]
 - 绀 --> 紺
 - 绊 --> 絆
 - 经 --> 経
+- 练 --> 練
 
 ### +3 Strokes
 3. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
@@ -62,6 +64,7 @@ tags: [lookup]
 - 绒 --> 絨
 - 绕 --> 繞
 - 绞 --> 絞
+- 绝 --> 絶
 
 ### +4 Strokes
 8. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark
@@ -133,6 +136,7 @@ tags: [lookup]
 - 缔 --> 締
 - 缓 --> 緩
 - 缕 --> 婁
+- 絕 --> 絶
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -143,6 +147,8 @@ tags: [lookup]
 - 缟 --> 縞
 - 缝 --> 縫
 - 缠 --> 纏
+- 缚 --> 縛
+- ¡綁! - 違法字
 
 ### +8 Strokes
 46. <ruby>[維](../../characters/維.md)<rt>⼶ㄧ</rt></ruby> - support
@@ -164,6 +170,8 @@ tags: [lookup]
 - 綠 --> 緑
 - 綳 --> 繃
 - 綵 --> 彩
+- 綾 --> 凌
+- 缪 --> 謬
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
@@ -201,6 +209,7 @@ tags: [lookup]
 - 縱 --> 縦
 - 繅 --> 繰
 - 縷 --> 婁
+- 繆 --> 謬
 
 ### +12 Strokes
 78. <ruby>[織](../../characters/織.md)<rt>ㄐㄧㄎ</rt></ruby> - weave
@@ -216,10 +225,12 @@ tags: [lookup]
 - 繩 --> 縄
 - 繡 --> 繍
 - 繫 --> 繋
+- ¡繳! - 違法字
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile
 - 繼 --> 継
+- ¡纃! - 違法字
 
 ### +15 Strokes
 84. <ruby>[纏](../../characters/纏.md)<rt>ㄐㄝㄋ</rt></ruby> - wrap
@@ -233,21 +244,6 @@ tags: [lookup]
 - 纓 --> 嬰
 - 纖 --> 繊
 - 纔 --> 才
-
-### Aliases
-- 絕 --> 絶
-- 绝 --> 絶
-- 练 --> 練
-- 綾 --> 凌
-- 纸 --> 紙
-- 缚 --> 縛
-- 繆 --> 謬
-- 缪 --> 謬
-
-### Forbidden
-- 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)
-- 綁 - 官话: HSK 3, but used in no other country
-- 纃 - 国字: 'splashed pattern dyeing or weaving'
 
 ## Data check
 ```dataview
