@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+- **Radical 184 (食)**: merged the redirect lines under five malformed `### +-N Strokes` headings into negative groups (`-4`, `-2`, `-1`, ahead of +0); moved the bottom Aliases/Forbidden blocks into the +N Strokes groups (饭 → 飯, 饱 → 飽 and ¡䭏!, ¡饂!, ¡𩛰! as 違法字 lines), stamped.
+- **Radical 183 (飛)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (飛 +0; 飞 → 飛 and 飜 → 翻 filed by stroke count); removed `䬡 --> 翻`, which is not in 翻's aliases (rare Unicode-only form, not added as an alias); stamped.
+- **Radical 182 (風)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (風 +0, 颯 +5; 颱, 风, 颳, 飒 → redirects and ¡颪! filed by stroke count), stamped.
+- **Radical 181 (頁)**: merged the redirect lines under three malformed `### +-N Strokes` headings into `### -3 Strokes` and `### -1 Stroke` (ordered ahead of +0); moved the bottom Aliases block into the +N Strokes groups (頽 → 退, 颇 → 頗), stamped.
+- **Radical 180 (音)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (音 +0, 韻 +10, 響 +11; 韵 → 韻 filed by stroke count), stamped.
 - **Radical 179 (韭)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (韮 +3, stroke_count 12 less the radical's Kangxi 9; 韭 → 韮 filed under +0), stamped.
 - **Radical 178 (韋)**: converted the `## Characters` / `### Used` / `### Aliases` layout to the standard +N Strokes groups (韋 +1, 韓 +9, counted from the radical's Kangxi 9 strokes; 韩 → 韓 and 韦 → 韋 filed by stroke count), stamped.
 - **Radical 177 (革)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (革 +0, 靴 +4, 鞀 and 鞄 +5, 鞋 and 鞍 +6, 鞘 +7, 鞠 +8, 鞭 +9; nine redirects and ¡靹! filed by stroke count), stamped.

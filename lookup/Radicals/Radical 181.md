@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 29
 radical: 頁
 tags: [lookup]
@@ -9,13 +9,11 @@ tags: [lookup]
 
 ## Strokes
 
-### +-1 Strokes
-- 顶 --> 頂
-
-### +-3 Strokes
+### -3 Strokes
 - 页 --> 頁
 
-### +-1 Strokes
+### -1 Stroke
+- 顶 --> 頂
 - 顷 --> 頃
 
 ### +0 Strokes
@@ -38,6 +36,7 @@ tags: [lookup]
 3. <ruby>[頃](../../characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> - moment
 - 领 --> 領
 - 颈 --> 頚
+- 颇 --> 頗
 
 ### +3 Strokes
 4. <ruby>[項](../../characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - nape
@@ -76,6 +75,7 @@ tags: [lookup]
 - 頸 --> 頚
 - 頰 --> 頬
 - 颠 --> 顚
+- 頽 --> 退
 
 ### +8 Strokes
 19. <ruby>[頻](../../characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> - frequent
@@ -101,10 +101,6 @@ tags: [lookup]
 ### +14 Strokes
 - 顯 --> 顕
 - 顯 --> 显
-
-### Aliases
-- 頽 --> 退
-- 颇 --> 頗
 
 ## Data check
 ```dataview

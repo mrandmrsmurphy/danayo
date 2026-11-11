@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 19
 radical: 食
 tags: [lookup]
@@ -9,20 +9,18 @@ tags: [lookup]
 
 ## Strokes
 
-### +-2 Strokes
-- 饮 --> 飲
-
-### +-4 Strokes
+### -4 Strokes
 - 饥 --> 飢
 
-### +-1 Strokes
+### -2 Strokes
+- 饮 --> 飲
+- 饭 --> 飯
+
+### -1 Stroke
 - 饴 --> 飴
-
-### +-1 Strokes
 - 饲 --> 飼
-
-### +-1 Strokes
 - 饰 --> 飾
+- 饱 --> 飽
 
 ### +0 Strokes
 1. <ruby>[食](../../characters/食%20(char).md)<rt>ㄙㄧㄎ</rt></ruby> - eat
@@ -67,6 +65,7 @@ tags: [lookup]
 14. <ruby>[餐](../../characters/餐%20(char).md)<rt>ㄑㄚㄋ</rt></ruby> - eat
 15. <ruby>[館](../../characters/館.md)<rt>ㄍ⺢ㄋ</rt></ruby> - hall
 - 餚 --> 肴
+- ¡𩛰! - 違法字
 
 ### +8 Strokes
 16. <ruby>[餅](../../characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - pastry
@@ -75,6 +74,10 @@ tags: [lookup]
 
 ### +9 Strokes
 - 餾 --> 溜
+- ¡䭏! - 違法字
+
+### +10 Strokes
+- ¡饂! - 違法字
 
 ### +11 Strokes
 17. <ruby>[饉](../../characters/饉.md)<rt>ㄍㄨㄋ</rt></ruby> - famine
@@ -84,15 +87,6 @@ tags: [lookup]
 
 ### +13 Strokes
 19. <ruby>[饗](../../characters/饗.md)<rt>ㄏ⼘ㄫ</rt></ruby> - banquet
-
-### Aliases
-- 饭 --> 飯
-- 饱 --> 飽
-
-### Forbidden
-- 䭏 - 국자: '편'
-- 饂 - 国字: Used only in 饂飩 (udon)
-- 𩛰 - 国字: Japanese-invented character.
 
 ## Data check
 ```dataview

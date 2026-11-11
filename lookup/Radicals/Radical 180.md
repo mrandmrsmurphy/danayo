@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-11
 size: 3
 radical: 音
 tags: [lookup]
@@ -7,14 +7,19 @@ tags: [lookup]
 > [[Radicals]]
 > Radical 180 is 音, "sound", 9 strokes. It is derived from 言 "speech" with an added stroke marking a tone inside the mouth, distinguishing an uttered sound from mere words. It appears in compounds tied to tone, resonance, and the qualities of sound, such as 韻 "rhyme" and 響 "echo".
 
-## Characters
-### Used
-1. <ruby>[音](../../characters/音.md)<rt>ㄨㄇ</rt></ruby> - sound
-2. <ruby>[韻](../../characters/韻.md)<rt>ㄨㄋ</rt></ruby> - rhyme
-3. <ruby>[響](../../characters/響.md)<rt>ㄏ⼘ㄫ</rt></ruby> - echo
+## Strokes
 
-### Aliases
+### +0 Strokes
+1. <ruby>[音](../../characters/音.md)<rt>ㄨㄇ</rt></ruby> - sound
+
+### +4 Strokes
 - 韵 --> 韻
+
+### +10 Strokes
+2. <ruby>[韻](../../characters/韻.md)<rt>ㄨㄋ</rt></ruby> - rhyme
+
+### +11 Strokes
+3. <ruby>[響](../../characters/響.md)<rt>ㄏ⼘ㄫ</rt></ruby> - echo
 
 ## Data check
 ```dataview
