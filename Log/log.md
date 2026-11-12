@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 一石二鳥: no named primary citation (modern calque; the page already states what is unverified); frontmatter, sections and back-links checked; no change needed; lint clean; stamped.
+- 一目瞭然: confirmed the 《朱子語類》 卷一三七 line 「見得道理透後，從高視下，一目瞭然」 on wikisource and said so in Source and Origin; back-links checked; lint clean; stamped.
 - 一期一会: back-links checked; the 《山上宗二記》 and 《茶湯一会集》 quotations could not be found in a primary text on ja.wikisource, so the page keeps its existing note that they were verified through secondary pages only; lint clean; stamped.
 - 一朝一夕: 《周易·坤·文言》 quotation and back-links re-checked; no change needed; lint clean; stamped.
 - 一日三秋: 《詩經·王風·采葛》 quotation (三秋 in the second stanza) and back-links re-checked; no change needed; lint clean; stamped.
