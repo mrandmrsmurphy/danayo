@@ -1,13 +1,16 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-12
 size: 24
 tags: [lookup]
 
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 3 :
+> [SKIP](lookup/SKIP/SKIP.md) : 3
+
+The surrounding part has 5 strokes.
 
 Every single one is the sickness radical!
-1. no
+
+1. SKIP-3-5-1: none
 2. [SKIP-3-5-2](lookup/SKIP/SKIP-3/SKIP-3-5-2.md): ø
 3. [SKIP-3-5-3](lookup/SKIP/SKIP-3/SKIP-3-5-3.md): ø
 4. [SKIP-3-5-4](lookup/SKIP/SKIP-3/SKIP-3-5-4.md): 疫
@@ -17,7 +20,7 @@ Every single one is the sickness radical!
 8. [SKIP-3-5-8](lookup/SKIP/SKIP-3/SKIP-3-5-8.md): 痰, 痴, 痺
 9. [SKIP-3-5-9](lookup/SKIP/SKIP-3/SKIP-3-5-9.md): 瘋, 瘍
 10. [SKIP-3-5-10](lookup/SKIP/SKIP-3/SKIP-3-5-10.md): 瘡
-11. no
+11. SKIP-3-5-11: none
 12. [SKIP-3-5-12](lookup/SKIP/SKIP-3/SKIP-3-5-12.md): 厳, 療, 癇, 癌
 13. [SKIP-3-5-13](lookup/SKIP/SKIP-3/SKIP-3-5-13.md): 癒, 癖
 14. [SKIP-3-5-14](lookup/SKIP/SKIP-3/SKIP-3-5-14.md): ø

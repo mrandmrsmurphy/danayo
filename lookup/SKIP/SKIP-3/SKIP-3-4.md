@@ -1,12 +1,14 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 36
 tags: [lookup]
 
 ---
-> [SKIP](../SKIP.md) : 3
+> [SKIP](lookup/SKIP/SKIP.md) : 3
 
-1. none
+The surrounding part has 4 strokes.
+
+1. SKIP-3-4-1: none
 2. [SKIP-3-4-2](lookup/SKIP/SKIP-3/SKIP-3-4-2.md): 危, 戎, 気, 老, 考, 肉
 3. [SKIP-3-4-3](lookup/SKIP/SKIP-3/SKIP-3-4-3.md): 君, 孝, 戒
 4. [SKIP-3-4-4](lookup/SKIP/SKIP-3/SKIP-3-4-4.md): 或, 武, 者, 虎
@@ -21,9 +23,9 @@ tags: [lookup]
 13. [SKIP-3-4-13](lookup/SKIP/SKIP-3/SKIP-3-4-13.md): 遽, 邁
 14. [SKIP-3-4-14](lookup/SKIP/SKIP-3/SKIP-3-4-14.md): ø
 15. [SKIP-3-4-15](lookup/SKIP/SKIP-3/SKIP-3-4-15.md): ø
-16. none
-17. none
-18. none
+16. SKIP-3-4-16: none
+17. SKIP-3-4-17: none
+18. SKIP-3-4-18: none
 19. [SKIP-3-4-19](lookup/SKIP/SKIP-3/SKIP-3-4-19.md): 邏
 
 ## Base check

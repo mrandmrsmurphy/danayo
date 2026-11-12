@@ -1,10 +1,12 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 154
 tags: [lookup]
 
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 3 :
+> [SKIP](lookup/SKIP/SKIP.md) : 3
+
+The surrounding part has 3 strokes.
 
 1. [SKIP-3-3-1](lookup/SKIP/SKIP-3/SKIP-3-3-1.md): 冘, 尤, 日, 曰, 爪
 2. [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md): 巨, 広, 四, 囚, 処, 尻, 庁, 田, 尼, 皮, 辺, 民, 目, 瓜
@@ -24,10 +26,10 @@ tags: [lookup]
 16. [SKIP-3-3-16](lookup/SKIP/SKIP-3/SKIP-3-3-16.md): 廬, 靡, 龐
 17. [SKIP-3-3-17](lookup/SKIP/SKIP-3/SKIP-3-3-17.md): ø
 18. [SKIP-3-3-18](lookup/SKIP/SKIP-3/SKIP-3-3-18.md): 魔
-19. no
-20. no
+19. SKIP-3-3-19: none
+20. SKIP-3-3-20: none
 21. [SKIP-3-3-21](lookup/SKIP/SKIP-3/SKIP-3-3-21.md): 鷹
-22. [SKIP-3-3-22](lookup/SKIP/SKIP-3/SKIP-3-3-22.md): (aliases/redirects only)
+22. [SKIP-3-3-22](lookup/SKIP/SKIP-3/SKIP-3-3-22.md): ø
 
 ## Base check
 ```base
