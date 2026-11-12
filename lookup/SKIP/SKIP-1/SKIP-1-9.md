@@ -1,8 +1,7 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 44
-tags:
-  - lookup
+tags: [lookup]
 ---
 
 > [SKIP](lookup/SKIP/SKIP.md) : 1

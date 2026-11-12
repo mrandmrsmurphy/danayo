@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 210
 tags: [lookup]
 
@@ -25,9 +25,9 @@ Left half has 7 strokes. Dominant components: 言, 貝, 車, 足, 酉.
 - [SKIP-1-7-14](lookup/SKIP/SKIP-1/SKIP-1-7-14.md): 躍
 - [SKIP-1-7-15](lookup/SKIP/SKIP-1/SKIP-1-7-15.md): 贖
 - [SKIP-1-7-16](lookup/SKIP/SKIP-1/SKIP-1-7-16.md): ø
-- [SKIP-1-7-17](lookup/SKIP/SKIP-1/SKIP-1-7-17.md): (aliases/redirects only)
-- [SKIP-1-7-18](lookup/SKIP/SKIP-1/SKIP-1-7-18.md): (aliases/redirects only)
-- [SKIP-1-7-19](lookup/SKIP/SKIP-1/SKIP-1-7-19.md): (aliases/redirects only)
+- [SKIP-1-7-17](lookup/SKIP/SKIP-1/SKIP-1-7-17.md): ø
+- [SKIP-1-7-18](lookup/SKIP/SKIP-1/SKIP-1-7-18.md): ø
+- [SKIP-1-7-19](lookup/SKIP/SKIP-1/SKIP-1-7-19.md): ø
 
 ## Base check
 ```base
