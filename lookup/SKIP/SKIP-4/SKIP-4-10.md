@@ -1,15 +1,16 @@
 ---
 stroke_count: 10
-tags:
-  - lookup
-date-last-perfect: 2026-10-04
+tags: [lookup]
+date-last-perfect: 2026-11-12
 size: 0
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 4 
+> [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 10](lookup/Stroke/Stroke%2010.md)
 
-1. No
-2. [SKIP-4-10-2](lookup/SKIP/SKIP-4/SKIP-4-10-2.md): _only redirect_
+These are the 漢字 of 10 strokes in total, by subtype (1 top line, 2 bottom line, 3 vertical line, 4 none of these).
+
+1. SKIP-4-10-1: none
+2. [SKIP-4-10-2](lookup/SKIP/SKIP-4/SKIP-4-10-2.md): ø
 3. [SKIP-4-10-3](lookup/SKIP/SKIP-4/SKIP-4-10-3.md): ø
 4. [SKIP-4-10-4](lookup/SKIP/SKIP-4/SKIP-4-10-4.md): ø
 

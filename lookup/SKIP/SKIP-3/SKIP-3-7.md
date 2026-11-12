@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-12
 size: 11
 tags: [lookup]
 
@@ -8,18 +8,18 @@ tags: [lookup]
 
 Surrounding component has 7 strokes. Dominant component: 走.
 
-1. ø
+1. SKIP-3-7-1: none
 2. [SKIP-3-7-2](lookup/SKIP/SKIP-3/SKIP-3-7-2.md): 赴
 3. [SKIP-3-7-3](lookup/SKIP/SKIP-3/SKIP-3-7-3.md): 島, 赳, 起
 4. [SKIP-3-7-4](lookup/SKIP/SKIP-3/SKIP-3-7-4.md): 鳥
 5. [SKIP-3-7-5](lookup/SKIP/SKIP-3/SKIP-3-7-5.md): 着, 超, 越
-6. ø
+6. SKIP-3-7-6: none
 7. [SKIP-3-7-7](lookup/SKIP/SKIP-3/SKIP-3-7-7.md): 趙
 8. [SKIP-3-7-8](lookup/SKIP/SKIP-3/SKIP-3-7-8.md): 趣
 9. [SKIP-3-7-9](lookup/SKIP/SKIP-3/SKIP-3-7-9.md): 麺
-10. none
-11. none
-12. none
+10. SKIP-3-7-10: none
+11. SKIP-3-7-11: none
+12. SKIP-3-7-12: none
 13. [SKIP-3-7-13](lookup/SKIP/SKIP-3/SKIP-3-7-13.md): ø
 
 ## Base check

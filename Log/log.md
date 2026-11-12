@@ -7,6 +7,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ### SKIP stem pass
 - SKIP-3-5: fixed the breadcrumb, added the stroke description (surrounding part 5 strokes), gaps 1 and 11 as `SKIP-3-5-N: none`; leaves, previews and size verified; stamped.
 - SKIP-3-6: positions 1, 2 and 10 have no leaf file, so the bare `ø` is now `SKIP-3-6-N: none`; leaves, previews, description and size verified; stamped.
+- SKIP-3-7: positions 1 and 6 had a bare `ø` but no leaf file, and 10–12 a bare `none`; all now `SKIP-3-7-N: none`; leaves, previews, description and size verified; stamped.
+- SKIP-3-8: position 1 had a bare `ø` but no leaf file, now `SKIP-3-8-1: none`; leaves, previews, description and size verified; stamped.
+- SKIP-3-9: positions 1, 3, 4 and 6–8 had a bare `ø` but no leaf file, now `SKIP-3-9-N: none`; leaves, previews, description and size verified; stamped.
+- SKIP-4-1: verified leaf list, previews, description and size; no change needed; stamped.
+- SKIP-4-10: inline tags, breadcrumb spacing, added the one-line description, `No` → `SKIP-4-10-1: none`, `_only redirect_` → ø; leaves, previews and size verified; stamped.
 
 ## 2026-11-11
 

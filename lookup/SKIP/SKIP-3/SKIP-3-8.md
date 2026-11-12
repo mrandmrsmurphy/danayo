@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-12
 size: 26
 tags: [lookup]
 
@@ -8,7 +8,7 @@ tags: [lookup]
 
 Surrounding component has 8 strokes. Dominant component: 門.
 
-1. ø
+1. SKIP-3-8-1: none
 2. [SKIP-3-8-2](lookup/SKIP/SKIP-3/SKIP-3-8-2.md): 勉, 閃
 3. [SKIP-3-8-3](lookup/SKIP/SKIP-3/SKIP-3-8-3.md): 問, 彪, 閉
 4. [SKIP-3-8-4](lookup/SKIP/SKIP-3/SKIP-3-8-4.md): 悶, 開, 閏, 閑, 間, 閔
