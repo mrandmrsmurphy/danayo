@@ -42,6 +42,7 @@ tags: [lookup]
 - 鱜 - 国字: きょう.
 - 鱩 - 国字: hatahata, Sailfin Sandfish.
 - 鱪 - 国字: mahi-mahi, dolphinfish.
+- ¡靇! - 違法字
 
 ## Data check
 ```dataview

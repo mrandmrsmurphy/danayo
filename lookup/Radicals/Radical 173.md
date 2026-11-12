@@ -73,6 +73,7 @@ tags: [lookup]
 - 靈 --> 霊
 - 靂 --> 歴
 - 靃 --> 霍
+- ¡靇! - 違法字
 
 ## Data check
 ```dataview

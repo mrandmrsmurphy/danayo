@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 1. <ruby>[才](../../characters/才.md)<rt>ㄐㄚㄧ</rt></ruby> - ability
 
 ### +0 Strokes

@@ -9,19 +9,19 @@ tags: [lookup]
 
 ## Strokes
 
-### -5 Strokes
+### +-5 Strokes
 - 门 --> 門
 
-### -3 Strokes
+### +-3 Strokes
 - 闪 --> 閃
 
-### -2 Strokes
+### +-2 Strokes
 - 闭 --> 閉
 - 闫 --> 閻
 - 闯 --> 闖
 - 问 --> 問
 
-### -1 Stroke
+### +-1 Stroke
 - 间 --> 間
 - 闲 --> 閑
 - 闷 --> 悶

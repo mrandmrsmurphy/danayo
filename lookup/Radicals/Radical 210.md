@@ -9,10 +9,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -8 Strokes
+### +-8 Strokes
 - 齐 --> 斉
 
-### -6 Strokes
+### +-6 Strokes
 1. <ruby>[斉](../../characters/斉.md)<rt>ㄐㄝㄧ</rt></ruby> - simultaneous
 
 ### +0 Strokes

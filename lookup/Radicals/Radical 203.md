@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 1. <ruby>[黒](../../characters/黒%20(char).md)<rt>ㄏㄨㄎ</rt></ruby> - black
 
 ### +0 Strokes

@@ -87,7 +87,7 @@ When the radical symbol is *not* used as a standalone character in the corpus �
 
 ### Negative-stroke groups (rare)
 
-Occasionally a character classified under a radical has *fewer* strokes than the radical's own baseline — this happens when a simplified or component variant of the radical is the one actually used for classification, while a character with fewer strokes than that variant still exists. Confirmed case: 才 (3 strokes) is filed under 手 (hand, 4 strokes), so `Radical 064.md` has a `### -1 Stroke` group. Verify against the character's own `stroke_count` field before assuming a negative heading is a typo — it can be correct. Negative groups follow the same continuous-numbering rules as any other group and sort before `+0`/`+1`.
+Occasionally a character classified under a radical has *fewer* strokes than the radical's own baseline — this happens when a simplified or component variant of the radical is the one actually used for classification, while a character with fewer strokes than that variant still exists. Confirmed case: 才 (3 strokes) is filed under 手 (hand, 4 strokes), so `Radical 064.md` has a `### +-1 Stroke` group (the plus style is kept for negatives too, user ruling 2026-11-11). Verify against the character's own `stroke_count` field before assuming a negative heading is a typo — it can be correct. Negative groups follow the same continuous-numbering rules as any other group and sort before `+0`/`+1`.
 
 ### Numbered entries — character format
 

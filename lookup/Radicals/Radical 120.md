@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 - 纠 --> 糾
 
 ### +0 Strokes

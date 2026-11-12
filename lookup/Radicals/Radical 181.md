@@ -9,10 +9,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 页 --> 頁
 
-### -1 Stroke
+### +-1 Stroke
 - 顶 --> 頂
 - 顷 --> 頃
 

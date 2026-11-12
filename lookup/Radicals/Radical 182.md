@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -5 Strokes
+### +-5 Strokes
 - 风 --> 風
 
 ### +0 Strokes

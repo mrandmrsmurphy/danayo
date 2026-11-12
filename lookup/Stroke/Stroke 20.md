@@ -88,6 +88,7 @@ tags:
 - 𬣐 - 国字: 'gentle', 'fun'
 - 鰘 - 国字: むろあじ (a Japanese fish name).
 - 鰚 - 国字: Japanese-invented character.
+- ¡龑! - 違法字
 
 ## Data check
 ```dataview

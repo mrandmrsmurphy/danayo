@@ -15,9 +15,8 @@ tags:
 
 ### +1 Stroke
 2. <ruby>[犮](../../characters/犮.md)<rt>ㄅ⼘ㄊ</rt></ruby> - shape of running dog
-- 叐 --> variant of 犮
-- 𡗜 --> variant of 犮
-- 𤝜 --> variant of 犮
+- 𡗜 --> 犮
+- 𤝜 --> 犮
 3. <ruby>[犯](../../characters/犯.md)<rt>ㄅㄚㄇ</rt></ruby> - crime
 
 ### +3 Strokes
@@ -42,7 +41,7 @@ tags:
 12. <ruby>[狡](../../characters/狡.md)<rt>ㄍ⼄ㄨ</rt></ruby> - cunning
 - 狱 --> 獄
 - 狮 --> 獅
-- 狢 --> variant of 狸
+- 狢 --> 狸
 
 ### +6 Strokes
 13. <ruby>[狸](../../characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> - tanuki
@@ -76,8 +75,6 @@ tags:
 26. <ruby>[獅](../../characters/獅.md)<rt>ㄙㄧㄜ</rt></ruby> - lion
 - 猷 --> 猶
 - 猾 --> 滑
-- 雎 --> variant of 狙
-- 貉 --> variant of 狸
 
 ### +10 Strokes
 27. <ruby>[獄](../../characters/獄.md)<rt>⼄ㄎ</rt></ruby> - prison

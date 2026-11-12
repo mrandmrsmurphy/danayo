@@ -10,13 +10,13 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 车 --> 車
 
-### -2 Strokes
+### +-2 Strokes
 - 轧 --> 軋
 
-### -1 Stroke
+### +-1 Stroke
 - 轨 --> 軌
 
 ### +0 Strokes

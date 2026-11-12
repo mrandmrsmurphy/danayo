@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 - 罒 --> variant form (component-only)
 
 ### +0 Strokes

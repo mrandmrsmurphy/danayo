@@ -9,13 +9,13 @@ tags: [lookup]
 
 ## Strokes
 
-### -9 Strokes
+### +-9 Strokes
 - 龟 --> 亀
 
-### -5 Strokes
+### +-5 Strokes
 1. <ruby>[亀](../../characters/亀%20(char).md)<rt>ㄍㄨㄛ</rt></ruby> - turtle
 
-### -1 Stroke
+### +-1 Stroke
 - ¡𪚲! - 違法字
 
 ### +0 Strokes

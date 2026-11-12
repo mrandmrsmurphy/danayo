@@ -202,6 +202,8 @@ tags:
 - 閠 --> 閏
 - 溯 --> 遡
 - 痲 --> 麻
+- 雎 --> 狙
+- 貉 --> 狸
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

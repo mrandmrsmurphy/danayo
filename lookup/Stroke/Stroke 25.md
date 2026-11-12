@@ -20,6 +20,8 @@ tags: [lookup]
 - 灣 --> 湾
 - 躥 --> 竄
 - 蠻 --> 蛮
+- 䶴 --> 吹
+- 龣 --> 角
 
 ### Forbidden
 - 鱰 - 国字: Japanese-invented character. Mahi-mahi

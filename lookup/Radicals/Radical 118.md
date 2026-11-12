@@ -127,6 +127,9 @@ tags:
 ### +18 Strokes
 - 籬 --> 離
 
+### +26 Strokes
+- ¡籲! - 違法字
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -10,10 +10,10 @@ tags:
 
 ## Strokes
 
-### -2 Strokes
+### +-2 Strokes
 - ¡龷! - 違法字
 
-### -1 Stroke
+### +-1 Stroke
 - 艺 --> 芸
 
 ### +0 Strokes

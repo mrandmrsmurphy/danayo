@@ -9,20 +9,20 @@ tags: [lookup]
 
 ## Strokes
 
-### -7 Strokes
+### +-7 Strokes
 - 马 --> 馬
 
-### -5 Strokes
+### +-5 Strokes
 - 驭 --> 馭
 
-### -4 Strokes
+### +-4 Strokes
 - 驰 --> 馳
 - 驯 --> 馴
 
-### -3 Strokes
+### +-3 Strokes
 - 驳 --> 駁
 
-### -2 Strokes
+### +-2 Strokes
 - 驿 --> 駅
 - 驻 --> 駐
 - 驹 --> 駒
@@ -30,7 +30,7 @@ tags: [lookup]
 - 驼 --> 駝
 - 驶 --> 使
 
-### -1 Stroke
+### +-1 Stroke
 - 骂 --> 罵
 - 骆 --> 駱
 

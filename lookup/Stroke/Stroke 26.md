@@ -17,6 +17,8 @@ tags: [lookup]
 
 ### Forbidden
 - 鱶 - 国字: 国字 for 'shark', ふか
+- ¡龤! - 違法字
+- ¡龥! - 違法字
 
 ## Data check
 ```dataview

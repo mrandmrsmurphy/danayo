@@ -1127,3 +1127,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鰥 | 鳏 | 1-8-10 | computed from its parts |
 | 沢 | 泽 | 1-3-5 | computed from its parts |
 | 懺 | 忏 | 1-3-3 | computed from its parts |
+| 犮 | 叐 | 4-4-1 | computed from its parts |
+| 犮 | 𡗜 | 4-4-1 | computed from its parts |
+| 犮 | 𤝜 | 1-3-5 | computed from its parts |
+| 狙 | 雎 | 1-5-8 | computed from its parts |
+| 狸 | 狢 | 1-3-6 | computed from its parts |
+| 狸 | 貉 | 1-7-6 | computed from its parts |
+| 吹 | 䶳 | 2-17-4 | computed from its parts |
+| 吹 | 龡 | 2-17-4 | computed from its parts |
+| 吹 | 䶴 | 2-17-8 | computed from its parts |
+| 和 | 龢 | 1-17-5 | computed from its parts |
+| 角 | 龣 | 1-17-8 | computed from its parts |
+| 恭 | 龏 | 2-16-3 | computed from its parts |
+| 龍 | 龒 | 2-16-5 | computed from its parts |

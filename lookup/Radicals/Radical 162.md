@@ -10,15 +10,15 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - ¡辷! - 違法字
 
-### -2 Strokes
+### +-2 Strokes
 - 辽 --> 遼
 - ¡辻! - 違法字
 - ¡込! - 違法字
 
-### -1 Stroke
+### +-1 Stroke
 - 边 --> 辺
 - 过 --> 過
 - 达 --> 達

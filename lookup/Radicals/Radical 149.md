@@ -10,13 +10,13 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 计 --> 計
 - 认 --> 認
 - 订 --> 訂
 - 讣 --> 訃
 
-### -2 Strokes
+### +-2 Strokes
 - 训 --> 訓
 - 议 --> 議
 - 讯 --> 訊
@@ -24,7 +24,7 @@ tags: [lookup]
 - 讨 --> 討
 - 记 --> 記
 
-### -1 Stroke
+### +-1 Stroke
 - 访 --> 訪
 - 设 --> 設
 - 许 --> 許

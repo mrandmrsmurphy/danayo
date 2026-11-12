@@ -4,6 +4,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+### Forbidden list, radical headings and extra aliases
+- `文法 - 98違法字.md`: added 龑, 龓, 龖, 龘, 龗, 靇, 龤, 龥, 籲 (Chinese, 幽霊文字; Chinese 136 → 145, total 442 → 451). Lines written on the Stroke, Radical 212/173/214/118 and (where the page exists) SKIP pages; the prose notes on Radical 212 and 214 were replaced by those lines.
+- Radical pages: negative stroke groups are written in the plus style, `### +-1 Stroke` (user ruling), on the 30 pages that had `### -N`; `radical_fmt.py` and `checklist_radicals.md` updated to match.
+- Aliases added (frontmatter, `## Aliases`, Stroke, SKIP and Radical redirects): 叐, 𡗜, 𤝜 → 犮; 雎 → 狙; 狢, 貉 → 狸; 䶳, 龡, 䶴 → 吹; 龢 → 和; 龣 → 角; 龏 → 恭; 龒 → 龍. Annotated `variant of` lines on Radical 094, 145 and 212 became plain redirects, and 叐, 雎, 貉 moved to the radical Unihan gives them (029, 172, 153). SKIP numbers are computed guesses, listed in the skip-guesses project file.
+
 - **Radicals.md**: `lint_radicals.py` passes on all 214 radical pages and the index; stamped (the radical loop's full re-stamp pass is complete).
 - **Radical 214 (龠)**: converted the `## Characters` / `### Note` / `### Aliases` / `### Forbidden` layout to `## Strokes` (no characters are filed here); the six "ancient variant" redirects (䶳, 龡, 䶴 → 吹; 龢 → 和; 龣 → 角; 䶵 → 篪) are not aliases on their targets' pages and carry no stroke data, so they and the forbidden 龤 and 龥/籲 (not on the master 違法字 list) are kept as prose under `### Other`; stamped.
 - **Radical 213 (龜)**: converted the `## Characters` / `### Used` / `### Aliases` / `### Forbidden` layout to the standard +N Strokes groups (亀, 11 strokes, in a `### -5 Strokes` group, counted from the radical's Kangxi 16 strokes; redirects and ¡𪚲! filed by stroke count); turned the annotated `龝 --> 秋 (ancient variant)` into a plain alias-backed `龝 --> 秋` and dropped the duplicate annotated `龞 --> 鼈 (ancient variant; also of 鱉)`, stamped.

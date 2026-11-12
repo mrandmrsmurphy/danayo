@@ -23,10 +23,10 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ## Strokes
 
-### -11 Strokes
+### +-11 Strokes
 - 龙 --> 龍
 
-### -5 Strokes
+### +-5 Strokes
 - 龛 --> 龕
 - 龚 --> 龔
 
@@ -38,14 +38,27 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 
 ### +3 Strokes
 2. <ruby>[龐](../../characters/龐.md)<rt>ㄅㄚㄫ</rt></ruby> - huge
+- 龏 --> 恭
+
+### +4 Strokes
+- ¡龑! - 違法字
+
+### +5 Strokes
+- 龒 --> 龍
 
 ### +6 Strokes
 3. <ruby>[龔](../../characters/龔.md)<rt>ㄍㄛㄫ</rt></ruby> - present
 4. <ruby>[龕](../../characters/龕%20(char).md)<rt>ㄌㄚㄇ</rt></ruby> - shrine
+- ¡龓! - 違法字
 
-### Other
-- 龏 (a variant of 恭) and 龒 (an ancient variant of 龍) are listed as variants, but neither is an alias on its target's page.
-- 龑 (a 9th-century coinage, 龍 + 天), 龓 (obscure), 龖/龘 (obsolete, a dragon in flight) and 龗/靇 (rain dragon, 雨 + 龍) are forbidden in Dan'a'yo.
+### +16 Strokes
+- ¡龖! - 違法字
+
+### +17 Strokes
+- ¡龗! - 違法字
+
+### +32 Strokes
+- ¡龘! - 違法字
 
 ## Data check
 ```dataview

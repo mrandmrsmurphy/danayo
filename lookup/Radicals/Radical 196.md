@@ -10,21 +10,21 @@ date-last-perfect: 2026-11-11
 
 ## Strokes
 
-### -6 Strokes
+### +-6 Strokes
 - 鸟 --> 鳥
 
-### -4 Strokes
+### +-4 Strokes
 - 鸠 --> 鳩
 - 鸡 --> 鶏
 
-### -3 Strokes
+### +-3 Strokes
 - 鸢 --> 鳶
 - 鸣 --> 鳴
 
-### -2 Strokes
+### +-2 Strokes
 - 鸥 --> 鴎
 
-### -1 Stroke
+### +-1 Stroke
 - 鸳 --> 鴛
 - 鸯 --> 鴦
 - 鸭 --> 鴨

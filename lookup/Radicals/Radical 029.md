@@ -27,6 +27,7 @@ tags: [lookup]
 ### +3 Strokes
 - 发 --> 発
 - 叏 --> 決
+- 叐 --> 犮
 
 ### +6 Strokes
 8. <ruby>[叔](../../characters/叔.md)<rt>ㄙㄨㄎ</rt></ruby> - uncle

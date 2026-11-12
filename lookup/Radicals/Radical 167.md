@@ -10,10 +10,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -2 Strokes
+### +-2 Strokes
 - 钇 --> 乙
 
-### -1 Stroke
+### +-1 Stroke
 - 针 --> 針
 - 钉 --> 釘
 

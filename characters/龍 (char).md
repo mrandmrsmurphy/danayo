@@ -36,6 +36,7 @@ aliases:
   - 陇
   - 瓏
   - 壟
+  - 龒
 注音: ㄌ⼄ㄫ
 date-last-perfect: 2026-11-10
 kwin: true
@@ -75,6 +76,9 @@ Simplified Chinese form of 隴. SKIP 1-3-4 (computed: EDRDG does not list it); 7
 
 ### 壟
 龍 over 土, "mound, grave; raised path between fields"; a separate word built on 龍 as its phonetic, kept as an alias of 龍 on the same derived sound. SKIP 2-16-3; 19 strokes. Radical 032 土. It ranks 3300 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 龒
+Ancient variant of 龍, "dragon". SKIP 2-16-5 (computed: EDRDG does not list it); 21 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)

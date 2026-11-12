@@ -30,6 +30,8 @@ graphemic_classification: 里
 stand_in: 狸
 aliases:
   - 貍
+  - 狢
+  - 貉
 注音: ㄌㄜ
 kwin: false
 tags:
@@ -54,6 +56,12 @@ date-last-perfect: 2026-11-09
 
 ### 貍
 Traditional form of 狸, "a fox-like animal". SKIP 1-7-7; 14 strokes. Radical 153 豸. It ranks 3008 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 狢
+Variant form of 狸, "a fox-like animal". SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 貉
+Variant form of 狸, "a fox-like animal". SKIP 1-7-6 (computed: EDRDG does not list it); 13 strokes. Radical 153. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[狸]]<rt>ㄌㄜ</rt></ruby> "tanuki"

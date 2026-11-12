@@ -99,6 +99,7 @@ tags:
 - 攒 --> 攅
 - 懷 --> 懐
 - 曝 --> 暴
+- 龏 --> 恭
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

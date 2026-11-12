@@ -34,6 +34,8 @@ danayo_id: 2225
 mc_id: 785
 graphemic_classification: "象形"
 stand_in: "角"
+aliases:
+  - 龣
 注音: "ㄍㄛㄎ"
 date-last-perfect: 2026-10-20
 kwin: false
@@ -53,6 +55,11 @@ boundedness: 100
 - [SKIP-2-2-5](../lookup/SKIP/SKIP-2/SKIP-2-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 785th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 覺|ɣʌk]] → [ㄍㄛㄎ](../syllables/ㄍㄛㄎ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 龣
+Ancient variant of 角, "horn". SKIP 1-17-8 (computed: EDRDG does not list it); 25 strokes. Radical 214. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[角]]<rt>ㄍㄛㄎ</rt></ruby> "horn, angle" (stand-in for 角)

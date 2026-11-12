@@ -10,10 +10,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 见 --> 見
 
-### -1 Stroke
+### +-1 Stroke
 - 观 --> 観
 
 ### +0 Strokes

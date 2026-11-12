@@ -152,6 +152,7 @@ tags:
 - 妷 --> 姪
 - 泽 --> 沢
 - 泝 --> 遡
+- 𤝜 --> 犮
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -5 Strokes
+### +-5 Strokes
 - 韦 --> 韋
 
 ### +1 Stroke

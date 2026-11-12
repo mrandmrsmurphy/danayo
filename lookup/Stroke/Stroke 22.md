@@ -53,12 +53,14 @@ tags:
 - 鷗 --> 鴎
 - 鱉 --> 鼈
 - 攢 --> 攅
+- 龢 --> 和
 
 ### Forbidden
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)
 - 籡 - 国字: Rare Japanese character; Wiktionary records no definition
 - 囎 - 国字: Used only in the place name 囎唹 (Sōo)
 - 𪸉 - 国字: An alternative form of 鬨, 'war cry'
+- ¡龓! - 違法字
 
 ## Data check
 ```dataview

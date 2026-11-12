@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -4 Strokes
+### +-4 Strokes
 1. <ruby>[麦](../../characters/麦.md)<rt>ㄇㄚㄎ</rt></ruby> - wheat
 
 ### +0 Strokes

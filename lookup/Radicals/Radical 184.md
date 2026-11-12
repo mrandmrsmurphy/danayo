@@ -9,14 +9,14 @@ tags: [lookup]
 
 ## Strokes
 
-### -4 Strokes
+### +-4 Strokes
 - 饥 --> 飢
 
-### -2 Strokes
+### +-2 Strokes
 - 饮 --> 飲
 - 饭 --> 飯
 
-### -1 Stroke
+### +-1 Stroke
 - 饴 --> 飴
 - 饲 --> 飼
 - 饰 --> 飾

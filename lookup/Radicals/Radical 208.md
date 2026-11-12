@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -5 Strokes
+### +-5 Strokes
 - 鼡 --> 鼠
 
 ### +0 Strokes

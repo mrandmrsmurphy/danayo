@@ -10,7 +10,7 @@ tags:
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 1. <ruby>[王](../../characters/王%20(char).md)<rt>⺢ㄫ</rt></ruby> - king
 
 ### +0 Strokes

@@ -13,9 +13,23 @@ No characters are currently filed under this radical. All the glyphs below are v
 
 ### +0 Strokes
 
+### +4 Strokes
+- 䶳 --> 吹
+- 龡 --> 吹
+
+### +5 Strokes
+- 龢 --> 和
+
+### +8 Strokes
+- 䶴 --> 吹
+- 龣 --> 角
+
+### +9 Strokes
+- ¡龤! - 違法字
+- ¡龥! - 違法字
+
 ### Other
-- 䶳, 龡 and 䶴 (ancient variants of 吹), 龢 (an ancient variant of 和), 龣 (an ancient variant of 角) and 䶵 (an ancient variant of 篪) are listed here as variants, but none is an alias on its target's page.
-- 龤 (ancient Chinese for "to harmonize") and 龥/籲 (ancient for "to appeal, to implore") are forbidden in Dan'a'yo, but are not on the master 違法字 list.
+- 䶵 (an ancient variant of 篪) is listed here as a variant, but 篪 has no character page to alias it to.
 
 ## Data check
 ```dataview

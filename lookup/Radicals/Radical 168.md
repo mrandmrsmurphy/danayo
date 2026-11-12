@@ -10,10 +10,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -4 Strokes
+### +-4 Strokes
 - 长 --> 長
 
-### -1 Stroke
+### +-1 Stroke
 - 镸 --> 長
 
 ### +0 Strokes

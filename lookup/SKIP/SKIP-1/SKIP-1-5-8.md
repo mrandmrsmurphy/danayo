@@ -54,6 +54,7 @@ tags: [lookup]
 - 错 --> 錯
 - 键 --> 鍵
 - 锣 --> 鑼
+- 雎 --> 狙
 
 ## Datacheck
 ```dataview

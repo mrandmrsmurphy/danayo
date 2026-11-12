@@ -34,6 +34,7 @@ tags: [lookup]
 11. <ruby>[雍](../../characters/雍.md)<rt>ㄛㄫ</rt></ruby> - harmonious
 - 䧹 --> 鷹
 - 雏 --> 雛
+- 雎 --> 狙
 
 ### +6 Strokes
 12. <ruby>[雑](../../characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> - miscellaneous

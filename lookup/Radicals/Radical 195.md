@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 鱼 --> 魚
 
 ### +0 Strokes

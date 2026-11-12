@@ -55,6 +55,7 @@ tags:
 - 颖 --> 頴
 - 频 --> 頻
 - 赖 --> 頼
+- 貉 --> 狸
 
 ## Datacheck
 ```dataview

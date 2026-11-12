@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -1 Stroke
+### +-1 Stroke
 1. <ruby>[黄](../../characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
 
 ### +0 Strokes

@@ -11,9 +11,9 @@ def radical_strokes(n):
     for a,b,s in _R:
         if a<=n<=b: return s
     raise ValueError(n)
-def heading(n): return f"### {'+' if n>=0 else ''}{n} Stroke" + ("" if abs(n)==1 else "s")   # negative N: '### -1 Stroke', never '+-1'
+def heading(n): return f"### +{n} Stroke" + ("" if abs(n)==1 else "s")   # plus style always, negatives too: '### +-1 Stroke' (user ruling 2026-11-11)
 def _hn(l):
-    m=re.match(r"### ([+-]\d+) Strokes?$",l); return int(m.group(1)) if m else None
+    m=re.match(r"### \+?(-?\d+) Strokes?$",l); return int(m.group(1)) if m else None
 def radical_put(path,line,total_strokes,radical_number,section="Aliases"):
     """Insert `line` into the +N group (N = total_strokes - Kangxi strokes). Prosaic pages: bottom ### section. Replaces an existing line for the same glyph."""
     t=open(path,encoding="utf-8").read(); L=t.split("\n")

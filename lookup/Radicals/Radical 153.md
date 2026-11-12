@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### +6 Strokes
 - 貇 --> 懇
+- 貉 --> 狸
 
 ### +7 Strokes
 - 貍 --> 狸

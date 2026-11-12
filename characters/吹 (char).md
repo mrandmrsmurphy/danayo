@@ -44,6 +44,10 @@ danayo_id: 3054
 mc_id: 1838
 graphemic_classification: "会意"
 stand_in: "吹"
+aliases:
+  - 䶳
+  - 龡
+  - 䶴
 注音: "ㄑㄨㄧ"
 date-last-perfect: 2026-11-08
 kwin: true
@@ -63,6 +67,17 @@ boundedness: 90
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1,838th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄑㄨㄧ](../syllables/ㄑㄨㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 䶳
+Ancient variant of 吹, "to blow". SKIP 2-17-4 (computed: EDRDG does not list it); 21 strokes. Radical 214. It has no rank of its own in the Classical Chinese lists.
+
+### 龡
+Ancient variant of 吹, "to blow". SKIP 2-17-4 (computed: EDRDG does not list it); 21 strokes. Radical 214. It has no rank of its own in the Classical Chinese lists.
+
+### 䶴
+Ancient variant of 吹, "to blow". SKIP 2-17-8 (computed: EDRDG does not list it); 25 strokes. Radical 214. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[吹]]<rt>ㄑㄨㄧ</rt></ruby> "blow; puff; bluster" (stand-in for 吹)

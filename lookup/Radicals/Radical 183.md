@@ -9,7 +9,7 @@ tags: [lookup]
 
 ## Strokes
 
-### -6 Strokes
+### +-6 Strokes
 - 飞 --> 飛
 
 ### +0 Strokes

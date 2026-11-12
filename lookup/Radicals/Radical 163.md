@@ -10,7 +10,7 @@ tags:
 
 ## Strokes
 
-### -2 Strokes
+### +-2 Strokes
 - 邓 --> 鄧
 
 ### +0 Strokes

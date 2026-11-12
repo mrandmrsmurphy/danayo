@@ -257,6 +257,7 @@ tags:
 - 咢 --> 愕
 - 亰 --> 京
 - 秏 --> 耗
+- 狢 --> 狸
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

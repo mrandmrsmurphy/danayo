@@ -9,15 +9,15 @@ tags: [lookup]
 
 ## Strokes
 
-### -3 Strokes
+### +-3 Strokes
 - 队 --> 隊
 
-### -2 Strokes
+### +-2 Strokes
 - 阪 --> 坂
 - 阵 --> 陣
 - 阶 --> 階
 
-### -1 Stroke
+### +-1 Stroke
 1. <ruby>[防](../../characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> - prevent
 2. <ruby>[阮](../../characters/阮.md)<rt>⼔ㄋ</rt></ruby> - moon lute
 - 阴 --> 陰

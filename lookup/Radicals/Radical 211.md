@@ -9,10 +9,10 @@ tags: [lookup]
 
 ## Strokes
 
-### -7 Strokes
+### +-7 Strokes
 - 齿 --> 歯
 
-### -1 Stroke
+### +-1 Stroke
 - 龈 --> 齦
 
 ### +0 Strokes
