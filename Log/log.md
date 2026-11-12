@@ -27,6 +27,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - SKIP-2-12: verified leaf list, previews, markers, description and size; no change needed; stamped.
 - SKIP-2-13: replaced the wikilink breadcrumb, added the stroke description (top component 13 strokes), wrote gaps 1, 2, 8 and 10 as `SKIP-2-13-N: none`; leaves, previews and size verified; stamped.
 - SKIP-2-14: fixed the breadcrumb, added the stroke description (top component 14 strokes), wrote the gap markers as `SKIP-2-14-N: none`; leaves, previews and size verified; stamped.
+- SKIP-2-15: gap markers written as `SKIP-2-15-N: none`, tags inline; leaves, previews, description and size verified; stamped.
+- SKIP-2-16: verified leaf list (including the new 2-16-5 ø leaf), previews, description and size; no further change; stamped.
+- SKIP-2-2: verified leaf list, previews, markers, description and size; no change needed; stamped.
+- SKIP-2-3: verified leaf list, previews, markers, description and size; no change needed; stamped.
 
 ### New SKIP leaf pages for the alias and forbidden glyphs
 - Created SKIP-2-17-4, 2-17-8, 1-17-8, 2-16-5, 1-17-9, 2-17-16 and 2-6-26 as empty leaves holding the redirects (䶳, 龡, 䶴 → 吹; 龣 → 角; 龒 → 龍) and forbidden lines (龤, 龥, 龗, 籲); created the stem SKIP-2-17 and listed it on SKIP.md; filled the empty slots on SKIP-2-16, SKIP-1-17 and SKIP-2-6 (extended to 26).
