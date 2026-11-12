@@ -1140,3 +1140,12 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 角 | 龣 | 1-17-8 | computed from its parts |
 | 恭 | 龏 | 2-16-3 | computed from its parts |
 | 龍 | 龒 | 2-16-5 | computed from its parts |
+| (forbidden) | 龑 | 2-16-4 | computed from its parts |
+| (forbidden) | 龓 | 2-16-6 | computed from its parts |
+| (forbidden) | 龖 | 2-16-16 | computed from its parts |
+| (forbidden) | 龘 | 2-16-32 | computed from its parts |
+| (forbidden) | 龗 | 2-17-16 | computed from its parts |
+| (forbidden) | 靇 | 2-8-16 | computed from its parts |
+| (forbidden) | 龤 | 1-17-9 | computed from its parts |
+| (forbidden) | 龥 | 1-17-9 | computed from its parts |
+| (forbidden) | 籲 | 2-6-26 | computed from its parts |

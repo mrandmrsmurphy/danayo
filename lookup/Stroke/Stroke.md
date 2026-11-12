@@ -75,6 +75,8 @@ Writing must be in <ruby>[[筆順]]<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>:
 28. [[Stroke 28]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)
 29. [[Stroke 29]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)
 30. [[Stroke 30]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)
+32. [[Stroke 32]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)
+33. [[Stroke 33]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)
 
 ## Base check
 ```base

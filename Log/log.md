@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+### New SKIP leaf pages for the alias and forbidden glyphs
+- Created SKIP-2-17-4, 2-17-8, 1-17-8, 2-16-5, 1-17-9, 2-17-16 and 2-6-26 as empty leaves holding the redirects (䶳, 龡, 䶴 → 吹; 龣 → 角; 龒 → 龍) and forbidden lines (龤, 龥, 龗, 籲); created the stem SKIP-2-17 and listed it on SKIP.md; filled the empty slots on SKIP-2-16, SKIP-1-17 and SKIP-2-6 (extended to 26).
+
+### Cleanup after the alias pass
+- Deleted the `制 --> 製` line on Radical 145 (制 has its own page) and the 䶵/篪 note on Radical 214 (no page for 篪).
+- 夘 is now an alias of 卯 only: removed from 夗's frontmatter and `## Aliases`, its redirects removed on Stroke 05, SKIP-1-3-2 and Radical 036; 夗 has a Notes line pointing to 卯.
+- Created Stroke 32 (籲) and Stroke 33 (龗) with their forbidden lines, and listed both on Stroke.md. SKIP guesses for the nine new forbidden entries added to the guesses file.
+
 ### Forbidden list, radical headings and extra aliases
 - `文法 - 98違法字.md`: added 龑, 龓, 龖, 龘, 龗, 靇, 龤, 龥, 籲 (Chinese, 幽霊文字; Chinese 136 → 145, total 442 → 451). Lines written on the Stroke, Radical 212/173/214/118 and (where the page exists) SKIP pages; the prose notes on Radical 212 and 214 were replaced by those lines.
 - Radical pages: negative stroke groups are written in the plus style, `### +-1 Stroke` (user ruling), on the 30 pages that had `### -N`; `radical_fmt.py` and `checklist_radicals.md` updated to match.

@@ -17,7 +17,6 @@ tags:
 2. <ruby>[表](../../characters/表.md)<rt>ㄅ⼘ㄨ</rt></ruby> - show
 - 衬 --> 親
 - 补 --> 補
-- 制 --> variant of 製
 
 ### +3 Strokes
 3. <ruby>[衷](../../characters/衷.md)<rt>ㄊㄨㄫ</rt></ruby> - inmost

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-11-10
+date-last-perfect: 2026-11-11
 size: 3386
 language: 単亜語
 tags:
@@ -50,7 +50,7 @@ These are characters with a clear top-bottom dichotomy.  The following are the p
 14. [SKIP-2-14](lookup/SKIP/SKIP-2/SKIP-2-14.md)
 15. [SKIP-2-15](lookup/SKIP/SKIP-2/SKIP-2-15.md)
 16. [SKIP-2-16](lookup/SKIP/SKIP-2/SKIP-2-16.md)
-17. none
+17. [SKIP-2-17](lookup/SKIP/SKIP-2/SKIP-2-17.md)
 18. none
 19. [SKIP-2-19](lookup/SKIP/SKIP-2/SKIP-2-19.md)
 20. [SKIP-2-20](lookup/SKIP/SKIP-2/SKIP-2-20.md)

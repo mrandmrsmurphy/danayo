@@ -27,6 +27,13 @@ Top component has 6 strokes. Dominant components: 竹, 糸, 艸, 言.
 17. [SKIP-2-6-17](lookup/SKIP/SKIP-2/SKIP-2-6-17.md): (aliases/redirects only)
 18. none
 19. [SKIP-2-6-19](lookup/SKIP/SKIP-2/SKIP-2-6-19.md): (aliases/redirects only)
+20. none
+21. none
+22. none
+23. none
+24. none
+25. none
+26. [SKIP-2-6-26](lookup/SKIP/SKIP-2/SKIP-2-6-26.md): ø
 
 ## Base check
 ```base

@@ -29,7 +29,6 @@ No characters are currently filed under this radical. All the glyphs below are v
 - ¡龥! - 違法字
 
 ### Other
-- 䶵 (an ancient variant of 篪) is listed here as a variant, but 篪 has no character page to alias it to.
 
 ## Data check
 ```dataview
