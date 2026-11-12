@@ -12,6 +12,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - SKIP-3-9: positions 1, 3, 4 and 6–8 had a bare `ø` but no leaf file, now `SKIP-3-9-N: none`; leaves, previews, description and size verified; stamped.
 - SKIP-4-1: verified leaf list, previews, description and size; no change needed; stamped.
 - SKIP-4-10: inline tags, breadcrumb spacing, added the one-line description, `No` → `SKIP-4-10-1: none`, `_only redirect_` → ø; leaves, previews and size verified; stamped.
+- SKIP-4-11: Stroke link made standard, added the one-line description, `No` → `SKIP-4-11-N: none`; leaves, previews and size 3 verified; stamped.
+- SKIP-4-12: inline tags, added the one-line description, `No` → `SKIP-4-12-N: none`; leaves, previews and size 1 verified; stamped.
+- SKIP-4-13: empty leaf 3 previewed as ø, "does not exist" gaps written as `SKIP-4-13-N: none`; leaves, previews, description and size 1 verified; stamped.
+- SKIP-4-14: wikilink breadcrumb, Stroke link and leaf link made standard, added the one-line description, gaps 2–4 as `SKIP-4-14-N: none`; leaves, previews and size 1 verified; stamped.
+- SKIP-4-15: breadcrumb link made standard, added the one-line description, gaps 1–3 as `SKIP-4-15-N: none`; leaves, previews and size 1 verified; stamped.
+- SKIP-4-2: fixed the breadcrumb, added the Stroke link and the one-line description, converted wikilink leaf entries to standard links; leaves, previews and size 11 verified; stamped.
+- SKIP-4-3: fixed the breadcrumb, Stroke link and leaf links (wikilinks with `=` → standard links with `:`); leaves, previews, description and size 30 verified; stamped.
+- SKIP-4-4: verified leaf list, previews, description and size 33; no change needed; stamped.
+- SKIP-4-5: added the one-line description and `stroke_count`; leaves, previews and size 35 verified; stamped.
 
 ## 2026-11-11
 

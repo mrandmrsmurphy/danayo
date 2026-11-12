@@ -1,17 +1,19 @@
 ---
 stroke_count: 2
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-12
 size: 11
 tags: [lookup]
 
 ---
-> [[SKIP]] : 4 
+> [SKIP](lookup/SKIP/SKIP.md) : 4
+> [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
-1. [[SKIP-4-2-1]]: 丁, 了, 又
-2. [[SKIP-4-2-2]]: 七
-3. [[SKIP-4-2-3]]: 十
-4. [[SKIP-4-2-4]]: 九, 人, 入, 卜, 力, 乂
+These are the 漢字 of 2 strokes in total, by subtype (1 top line, 2 bottom line, 3 vertical line, 4 none of these).
 
+1. [SKIP-4-2-1](lookup/SKIP/SKIP-4/SKIP-4-2-1.md): 丁, 了, 又
+2. [SKIP-4-2-2](lookup/SKIP/SKIP-4/SKIP-4-2-2.md): 七
+3. [SKIP-4-2-3](lookup/SKIP/SKIP-4/SKIP-4-2-3.md): 十
+4. [SKIP-4-2-4](lookup/SKIP/SKIP-4/SKIP-4-2-4.md): 九, 人, 入, 卜, 力, 乂
 
 ## Base check
 ```base
