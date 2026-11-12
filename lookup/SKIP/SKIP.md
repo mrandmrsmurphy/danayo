@@ -108,6 +108,8 @@ views:
       - size
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: size
         direction: ASC
 

@@ -1,11 +1,13 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 159
 tags: [lookup]
 
 ---
 
-> [[SKIP]] : 1
+> [SKIP](lookup/SKIP/SKIP.md) : 1
+
+Left half has 2 strokes.
 
 1. [SKIP-1-2-1](lookup/SKIP/SKIP-1/SKIP-1-2-1.md): ø
 2. [SKIP-1-2-2](lookup/SKIP/SKIP-1/SKIP-1-2-2.md): 仁, 仇, 仍, 切, 刈, 化, 双, 収, 比
@@ -22,9 +24,9 @@ tags: [lookup]
 13. [SKIP-1-2-13](lookup/SKIP/SKIP-1/SKIP-1-2-13.md): 僵, 僻, 儀, 億, 凜
 14. [SKIP-1-2-14](lookup/SKIP/SKIP-1/SKIP-1-2-14.md): 儒, 凝
 15. [SKIP-1-2-15](lookup/SKIP/SKIP-1/SKIP-1-2-15.md): 償, 儡, 儧, 優, 儲
-16. no
+16. SKIP-1-2-16: none
 17. [SKIP-1-2-17](lookup/SKIP/SKIP-1/SKIP-1-2-17.md): ø
-18. no
+18. SKIP-1-2-18: none
 19. [SKIP-1-2-19](lookup/SKIP/SKIP-1/SKIP-1-2-19.md): 儺
 20. [SKIP-1-2-20](lookup/SKIP/SKIP-1/SKIP-1-2-20.md): ø
 
