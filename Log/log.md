@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 一期一会: back-links checked; the 《山上宗二記》 and 《茶湯一会集》 quotations could not be found in a primary text on ja.wikisource, so the page keeps its existing note that they were verified through secondary pages only; lint clean; stamped.
+- 一朝一夕: 《周易·坤·文言》 quotation and back-links re-checked; no change needed; lint clean; stamped.
 - 一日三秋: 《詩經·王風·采葛》 quotation (三秋 in the second stanza) and back-links re-checked; no change needed; lint clean; stamped.
 - 一攫千金: 《列子·說符》 quotation checked word for word against wikisource (列子/說符篇); no change needed; lint clean; stamped.
 - 一帆風順: read Yang Wanli 〈曉出洪澤霜晴風順〉 on wikisource (《誠齋集》卷二十九) and quoted it in Source and Origin; its last line has 順風…一帆 but not the four-character form, now stated; rest of page checked; lint clean; stamped.
