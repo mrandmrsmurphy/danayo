@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 101
 tags: [lookup]
 
@@ -21,10 +21,10 @@ Top component has 4 strokes. Dominant components: 日, 火, 月, 言.
 11. [SKIP-2-4-11](lookup/SKIP/SKIP-2/SKIP-2-4-11.md): 暴, 靠
 12. [SKIP-2-4-12](lookup/SKIP/SKIP-2/SKIP-2-4-12.md): 曇, 燕
 13. [SKIP-2-4-13](lookup/SKIP/SKIP-2/SKIP-2-4-13.md): 爵
-14. none
-15. none
-16. none
-17. [SKIP-2-4-17](lookup/SKIP/SKIP-2/SKIP-2-4-17.md): (aliases/redirects only)
+14. SKIP-2-4-14: none
+15. SKIP-2-4-15: none
+16. SKIP-2-4-16: none
+17. [SKIP-2-4-17](lookup/SKIP/SKIP-2/SKIP-2-4-17.md): ø
 18. [SKIP-2-4-18](lookup/SKIP/SKIP-2/SKIP-2-4-18.md): ø
 
 ## Base check

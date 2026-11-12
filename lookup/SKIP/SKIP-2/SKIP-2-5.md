@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 102
 tags: [lookup]
 
@@ -23,10 +23,10 @@ Top component has 5 strokes. Dominant components: 罒, 㠯, 帛.
 13. [SKIP-2-5-13](lookup/SKIP/SKIP-2/SKIP-2-5-13.md): 叢, 署
 14. [SKIP-2-5-14](lookup/SKIP/SKIP-2/SKIP-2-5-14.md): 羅
 15. [SKIP-2-5-15](lookup/SKIP/SKIP-2/SKIP-2-5-15.md): ø
-16. [SKIP-2-5-16](lookup/SKIP/SKIP-2/SKIP-2-5-16.md): (aliases/redirects only)
-17. [SKIP-2-5-17](lookup/SKIP/SKIP-2/SKIP-2-5-17.md): (aliases/redirects only)
-18. none
-19. [SKIP-2-5-19](lookup/SKIP/SKIP-2/SKIP-2-5-19.md): (aliases/redirects only)
+16. [SKIP-2-5-16](lookup/SKIP/SKIP-2/SKIP-2-5-16.md): ø
+17. [SKIP-2-5-17](lookup/SKIP/SKIP-2/SKIP-2-5-17.md): ø
+18. SKIP-2-5-18: none
+19. [SKIP-2-5-19](lookup/SKIP/SKIP-2/SKIP-2-5-19.md): ø
 
 ## Base check
 ```base

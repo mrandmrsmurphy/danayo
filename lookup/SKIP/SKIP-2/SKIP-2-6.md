@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 121
 tags: [lookup]
 
@@ -24,15 +24,15 @@ Top component has 6 strokes. Dominant components: 竹, 糸, 艸, 言.
 14. [SKIP-2-6-14](lookup/SKIP/SKIP-2/SKIP-2-6-14.md): 籍, 纂
 15. [SKIP-2-6-15](lookup/SKIP/SKIP-2/SKIP-2-6-15.md): 籃
 16. [SKIP-2-6-16](lookup/SKIP/SKIP-2/SKIP-2-6-16.md): 籠
-17. [SKIP-2-6-17](lookup/SKIP/SKIP-2/SKIP-2-6-17.md): (aliases/redirects only)
-18. none
-19. [SKIP-2-6-19](lookup/SKIP/SKIP-2/SKIP-2-6-19.md): (aliases/redirects only)
-20. none
-21. none
-22. none
-23. none
-24. none
-25. none
+17. [SKIP-2-6-17](lookup/SKIP/SKIP-2/SKIP-2-6-17.md): ø
+18. SKIP-2-6-18: none
+19. [SKIP-2-6-19](lookup/SKIP/SKIP-2/SKIP-2-6-19.md): ø
+20. SKIP-2-6-20: none
+21. SKIP-2-6-21: none
+22. SKIP-2-6-22: none
+23. SKIP-2-6-23: none
+24. SKIP-2-6-24: none
+25. SKIP-2-6-25: none
 26. [SKIP-2-6-26](lookup/SKIP/SKIP-2/SKIP-2-6-26.md): ø
 
 ## Base check
