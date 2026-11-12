@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 10
 tags: [lookup]
 
@@ -13,11 +13,11 @@ These are pages about <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> defined by a l
 - [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md): 心, 水
 - [SKIP-1-1-4](lookup/SKIP/SKIP-1/SKIP-1-1-4.md): 必, 旧
 - [SKIP-1-1-5](lookup/SKIP/SKIP-1/SKIP-1-1-5.md): ø
-- SKIP/1/1/6 - none
+- SKIP-1-1-6: none
 - [SKIP-1-1-7](lookup/SKIP/SKIP-1/SKIP-1-1-7.md): 承
 - [SKIP-1-1-8](lookup/SKIP/SKIP-1/SKIP-1-1-8.md): 胤
-- SKIP/1/1/9 - none
-- SKIP/1/1/10 - none
+- SKIP-1-1-9: none
+- SKIP-1-1-10: none
 - [SKIP-1-1-11](lookup/SKIP/SKIP-1/SKIP-1-1-11.md): 順
 
 ## Base check

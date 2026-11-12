@@ -1,10 +1,12 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 12
 tags: [lookup]
 
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 1 :
+> [SKIP](lookup/SKIP/SKIP.md) : 1
+
+Left half has 12 strokes.
 
 1. [SKIP-1-12-1](lookup/SKIP/SKIP-1/SKIP-1-12-1.md): ø
 2. [SKIP-1-12-2](lookup/SKIP/SKIP-1/SKIP-1-12-2.md): 劃
@@ -13,7 +15,7 @@ tags: [lookup]
 5. [SKIP-1-12-5](lookup/SKIP/SKIP-1/SKIP-1-12-5.md): 黜, 黻, 齢
 6. [SKIP-1-12-6](lookup/SKIP/SKIP-1/SKIP-1-12-6.md): 翻
 7. [SKIP-1-12-7](lookup/SKIP/SKIP-1/SKIP-1-12-7.md): 黼
-8. no
+8. SKIP-1-12-8: none
 9. [SKIP-1-12-9](lookup/SKIP/SKIP-1/SKIP-1-12-9.md): 顧
 10. [SKIP-1-12-10](lookup/SKIP/SKIP-1/SKIP-1-12-10.md): 懿
 11. [SKIP-1-12-11](lookup/SKIP/SKIP-1/SKIP-1-12-11.md): ø

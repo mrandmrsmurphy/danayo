@@ -4,6 +4,13 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-11
 
+### SKIP stem pass
+- SKIP-1-1: verified leaf list, previews and size against the characters; wrote the empty positions as `SKIP-1-1-N: none`; stamped.
+- SKIP-1-10: verified leaf list (1–19), previews, ø/none markers and size 34 against the characters; no change needed; stamped.
+- SKIP-1-11: verified leaves, previews and size 35; empty leaf previews written as ø (2 places) per the checklist; stamped.
+- SKIP-1-12: fixed the breadcrumb, added the stroke description (left half 12 strokes), wrote the gap as `SKIP-1-12-8: none`; leaves, previews and size 12 verified; stamped.
+- SKIP-1-13: fixed the breadcrumb, added the stroke description (left half 13 strokes), wrote the gaps as `SKIP-1-13-N: none`; leaves, previews and size 3 verified; stamped.
+
 ### New SKIP leaf pages for the alias and forbidden glyphs
 - Created SKIP-2-17-4, 2-17-8, 1-17-8, 2-16-5, 1-17-9, 2-17-16 and 2-6-26 as empty leaves holding the redirects (䶳, 龡, 䶴 → 吹; 龣 → 角; 龒 → 龍) and forbidden lines (龤, 龥, 龗, 籲); created the stem SKIP-2-17 and listed it on SKIP.md; filled the empty slots on SKIP-2-16, SKIP-1-17 and SKIP-2-6 (extended to 26).
 
