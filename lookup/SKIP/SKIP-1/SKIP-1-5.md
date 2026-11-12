@@ -1,10 +1,12 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 148
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1
+
+Left half has 5 strokes.
 
 1. [SKIP-1-5-1](lookup/SKIP/SKIP-1/SKIP-1-5-1.md): ø
 2. [SKIP-1-5-2](lookup/SKIP/SKIP-1/SKIP-1-5-2.md): 初, 判, 別, 利, 刪, 助, 劫, 劭, 励, 即, 却, 町, 私

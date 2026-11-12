@@ -1,10 +1,12 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 636
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1
+
+Left half has 3 strokes.
 
 1. [SKIP-1-3-1](lookup/SKIP/SKIP-1/SKIP-1-3-1.md): 孔, 幻, 引
 2. [SKIP-1-3-2](lookup/SKIP/SKIP-1/SKIP-1-3-2.md): 刊, 功, 北, 卯, 叩, 叫, 叭, 叱, 外, 夗, 奴, 巧, 幼, 弘, 打, 氾, 汀, 汁, 犯
@@ -28,8 +30,8 @@ tags: [lookup]
 20. [SKIP-1-3-20](lookup/SKIP/SKIP-1/SKIP-1-3-20.md): 攫
 21. [SKIP-1-3-21](lookup/SKIP/SKIP-1/SKIP-1-3-21.md): 衢
 22. [SKIP-1-3-22](lookup/SKIP/SKIP-1/SKIP-1-3-22.md): 攬
-23. No
-24. No
+23. SKIP-1-3-23: none
+24. SKIP-1-3-24: none
 25. [SKIP-1-3-25](lookup/SKIP/SKIP-1/SKIP-1-3-25.md): ø
 
 ## Base check

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 181
 tags: [lookup]
 
@@ -24,8 +24,8 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - [SKIP-1-6-13](lookup/SKIP/SKIP-1/SKIP-1-6-13.md): 繰, 蠖, 疆, 蟻
 - [SKIP-1-6-14](lookup/SKIP/SKIP-1/SKIP-1-6-14.md): 蠕, 耀
 - [SKIP-1-6-15](lookup/SKIP/SKIP-1/SKIP-1-6-15.md): 纏, 艦
-- [SKIP-1-6-16](lookup/SKIP/SKIP-1/SKIP-1-6-16.md): (aliases/redirects only)
-- [SKIP-1-6-17](lookup/SKIP/SKIP-1/SKIP-1-6-17.md): (aliases/redirects only)
+- [SKIP-1-6-16](lookup/SKIP/SKIP-1/SKIP-1-6-16.md): ø
+- [SKIP-1-6-17](lookup/SKIP/SKIP-1/SKIP-1-6-17.md): ø
 - SKIP-1-6-18: none
 - SKIP-1-6-19: none
 - SKIP-1-6-20: none
