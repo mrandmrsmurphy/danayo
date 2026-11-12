@@ -21,6 +21,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - SKIP-4-3: fixed the breadcrumb, Stroke link and leaf links (wikilinks with `=` → standard links with `:`); leaves, previews, description and size 30 verified; stamped.
 - SKIP-4-4: verified leaf list, previews, description and size 33; no change needed; stamped.
 - SKIP-4-5: added the one-line description and `stroke_count`; leaves, previews and size 35 verified; stamped.
+- SKIP-4-6: breadcrumb, Stroke link and leaf links made standard, added the one-line description; leaves, previews and size 22 verified; stamped.
+- SKIP-4-7: added the one-line description and `stroke_count`; leaves, previews and size 18 verified; stamped.
+- SKIP-4-8: breadcrumb and Stroke link made standard, added the one-line description; leaves, previews and size 8 verified; stamped.
+- SKIP-4-9: added the one-line description and `stroke_count`; leaves, previews and size 9 verified; stamped.
+- SKIP-2-19: verified leaf list, ø/none markers, description and size 0; no change needed; stamped.
+- SKIP-1-16: verified leaf list, ø/none markers, description and size 0; no change needed; stamped.
+- SKIP-1-18: verified leaf list, ø/none markers, description and size 0; no change needed; stamped.
+- SKIP-2-20: verified leaf list, ø/none markers, description and size 0; no change needed; stamped.
 
 ## 2026-11-11
 

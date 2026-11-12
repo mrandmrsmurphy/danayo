@@ -1,11 +1,14 @@
 ---
-date-last-perfect: 2026-10-04
+stroke_count: 7
+date-last-perfect: 2026-11-12
 size: 18
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 07](lookup/Stroke/Stroke%2007.md)
+
+These are the 漢字 of 7 strokes in total, by subtype (1 top line, 2 bottom line, 3 vertical line, 4 none of these).
 
 - [SKIP-4-7-1](lookup/SKIP/SKIP-4/SKIP-4-7-1.md): 里, 酉, 豕, 更, 巫, 亜
 - [SKIP-4-7-2](lookup/SKIP/SKIP-4/SKIP-4-7-2.md): 坐

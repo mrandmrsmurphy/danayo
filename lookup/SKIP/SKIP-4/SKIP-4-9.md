@@ -1,11 +1,14 @@
 ---
-date-last-perfect: 2026-10-04
+stroke_count: 9
+date-last-perfect: 2026-11-12
 size: 9
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
+
+These are the 漢字 of 9 strokes in total, by subtype (1 top line, 2 bottom line, 3 vertical line, 4 none of these).
 
 - [SKIP-4-9-1](lookup/SKIP/SKIP-4/SKIP-4-9-1.md): 飛
 - [SKIP-4-9-2](lookup/SKIP/SKIP-4/SKIP-4-9-2.md): 重
