@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 一日三秋: 《詩經·王風·采葛》 quotation (三秋 in the second stanza) and back-links re-checked; no change needed; lint clean; stamped.
+- 一攫千金: 《列子·說符》 quotation checked word for word against wikisource (列子/說符篇); no change needed; lint clean; stamped.
 - 一帆風順: read Yang Wanli 〈曉出洪澤霜晴風順〉 on wikisource (《誠齋集》卷二十九) and quoted it in Source and Origin; its last line has 順風…一帆 but not the four-character form, now stated; rest of page checked; lint clean; stamped.
 - 鶏鳴狗盗: citations (《史記·孟嘗君列傳》, 王安石《讀孟嘗君傳》) and back-links re-checked, no change; added the alias 鷄鳴狗盜 (the variant the Standard Form section names); lint clean; stamped.
 - 魑魅罔両: re-checked against checklist_chengyu.md (frontmatter, sections, Zuo Zhuan citation already verified 2026-10-04 and left as is); lint clean; stamped.
