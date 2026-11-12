@@ -1,10 +1,12 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 68
 tags: [lookup]
 
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 3
+
+The surrounding part has 2 strokes.
 
 1. [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md): 万, 凡, 勺, 寸, 山
 2. [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md): 仄, 凶, 勻, 勾, 勿, 匹, 区, 厄, 友, 反, 斗, 斤, 月, 止, 氏
@@ -21,18 +23,18 @@ tags: [lookup]
 13. [SKIP-3-2-13](lookup/SKIP/SKIP-3/SKIP-3-2-13.md): ø
 14. [SKIP-3-2-14](lookup/SKIP/SKIP-3/SKIP-3-2-14.md): ø
 15. [SKIP-3-2-15](lookup/SKIP/SKIP-3/SKIP-3-2-15.md): ø
-16. none
+16. SKIP-3-2-16: none
 17. [SKIP-3-2-17](lookup/SKIP/SKIP-3/SKIP-3-2-17.md): 贋
-18. none
-19. none
+18. SKIP-3-2-18: none
+19. SKIP-3-2-19: none
 20. [SKIP-3-2-20](lookup/SKIP/SKIP-3/SKIP-3-2-20.md): ø
-21. none
+21. SKIP-3-2-21: none
 22. [SKIP-3-2-22](lookup/SKIP/SKIP-3/SKIP-3-2-22.md): ø
-23. none
-24. none
-25. none
-26. none
-27. none
+23. SKIP-3-2-23: none
+24. SKIP-3-2-24: none
+25. SKIP-3-2-25: none
+26. SKIP-3-2-26: none
+27. SKIP-3-2-27: none
 28. [SKIP-3-2-28](lookup/SKIP/SKIP-3/SKIP-3-2-28.md): ø
 
 ## Base check

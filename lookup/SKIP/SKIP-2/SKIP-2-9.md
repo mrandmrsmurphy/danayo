@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 21
 tags: [lookup]
 
@@ -15,16 +15,16 @@ Top component has 9 strokes. Dominant components: 心, 臣, 大.
 5. [SKIP-2-9-5](lookup/SKIP/SKIP-2/SKIP-2-9-5.md): 碧
 6. [SKIP-2-9-6](lookup/SKIP/SKIP-2/SKIP-2-9-6.md): 緊
 7. [SKIP-2-9-7](lookup/SKIP/SKIP-2/SKIP-2-9-7.md): 豎, 賢
-8. none
+8. SKIP-2-9-8: none
 9. [SKIP-2-9-9](lookup/SKIP/SKIP-2/SKIP-2-9-9.md): ø
-10. none
-11. none
+10. SKIP-2-9-10: none
+11. SKIP-2-9-11: none
 12. [SKIP-2-9-12](lookup/SKIP/SKIP-2/SKIP-2-9-12.md): 蠢
-13. none
-14. none
-15. none
-16. none
-17. none
+13. SKIP-2-9-13: none
+14. SKIP-2-9-14: none
+15. SKIP-2-9-15: none
+16. SKIP-2-9-16: none
+17. SKIP-2-9-17: none
 18. [SKIP-2-9-18](lookup/SKIP/SKIP-2/SKIP-2-9-18.md): ø
 
 ## Base check

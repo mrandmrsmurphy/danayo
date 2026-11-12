@@ -1,28 +1,29 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-11
 size: 3
 tags: [lookup]
 
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 3 
+> [SKIP](lookup/SKIP/SKIP.md) : 3
+
 These are character with a surrounding element of ten-strokes, typically either the demon-radical or the door-radical.
 
 Below are the number of strokes for the other material, that is, that which is surrounded:
-1. none
-2. none
-3. none
+1. SKIP-3-10-1: none
+2. SKIP-3-10-2: none
+3. SKIP-3-10-3: none
 4. [SKIP-3-10-4](lookup/SKIP/SKIP-3/SKIP-3-10-4.md): 魁
 5. [SKIP-3-10-5](lookup/SKIP/SKIP-3/SKIP-3-10-5.md): ø
 6. [SKIP-3-10-6](lookup/SKIP/SKIP-3/SKIP-3-10-6.md): ø
 7. [SKIP-3-10-7](lookup/SKIP/SKIP-3/SKIP-3-10-7.md): 趨
 8. [SKIP-3-10-8](lookup/SKIP/SKIP-3/SKIP-3-10-8.md): ø
-9. none
+9. SKIP-3-10-9: none
 10. [SKIP-3-10-10](lookup/SKIP/SKIP-3/SKIP-3-10-10.md): ø
 11. [SKIP-3-10-11](lookup/SKIP/SKIP-3/SKIP-3-10-11.md): 魑
-12. none
-13. none
+12. SKIP-3-10-12: none
+13. SKIP-3-10-13: none
 14. [SKIP-3-10-14](lookup/SKIP/SKIP-3/SKIP-3-10-14.md): ø
-15. none
+15. SKIP-3-10-15: none
 16. [SKIP-3-10-16](lookup/SKIP/SKIP-3/SKIP-3-10-16.md): ø
 
 ## Base check
