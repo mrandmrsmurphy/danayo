@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 数数衡分: Daniel 5:25–28 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
+- 指記二碑: confirmed Exodus 31:18 (和合本, 西乃山) on wikisource and noted it in Source and Origin; example 1 now reads 西乃山 like the 和合本 and the quoted verse; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; back-links checked; lint clean; stamped.
 - 意気揚揚: 《史記·管晏列傳》 charioteer passage (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
 - 帰塵帰土: Genesis 3:19 and Ecclesiastes 3:20 citations (ESV and 和合本, already checked) and back-links re-checked; no change needed; lint clean; stamped.
 - 家分不立: Matthew 12:25 citation (ESV and 和合本, already checked) and back-links re-checked; the Japanese reading (frontmatter and Pronunciations) changed from katakana to hiragana, as the checklist asks; lint clean; stamped.
