@@ -1,7 +1,7 @@
 ---
 size: 24
 middle_chinese_final: iuᴇn
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-13
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
@@ -12,7 +12,7 @@ tags: [lookup]
 
 The final's yod-initial (j) characters themselves split further: 鳶, 縁, and 鉛 land on **⼶ㄋ**, while 沿 — sharing that same j initial — lands on **⼔ㄇ** instead, alongside 船. This is yet another instance of the "same initial, arbitrary outcome" pattern confirmed repeatedly across this sweep.
 
-The most striking pair on this page is **串** and **川**: they share the *identical* MC initial (t͡ɕʰ) and land on near-identical spellings, **⺢ㄇ** and **⺢ㄋ** respectively — differing by only a single coda phoneme. 串's daughter readings are mostly close to 川's (chuàn/cyun3 vs chuān/cyun1), but its Korean reading (곶, a native word for "cape/promontory," not a regular Sino-Korean form) is a genuine outlier — plausibly the reason these two otherwise-matching characters diverged.
+The most striking pair on this page is **串** and **川**: they share the *identical* MC initial (t͡ɕʰ) and land on near-identical spellings, **⺢ㄇ** and **⺢ㄋ** respectively (full spellings ㄐ⺢ㄇ and ㄑ⺢ㄋ) — differing in the initial (ㄐ, unaspirated, against ㄑ, aspirated) as well as in the coda. 串's Mandarin and Cantonese readings are close to 川's (chuàn/cyun3 vs chuān/cyun1, both aspirated), but its Korean reading (곶, a native word for "cape/promontory," not a regular Sino-Korean form, with an unaspirated initial) and its Vietnamese reading (quán, against 川's xuyên) both depart from 川's — plausibly the reason these two otherwise-matching characters diverged.
 
 ## Characters
 ### In Use

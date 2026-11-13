@@ -1,16 +1,16 @@
 ---
 size: 42
 middle_chinese_final: iᴇn
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-13
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 仙A三開** splits into ⼶ㄋ vs ㄝㄋ, tracking no single initial class cleanly (see below)
 
 ## CJKV Evolution
-仙A三開 [iᴇn] fractures 25-15 between **⼶ㄋ** and **ㄝㄋ**, matching the y-glide quality of the Vowels table's documented winner (`yen`).
+仙A三開 [iᴇn] fractures 25-16 between **⼶ㄋ** and **ㄝㄋ** (with 鮮 alone on a third spelling), matching the y-glide quality of the Vowels table's documented winner (`yen`, row 077 of the rime table).
 
-The split is not clean by initial type — this final adds another confirmed instance of the recurring "same initial, arbitrary outcome" pattern seen throughout this sweep (之, 魚, etc). Sibilant/palatal initials (s/ʑ/ɕ/d͡ʑ) appear heavily on both sides: 仙, 線, 膳, 腺, 善, 繕, 扇 (7 members) land on ⼶ㄋ, while 禅, 蝉, 擅 (3 members) land on ㄝㄋ — the same general initial class, no findable distinguishing factor. The nasal ȵ (燃, 然 vs 肰) and null ŋ (這 vs 彦) show the identical scatter on a smaller scale.
+The split is not clean by initial type — this final adds another confirmed instance of the recurring "same initial, arbitrary outcome" pattern seen throughout this sweep (之, 魚, etc). Sibilant/palatal initials (s/ʑ/ɕ/d͡ʑ) appear heavily on both sides: 仙, 線, 膳, 腺, 善, 繕, 扇 (7 members) land on ⼶ㄋ, while 禅, 蝉, 擅 (3 members) land on ㄝㄋ — the same general initial class, no findable distinguishing factor. The nasal ȵ shows the identical scatter on a smaller scale: **然** and **肰** are true homophones (Mandarin *rán*, Cantonese *jin4*, Korean 연, Vietnamese *nhiên*) yet 然 lands on ⼶ㄋ and 肰 on ㄝㄋ — an unconditioned split, not a research gap. For the ŋ pair, **這** (*zhè*, *ze5*, 저, *giá*) has readings quite unlike 彦's (*yàn*, *jin6*, 언, *ngạn*), so its place on ⼶ㄋ against 彦's ㄝㄋ may reflect that unusual reading rather than a free choice; I did not trace why 這's readings differ.
 
 **鮮**, sharing its initial (s) with the already-crowded 7-member sibilant cluster on ⼶ㄋ, dodges via a coda-shift and lands on **⼶ㄇ**.
 

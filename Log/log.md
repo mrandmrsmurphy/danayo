@@ -4,6 +4,13 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-13
 
+### CC initials and finals pass
+
+- `lookup/CC/finals/韻 仙A三開.md`: size 42 = ruby 42 = corpus 42, every character once in its own 注音's group, finals-only labels; group count corrected from 25-15 to 25-16 (+鮮 alone); 然/肰 diagnosed as true homophones (same readings, split anyway) and 這 flagged for its unusual readings vs 彦, from the character files; Vowels-table `yen` confirmed in row 077 of 文法 - 99韻図; stamped 2026-11-13.
+- `lookup/CC/finals/韻 仙A三合.md`: size 24 = ruby 24 = corpus 24, every character once in its own 注音's group, finals-only labels; group counts (9 ㄝㄋ, 8 ⼔ㄋ, the j-initial 鳶縁鉛 vs 沿) and the Vowels-table dual winner `yen/wen` (row 078 of 文法 - 99韻図) re-checked against the character files; the 串/川 passage corrected (they differ in the initial ㄐ/ㄑ as well as the coda, and 串's Vietnamese quán is also an outlier); stamped 2026-11-13.
+- `lookup/CC/finals/韻 乏.md`: size 9 = ruby 9 = corpus 9, every character once in the group matching its own 注音; the readings behind the prose (姂/乏 true homophones fá, fat6, 핍; 灋 = 法's fǎ, faat3, 법; 猲 kʰ with 怯; 脅 alone) re-read from the character files; 灋's MC initial p (not f) added to the prose; Vowels table row 148 (iap, D `ap`) confirmed in 文法 - 99韻図; stamped 2026-11-13.
+- `lookup/CC/finals/韻 之.md`: loop switched from characters/words/chengyu to the CC pages (oldest date-last-perfect first). Checked: size 91 = ruby entries 91 = characters carrying final ɨ in the corpus; every character exactly once, each in the group matching its own 注音; final-only labels; the prose counts (67 ㄧ; the ㄙ-initial split 9 ㄧ / 8 ㄚ / 4 ㄜ; 俟 and 士 singletons; 士's initial shared only by 事 in this final) recomputed from the corpus; the Vowels-table winner `i` confirmed in row 019 of 文法 - 99韻図; stamped 2026-11-13.
+
 ### Oldest-page pass (characters, words, chengyu)
 
 - `chengyu/風声鶴唳.md`: 晉書 卷114 (苻堅下) read at Wikisource and linked; the page's long quotation (餘眾棄甲宵遁…死者十七八), wrongly placed in that chapter, replaced by the text's real sentence 聞風聲鶴唳，皆謂晉師之至 with its context; examples labelled constructed; stamped 2026-11-13.
