@@ -2,9 +2,22 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-13
+
+### Oldest-page pass (characters, words, chengyu)
+- 小行星帯: Mandarin and Cantonese readings and the "asteroid belt" sense confirmed on Wiktionary (via 小行星帶; no Japanese, Korean or Vietnamese there); blank line before ## Notes; kwin, linked words, lexipedia placement and back-links checked; stamped.
+
 ## 2026-11-12
 
 ### Oldest-page pass (characters, words, chengyu)
+- 射出: Mandarin, Cantonese, Japanese and Korean readings and senses (emit, eject, inject) confirmed on Wiktionary; stand-in note (射 points to 射出), kwin, linked word, lexipedia placement and back-links checked; no change needed; stamped.
+- 宇宙人: Mandarin, Japanese and Korean readings and senses confirmed on Wiktionary (no Cantonese or Vietnamese there); the Notes now say Wiktionary also lists "astronaut" as a secondary Japanese sense; blank line before ## Notes; kwin, linked word, lexipedia placement and back-links checked; stamped.
+- 大韓民国: all five readings and the definition confirmed on Wiktionary (via 大韓民國); the gloss of 民国 now reads "republic" like its own word page (it said "people's republic; republic"); kwin, linked words, both lexipedia placements and back-links checked; stamped.
+- 墓穴: Mandarin and Cantonese readings and the grave sense confirmed on Wiktionary, which also gives the Taiwan variant mùxuè (added to the Notes); stand-in note (墓 points to 墓穴), kwin, linked words, lexipedia placement and back-links checked; stamped.
+- 圓錐: Mandarin, Cantonese and Korean readings and the "cone" sense confirmed on Wiktionary; the mathematical and cross-language notes read correctly and were left as written; kwin, linked word, lexipedia placement and back-links checked; no change needed; stamped.
+- 国務領: checked the 1925–1927 dates and holders against Korean Wikipedia (국무령) and English Wikipedia; added the nominated-but-declined names, the 1927 chairman system and the 1932–1933 revival for Kim Gu; kwin, linked words, lexipedia placement and back-links checked; stamped.
+- 史学者: no entry found for the word itself on Wiktionary or kotobank; added a plain note that its readings are compositional and its "standard academic title" claim is unconfirmed; kwin, linked words, lexipedia placement and back-links checked; stamped.
+- 双子: Mandarin, Cantonese and Japanese data checked on Wiktionary; corrected the Mandarin usage note (雙子 is chiefly dialectal for "twins", 雙胞胎 is standard) and added the Cantonese 孖仔/孖女; blank line before ## Notes; kwin, lexipedia placement (Numbers, Kinship) and back-links checked; stamped.
 - 単独: all five readings confirmed on Wiktionary (via 單獨); added the blank line between the embed and ## Notes; kwin, lexipedia placement and back-links checked; stamped.
 - 南美洲: Mandarin and Cantonese readings and the definition confirmed on Wiktionary; kwin, linked words, lexipedia placement and back-links checked; no change needed; stamped.
 - 千年: Mandarin, Cantonese, Japanese and Korean readings and senses confirmed on Wiktionary; removed the unsourced stock phrase 千年不朽 from the Notes; kwin, linked words, lexipedia placement and back-links checked; stamped.
