@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 不共戴天: 《禮記·曲禮上》 quotation (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
+- 三綱五常: confirmed Ma Rong's gloss 「所因，謂三綱五常」 in 《論語集解》為政 on wikisource and rewrote the caveat and that bullet to say so (the 白虎通義 and 春秋繁露 quotations are still unchecked and stay flagged); back-links checked; lint clean; stamped.
 - 万物生長: 《周易·繫辭下》 and 《中庸》 quotations (already checked on wikisource) and back-links re-checked; origin stays "not established", as the page says; no change needed; lint clean; stamped.
 - 一触即発: moved Pronunciations ahead of Cultural Notes (checklist order); the 李開先《原性堂記》 text is not on wikisource, so the page keeps its note that the quotation was checked against the Ministry of Education entry only; back-links checked; lint clean; stamped.
 - 一網打尽: 《東軒筆錄》 and 《宋史》 citations (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
