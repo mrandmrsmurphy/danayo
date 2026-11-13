@@ -1,16 +1,16 @@
 ---
 size: 12
 middle_chinese_final: ɣiuᴇn
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-11-13
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 仙B三合** mostly evolved into ⼔ㄋ, with two null-initial exceptions (see below)
 
 ## CJKV Evolution
-仙B三合 [ɣiuᴇn] lands 10 of 12 characters on **⼔ㄋ**, matching the y-glide-bearing half of the Vowels table's documented dual winner (`wen/on`).
+仙B三合 [ɣiuᴇn] lands 10 of 12 characters on **⼔ㄋ**, matching the w-glide-bearing half (`wen`) of the Vowels table's documented dual winner (`wen/on`, row 080 of the rime table); the other half, `on`, is where the two exceptions land.
 
-**媛** and **援** are both null-initial (ø) — the exact same initial class as 院, which stays in the main group. Rather than joining 院 on the already 10-member-crowded ⼔ㄋ, 媛 and 援 drop the glide entirely and land on **ㄛㄋ**.
+**媛** and **援** are both null-initial (ø) — the exact same initial class as 院, which stays in the main group. Rather than joining 院 on the already 10-member-crowded ⼔ㄋ, 媛 and 援 drop the glide entirely and land on **ㄛㄋ** (romanized *'on*, against 院's *'wen*) — the second half of the table's dual winner. 媛 is a true homophone of 院 itself (Mandarin *yuàn*, Cantonese *jyun*, Korean 원, Vietnamese *viện*), so its split from 院 is unconditioned; 援 (*yuán*, *wun4*, 원, *vin*) is close to them but not identical.
 
 ## Characters
 ### In Use
