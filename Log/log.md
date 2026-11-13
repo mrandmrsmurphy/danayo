@@ -5,6 +5,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 呉越同舟: could not load the 孫子 text itself on wikisource; added two secondary quotations found there (《長短經》 under 孫子曰, and the parallel 《孔叢子》 passage via 《太平御覽》) to the caveat, which stays; back-links re-checked; lint clean; stamped.
+- 呉牛喘月: 《世說新語·言語》 passage (already checked against the text) and back-links re-checked; no change needed; lint clean; stamped.
+- 合漢再決: 単亜語 founding motto with no external citation; linked grammar page and back-links re-checked; no change needed; lint clean; stamped.
+- 古今東西: no classical citation to check (origin "not established", as the page says); the Nakamura Masanao 1889 example and the interpretive remarks stay flagged as unchecked; back-links re-checked; no change needed; lint clean; stamped.
+- 厚顔無恥: 《詩經·巧言》 and 《北山移文》 quotations (already checked against the texts) and back-links re-checked; no change needed; lint clean; stamped.
 - 単刀直入: re-confirmed the 《景德傳燈錄》卷十二 quotation on wikisource (also in 《五燈會元》 and 《指月錄》); other citations were already checked on the page; back-links re-checked; no change needed; lint clean; stamped.
 - 千差万別: confirmed the 《朱子語類》卷六十 sentence on wikisource and noted a 《指月錄》 use (undated) in Source and Origin; back-links re-checked; lint clean; stamped.
 - 千山萬水: confirmed the 宋之問 poem title and line on wikisource and noted its variant reading 千里萬里; back-links re-checked; lint clean; stamped.
