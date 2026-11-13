@@ -5,6 +5,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Oldest-page pass (characters, words, chengyu)
+- 単独: all five readings confirmed on Wiktionary (via 單獨); added the blank line between the embed and ## Notes; kwin, lexipedia placement and back-links checked; stamped.
+- 南美洲: Mandarin and Cantonese readings and the definition confirmed on Wiktionary; kwin, linked words, lexipedia placement and back-links checked; no change needed; stamped.
+- 千年: Mandarin, Cantonese, Japanese and Korean readings and senses confirmed on Wiktionary; removed the unsourced stock phrase 千年不朽 from the Notes; kwin, linked words, lexipedia placement and back-links checked; stamped.
+- 北美洲: Mandarin and Cantonese readings and the definition confirmed on Wiktionary (no Japanese, Korean or Vietnamese there; 北 has bắc among its Vietnamese readings); kwin, linked words, lexipedia placement and back-links checked; no change needed; stamped.
 - 募集: Mandarin, Cantonese and Japanese readings confirmed on Wiktionary; added its note that Mandarin "to recruit" is chiefly Hong Kong usage; stand-in note (募 → 募集), kwin, lexipedia placement and back-links checked; stamped.
 - 刺客: readings in all five languages confirmed on Wiktionary; kwin, linked word, lexipedia placement and back-links checked; no change needed; stamped.
 - 初代: Japanese reading and senses confirmed on Wiktionary; replaced the unsourced Mandarin usage claim with a plain statement that it was not checked; kwin, linked word, lexipedia placement and back-links checked; stamped.
