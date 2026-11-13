@@ -5,6 +5,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 単刀直入: re-confirmed the 《景德傳燈錄》卷十二 quotation on wikisource (also in 《五燈會元》 and 《指月錄》); other citations were already checked on the page; back-links re-checked; no change needed; lint clean; stamped.
+- 千差万別: confirmed the 《朱子語類》卷六十 sentence on wikisource and noted a 《指月錄》 use (undated) in Source and Origin; back-links re-checked; lint clean; stamped.
+- 千山萬水: confirmed the 宋之問 poem title and line on wikisource and noted its variant reading 千里萬里; back-links re-checked; lint clean; stamped.
+- 十人不滅: Genesis 18:32 citation (KJV and 和合本, already checked) and back-links re-checked; the minyan remark in Cultural Notes read as a stated later development and was not re-checked; no change needed; lint clean; stamped.
 - 勿貪隣物: Exodus 20:17 citation (KJV, 和合本 and 新譯本, already checked) and back-links re-checked; no change needed; lint clean; stamped.
 - 勿妄称名: Exodus 20:7 citation (KJV and 和合本, already checked) and back-links re-checked; no change needed; lint clean; stamped.
 - 加哀痛産: Genesis 3:16 citation (KJV and 和合本, already checked) and back-links re-checked; the Hebrew-doubling remark stays flagged as unchecked; no change needed; lint clean; stamped.
