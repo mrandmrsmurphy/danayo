@@ -5,6 +5,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 無限: all five readings and the infinity/unlimited senses confirmed on Wiktionary; blank line before ## Notes; kwin, linked words, lexipedia placement and back-links checked; no other change needed; stamped.
+- 無明: all five readings and the Buddhist avidyā sense confirmed on Wiktionary; the 無名 homophone remark checked (different Dan'a'yo sound, so no callout is needed); kwin, lexipedia placement and back-links checked; no change needed; stamped.
+- 淡紫: no Wiktionary entry found; added a plain note that its readings are compositional; blank line before ## Notes; kwin, lexipedia placement and back-links checked; stamped.
+- 海湾: Mandarin and Cantonese readings and the bay/gulf sense confirmed on Wiktionary (no Japanese, Korean or Vietnamese there), which also lists the Chinese proper-noun senses (added to the Notes); stand-in note (湾 points to 海湾), kwin, lexipedia placement and back-links checked; stamped.
+- 泡沫: Mandarin, Cantonese, Japanese and Korean readings and senses confirmed on Wiktionary (no Vietnamese there); replaced the unattested Japanese 泡沫経済 with what Wiktionary shows (バブル経済, 泡沫景気, うたかた) and added the Mandarin 互联网泡沫 example; stand-in note (泡 points to 泡沫), kwin, lexipedia placement and back-links checked; stamped.
 - 水色: Japanese reading and "light blue" sense confirmed on Wiktionary (no usable Mandarin, Cantonese, Korean or Vietnamese data there); the Mandarin usage remark is now flagged as unchecked; blank line before ## Notes; kwin, lexipedia placement and back-links checked; stamped.
 - 横数: Dan'a'yo coinage for "imaginary number" (no dictionary entry to check); the Notes' mathematics (Argand diagram, √−1) and the standard terms 虚數 etc. read correctly; blank line before ## Notes; kwin, linked word, lexipedia placement and back-links checked; stamped.
 - 桃色: Mandarin, Cantonese and Japanese readings and senses checked on Wiktionary (no Korean or Vietnamese there); rewrote the Notes: Chinese has a figurative erotic/scandal sense (confirmed), the unsupported Japanese and Korean erotic claims and the pink-film remark were removed or flagged; blank line before ## Notes; kwin, lexipedia placement and back-links checked; stamped.
