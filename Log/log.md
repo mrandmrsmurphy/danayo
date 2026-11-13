@@ -9,6 +9,7 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - New word `words/果位.md` ("stage of attainment", Buddhism), made at the user's request as the borrowed Buddhist term (checked against Chinese Wikipedia and 佛光大辭典 entries for 證果, 因位 and 佛果). Added to the 果 and 位 Words sections and to the Religion lexipedia page (Buddhist & Cosmological Concepts). Japanese, Korean and Vietnamese fields are the compositional Sino readings; the page says their attestation was not confirmed.
 
 ### Chengyu pass
+- 不打不成器: 《禮記·學記》 and Proverbs citations (already checked) and back-links re-checked; confirmed the 《三字經》 line on wikisource and replaced the unchecked flag; lint clean; stamped.
 - 骨肉相連: 《北齊書》 and Genesis 2:23 citations (already checked) and back-links re-checked; confirmed the 《管子·輕重丁》 line with 骨肉相親 on wikisource and replaced the unchecked flag with the quotation; lint clean; stamped.
 - 金銀銅鉄: Daniel 2:31–33 citation (ESV and 和合本, already checked) and back-links re-checked; replaced the unchecked flag on the four-kingdoms identification with what the Wikipedia article on the Book of Daniel says (traditional and modern readings); Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 財愛悪根: 1 Timothy 6:10 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
