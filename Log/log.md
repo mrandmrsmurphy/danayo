@@ -5,6 +5,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 抽出: Mandarin, Cantonese, Japanese and Korean readings and the extract/sample senses confirmed on Wiktionary (no Vietnamese there); stand-in note (抽 points to 抽出), kwin, linked words, lexipedia placement and back-links checked; no change needed; stamped.
+- 恩寵: Mandarin, Cantonese, Japanese and Korean readings and the Christian "grace of God" sense confirmed on Wiktionary (no Vietnamese there); blank line before ## Notes; stand-in note (恩 points to 恩寵), kwin, linked words, lexipedia placement and back-links checked; stamped.
+- 思慕: Mandarin, Cantonese and Japanese readings and the senses confirmed on Wiktionary (no Korean or Vietnamese there); corrected the graphic etymology of 慕 (莫 is only the phonetic, 心 the semantic element); stand-in note (慕 points to 思慕), kwin, lexipedia placement and back-links checked; stamped.
+- 弓道: all five readings confirmed on Wiktionary; checked the history paragraph against English Wikipedia (Kyūdō): kept the 1919 change of name from 弓術 and the 1953 Kyudo Manual, and removed the unconfirmed Uno Yōzaburō, Dai Nippon Butoku Kai, federation-dates, 221 cm and Awa Kenzō claims (Herrigel 1948 and Yamada Shōji's 2001 essay kept, attributed to the article); kwin, linked words, lexipedia placement and back-links checked; stamped.
 - 小行星帯: Mandarin and Cantonese readings and the "asteroid belt" sense confirmed on Wiktionary (via 小行星帶; no Japanese, Korean or Vietnamese there); blank line before ## Notes; kwin, linked words, lexipedia placement and back-links checked; stamped.
 
 ## 2026-11-12
