@@ -5,6 +5,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 孝親天賜: Exodus 20:12 and Ephesians 6:2–3 citations (KJV and 和合本, already checked on cnbible.com) and back-links re-checked; no change needed; lint clean; stamped.
+- 天衣無縫: replaced Example Sentence 1, which gave an invented dialogue under the old title 《靈怪録·郭翰》, with the verified 《太平廣記》卷六十八 wording already quoted in Source and Origin (source named 《靈怪集》); back-links re-checked; lint clean; stamped.
+- 天真乱漫: Gong Kai citation (Ministry of Education entry, as the page states) and 《莊子·漁父》 passage (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
+- 天圓地方: 《淮南子·天文訓》 and 《大戴禮記·曾子天圓》 passages (already checked on wikisource; the 晉書 attribution stays flagged as unverified) and back-links re-checked; no change needed; lint clean; stamped.
+- 大器晩成: 《道德經·第四十一章》 passage (already checked against the text) and back-links re-checked; flagged the account of how the idiom's sense shifted across dynasties as an unchecked interpretation; lint clean; stamped.
 - 大同小異: 《莊子·天下》 passage (already checked against the text, idiom noted as not in it) and back-links re-checked; flagged the Cultural Notes' frequency and register comparisons as unchecked; lint clean; stamped.
 - 多召少選: Matthew 22:14 citation (ESV and Chinese versions, already checked on cnbible.com) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 声形和決: 単亜語 orthographic principle with no external citation; linked grammar page and back-links re-checked; the remarks on furigana, Taiwanese Bopomofo pedagogy and historical Korean systems were not looked up; lint clean; stamped.
