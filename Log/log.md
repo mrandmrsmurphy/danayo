@@ -5,6 +5,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 大同小異: 《莊子·天下》 passage (already checked against the text, idiom noted as not in it) and back-links re-checked; flagged the Cultural Notes' frequency and register comparisons as unchecked; lint clean; stamped.
+- 多召少選: Matthew 22:14 citation (ESV and Chinese versions, already checked on cnbible.com) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
+- 声形和決: 単亜語 orthographic principle with no external citation; linked grammar page and back-links re-checked; the remarks on furigana, Taiwanese Bopomofo pedagogy and historical Korean systems were not looked up; lint clean; stamped.
+- 塩地光世: Matthew 5:13–14 citation (KJV and the Chinese versions, already checked on cnbible.com) and back-links re-checked; no change needed; lint clean; stamped.
+- 因果報応: 《大唐大慈恩寺三藏法師傳》卷七 quotation (already checked in the CBETA text), linked words and back-links re-checked; no change needed; lint clean; stamped.
+- 因小失大: 《劉子·貪愛》 passage (already checked on wikisource, with later fiction uses noted) and back-links re-checked; no change needed; lint clean; stamped.
+- 四面楚歌: 《史記·項羽本紀》 passage (already checked on wikisource, with the 皆 compression noted) and back-links re-checked; no change needed; lint clean; stamped.
+- 呵呵大笑: 《景德傳燈錄》 occurrences (already checked in the CBETA text) and linked word and back-links re-checked; no change needed; lint clean; stamped.
 - 呉越同舟: could not load the 孫子 text itself on wikisource; added two secondary quotations found there (《長短經》 under 孫子曰, and the parallel 《孔叢子》 passage via 《太平御覽》) to the caveat, which stays; back-links re-checked; lint clean; stamped.
 - 呉牛喘月: 《世說新語·言語》 passage (already checked against the text) and back-links re-checked; no change needed; lint clean; stamped.
 - 合漢再決: 単亜語 founding motto with no external citation; linked grammar page and back-links re-checked; no change needed; lint clean; stamped.
