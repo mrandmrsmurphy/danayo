@@ -5,9 +5,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Coinage: 果位
+- 果位: replaced the "attestation not confirmed" note with the user-supplied sources for the readings (かい on kotobank, 과위 on the Dongguk Buddhist dictionary, quả vị on WisdomLib); kotobank and WisdomLib were opened and agree, the Dongguk page would not load (certificate error).
 - New word `words/果位.md` ("stage of attainment", Buddhism), made at the user's request as the borrowed Buddhist term (checked against Chinese Wikipedia and 佛光大辭典 entries for 證果, 因位 and 佛果). Added to the 果 and 位 Words sections and to the Religion lexipedia page (Buddhist & Cosmological Concepts). Japanese, Korean and Vietnamese fields are the compositional Sino readings; the page says their attestation was not confirmed.
 
 ### Chengyu pass
+- 骨肉相連: 《北齊書》 and Genesis 2:23 citations (already checked) and back-links re-checked; confirmed the 《管子·輕重丁》 line with 骨肉相親 on wikisource and replaced the unchecked flag with the quotation; lint clean; stamped.
+- 金銀銅鉄: Daniel 2:31–33 citation (ESV and 和合本, already checked) and back-links re-checked; replaced the unchecked flag on the four-kingdoms identification with what the Wikipedia article on the Book of Daniel says (traditional and modern readings); Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 財愛悪根: 1 Timothy 6:10 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 豹斑改乎: Jeremiah 13:23 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 血誓盟約: Exodus 24:8 citation (ESV and 和合本, already checked) and back-links re-checked; replaced the "not checked" flag on 歃血為盟 with what wikisource shows (a Tang memorial and later novels, earliest use not established); Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
