@@ -144,6 +144,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[無明](../words/無明.md)<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby>: avidyā, fundamental ignorance — the first of the Twelve Links of Dependent Origination; a Buddhist technical term, not everyday ignorance.
 - <ruby>[寂滅](../words/寂滅.md)<rt>ㄐㄝㄎㄇㄝㄊ</rt></ruby>: nirvana — the extinguishing of suffering.
+- <ruby>[果位](../words/果位.md)<rt>ㄍ⺢⼔ㄧ</rt></ruby>: a stage of attainment on the Buddhist path — the "fruit" a practitioner has realized, as against the practice ([[修行]]) that earns it.
 - <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[嬴洲](../words/嬴洲.md)<rt>⼶ㄫㄐㄨㄛ</rt></ruby>: Yingzhou, one of the three legendary island-mountains of the Bohai Sea (with [[蓬莱]] and 方丈), home of the immortals and the elixir of life; often written 瀛洲, and a poetic image of Japan in later Chinese literature.

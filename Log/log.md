@@ -4,7 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-12
 
+### Coinage: 果位
+- New word `words/果位.md` ("stage of attainment", Buddhism), made at the user's request as the borrowed Buddhist term (checked against Chinese Wikipedia and 佛光大辭典 entries for 證果, 因位 and 佛果). Added to the 果 and 位 Words sections and to the Religion lexipedia page (Buddhist & Cosmological Concepts). Japanese, Korean and Vietnamese fields are the compositional Sino readings; the page says their attestation was not confirmed.
+
 ### Chengyu pass
+- 石山盈界: Daniel 2:34–35 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
+- 無為而治: 《論語·衛靈公》 and 《老子》 chapter 57 quotations (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
 - 数数衡分: Daniel 5:25–28 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 指記二碑: confirmed Exodus 31:18 (和合本, 西乃山) on wikisource and noted it in Source and Origin; example 1 now reads 西乃山 like the 和合本 and the quoted verse; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; back-links checked; lint clean; stamped.
 - 意気揚揚: 《史記·管晏列傳》 charioteer passage (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
