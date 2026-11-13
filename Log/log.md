@@ -9,6 +9,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 - New word `words/果位.md` ("stage of attainment", Buddhism), made at the user's request as the borrowed Buddhist term (checked against Chinese Wikipedia and 佛光大辭典 entries for 證果, 因位 and 佛果). Added to the 果 and 位 Words sections and to the Religion lexipedia page (Buddhist & Cosmological Concepts). Japanese, Korean and Vietnamese fields are the compositional Sino readings; the page says their attestation was not confirmed.
 
 ### Chengyu pass
+- 令行禁止: checked the 管子 (立政, 七法, 明法解) and 荀子 lines on wikisource; the 立政 line was misquoted (「…此所謂政令」), now 「令則行，禁則止，憲之所及，俗之所被，如百體之從心，政之所期也」; added 天下願 to the 荀子·王制 line and described 七法 correctly; removed the unverified Cultural Notes claims (pandemic, PLA, Huawei, legal codes); back-links checked; lint clean; stamped.
+- 人山人海: found 人山人海 in the 《西湖老人繁勝錄》 text and the 《水滸傳》 chapter 51 clause on wikisource and added both to Source and Origin (the book's list carries 南瓦/中瓦/上瓦/下瓦 annotations, noted without a firm reading); back-links checked; lint clean; stamped.
+- 事事皆旧: Ecclesiastes 1:9 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
+- 乾坤一擲: 韓愈《過鴻溝》 quotation (already checked on wikisource), linked word and back-links re-checked; no change needed; lint clean; stamped.
 - 乳蜜流地: Exodus 3:8 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; the 魚米之鄉 history flag stays (its Wikipedia page could not be opened); lint clean; stamped.
 - 主宰万物: Psalm 24 citation (和合本, already checked), linked words and back-links re-checked; no change needed; lint clean; stamped.
 - 不言不語: 《佛說阿遫達經》 citation (already checked on wikisource, translator and date flagged as not identified) and back-links re-checked; no change needed; lint clean; stamped.
