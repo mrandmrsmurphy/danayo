@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 世間罪盛: Bible citations (和合本 Genesis 6:5 and Romans 5:20, already checked on cnbible.com), linked word and back-links re-checked; no change needed; lint clean; stamped.
+- 世仇宿敵: Genesis 3:15 (KJV and 和合本, already checked) , linked words and back-links re-checked; no change needed; lint clean; stamped.
 - 不遠千里: 《孟子·梁惠王上》 quotation (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
 - 不可思議: 《維摩詰所說經·不思議品》 quotation (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
 - 不共戴天: 《禮記·曲禮上》 quotation (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
