@@ -5,6 +5,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-12
 
 ### Chengyu pass
+- 孤軍奮闘: checked the 《魏書·趙遐傳》 quotation against 《魏書》卷五十二 on wikisource; restored the subject 遐 and the spelling 直閤 in the quoted line and named Zhao Xia in the translation; back-links checked; lint clean; stamped.
+- 剣生剣死: Matthew 26:52 citation (ESV, Greek and RCUV, already checked) and back-links re-checked; the Pronunciations Japanese line now uses hiragana, matching the frontmatter and checklist; lint clean; stamped.
 - 世間罪盛: Bible citations (和合本 Genesis 6:5 and Romans 5:20, already checked on cnbible.com), linked word and back-links re-checked; no change needed; lint clean; stamped.
 - 世仇宿敵: Genesis 3:15 (KJV and 和合本, already checked) , linked words and back-links re-checked; no change needed; lint clean; stamped.
 - 不遠千里: 《孟子·梁惠王上》 quotation (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
