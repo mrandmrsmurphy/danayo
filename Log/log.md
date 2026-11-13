@@ -5,6 +5,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 修飾先行: 単亜語 grammar term with no external citation; replaced "the Altaic members of the Sinosphere" (a contested grouping) with "Japanese and Korean"; linked grammar page and back-links re-checked; lint clean; stamped.
+- 信達雅化: 単亜語 coinage built on 嚴復's 信達雅 (《天演論》譯例言 quotation already checked on wikisource); linked page and back-links re-checked; no change needed; lint clean; stamped.
+- 佳人薄命: 蘇軾《薄命佳人》 citation (already checked on wikisource) and back-links re-checked; unverified remarks about the Edo period and Truyện Kiều remain flagged on the page; no change needed; lint clean; stamped.
+- 頑固: all five readings and the stubborn/obstinate senses (including the medical "hard to treat" sense) confirmed on Wiktionary; stand-in note (頑 points to 頑固), kwin, lexipedia placement and back-links checked; no change needed; stamped.
+- 面疱: Mandarin, Cantonese and Japanese readings (めんぽう, with にきび as the common word) and the acne sense confirmed on Wiktionary under 面皰 (no Korean or Vietnamese there); stand-in note (疱 points to 面疱), kwin, lexipedia placement and back-links checked; no change needed; stamped.
 - 銀色: Mandarin, Cantonese and Japanese readings and the silver-colour sense confirmed on Wiktionary (no Korean or Vietnamese there); reworded the unclear claim that Sino-Korean 은 is also the native word for silver; blank line before ## Notes; kwin, linked word, lexipedia placement and back-links checked; stamped.
 - 金色: Mandarin, Cantonese and Japanese readings (きんいろ; こんじき as a poetic usage; rare こんしょく) confirmed on Wiktionary (no Korean or Vietnamese there); reworded the Notes' "Buddhist-flavored" claim for こんじき to what Wiktionary says; blank line before ## Notes; kwin, lexipedia placement and back-links checked; stamped.
 - 酩丁: Mandarin, Cantonese and Japanese readings and the "dead drunk" sense confirmed on Wiktionary (via 酩酊; no Korean or Vietnamese there); corrected "neither character appears outside this compound" (酊 also means tincture, as in 酊劑) and added the variant reading míngdǐng; stand-in note (酩 points to 酩丁), kwin, linked word, lexipedia placement and back-links checked; stamped.
