@@ -5,6 +5,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 先外後内: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked page and back-links re-checked; lint clean; stamped.
+- 先填後閉: 単亜語 stroke-order term with no external citation; flagged the Chinese and Japanese phrasings of the rule as unchecked; linked page and back-links re-checked; lint clean; stamped.
+- 先中後両: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked pages and back-links re-checked; lint clean; stamped.
+- 傍若無人: 《史記·刺客列傳》 quotation (already checked against the text, with the original spelling 旁 noted) and back-links re-checked; no change needed; lint clean; stamped.
 - 修飾先行: 単亜語 grammar term with no external citation; replaced "the Altaic members of the Sinosphere" (a contested grouping) with "Japanese and Korean"; linked grammar page and back-links re-checked; lint clean; stamped.
 - 信達雅化: 単亜語 coinage built on 嚴復's 信達雅 (《天演論》譯例言 quotation already checked on wikisource); linked page and back-links re-checked; no change needed; lint clean; stamped.
 - 佳人薄命: 蘇軾《薄命佳人》 citation (already checked on wikisource) and back-links re-checked; unverified remarks about the Edo period and Truyện Kiều remain flagged on the page; no change needed; lint clean; stamped.
