@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-12
 
+### Oldest-page pass (characters, words, chengyu)
+- 募集: Mandarin, Cantonese and Japanese readings confirmed on Wiktionary; added its note that Mandarin "to recruit" is chiefly Hong Kong usage; stand-in note (募 → 募集), kwin, lexipedia placement and back-links checked; stamped.
+- 刺客: readings in all five languages confirmed on Wiktionary; kwin, linked word, lexipedia placement and back-links checked; no change needed; stamped.
+- 初代: Japanese reading and senses confirmed on Wiktionary; replaced the unsourced Mandarin usage claim with a plain statement that it was not checked; kwin, linked word, lexipedia placement and back-links checked; stamped.
+- 共産党: frontmatter, kwin, linked words, lexipedia placement and character back-links checked; no change needed; stamped.
+
 ### Coinage: 果位
 - 果位: replaced the "attestation not confirmed" note with the user-supplied sources for the readings (かい on kotobank, 과위 on the Dongguk Buddhist dictionary, quả vị on WisdomLib); kotobank and WisdomLib were opened and agree, the Dongguk page would not load (certificate error).
 - New word `words/果位.md` ("stage of attainment", Buddhism), made at the user's request as the borrowed Buddhist term (checked against Chinese Wikipedia and 佛光大辭典 entries for 證果, 因位 and 佛果). Added to the 果 and 位 Words sections and to the Religion lexipedia page (Buddhist & Cosmological Concepts). Japanese, Korean and Vietnamese fields are the compositional Sino readings; the page says their attestation was not confirmed.
