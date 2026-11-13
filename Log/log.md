@@ -5,6 +5,185 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+
+- `chengyu/風声鶴唳.md`: 晉書 卷114 (苻堅下) read at Wikisource and linked; the page's long quotation (餘眾棄甲宵遁…死者十七八), wrongly placed in that chapter, replaced by the text's real sentence 聞風聲鶴唳，皆謂晉師之至 with its context; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/電光石火.md`: 景德傳燈錄 卷24 (石火電光已經塵劫, entry 保壽匡祐) and 五燈會元 卷7 (保福從展, X1565) lines read at the deerpark.app CBETA reader and linked; the reader's punctuation noted; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/雲昼火夜.md`: Exodus 13:21 和合本 read at Wikisource and linked (quotation and example 2 corrected: no comma after 日間, 、/． punctuation); KJV and parallel passages flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/除我莫神.md`: Isaiah 45:5 and Exodus 20:3 和合本 read at Wikisource and linked; Source quotation corrected and example 2's non-text wording (我是耶和華，再沒有別神；…) replaced by the real verse; KJV not re-checked; examples marked; stamped 2026-11-13.
+
+- `chengyu/阿鼻叫喚.md`: the eight hot hells' order (叫喚 fourth, 阿鼻 eighth) confirmed at zh.wikipedia and linked; the 往生要集 / 俱舍論 statements and the compound's origin left marked unverified as already recorded; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/鏡花水月.md`: 滄浪詩話 (卷1 §五) and 品花寶鑒 序 read at Wikisource and linked (the latter's punctuation noted; 鑑→鑒 in the title); the 楞嚴經 non-find left as recorded; examples labelled constructed (example 1 had been presented like a quotation); stamped 2026-11-13.
+
+- `chengyu/銀盤呈首.md`: Mark 6:28 和合本 read at Wikisource and linked (quotation/example 2 corrected: 盤子裏, 他母親, 、 punctuation); the KJV/Greek statements and Matthew 14 not re-checked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/金科玉律.md`: 劇秦美新 sentence confirmed verbatim at Wikisource and linked; Matthew 7:12 和合本 read at Wikisource, linked and its punctuation corrected; example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/金城湯池.md`: 漢書 卷45 蒯通 sentence confirmed verbatim at Wikisource and linked; Japanese field and Pronunciations historical kana きんじやうたうち corrected to modern きんじょうとうち; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/重文軽武.md`: 儒林外史 第46回 line confirmed at Wikisource and linked; 二刻拍案驚奇 卷17 line confirmed only on a secondary reading site (5000yan, simplified; Wikisource 404, ctext blocked) and linked with that said in-page; the 新唐書 removal note kept; examples marked; stamped 2026-11-13.
+
+- `chengyu/邪心常悪.md`: Genesis 6:5 and 8:21 和合本 read at Wikisource and linked (quotations and example 2 corrected: 、/． punctuation, 心裏, 懷着, 纔); cnbible.com/新譯本/KJV claims flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/選士唯賢.md`: Dan'a'yo-coined; 墨子·尚賢上 sentence confirmed at Wikisource (爲 form) and linked; 科挙 history claims marked unchecked; examples marked (1 real, 2–4 constructed); stamped 2026-11-13.
+
+- `chengyu/遠交近攻.md`: 史記·范雎蔡澤列傳 (卷079) sentence confirmed verbatim at Wikisource and linked; example 1 corrected (得寸則王之寸也, with 也); biographical/background statements and 三十六計 numbering marked unrechecked; examples marked; stamped 2026-11-13.
+
+- `chengyu/道活墨殺.md`: 2 Corinthians 3:6 和合本 read at Wikisource and linked (quotation/example 2 corrected: 憑着, 因爲, ．/、 and the 精意或作聖靈 note); cnbible.com/新譯本/標準譯本/KJV/Greek claims flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/造人像形.md`: Genesis 1:26 和合本 read at Wikisource and linked (quotation and example 2 corrected: 照着, 按着, 、 punctuation); cnbible.com/現代標點和合本/新譯本/KJV claims flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/轄魚鳥牲.md`: Genesis 1:26 和合本 read at Wikisource and linked (quotation and example 2 corrected: 海裏, 照着, 按着, 、 punctuation); removed a duplicated sentence about 轄; cnbible.com/新譯本/KJV claims flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/起死回生.md`: 史記·扁鵲倉公列傳 (卷105) sentence re-read at Wikisource and linked (the earlier check had no link); the quoted wording matches; the surrounding diagnosis/treatment account is the usual telling and not re-read; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/貪官汚吏.md`: 鴛鴦被 line read in the 元曲選 text (ccddb.net) and linked, replacing the "search summary" check: the text is 敕賜勢劍金牌。一應貪官污吏。准許先斬後聞。, spoken by 李府尹; same in example 2; 論語 2:1 confirmed at Wikisource and linked; examples marked; stamped 2026-11-13.
+
+- `chengyu/諸行無常.md`: 大般涅槃經 T374 卷14 (聖行品) verse read at the deerpark.app CBETA reader and linked; the Heike Monogatari opening, 雪山童子 and iroha statements flagged unchecked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/諸法無我.md`: 大智度論 卷22 三法印 sentence linked (Wikisource, simplified page) and 卷15's 一切法無我印 passage read at the deerpark.app CBETA reader and linked (its third seal reads 涅槃實法印); examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/論功行賞.md`: 隋書·蘇威傳 sentence now read in the text at Wikisource (隋書/卷41) and linked, replacing "checked against the Ministry's entry"; examples marked (1 real, 2–4 constructed); stamped 2026-11-13.
+
+- `chengyu/誠心誠意.md`: 禮記·大學 passage read at Wikisource and linked; quotation corrected to the text's 脩 and full stops; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/詞彙兼容.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 語用 link and all nine linked sister mottos confirmed to exist; the historical remarks on Confucian/Buddhist term borrowing are background, unsourced on the page; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/詛地哀食.md`: Genesis 3:17 和合本 read at Wikisource and linked (quotation and example 2 corrected: 爲, 纔, 地裏, 喫, ．/、); cnbible.com/新譯本/KJV claims flagged unrechecked; sister-chengyu links confirmed; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/言行一致.md`: 邵氏聞見後錄 卷二十 read at Wikisource and linked; quotation replaced with the text's wording (自茲…遇事坦然有余地矣) and the speaker corrected (Sima Guang's own seven-year practice, recounted by Liu Anshi, not Liu Anshi's); the 元城語録/仕學規範 claim marked unchecked; 論語 4.24 confirmed and linked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/覧昭和決.md`: Dan'a'yo-coined; the 1946/1949 reform dates confirmed at en.wikipedia (Tōyō kanji) and linked (the table's name not seen there); readings agree with the four character pages, back-links and 文字法 link confirmed; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/蒼海桑田.md`: 神仙傳 麻姑 passage found at Wikisource 卷三 (not 卷七) and read; quotation corrected (麻姑自說：, 水又淺於往昔，會時略半也, 豈將復還為陵陸乎, 海中行復揚塵也) and linked, replacing the secondary-page wording; example 1 aligned (no final full stop), marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/荊棘荻蓬.md`: Genesis 3:18 和合本 read at Wikisource and linked (quotation/example 1 corrected: 喫, 、 punctuation); cnbible.com/新譯本/ESV claims flagged unrechecked; Japanese field and Pronunciations katakana → hiragana (けいきょくてきほう); example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/茫然自失.md`: 列子·仲尼 sentence confirmed verbatim at Wikisource (仲尼篇) and linked; surrounding-context account and the 孟子·滕文公上 claim for 茫然若失 marked unrechecked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/色即是空.md`: 心經 (T251, Xuanzang) passage read at the CBETA-based deerpark.app reader and linked (original punctuation recorded); film 色即ぜねれいしょん corrected from 2019 to 2009 (ja.wikipedia, linked); Kumārajīva/649 CE claims marked unchecked; example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/自由自在.md`: 景德傳燈錄 卷23 read at the CBETA-based deerpark.app reader and linked (entry 衡州華光範禪師); the quotation corrected: the first answer is 自由。自在。 (two words), only the second is 自由自在, not both; 西遊記 ch. 5 sentence confirmed at Wikisource and linked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/自業自得.md`: 正法念處經 卷7 verse (非異人作惡…眾生皆如是) re-read at the CBETA-based deerpark.app reader and linked (地獄品之三, spoken by Yama's attendants); the earlier LaṅkĀvatāra non-find and the 佛學大辭典 remark left as recorded, unrechecked; example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/自暴自棄.md`: 孟子·離婁上 section 10 re-read at Wikisource and the link added (the earlier check had no link); the quotation matched (page has 有為, text 有爲, as already noted); examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/臥薪嘗胆.md`: 史記 卷41 (越王句踐世家) and 擬孫權答曹操書 (attributed to Su Shi) read at Wikisource and linked, variant forms (呉 旣 句踐 卽) noted; the 伍子胥 claim marked unchecked; example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/義重於音.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 語用 link and linked sister mottos (義以立名, 信達雅化 etc.) exist; the Yan Fu 信達雅 remark is background, unsourced on the page; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/義以立名.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 語用 link and all ten linked sister mottos confirmed to exist; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/羊衣餓狼.md`: Matthew 7:15 和合本 read at Wikisource and linked; quotation and example 2 corrected to that text (這裏, 披着, 裏面, ． and 、); cnbible.com/新譯本/KJV/Greek claims flagged unrechecked; example 2 marked real, others constructed; stamped 2026-11-13.
+
+- `chengyu/結髪夫妻.md`: 留別妻 (opening line, listed under Su Wu) and 古詩為焦仲卿妻作 (結髮同枕席，黃泉共為友) read at Wikisource and linked; the line's context corrected (the husband speaks to his mother, not pleads against sending his wife away) and the poem's ending marked unrechecked; examples 1–2 marked real, 3–4 constructed; stamped 2026-11-13.
+
+- `chengyu/糟糠之妻.md`: 後漢書 卷26 宋弘 passage read at Wikisource and linked; quotation marks around 貴易交，富易妻 added to match the text; the text's 其竭 (vs the page's 其意) noted, not changed; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/粉骨砕身.md`: 石灰吟 read at Wikisource and linked (that text has 千錘萬击 and 全不顧/一作怕; the page's 全不怕 form noted as the variant); example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/空前絶後.md`: 登幽州臺歌 confirmed at Wikisource and linked; zh.wiktionary page read (no origin given, noted); example 1 marked as the real poem, not containing the idiom; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/禍延子孫.md`: 朱子家訓 sentence (禍延子孫) read at Wikisource and linked (semicolon, not full stop, between clauses); 周易·坤·文言 line linked; Exodus 20:5 和合本 read at Wikisource and linked, quotation/example 2 given in that text's punctuation, cnbible.com/新譯本/KJV claims flagged unrechecked; examples labelled; stamped 2026-11-13.
+
+- `chengyu/磨穿鉄硯.md`: 新五代史 卷29 桑維翰 sentence confirmed verbatim at Wikisource and linked; example 1 (an unconfirmed 舊五代史 wording) replaced by that real line; the 舊五代史/春渚記聞/923–926 statements marked unrechecked; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/破頭傷足.md`: Genesis 3:15 和合本 read at Wikisource and linked (quotation corrected to 脚跟, 、 punctuation, also in example 1); Vulgate wording confirmed at la.wikisource and linked; Hebrew/LXX/Irenaeus statements flagged unrechecked; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/盛衰栄辱.md`: 周易 雜卦 and 繫辭上 ch. 8 lines re-confirmed verbatim at Wikisource and linked; Zdic/MOE-entry claims still unopened and marked so; example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/百聞不如一見.md`: 漢書·趙充國辛慶忌傳 (Wikisource 卷069) opened and linked; quotation corrected (上遣問焉，曰 / 充國曰 / comma after 一見, not 上曰 / 充國對曰 / full stop) and example 3's invented 老將軍對曰 replaced by the real wording; examples 1, 2, 4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/百家共承.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 語用 link and the eight linked sister mottos confirmed to exist; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/白頭偕老.md`: 詩經·擊鼓 couplet re-confirmed at Wikisource and linked; the 教育部《成語典》 citations (白頭吟, 女曰雞鳴, 婁堅, 懷香記, 浮生六記) now read via the school-hosted copy and listed with their quoted sentences (flagged as not checked against the texts); example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/異体不容.md`: Dan'a'yo-coined; 書同文 line confirmed (史記·秦始皇本紀, Wikisource) and linked, with the 小篆 detail flagged as beyond that line; 康熙字典 date/entry count confirmed at Wikipedia and linked, "majority are variants" flagged unchecked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/画龍点睛.md`: 歴代名畫記 卷七 (四庫全書本 on Wikisource) opened and linked, replacing "secondary pages, Wikisource would not load"; passage confirmed (variant 㸃/湏 forms noted; the page's leading 又 not seen in the excerpt); examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/画蛇添足.md`: 戰國策·齊策二 (Wikisource 卷09, 昭陽為楚伐魏) opened and linked, replacing "checked against a search summary"; quotation orthography corrected to the text's 巵 and 飲; unread middle sentences flagged in-page; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/生机勃勃.md`: 《創業》 citation was credited to the 教育部《成語典》 via a search summary; opened both pages: the 成語典 entry has no 創業/張天民 citation (only a definition and a garden example), the 成語字典 (chinesewords.org) page does; Source now says so, with both links; examples labelled; stamped 2026-11-13.
+
+- `chengyu/瑠璃清天.md`: Exodus 24:10 和合本 read at Wikisource and linked; quotation corrected to that text (脚, 、 punctuation) in Source and example 1; earlier cnbible.com / 新譯本 claims flagged unrechecked; Japanese field and Pronunciations katakana → hiragana (るりせいてん); example 1 marked real, 2–4 constructed; stamped 2026-11-13.
+
+- `chengyu/珠投猪前.md`: Matthew 7:6 和合本 read at Wikisource and linked; quotation corrected to that text (他 not 牠, 、 punctuation) in Source and example 2; earlier cnbible.com / 新譯本 / 標準譯本 claims flagged unrechecked; example 2 marked as the real verse, others constructed; stamped 2026-11-13.
+
+- `chengyu/玩世不恭.md`: 漢書·東方朔傳贊 line confirmed at Wikisource and linked (context corrected: it is Dongfang Shuo's advice to his son, quoted by Ban Gu); 《雪蓑道人傳》 quotation confirmed as cited on chinesewords.org and linked, still not in a primary text; 教育百科 entry noted; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/焚琴煮鶴.md`: 義山雜纂 殺風景 list opened at Wikisource and linked; example 1 (a six-item list that is not in the text) replaced by the real consecutive items; removed the claim that the list carries a 《西清詩話》 note (it sits under 七不稱意); examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/焚書坑儒.md`: 史記·秦始皇本紀 (Wikisource 卷006) opened and linked; the "verbatim" claim fixed: the text has 制曰：「可。」 (not 始皇可其議), 皆阬之咸陽 (阬, not 坑), and 悉詣守、尉; same corrections in example 1; Heine's "1820" date marked unchecked; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/混然一体.md`: 識仁篇 passage located in 二程遺書 卷二上 at Wikisource and linked; quotation corrected (the page had called 仁者，渾然與物同體 the opening line and joined it with the next clause using 智; the text opens 學者須先識仁。仁者，渾然與物同體。義、禮、知、信，皆仁也。); origin of the title 識仁篇 not checked; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/涅盤寂静.md`: 大智度論 卷22 三法印 sentence confirmed at Wikisource (simplified-character page; CBETA reader showed no text) and linked, replacing the unlinked "checked against the CBETA text"; the 根本說一切有部毘奈耶 claim stays flagged unverified; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/海闊天空.md`: opened the 教育部《成語典》 entry directly (was "as reported by a search summary"), confirmed the 庾信〈道士步虛詞〉 line and the 成語典's own reserve (「也許就從這裡演變而出」), linked it; later 書證 listed as read only on that page; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/流言飛語.md`: 尚書·金縢 and 史記·魏其武安侯列傳 (卷107) quotations confirmed verbatim at Wikisource and linked; Korean field and Pronunciations changed from South Korean 유언비어 to North Korean 류언비어 (standing rule), the 두음법칙 note rewritten to say so; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/波乱万丈.md`: 太平廣記 卷346 (story 《李湘》) opened at Wikisource and linked; example 1 still carried the old wrong wording (其心波瀾萬丈，嫉妒相仇，猛於禽獸) that contradicted the page's own Source section, now replaced with the verified line; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/沈魚落雁.md`: 莊子·齊物論 quotation confirmed verbatim at Wikisource and linked; the Four Beauties assignments (西施 沉魚, 王昭君 落雁, 貂蟬 閉月, 楊玉環 羞花) confirmed at Wikipedia and linked; example 2 no longer labelled "Classical" (no source traced for the 沈魚落雁之容，閉月羞花之貌 pairing); examples 3–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/汗食帰泥.md`: Genesis 3:19 和合本 read at Wikisource and linked; quotation corrected to the text's forms (纔得餬口, 因爲, 、/． punctuation) in Source and example 2; the earlier cnbible.com claim and 新譯本 wording flagged unrechecked; examples 1, 3, 4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/毎字明意.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 文字法 link confirmed; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/殺姦窃偽.md`: Exodus 20:13–16 (和合本) read in full at Wikisource and linked (replaces the partial cnbible.com check); Japanese field and Pronunciations switched from katakana to hiragana (さつかんせつぎ); examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/欲求不満.md`: 道德經 ch. 37 checked at Wikisource and linked (quotation extended to 無名之樸，夫亦將無欲…); the Lin Zexu couplet's "1839" now confirmed and linked at Wikipedia (越華書院 visit, 10 March 1839); examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/欲夫治汝.md`: Genesis 3:16 和合本 checked at Wikisource and linked (cnbible.com unreachable this pass, so the earlier "checked on cnbible.com" claim and the 新譯本 wording are flagged unrechecked; KJV clause not re-read); example 2 marked as the real verse, others constructed; stamped 2026-11-13.
+
+- `chengyu/欣喜雀躍.md`: 水滸傳 (120回本) 第108回 and 莊子·在宥 opened at Wikisource and linked; 九分九釐 corrected to the text's 九分九厘; 拊髀/脾 variant noted; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/森羅万象.md`: example 1 (森羅万象，無非真如, an invented Buddhist-sounding line) replaced by the 陶弘景 line actually quoted in the 佛學大辭典 entry; that entry read on Wikisource and linked (法句經 line still unconfirmed in a primary text; searches suggest 一法之所印 may belong to 華嚴/禪 commentary, not noted in-page); examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/東奔西走.md`: Source rewritten from the 教育部《成語典》 entry (linked): the Wei Chu line is verified, but the 成語典 titles the poem 〈自揣平生〉 whereas the page's origin says 〈留別次張周卿韻〉 (left as is, discrepancy noted in-page); removed the unverified later lines and the unsupported "checked against 青崖集"; 西遊記 ch. 35 quotation corrected to the 成語典's wording and marked as read on a secondary page; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/東亜自通.md`: Dan'a'yo-coined, no external source to check; readings agree with the four character pages, back-links present, 序文 link confirmed; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/朽木糞牆.md`: 論語·公冶長 5.10 checked at Wikisource and linked; second quotation's punctuation fixed (；於予與改是); examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/未雨紬謬.md`: 詩經·豳風·鴟鴞 quotation checked at Wikisource and linked (page punctuation 桑土。綢繆 matched); examples labelled constructed; noted the 紬/綢 and 謬/繆 variant claims were not re-checked; stamped 2026-11-13.
+
+- `chengyu/朝鮮正音.md`: the "not re-checked" 1446 date for 訓民正音 now checked at Wikipedia (Hunminjeongeum) and linked, with the 1443 first presentation noted; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/朝三暮四.md`: opened Wikisource 莊子/齊物論 and linked it; quotation punctuation fixed (comma after 名實未虧), noted the text's bracketed 而 and 衆/爲 forms; examples labelled constructed; stamped 2026-11-13.
+
+- `chengyu/暴飲暴食.md`: confirmed 飲食自倍，腸胃乃傷 is in 素問·痺論篇第四十三 (Wikisource 四部叢刊本 卷第十二) and replaced the "chapter unidentified" caveat with the link; confirmed 食不厭精，膾不厭細 in 論語·鄉黨 and linked it; examples 2–4 labelled constructed; stamped 2026-11-13.
+
+- `chengyu/暗送秋波.md`: opened Wikisource 三國演義 第八回, 菩薩蠻 (李煜) and 挂枝兒 (私窺 line) and linked all three beside their quotations; the 三國演義 quotation's punctuation now matches the text (。 between the two clauses); examples 1–3 labelled as constructed; stamped 2026-11-13.
+- 春夏秋冬: opened 管子/第40篇四時 and 史記/卷130 on wikisource, confirmed both quotations and linked them in Source and Origin; labelled example sentences 2–4 as constructed; the 詩經 line and the claims about other season orders stay flagged as unchecked; back-links re-checked; lint clean; stamped.
+- 日月星辰: opened 尚書/堯典 on wikisource, confirmed the quoted sentence and linked it in Source and Origin; back-links re-checked; the cosmology interpretation stays flagged as unchecked; lint clean; stamped.
+- 旗幟鮮明: opened 列子/黃帝篇 and 漢書/卷072 on wikisource, confirmed both quotations word for word and linked them in Source and Origin; back-links re-checked; lint clean; stamped.
+- 文音共決: 単亜語 orthographic maxim with no external source (nothing to link); linked chengyu and back-links re-checked; no change needed; lint clean; stamped. Open question for the user: this page says Literary Dan'a'yo allows no exception to the ruby rule, while 声形和決 lets the phonetic layer be omitted under space constraints.
+- 文質彬彬: opened 論語/雍也第六 on wikisource, confirmed the quotation and linked it (verse numbering differs by edition, now noted); removed the Usage Note, which was prose about the 諺文/Korean difference (kwin commentary the vault does not keep); linked words and back-links re-checked; lint clean; stamped.
+- 文言現代: 単亜語 syntax principle with no external source (nothing to link); checked it against 文言継承, 現代適応 and 文法 - 04句法, which agree with it (including SVO語順 as part of 現代適応); back-links re-checked; no change needed; lint clean; stamped. Open question for the user: 先題後述 and 形助顕理 describe SVO as incidental while 現代適応 names SVO語順 as a principle.
+- 文体並存: 単亜語 register principle with no external source (nothing to link); the many linked chengyu and the grammar page and back-links re-checked; no change needed; lint clean; stamped.
+- 招災引禍: opened 聖經 (和合本)/加拉太書 on wikisource, confirmed Galatians 6:7 and linked it; labelled example sentences 1 and 4 as constructed; the 招災惹禍 and 《巧團圓》 remark stays flagged as unchecked; linked words and back-links re-checked; lint clean; stamped.
+- 成家立業: opened 孟子/滕文公上 on wikisource, confirmed 「民之為道也…」 and linked it; labelled Example Sentence 1 as a real quotation that does not contain the phrase and examples 2–4 as constructed; the Zdic 《夢粱錄》 passage still could not be reached, so it stays as reported (no link); back-links re-checked; lint clean; stamped.
+- 愛隣如自: opened 聖經 (和合本) 利未記 and 馬太福音 on wikisource, confirmed Leviticus 19:18 and Matthew 22:39 (愛人如己) and linked both in Source and Origin; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; back-links re-checked; lint clean; stamped.
+- 愛主耳錐: opened 聖經 (和合本)/出埃及記 on wikisource, confirmed Exodus 21:5–6 and linked it in Source and Origin (noting its orthographic variants); Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; back-links re-checked; lint clean; stamped.
+- 意味深長: opened 晦菴集卷四十七 on wikisource, confirmed the 答呂子約 sentence and linked it in Source and Origin; Example Sentence 1 still gave the removed 《朱子語類》 quotation (dated 1270), replaced with the verified letter sentence; the 答張敬夫 quotation has no link yet; back-links re-checked; lint clean; stamped.
+- 形助顕理: 単亜語 morphology maxim with no external source (nothing to link); replaced two mentions of an "SVO framework" with the language's own topic-comment, modifier-first structure so the page agrees with 先題後述 and 修飾先行; linked chengyu and back-links re-checked; lint clean; stamped.
+- 弱肉強食: opened 送浮屠文暢師序 on wikisource, confirmed the quoted passage word for word and added the link to Source and Origin; back-links re-checked; the Meiji/Social Darwinism remark stays flagged as unchecked; lint clean; stamped.
+- 弱不禁風: Example Sentence 1 gave an invented couplet dated "1196" as Lu You; replaced it with the real line from 《劍南詩稿》卷三十四 already quoted in Source and Origin; relabelled the Daiyu example as constructed (the phrase is not in 《紅樓夢》) and hedged the Cultural Notes' Daiyu remark; back-links checked; lint clean; stamped.
+- 引出奴家: Exodus 20:2 citation (KJV and 和合本, already checked on cnbible.com), linked words and back-links re-checked; no change needed; lint clean; stamped.
+- 左由右至: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked pages and back-links re-checked; lint clean; stamped.
+- 少即是多: 《道德經》 chapter 48 quotation (already checked on wikisource) and back-links re-checked; Browning and Mies attributions already flagged on the page as not read at source; no change needed; lint clean; stamped.
+- 尊王攘夷: Example Sentence 1 still quoted the Gongyang line 「葵丘之盟，尊周室，攘夷狄…」 that the Source section had removed as not found in the text; replaced it with the checked 僖公四年 sentence; removed the alias that duplicated the page's own name; 《論語·憲問》 remark left flagged as not re-checked; back-links checked; lint clean; stamped.
+- 尊敬父母: Exodus 20:12 citation (KJV and 和合本, already checked on cnbible.com), linked words and chengyu and back-links re-checked; no change needed; lint clean; stamped.
+- 対牛弾琴: 《牟子理惑論》 passage (already checked on wikisource) and back-links re-checked; replaced the Korean example sentence, which used the vernacular phrase the page had removed as unattested, with one using 대우탄금; lint clean; stamped.
+- 安心立命: corrected the 《孟子·盡心上》 quotation to the wikisource wording 存其心，養其性 (the page had the contracted 存心養性) and made Example Sentence 2 match the 《景德傳燈錄》 wording already quoted in Source and Origin; back-links re-checked; lint clean; stamped.
+- 孤立無援: 《後漢書·班梁列傳》 passage (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
 - 孝親天賜: Exodus 20:12 and Ephesians 6:2–3 citations (KJV and 和合本, already checked on cnbible.com) and back-links re-checked; no change needed; lint clean; stamped.
 - 天衣無縫: replaced Example Sentence 1, which gave an invented dialogue under the old title 《靈怪録·郭翰》, with the verified 《太平廣記》卷六十八 wording already quoted in Source and Origin (source named 《靈怪集》); back-links re-checked; lint clean; stamped.
 - 天真乱漫: Gong Kai citation (Ministry of Education entry, as the page states) and 《莊子·漁父》 passage (already checked on wikisource) and back-links re-checked; no change needed; lint clean; stamped.
