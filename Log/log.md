@@ -5,6 +5,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 勿貪隣物: Exodus 20:17 citation (KJV, 和合本 and 新譯本, already checked) and back-links re-checked; no change needed; lint clean; stamped.
+- 勿妄称名: Exodus 20:7 citation (KJV and 和合本, already checked) and back-links re-checked; no change needed; lint clean; stamped.
+- 加哀痛産: Genesis 3:16 citation (KJV and 和合本, already checked) and back-links re-checked; the Hebrew-doubling remark stays flagged as unchecked; no change needed; lint clean; stamped.
+- 刻舟求剣: confirmed the 《呂氏春秋·察今》 passage on wikisource (呂氏春秋/卷十五) and noted that later quotations (太平御覽, 事類賦) read 刻 for 契, which is closer to the idiom; back-links re-checked; lint clean; stamped.
+- 内柔外剛: corrected a real error: the page listed 外柔內剛 as an interchangeable variant and alias, but it is the opposite idiom (soft outside, firm inside); replaced the alias with 外剛內柔 (a reordering with the same meaning) and rewrote Extended Meaning, Cultural Notes and Sentiment to follow Wiktionary ("tough outside, weak-willed or gentle within", neither praise nor blame); the 易經 passage and back-links re-checked; stamped.
 - 六作一止: Exodus 20:9–10 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
 - 公明正大: confirmed the 朱熹 sentence (公明正大之人用於世…) in 《晦菴集》卷七十六 and its attribution to 〈金華潘公文集序〉 (via 《易附錄纂註》) on wikisource; linked words and pages and back-links re-checked; no change needed; lint clean; stamped.
 - 八紘一宇: tried to find the 日本書紀 line on Chinese wikisource and found it only quoted in a secondary document, so the page keeps its note that the quotation rests on Japanese Wikipedia; the disputed-date caveat for Tanaka Chigaku stays; linked word and back-links re-checked; no change needed; lint clean; stamped.
