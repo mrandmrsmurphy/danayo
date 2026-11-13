@@ -5,6 +5,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 ## 2026-11-13
 
 ### Oldest-page pass (characters, words, chengyu)
+- 六作一止: Exodus 20:9–10 citation (ESV and 和合本, already checked) and back-links re-checked; Japanese reading changed from katakana to hiragana in frontmatter and Pronunciations; lint clean; stamped.
+- 公明正大: confirmed the 朱熹 sentence (公明正大之人用於世…) in 《晦菴集》卷七十六 and its attribution to 〈金華潘公文集序〉 (via 《易附錄纂註》) on wikisource; linked words and pages and back-links re-checked; no change needed; lint clean; stamped.
+- 八紘一宇: tried to find the 日本書紀 line on Chinese wikisource and found it only quoted in a secondary document, so the page keeps its note that the quotation rests on Japanese Wikipedia; the disputed-date caveat for Tanaka Chigaku stays; linked word and back-links re-checked; no change needed; lint clean; stamped.
+- 光明正大: confirmed the 《朱子語類》卷十五 quotation (洞然光明正大…) on wikisource; removed the alias 公明正大, which is the name of its own chengyu page (and which the Cultural Notes already treat as a separate close synonym); linked pages and back-links re-checked; stamped.
+- 先題後述: 単亜語 grammar term with no external citation; linked grammar and chengyu pages and back-links re-checked; the Li and Thompson topic-prominence remark left as written (not re-read); no change needed; lint clean; stamped.
+- 先画後点: 単亜語 stroke-order term with no external citation; flagged the Chinese and Japanese phrasings of the rule as unchecked; linked word and back-links re-checked; lint clean; stamped.
+- 先横後豎: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings and the 勒/努 stroke names as unchecked; linked pages and back-links re-checked; lint clean; stamped.
+- 先撇後捺: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked page and back-links re-checked; lint clean; stamped.
 - 先外後内: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked page and back-links re-checked; lint clean; stamped.
 - 先填後閉: 単亜語 stroke-order term with no external citation; flagged the Chinese and Japanese phrasings of the rule as unchecked; linked page and back-links re-checked; lint clean; stamped.
 - 先中後両: 単亜語 stroke-order term with no external citation; flagged the three regional phrasings of the rule as unchecked; linked pages and back-links re-checked; lint clean; stamped.
