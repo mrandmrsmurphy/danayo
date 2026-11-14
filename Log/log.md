@@ -6,6 +6,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 鎋合.md`: size 1 = ruby 1 = corpus 1 (滑 on ⺢ㄊ), row 076 of 文法 - 99韻図 (`wat`) cited; added 滑's daughter readings and dropped "already confirmed across this sweep"; stamped 2026-11-14.
+- `lookup/CC/finals/韻 鍾.md`: size 50 = ruby 50 = corpus 50, groups 28 ㄛㄫ / 20 ⼄ㄫ / 1 ⼜ㄫ / 1 ㄛㄇ, row 007 of 文法 - 99韻図 (`ong/yong`) cited; replaced the "no rule, simplicity principle" account with the verified partial initial rule (all ㄐ/ㄑ/ㄅ/ㄆ/ㄈ characters take ㄛㄫ), added 凶 ≡ 匈/胸 and 縦/踪 readings, dropped the unverified "largest split on this project" claim; stamped 2026-11-14.
+- `lookup/CC/finals/韻 錫開.md`: size 23 = ruby 23 = corpus 23, groups 21 ㄝㄎ / 2 ㄧㄎ, row 127 of 文法 - 99韻図 (`ek`) cited; corrected the ㄉㄝㄎ crowd (six members: 敵, 翟, 迪, 笛, 滴, 的, not four) and added the Vietnamese readings of 冪/覓 and 荻; stamped 2026-11-14.
+- `lookup/CC/finals/韻 錫合.md`: size 0 = ruby 0 = corpus 0 (no character carries wek), row 128 of 文法 - 99韻図 (`wek`, no daughter data) cited; dropped the unverified statement about the rime's Middle Chinese inventory and the note about a removed stub; stamped 2026-11-14.
+- `lookup/CC/finals/韻 銜.md`: size 8 = ruby 8 = corpus 8, groups 6 ㄚㄇ / 1 ㄛㄇ / 1 ⼘ㄇ, row 149 of 文法 - 99韻図 (`am`) cited; 檻 ≡ 艦 shown in Mandarin, Korean and Vietnamese, 㽉's Korean 함 and Cantonese *ham3* added; stamped 2026-11-14.
 - `lookup/CC/finals/韻 鈬開.md`: size 34 = ruby 34 = corpus 34, all on ㄚㄎ, row 103 of 文法 - 99韻図 (`ak`) cited; added daughter readings and the counts of the shared syllables (ㄌㄚㄎ 6, ㄇㄚㄎ 5, ㄚㄎ 5, ㄍㄚㄎ 4, ㄐㄚㄎ 4); stamped 2026-11-14.
 - `lookup/CC/finals/韻 鈬合.md`: size 10 = ruby 10 = corpus 10, groups 5 ⺢ㄎ / 4 ㄚㄎ / 1 ㄛㄎ, row 104 of 文法 - 99韻図 (`wak/ak`) cited; 爆's vowel shift tied to Korean 폭 and to ㄅㄚㄎ also held by 駁 on 覺, 博 ≡ 駁 and 穫 ≡ 蠖 homophones added, "first documented on 戈一合" dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 迄.md`: size 2 = ruby 2 = corpus 2, both on ㄧㄊ, row 058 of 文法 - 99韻図 (`it`) checked; added the daughter readings of 乞 and 迄; stamped 2026-11-14.
