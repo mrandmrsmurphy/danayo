@@ -1,7 +1,7 @@
 ---
 size: 11
 middle_chinese_final: ɣiuᴇ
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-13
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
@@ -10,9 +10,9 @@ tags: [lookup]
 ## CJKV Evolution
 支B三合 [ɣiuᴇ] lands 9 of 11 characters on **⼔ㄧ**, matching the Vowels table's documented winner (`wei`) for this final.
 
-**為** is the standout exception. Its daughter readings (wèi, wai4, 위) look essentially identical to 委/萎/危/偽/倭's — there is no phonological reason it should differ. But the regular ⼔ㄧ slot already holds all 9 of those other characters, the single most crowded same-final slot found on this project so far, and 為 alone dodges it entirely, landing on **⼔ㄋ** instead.
+**為** is the standout exception. Its daughter readings (Mandarin *wèi*, Cantonese *wai4*, Korean 위, Vietnamese *vi*) are near-identical to those of the null-initial characters 偽, 委, 倭, 危 and 萎 (Korean 위 for four of them, Cantonese *wai* for 委, 倭 and 萎, Mandarin differing only in tone), so there is no phonological reason it should differ. The null-initial ⼔ㄧ syllable already holds those five, and 為 dodges the crowd, landing on **⼔ㄋ** instead.
 
-**錘** shares its MC initial (ɖ) exactly with 槌, which already occupies ㄐ⼔ㄧ. Rather than colliding, 錘 shifts to **ㄨㄧ**, both losing the ⼔ and switching from plain ㄐ to aspirated ㄑ in the same move.
+**錘** shares its MC initial (ɖ), Mandarin *chuí*, Cantonese *ceoi4* and Vietnamese *chuỳ* with 槌, which already occupies ㄐ⼔ㄧ; they differ only in Korean (추 against 퇴). Rather than colliding, 錘 shifts to **ㄨㄧ**, both losing the ⼔ and switching from plain ㄐ to aspirated ㄑ in the same move, which its Mandarin *ch-* and Korean 추 support.
 
 ## Characters
 ### In Use
