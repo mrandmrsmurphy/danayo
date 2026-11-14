@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 侵A** mostly evolved into ㄧㄇ, with a true-homophone pair diverging into two separate escapes (see below)
 
 ## CJKV Evolution
-侵A [iɪm] converges heavily: 21 of 25 characters land on **ㄧㄇ**, matching the `im` half of the Vowels table's documented dual winner (`im/um`, row 139 of the rime table). The `um` half is the 3-member **ㄨㄇ** group (凜, 冘, 稟).
+侵A [iɪm] converges heavily: 21 of 25 characters land on **ㄧㄇ**, matching the Vowels table's documented value (`im`, row 139 of 文法 - 99韻図). The `um` half is the 3-member **ㄨㄇ** group (凜, 冘, 稟).
 
 **凜** and **懍** are true homophones in Mandarin, Cantonese and Korean (both l-initial, *lǐn*, *lam5*, 름; only the Vietnamese tone differs, *lẫm* against *lầm*) dodging the crowded 4-member l-slot on the main group (林, 淋, 琳, 臨) — but by two different routes: 凜 lands on **ㄨㄇ** (the table's `um`), 懍 on **ㄜㄇ**, converging with neither the main group nor each other. **稟** (p, Mandarin *bǐng*, Cantonese *ban2*, Korean 품) lands alongside 凜 on ㄨㄇ, unconditioned; it is the only labial here whose initial is not flagged below.
 

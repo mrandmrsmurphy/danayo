@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 侵B** genuinely splits three ways, matching its own ambiguous documented D value
 
 ## CJKV Evolution
-侵B [ɣiɪm], like [[韻 登開|登開]], has an ambiguous Vowels-table D value (`im/um/om`, row 140 of the rime table), and the corpus confirms all three: 10 of 21 characters land on **ㄨㄇ** (um), 7 on **ㄧㄇ** (im), and 2 on **ㄛㄇ** (om) — plus 2 more on a fourth group, **ㄜㄇ**.
+侵B [ɣiɪm], like [[韻 登開|登開]], has an ambiguous Vowels-table D value (`um`, row 140 of the rime table), and the corpus confirms all three: 10 of 21 characters land on **ㄨㄇ** (um), 7 on **ㄧㄇ** (im), and 2 on **ㄛㄇ** (om) — plus 2 more on a fourth group, **ㄜㄇ**.
 
 The velar k/g/kʰ class scatters across three of the four groups (琴 and 欽 on ㄨㄇ; 今, 金, 禁, 襟, 禽 on ㄧㄇ; 錦 on ㄛㄇ), echoing the large same-initial-class scatters documented on [[韻 蒸|蒸]] and [[韻 之|之]]. **琴** and **禽** are true homophones too (both g-initial, Mandarin *qín*, Cantonese *kam4*, Korean 금, Vietnamese *cầm*), with 琴 on ㄨㄇ and 禽 on ㄧㄇ. **錦** (k, *jǐn*, *gam2*, 금) takes ㄎ rather than ㄍ as its initial and the vowel ㄛ: with ㄍㄧㄇ already holding 今, 金, 禁 and 襟, it escapes the crowded slot by changing both. **歆** and **鑫** are true homophones (both x-initial, Mandarin *xīn*, Cantonese *jam1*, Korean 흠) that diverge anyway, landing on ㄨㄇ and ㄜㄇ respectively.
 

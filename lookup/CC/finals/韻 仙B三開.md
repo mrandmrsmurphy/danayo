@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 仙B三開** mostly evolved into ⼶ㄋ, with three exceptions (see below)
 
 ## CJKV Evolution
-仙B三開 [ɣiᴇn] lands 8 of 11 characters on **⼶ㄋ**, matching the y-glide-bearing half (`yen`) of the Vowels table's documented dual winner (`yen/en`, row 079 of the rime table). The remaining 3 — 諺, 展, 纏 — land on **ㄝㄋ** instead (romanized *en*, against the main group's *yen*). For **展** and **纏** (retroflex ʈ/ɖ, both spelled ㄐ) the cause is the **phonotactic constraint** that ㄐ cannot carry a y-glide, so they cannot join the ⼶ㄋ group at all; they share their initial class only with each other. **諺** (MC initial ŋ, Mandarin *yàn*, Cantonese *jin6*, Korean 언, Vietnamese *ngạn*) has no same-initial neighbour on this page and no constraint explaining it: it simply drops the glide and spells as *'en*, as does 彦, its ŋ-initial counterpart on [[韻 仙A三開]] — an unconditioned outcome.
+仙B三開 [ɣiᴇn] lands 8 of 11 characters on **⼶ㄋ**, matching the Vowels table's documented value (`yen`, row 079 of 文法 - 99韻図). The remaining 3 — 諺, 展, 纏 — land on **ㄝㄋ** instead (romanized *en*, against the main group's *yen*). For **展** and **纏** (retroflex ʈ/ɖ, both spelled ㄐ) the cause is the **phonotactic constraint** that ㄐ cannot carry a y-glide, so they cannot join the ⼶ㄋ group at all; they share their initial class only with each other. **諺** (MC initial ŋ, Mandarin *yàn*, Cantonese *jin6*, Korean 언, Vietnamese *ngạn*) has no same-initial neighbour on this page and no constraint explaining it: it simply drops the glide and spells as *'en*, as does 彦, its ŋ-initial counterpart on [[韻 仙A三開]] — an unconditioned outcome.
 
 ## Characters
 ### In Use

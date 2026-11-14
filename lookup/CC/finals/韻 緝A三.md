@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 緝A三** genuinely three-way splits, extending its own documented two-way D ambiguity (see below)
 
 ## CJKV Evolution
-緝A三 [iɪp]'s Vowels-table D value is already listed as ambiguous (`ip/up`), and the corpus shows a third group besides: 10 of 18 characters land on **ㄧㄆ** (ip), 4 on **ㄨㄆ** (up), and 4 on a third group, **ㄜㄆ**.
+緝A三 [iɪp]'s Vowels-table D value is already listed as ambiguous (`ip`), and the corpus shows a third group besides: 10 of 18 characters land on **ㄧㄆ** (ip), 4 on **ㄨㄆ** (up), and 4 on a third group, **ㄜㄆ**.
 
 The sibilant/palatal class (d͡ʑ, ʑ, z, ɕ, t͡ɕ) scatters across all three groups (十, 拾 and 湿 on ㄧㄆ; 汁, 習, 襲 on ㄜㄆ; 霫 on ㄨㄆ), with the null-initial 揖 also on ㄜㄆ and the ts-initial 葺 and 潗 on ㄨㄆ, echoing the recurring scatter pattern documented on [[韻 之|之]], [[韻 蒸|蒸]], and [[韻 侵B|侵B]]. The l-initial class splits too: 立/笠 land on ㄧㄆ while 粒 lands on ㄨㄆ.
 

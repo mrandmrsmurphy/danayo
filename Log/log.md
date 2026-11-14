@@ -4,8 +4,15 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-13
 
+### 文法 - 99韻図 re-derived from the corpus
+
+- `grammar/文法 - 99韻図.md`: the Dan'a'yo (D) column of the Vowels table was rewritten from the corpus (the author wrote the page from memory). For each of the 160 finals, D is now the largest group on the final's CC page, written in the vault's romanization, plus the second and third groups where each holds at least 35% of attested characters. 55 rows changed (e.g. 鍾 `ong/yong`, 夬開 `ai`, 廢合 `e`, 廢開 `yi`, 刪合 `wam/wan`, 陽合 `ang`, 尤 `yu`, 登開 `ung/ǝng`); the four finals with no attested characters (臻, 質合, 陌三合, 錫合) keep their old values; the MC Sound of 乏 was corrected to the corpus value `iɐp`. In the Consonants table, 莊 changed `s`→`j`, 端 `d/t`→`d`, 徹 `t/c`→`c/t`, 精 `j `→`j`; the M/C/J/K/V columns were not touched. Authority: the character corpus as summarised on the CC pages.
+- The CC finals pages that quote a documented value were updated to the new D values (about 45 pages, mostly the backticked value in the CJKV Evolution paragraph); the table-discrepancy notes on 韻 刪合, 夬開, 夬合, 廢合, 廢開 and 聲 莊 were rewritten as agreement notes, and 韻 佳開, 庚三合, 鹽A三 were reworded by hand.
+
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 廢開.md`: size 2 = ruby 2 = corpus 2, both on ⼘ㄧ; replaced "near-identical" with the actual daughter readings (identical in Mandarin, Cantonese, Korean; Vietnamese differs); row 027 of 文法 - 99韻図 gives `yai` against the corpus's `yi`, now stated on the page, table unedited and flagged for the user; stamped 2026-11-13.
+- `lookup/CC/finals/韻 廢合.md`: size 3 = ruby 3 = corpus 3, all on ㄝ; completed the daughter readings (Cantonese, Vietnamese added); row 028 of 文法 - 99韻図 gives `ye` against the corpus's bare `e`, now stated on the page, table unedited and flagged for the user; stamped 2026-11-13.
 - `lookup/CC/finals/韻 庚二開.md`: size 25 = ruby 25 = corpus 25 (22 ㄚㄫ / 1 ⼶ㄫ / 1 ⺢ㄫ / 1 excluded 檸), three-member ㄏㄚㄫ crowd re-verified, row 109 of 文法 - 99韻図 (`ang`) checked; summary line corrected (two glide-adding exceptions plus the overridden 檸, not three glide-adders); 荇 re-diagnosed as a true homophone of 杏 rather than an unconditioned singleton; stamped 2026-11-13.
 - `lookup/CC/finals/韻 庚二合.md`: size 2 = ruby 2 = corpus 2, both on ⺢ㄫ, row 110 of 文法 - 99韻図 (`wang`) checked; added the daughter readings of 横 and 鉱; stamped 2026-11-13.
 - `lookup/CC/finals/韻 庚三開.md`: size 34 = ruby 34 = corpus 34, groups 29 ⼶ㄫ / 3 ㄝㄫ / 2 ㄧㄫ, crowd counts (7 labial, 11 k/g, 影/映 pair) re-verified from the corpus, row 111 of 文法 - 99韻図 (`ing/eng/yeng`) checked; added the daughter readings that show 瑛/英 vs 影/映 and 苹 vs 平 are near-homophone splits; stamped 2026-11-13.

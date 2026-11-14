@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 仙A三合** splits into ㄝㄋ vs ⼔ㄋ, with several smaller intra-class exceptions (see below)
 
 ## CJKV Evolution
-仙A三合 [iuᴇn] splits fairly evenly: 9 characters land on **ㄝㄋ** and 8 on **⼔ㄋ**, together matching the Vowels table's documented dual winner (`yen/wen`).
+仙A三合 [iuᴇn] splits fairly evenly: 9 characters land on **ㄝㄋ** and 8 on **⼔ㄋ**, together matching the Vowels table's documented winner (`en`).
 
 The final's yod-initial (j) characters themselves split further: 鳶, 縁, and 鉛 land on **⼶ㄋ**, while 沿 — sharing that same j initial — lands on **⼔ㄇ** instead, alongside 船. This is yet another instance of the "same initial, arbitrary outcome" pattern confirmed repeatedly across this sweep.
 

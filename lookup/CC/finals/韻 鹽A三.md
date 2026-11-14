@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 鹽A三** actually converges more on a plain group than its own documented y-glide winner (see below)
 
 ## CJKV Evolution
-鹽A三 [iᴇm] splits 12–8 between **ㄝㄇ** (plain, the plurality in this corpus) and **⼶ㄇ** (y-glide, matching the Vowels table's documented winner `yem`) — the documented winner is actually the minority outcome here.
+鹽A三 [iᴇm] splits 12–8 between **ㄝㄇ** (plain, matching the Vowels table's documented value `em`, row 153 of 文法 - 99韻図) and **⼶ㄇ** (y-glide), the plurality group and the minority respectively.
 
 **冉**, **染**, and **髯** all share the same phonetic root (冉) and the same ȵ initial — 冉 and 染 are even true homophones (both Mandarin *rǎn*, Cantonese *jim5*, Korean 염) — yet all three land on three different groups: 冉 on ⼶ㄇ, 染 on **⼄ㄇ**, and 髯 on **ㄛㄇ**. A three-way phonetic-family scatter, deliberately avoiding convergence, matching the pattern documented on [[韻 豪|豪]]'s 喿/竃/藻.
 

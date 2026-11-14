@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 支B三開** splits by initial type into ㄨㄧ vs ㄜㄧ, with several smaller exceptions (see below)
 
 ## CJKV Evolution
-支B三開 [ɣiᴇ] shows the dual outcome the Vowels table already documents (`wi/i`): 10 real-initial characters land on **ㄨㄧ**, while all 8 null-initial characters (倚, 儀, 宜, 椅, 義, 議, 誼, 蟻) land on **ㄜㄧ** instead — a clean initial-type split, not just a spelling artifact of glide fusion.
+支B三開 [ɣiᴇ] shows the dual outcome the Vowels table already documents (`ui`): 10 real-initial characters land on **ㄨㄧ**, while all 8 null-initial characters (倚, 儀, 宜, 椅, 義, 議, 誼, 蟻) land on **ㄜㄧ** instead — a clean initial-type split, not just a spelling artifact of glide fusion.
 
 A further 6 characters (被, 妓, 疲, 皮, 碑, 魑) drop the w-glide entirely and land on plain **ㄧ**. Four of these — 被, 疲, 皮, 碑 — are the same labial (b/p) family already documented scattering away from a w-glide outcome on [[聲 並|聲並]] (the 皮/疲/被 finding); 妓 dodges an already-crowded ㄍㄨㄧ (shared by 寄, 奇, 技, 騎); and 魑 has no daughter-language support either way (Mandarin chī, Cantonese ci1, Korean 치 show no /u/ quality, but neither does 知's identical-looking daughter set, and 知 still gets the w-glide) — a genuine unconditioned per-character pick.
 

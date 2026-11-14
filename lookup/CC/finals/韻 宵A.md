@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 宵A** splits into ⼄ㄨ vs ㄛㄨ, loosely tracking affricate initials, plus smaller exceptions (see below)
 
 ## CJKV Evolution
-宵A [iᴇu] splits 27-12 between **⼄ㄨ** and **ㄛㄨ**, matching the Vowels table's documented winner (`ou`). The split loosely tracks initial type — 9 of the 12 ㄛㄨ members are affricate-initial (t͡s/t͡ɕ/d͡ʑ: 椒, 詔, 蕉, 招, 照, 劭, 焦, 昭, 沼), while ⼄ㄨ is dominated by sibilant fricatives, nasals, liquids, and glides — but it isn't a clean rule: **擾** and **繞** share the identical palatal-nasal initial (ȵ) and share Cantonese *jiu*, Korean 요 and Vietnamese *nhiễu* (differing only in Mandarin tone, *rǎo* vs *rào*), yet land on opposite sides, another instance of the recurring "same initial, arbitrary outcome" pattern.
+宵A [iᴇu] splits 27-12 between **⼄ㄨ** and **ㄛㄨ**, matching the Vowels table's documented winner (`you`). The split loosely tracks initial type — 9 of the 12 ㄛㄨ members are affricate-initial (t͡s/t͡ɕ/d͡ʑ: 椒, 詔, 蕉, 招, 照, 劭, 焦, 昭, 沼), while ⼄ㄨ is dominated by sibilant fricatives, nasals, liquids, and glides — but it isn't a clean rule: **擾** and **繞** share the identical palatal-nasal initial (ȵ) and share Cantonese *jiu*, Korean 요 and Vietnamese *nhiễu* (differing only in Mandarin tone, *rǎo* vs *rào*), yet land on opposite sides, another instance of the recurring "same initial, arbitrary outcome" pattern.
 
 Three labial-initial characters (標, 漂, 杪) drop the -ㄨ entirely, landing on bare **⼄**; 杪 dodges a 2-member ㄇ⼄ㄨ crowd (妙, 秒), while 標/漂 have no same-initial competitor to explain the shift. **小** and **鞘** (both s-initial) similarly land on bare **ㄛ**. **礁** dodges a 7-member ㄐㄛㄨ crowd (椒, 詔, 蕉, 照, 焦, 昭, 沼, the first, third and fifth t͡s-initial like 礁) via a vowel-shift, landing on **ㄚㄨ**.
 
