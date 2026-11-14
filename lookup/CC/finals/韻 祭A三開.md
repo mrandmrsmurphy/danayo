@@ -1,16 +1,16 @@
 ---
 size: 17
 middle_chinese_final: iᴇi
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 祭A三開** evolved into ㄝ (see below)
 
 ## CJKV Evolution
-祭A三開 [iᴇi] lands 14 of 17 characters on **ㄝ**, matching the Vowels table's documented winner (`e`). 裔 and 曳 (both yod-initial) spell **⼶**, the established null/glide-initial convention seen throughout this sweep, not a distinct final-level fact.
+祭A三開 [iᴇi] lands 14 of 17 characters on **ㄝ**, matching the Vowels table's documented winner (`e`). 裔 and 曳 (both yod-initial) spell **⼶**, the established null/glide-initial convention, not a distinct final-level fact; both share Korean 예 and Vietnamese *duệ*.
 
-**制** is the one real exception: it shares its MC initial (t͡ɕ) with 製, which already occupies ㄐㄝ. Rather than colliding, 制 adds a trailing ㄧ and lands on **ㄝㄧ**.
+**制** is the one real exception: it shares its MC initial (t͡ɕ) with 製, which already occupies ㄐㄝ (together with 際), and is identical to 製 in Mandarin (*zhì*), Cantonese (*zai3*) and Korean (제). Rather than colliding, 制 adds a trailing ㄧ and lands on **ㄝㄧ**; 際 also shares Cantonese *zai3* and Korean 제.
 
 ## Characters
 ### In Use

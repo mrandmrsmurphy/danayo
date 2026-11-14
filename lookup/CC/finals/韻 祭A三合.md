@@ -1,14 +1,14 @@
 ---
 size: 7
 middle_chinese_final: iuᴇi
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 祭A三合** evolved into ㄝ (see below)
 
 ## CJKV Evolution
-祭A三合 [iuᴇi] lands 5 of 7 characters on **ㄝ**, matching the Vowels table's documented winner (`e`). The remaining 2 (叡, 鋭) are both yod-initial and spell **⼶**, the established null/glide-initial convention — not a genuine exception. This final is fully explained without any unconditioned outliers.
+祭A三合 [iuᴇi] lands 5 of 7 characters on **ㄝ**, matching the Vowels table's documented winner (`e`). The remaining 2 (叡, 鋭) are both yod-initial and spell **⼶**, the established null/glide-initial convention — not a genuine exception. 叡 and 鋭 are identical in every daughter (Mandarin *ruì*, Cantonese *jeoi6*, Korean 예, Vietnamese *duệ*), and share Mandarin, Cantonese and Korean with the n-initial 芮 (*nhuế*), which takes ㄋㄝ from its own initial; 魏 (ŋ-initial, *wèi*, *ngai6*, 위) has no glide to fuse and stays on plain ㄝ. This final is fully explained without any unconditioned outliers.
 
 ## Characters
 ### In Use

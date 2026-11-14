@@ -6,6 +6,11 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 緝A三.md`: size 18 = ruby 18 = corpus 18, groups 10 ㄧㄆ / 4 ㄜㄆ / 4 ㄨㄆ, row 141 of 文法 - 99韻図 now `ip` (the page's "ambiguous" claim and summary line updated); 習/襲/霫 shown identical in Mandarin, Cantonese and Korean, 十/拾 and 粒's Cantonese difference added, cross-references to 之/蒸/侵B dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 祭B三開.md`: size 2 = ruby 2 = corpus 2, both on ㄝ, row 037 of 文法 - 99韻図 (`e`) checked; added the daughter readings of 憩 and 滞; stamped 2026-11-14.
+- `lookup/CC/finals/韻 祭B三合.md`: size 3 = ruby 3 = corpus 3, all on ㄝ, row 038 of 文法 - 99韻図 (`e`) checked; removed the link to the AIOS skill page and the "confirmed exceptions in both directions" history, replaced with the plain statement that no character carries a w-glide plus the daughter readings; stamped 2026-11-14.
+- `lookup/CC/finals/韻 祭A三開.md`: size 17 = ruby 17 = corpus 17, groups 14 ㄝ / 2 ⼶ / 1 ㄝㄧ, row 035 of 文法 - 99韻図 (`e`) checked; 制 shown to be identical to 製 in Mandarin, Cantonese and Korean (ㄐㄝ also holds 際), 裔/曳 shared readings added, "seen throughout this sweep" dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 祭A三合.md`: size 7 = ruby 7 = corpus 7, groups 5 ㄝ / 2 ⼶, row 036 of 文法 - 99韻図 (`e`) checked; added the daughter readings (叡 ≡ 鋭, shared with 芮; 魏 has no glide to fuse); stamped 2026-11-14.
 - `lookup/CC/finals/韻 真合.md`: size 1 = ruby 1 = corpus 1 (菌 on ⼜ㄋ), row 045 of 文法 - 99韻図 (`yun`) checked; added 菌's daughter readings; stamped 2026-11-14.
 - `lookup/CC/finals/韻 眞B開.md`: size 16 = ruby 16 = corpus 16, groups 14 ㄧㄋ / 1 ㄨㄋ / 1 ㄧㄇ, the 5-member ㄇㄧㄋ crowd verified, row 044 of 文法 - 99韻図 (`in`) checked; 閔 ≡ 憫 and 饉 ≡ 僅 shown from the daughters, 饉's slot corrected (ㄍㄧㄋ also held on 欣, ㄍㄨㄋ on 文; the page said it dropped the vowel and its slot held one member), "familiar" wording dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 眞A開.md`: size 53 = ruby 53 = corpus 53, groups 51 ㄧㄋ / 1 ㄧㄇ / 1 ㄝㄋ, the 15-member ㄙㄧㄋ and 4-member ㄅㄧㄋ crowds re-verified, row 043 of 文法 - 99韻図 (`in`) checked; dropped the unverified "record" claim about 模 and the history-style cross-references, added 申 ≡ 身/伸 in all four daughters and 頻 as a near-homophone of 賓/瀕 (no daughter m coda); stamped 2026-11-14.

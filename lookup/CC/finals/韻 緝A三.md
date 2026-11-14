@@ -1,16 +1,16 @@
 ---
 size: 18
 middle_chinese_final: iɪp
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
-> **Final 緝A三** genuinely three-way splits, extending its own documented two-way D ambiguity (see below)
+> **Final 緝A三** splits three ways, with ㄧㄆ the largest group (see below)
 
 ## CJKV Evolution
-緝A三 [iɪp]'s Vowels-table D value is already listed as ambiguous (`ip`), and the corpus shows a third group besides: 10 of 18 characters land on **ㄧㄆ** (ip), 4 on **ㄨㄆ** (up), and 4 on a third group, **ㄜㄆ**.
+緝A三 [iɪp] lands 10 of 18 characters on **ㄧㄆ** (ip), matching the Vowels table's documented value (`ip`, row 141 of 文法 - 99韻図), while 4 land on **ㄨㄆ** (up) and 4 on **ㄜㄆ**.
 
-The sibilant/palatal class (d͡ʑ, ʑ, z, ɕ, t͡ɕ) scatters across all three groups (十, 拾 and 湿 on ㄧㄆ; 汁, 習, 襲 on ㄜㄆ; 霫 on ㄨㄆ), with the null-initial 揖 also on ㄜㄆ and the ts-initial 葺 and 潗 on ㄨㄆ, echoing the recurring scatter pattern documented on [[韻 之|之]], [[韻 蒸|蒸]], and [[韻 侵B|侵B]]. The l-initial class splits too: 立/笠 land on ㄧㄆ while 粒 lands on ㄨㄆ.
+The sibilant/palatal class (d͡ʑ, ʑ, z, ɕ, t͡ɕ) scatters across all three groups (十, 拾 and 湿 on ㄧㄆ; 汁, 習, 襲 on ㄜㄆ; 霫 on ㄨㄆ), with the null-initial 揖 also on ㄜㄆ and the ts-initial 葺 and 潗 on ㄨㄆ. The daughters show some of it as true homophony: 習, 襲 and 霫 are identical in Mandarin (*xí*), Cantonese (*zaap6*) and Korean (습), yet 習 and 襲 take ㄙㄜㄆ and 霫 takes ㄙㄨㄆ; 十 and 拾 share Mandarin *shí*, Cantonese *sap6* and Vietnamese *thập*. The l-initial class splits too: 立 and 笠 (Mandarin *lì*, Korean 립) land on ㄧㄆ while 粒 (*lì*, 립, but Cantonese *nap1*) lands on ㄨㄆ.
 
 ## Characters
 ### In Use

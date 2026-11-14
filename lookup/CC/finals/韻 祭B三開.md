@@ -1,14 +1,14 @@
 ---
 size: 2
 middle_chinese_final: ɣiᴇi
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 祭B三開** evolved into ㄝ
 
 ## CJKV Evolution
-祭B三開 [ɣiᴇi] has only 2 characters, 憩 and 滞, and both converge on **ㄝ**, matching the Vowels table's documented winner (`e`) — no exceptions.
+祭B三開 [ɣiᴇi] has only 2 characters, 憩 and 滞, and both converge on **ㄝ**, matching the Vowels table's documented winner (`e`, row 037 of 文法 - 99韻図) — no exceptions. Their daughter readings are Mandarin *qì*/*zhì*, Cantonese *hei3*/*zai6*, Korean 게/체 and Vietnamese *khế*/*chệ*; they differ in initial and in every reading, so neither is a homophone of the other.
 
 ## Characters
 ### In Use

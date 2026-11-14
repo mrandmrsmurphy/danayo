@@ -1,7 +1,7 @@
 ---
 size: 3
 middle_chinese_final: ɣiuᴇi
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
@@ -10,7 +10,7 @@ tags: [lookup]
 ## CJKV Evolution
 祭B三合 [ɣiuᴇi] has only 3 characters (彗, 穢, 衛), and all three converge on **ㄝ**, matching the Vowels table's documented winner (`e`).
 
-Worth flagging: this is a 合 (rounded) final, yet none of its 3 characters carry a w-glide — the mirror image of the counter-example already found on [[韻 佳開|佳開]] (an 開 final that unexpectedly *did* carry one). Between the two, the "合→w-glide" rule documented in [[skill_cc_phonology]] now has confirmed exceptions in both directions; it remains a strong tendency (the large majority of 開/合 pairs still follow it cleanly) but is clearly not exceptionless.
+This is a 合 (rounded) final, yet none of its 3 characters carries a w-glide, so the 合 → w-glide tendency has no support here. The daughters do show the rounding: Cantonese *wai* for all three (*wai6*, *wai3*, *wai6*), Mandarin *huì*/*huì*/*wèi*, and Korean 혜/예/위. 彗 and 穢 share Mandarin *huì* but differ in Cantonese tone and in Korean, so none is a homophone of another.
 
 ## Characters
 ### In Use
