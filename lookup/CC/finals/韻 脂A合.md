@@ -1,18 +1,18 @@
 ---
 size: 21
 middle_chinese_final: iuɪ
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 脂A合** evolved into ㄨㄧ, with two homophony-driven exceptions (see below)
 
 ## CJKV Evolution
-脂A合 [iuɪ] is the rounded counterpart of [[韻 脂A三開|脂A三開]], and shows the same clean chongniu-A convergence: 16 of 21 characters land on **ㄨㄧ**, matching the Vowels table's documented winner (`ui`).
+脂A合 [iuɪ] is the rounded counterpart of [[韻 脂A三開|脂A三開]], and converges cleanly in the same way: 16 of 21 characters land on **ㄨㄧ**, matching the Vowels table's documented winner (`ui`).
 
-**誰** is the more interesting exception. Its regular outcome would be ㄙㄨㄧ, but that slot already holds 5 characters (穂, 雖, 粋, 綏, 遂) — the most crowded syllable on this page. Rather than picking a new vowel, 誰 instead borrows the null-initial spelling convention normally reserved for yod/glide-initial characters, landing on **⼶ㄧ** alongside 唯, 遺, and 維 — a distinct kind of escape from the ones seen so far (reusing an existing group's spelling rather than inventing a new one).
+**誰** is the more interesting exception. Its regular outcome would be ㄙㄨㄧ, but that slot already holds 5 characters (穂, 雖, 粋, 綏, 遂) — the most crowded syllable on this page. Rather than picking a new vowel, 誰 keeps the ㄙ initial and swaps the w-glide for the y-glide, landing on **ㄙ⼶ㄧ**, the glide spelling that 唯, 遺 and 維 (null-initial **⼶ㄧ**) also carry. It shares Cantonese *seoi* and Korean 수 with 雖, 綏 and 遂 (*shéi*/*seoi4* against *suī*, *seoi1*), so this is a near-homophone escape.
 
-**悸** dodges a smaller but still real collision: its regular ㄍㄨㄧ already holds 3 characters (季, 愧, 癸), so it drops the w-glide and lands on plain **ㄍㄧ**.
+**悸** is a true homophone of 季 in Mandarin (*jì*), Cantonese (*gwai3*) and Korean (계), and its regular ㄍㄨㄧ already holds 季, 愧 and 癸, so it drops the w-glide and lands on plain **ㄍㄧ**, a syllable that characters of other finals (居, 己, 記) also occupy.
 
 ## Characters
 ### In Use
