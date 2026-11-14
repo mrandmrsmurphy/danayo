@@ -1,14 +1,14 @@
 ---
 size: 1
 middle_chinese_final: ɣiuᴇt
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 薛B三合** has a single character, 綴
 
 ## CJKV Evolution
-薛B三合 [ɣiuᴇt] has only one character in the corpus, 綴, which lands on **⼔ㄊ** — carrying the w-glide expected for a 合 (rounded) final, matching the Vowels table's documented winner (`wet`).
+薛B三合 [ɣiuᴇt] has only one character in the corpus, 綴, which lands on **⼔ㄊ** — carrying the w-glide expected for a 合 (rounded) final, matching the Vowels table's documented winner (`wet`, row 084 of 文法 - 99韻図). Its daughter readings are Mandarin *zhuì*, Cantonese *zeoi3*, Korean 철 and Vietnamese *chuyết*; the Mandarin and Cantonese vowels are rounded and the Korean and Vietnamese keep a -t/-l-type coda. With one character there is no group to split, so there are no exceptions to diagnose.
 
 ## Characters
 ### In Use

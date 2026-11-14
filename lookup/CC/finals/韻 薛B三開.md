@@ -1,16 +1,16 @@
 ---
 size: 8
 middle_chinese_final: ɣiᴇt
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 薛B三開** evolved into ㄝㄊ, with one exception (see below)
 
 ## CJKV Evolution
-薛B三開 [ɣiᴇt] is nearly uniform: 7 of 8 characters land on **ㄝㄊ**, matching the Vowels table's documented winner (`et`).
+薛B三開 [ɣiᴇt] is nearly uniform: 7 of 8 characters land on **ㄝㄊ**, matching the Vowels table's documented winner (`et`, row 083 of 文法 - 99韻図).
 
-**屮** is the lone exception, landing on **ㄧㄊ** — and it's a particularly clean illustration of the "no findable rule" phenomenon: its daughter readings (chè, cit3, 철) are *identical* to 撤's, which stays on the regular ㄉㄝㄊ. Two characters, matching MC-derived pronunciation in all three checked daughter languages, still diverge — echoing the 瑟/虱 pair on [[韻 櫛|櫛]].
+**屮** is the lone exception, landing on **ㄧㄊ**. Its daughter readings (Mandarin *chè*, Cantonese *cit3*, Korean 철, Vietnamese *triệt*) are identical to those of 撤 and 澈, which stay on ㄝㄊ as ㄉㄝㄊ and ㄐㄝㄊ; the three also differ in their initial letter (ㄊ for 屮, whose MC initial is ʈʰ, against ㄉ for 撤 and ㄐ for 澈, whose MC initial is ɖ in both cases). So the vowel difference sits alongside an initial-letter difference that the character pages own.
 
 ## Characters
 ### In Use

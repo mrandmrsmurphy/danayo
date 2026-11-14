@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 藥開.md`: size 19 = ruby 19 = corpus 19, groups 10 ⼘ㄎ / 6 ㄚㄎ / 2 ⺢ㄎ / 1 ㄧㄎ, row 107 of 文法 - 99韻図 (`yak`) cited; 勺 re-diagnosed as a crowding escape from ㄐㄚㄎ (homophone of 酌 in Cantonese and Korean) instead of an "arbitrary" case, 溺's ㄧㄎ tied to its Cantonese *nik6* and Korean 닉; stamped 2026-11-14.
+- `lookup/CC/finals/韻 藥合.md`: size 2 = ruby 2 = corpus 2, groups 1 ㄚㄎ / 1 ㄛㄎ (攫 on a free syllable by fiat), row 108 of 文法 - 99韻図 now `ak/ok` (the page's "worth noting the mismatch" removed), Vietnamese readings added, "confirmed repeatedly elsewhere in this sweep" dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 薛B三開.md`: size 8 = ruby 8 = corpus 8, groups 7 ㄝㄊ / 1 ㄧㄊ, row 083 of 文法 - 99韻図 (`et`) cited; 屮's comparison widened from 撤 to 撤 and 澈 (identical in all four daughters, with ㄉ/ㄐ/ㄊ initial letters differing: ɖ gives ㄉ for 撤 and ㄐ for 澈, left on the character pages), the 瑟/虱 cross-reference dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 薛B三合.md`: size 1 = ruby 1 = corpus 1 (綴 on ⼔ㄊ), row 084 of 文法 - 99韻図 (`wet`) checked; added 綴's daughter readings; stamped 2026-11-14.
 - `lookup/CC/finals/韻 薛A三開.md`: size 13 = ruby 13 = corpus 13 (the prose said 12 characters, 11 on ㄝㄊ; it is 13 and 12), row 081 of 文法 - 99韻図 (`et`) cited; added 熱's daughter readings and 烈/列/裂 homophony; stamped 2026-11-14.
 - `lookup/CC/finals/韻 薛A三合.md`: size 8 = ruby 8 = corpus 8 after pipe-aliasing 雪's ruby link; groups 5 ⼔ㄊ / 2 ⼶ㄊ / 1 ㄝㄊ, row 082 of 文法 - 99韻図 (`wet`) cited in place of the "half of" wording; 劣 re-diagnosed from "unconditioned singleton" to the l-initial w-glide avoidance (as on 戈一合), 悦 ≡ 閲 and 雪/説 shared readings added; stamped 2026-11-14.
 - `lookup/CC/finals/韻 蕭.md`: size 28 = ruby 28 = corpus 28, groups 12 ⼘ㄨ / 9 ㄛㄨ / 2 ㄛ / 2 ⼘ / 1 each ㄨㄛ, ⼄ㄨ, ㄚㄨ, the eight-member ㄌ⼘ㄨ crowd verified, row 093 of 文法 - 99韻図 (`yau`, "roughly matching" replaced by the exact match) checked; 貂/鵰/彫 shown identical in Mandarin, Cantonese and Vietnamese, 尞 ≡ 聊/寮 added, the 諄/豪 cross-reference dropped; stamped 2026-11-14.
