@@ -19,6 +19,9 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 戈三開.md`: size 2 = ruby 2 = corpus 2 after pipe-aliasing 諸's ruby link; row 096 of 文法 - 99韻図 (`ya/a`) checked; the 諸 data-quality flag now cites en.Wiktionary 諸 (魚 /t͡ɕɨʌ/ and 麻 /t͡ɕia/ readings, neither 戈三開), read 2026-11-13; added that 伽 has `mc_id: 0`; 諸's final left as the corpus has it (character page unedited, still flagged for re-check); stamped 2026-11-13.
+- `lookup/CC/finals/韻 戈三合.md`: size 1 = ruby 1 = corpus 1 (靴 on ⺢), row 097 of 文法 - 99韻図 (`wa`) checked; added 靴's daughter readings; stamped 2026-11-13.
+- `lookup/CC/finals/韻 戈一合.md`: size 36 = ruby 36 = corpus 36, groups 21 ⺢ / 13 ㄚ / 1 ㄜ / 1 ⺢ㄇ re-counted, row 095 of 文法 - 99韻図 (`wa/a`) checked; fixed 破's crowd claim (ㄆㄚ holds 玻 and 叵 only, 頗 is on ㄈㄚ), added the tone-only near-homophone evidence for 破/叵 and 課/顆, removed a link to the AIOS skill page and "cleanest confirmation yet"; stamped 2026-11-13.
 - `lookup/CC/finals/韻 德開.md`: size 14 = ruby 14 = corpus 14, groups 10 ㄨㄎ / 4 ㄜㄎ, row 131 of 文法 - 99韻図 (`uk`) checked; 徳/得 divergence now shows Vietnamese differs too, 勒/肋 noted as true homophones, "documented repeatedly in this sweep" dropped; stamped 2026-11-13.
 - `lookup/CC/finals/韻 德合.md`: size 3 = ruby 3 = corpus 3, all on ㄛㄎ, row 132 of 文法 - 99韻図 (`ok`) checked; added the daughter readings (或/惑 exact homophones, 国 differs in initial only); stamped 2026-11-13.
 - `lookup/CC/finals/韻 微開.md`: size 15 = ruby 15 = corpus 15, all on ㄧㄜ, row 020 of 文法 - 99韻図 (`iǝ`) checked; dropped the "in this stretch of the sweep" wording and added the daughter readings and the ㄎ/ㄍ aspiration split; stamped 2026-11-13.
