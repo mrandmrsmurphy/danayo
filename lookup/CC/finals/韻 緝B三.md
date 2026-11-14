@@ -1,16 +1,16 @@
 ---
 size: 15
 middle_chinese_final: ɣiɪp
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 緝B三** genuinely two-way splits, matching its own documented ip/up ambiguity
 
 ## CJKV Evolution
-緝B三 [ɣiɪp] splits nearly evenly along its own documented ambiguous D value (`ip/up`): 8 of 15 characters land on **ㄧㄆ** (ip), and 7 land on **ㄨㄆ** (up).
+緝B三 [ɣiɪp] splits nearly evenly, and the Vowels table's documented value (`ip/up`, row 142 of 文法 - 99韻図) names both outcomes: 8 of 15 characters land on **ㄧㄆ** (ip), and 7 land on **ㄨㄆ** (up).
 
-The k/g class scatters across both groups — 急, 級, 給 land on ㄧㄆ while 及, 汲 land on ㄨㄆ — another instance of the same-initial-class scatter documented repeatedly in this sweep.
+The k/g class scatters across both groups — 急, 級, 給 land on ㄧㄆ while 及, 汲 land on ㄨㄆ; the daughters do not decide it, since 急, 級, 及 and 汲 all read Mandarin *jí* and Korean 급. Likewise 泣 (ㄎㄧㄆ) and 湆 (ㄎㄨㄆ) are identical in Mandarin (*qì*), Cantonese (*jap1*) and Korean (읍), so that pair is a true-homophone split.
 
 ## Characters
 ### In Use

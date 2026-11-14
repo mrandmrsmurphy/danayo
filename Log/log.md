@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 職合.md`: size 1 = ruby 1 = corpus 1 (域 on ㄨㄧㄎ), row 135 of 文法 - 99韻図 (`wik`, "close to" replaced by the exact match) checked; added 域's daughter readings; stamped 2026-11-14.
+- `lookup/CC/finals/韻 耕開.md`: size 12 = ruby 12 = corpus 12 after pipe-aliasing 硬's ruby link; groups 8 ㄚㄫ / 1 each ㄧㄫ, ㄨㄫ, ㄝㄫ, ㄜㄫ, row 117 of 文法 - 99韻図 (`ang`) checked; 箏 now diagnosed as identical to 争 in Mandarin and Korean (the page said none of the four had crowding), 萌's cross-final syllable noted, the rime-class aside removed; stamped 2026-11-14.
+- `lookup/CC/finals/韻 耕合.md`: size 3 = ruby 3 = corpus 3, all on ⼔ㄫ, row 118 of 文法 - 99韻図 (`weng`, "close to" replaced by the exact match) checked; 軣's ㄍ-for-x initial tied to its Cantonese *gwang1*, Vietnamese readings added; stamped 2026-11-14.
+- `lookup/CC/finals/韻 緝B三.md`: size 15 = ruby 15 = corpus 15, groups 8 ㄧㄆ / 7 ㄨㄆ, row 142 of 文法 - 99韻図 (`ip/up`) cited; the k/g scatter now shown with the shared Mandarin *jí* and Korean 급, 泣/湆 identified as a true-homophone split, "documented repeatedly in this sweep" dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 緝A三.md`: size 18 = ruby 18 = corpus 18, groups 10 ㄧㄆ / 4 ㄜㄆ / 4 ㄨㄆ, row 141 of 文法 - 99韻図 now `ip` (the page's "ambiguous" claim and summary line updated); 習/襲/霫 shown identical in Mandarin, Cantonese and Korean, 十/拾 and 粒's Cantonese difference added, cross-references to 之/蒸/侵B dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 祭B三開.md`: size 2 = ruby 2 = corpus 2, both on ㄝ, row 037 of 文法 - 99韻図 (`e`) checked; added the daughter readings of 憩 and 滞; stamped 2026-11-14.
 - `lookup/CC/finals/韻 祭B三合.md`: size 3 = ruby 3 = corpus 3, all on ㄝ, row 038 of 文法 - 99韻図 (`e`) checked; removed the link to the AIOS skill page and the "confirmed exceptions in both directions" history, replaced with the plain statement that no character carries a w-glide plus the daughter readings; stamped 2026-11-14.
