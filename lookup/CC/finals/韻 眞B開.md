@@ -1,16 +1,16 @@
 ---
 size: 16
 middle_chinese_final: ɣiɪn
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 眞B開** evolved into ㄧㄋ, with two escapees (see below)
 
 ## CJKV Evolution
-眞B開 [ɣiɪn] converges cleanly: 14 of 16 characters land on **ㄧㄋ**, matching the Vowels table's documented winner (`in`) and its own division-3A sibling [[韻 眞A開|眞A開]].
+眞B開 [ɣiɪn] converges cleanly: 14 of 16 characters land on **ㄧㄋ**, matching the Vowels table's documented winner (`in`) and the pattern of its division-3A sibling [[韻 眞A開|眞A開]].
 
-**閔** dodges a crowded ㄇㄧㄋ (5 members: 憫, 珉, 敏, 旻, 暋, all m-initial like 閔 itself) via the familiar coda-shift to **ㄧㄇ**. **饉** dodges a more modest 1-member ㄍㄧㄋ (僅, also g-initial) by dropping the vowel entirely, landing on **ㄨㄋ**.
+**閔** dodges a crowded ㄇㄧㄋ (5 members: 憫, 珉, 敏, 旻, 暋, all m-initial like 閔 itself) via a coda-shift to **ㄧㄇ**; 閔 is identical to 憫 in Mandarin (*mǐn*), Cantonese (*man5*), Korean (민) and Vietnamese (*mẫn*), and none of its readings has an m coda. **饉** is a true homophone of 僅 in Mandarin (*jǐn*), Cantonese (*gan2*) and Korean (근), and its regular syllable ㄍㄧㄋ is held by 僅 and also by 近, 勤, 斤 and others on [[韻 欣|欣]]; it takes the otherwise unused vowel, landing on **ㄍㄨㄋ**, a syllable that 君, 軍, 群 and 郡 on [[韻 文|文]] also occupy.
 
 ## Characters
 ### In Use

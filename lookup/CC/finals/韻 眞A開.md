@@ -1,7 +1,7 @@
 ---
 size: 53
 middle_chinese_final: iɪn
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
@@ -10,9 +10,9 @@ tags: [lookup]
 ## CJKV Evolution
 眞A開 [iɪn] converges cleanly: 51 of 53 characters land on **ㄧㄋ**, matching the Vowels table's documented winner (`in`).
 
-Within that group, **ㄙㄧㄋ** holds 15 characters (新, 身, 紳, 薪, 慎, 神, 伸, 晨, 腎, 呻, 訊, 辛, 臣, 信, 辰) — the single most crowded slot found anywhere in this sweep, surpassing 模's previous record of 13. **申**, sharing the same sibilant initial (ɕ) as several of them, dodges joining a 16th collision by shifting its vowel to **ㄝㄋ** instead.
+Within that group, **ㄙㄧㄋ** holds 15 characters (新, 身, 紳, 薪, 慎, 神, 伸, 晨, 腎, 呻, 訊, 辛, 臣, 信, 辰), the most crowded slot on this page and ahead of ㄐㄧㄋ (13). **申**, sharing the same sibilant initial (ɕ), is a true homophone of 身 and 伸 in Mandarin (*shēn*), Cantonese (*san1*), Korean (신) and Vietnamese (*thân*), and shifts its vowel to **ㄝㄋ** rather than join them.
 
-**頻** dodges a smaller but still real crowd — ㄅㄧㄋ already holds 4 characters (賓, 檳, 瀕, 浜), all p/b-initial like 頻 itself — by shifting its coda from -ㄋ to -ㄇ, landing on **ㄧㄇ**, the same overflow strategy already seen on 魯, 彤, 刪合, and 輸.
+**頻** dodges a smaller crowd — ㄅㄧㄋ already holds 4 characters (賓, 檳, 瀕, 浜), all p/b-initial like 頻 itself — by shifting its coda from -ㄋ to -ㄇ, landing on **ㄧㄇ**. It is a near-homophone of 賓 and 瀕 (Korean 빈 for all three; Mandarin *pín* against *bīn*, Cantonese *pan4* against *ban1*, Vietnamese *tần* against *tân*), though none of its daughter readings has an m coda.
 
 ## Characters
 ### In Use
