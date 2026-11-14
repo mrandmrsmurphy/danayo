@@ -6,6 +6,9 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- **CC initials and finals pass complete:** all 202 pages under `lookup/CC/initials` and `lookup/CC/finals` are stamped 2026-11-13 (109) or 2026-11-14 (93); `AIOS/scripts/lint_cc.py` reports 42 initial pages and 160 final pages in agreement with the characters (Dan'a'yo column accuracy 86.3% of 3,386 characters, bar 80%) and stamped `lookup/CC/Classical Chinese.md` 2026-11-14. The loop was cancelled.
+- `lookup/CC/finals/韻 齊開.md`: size 63 = ruby 63 = corpus 63, groups 58 ㄝㄧ / 4 ㄝ / 1 ⼶, crowd counts (ㄉㄝㄧ 6, ㄊㄝㄧ 8, ㄌㄝㄧ 7) verified, row 039 of 文法 - 99韻図 (`ei`) cited; added the homophone evidence for the four ㄝ escapees (弟/第, 啼/蹄, 氐/低, 梯/体) and 唳's Korean 려 and Cantonese *leoi6*, corrected the description of 唳's spelling (ㄌ⼶, not the null-initial ⼶) and dropped the 誰 cross-reference; stamped 2026-11-14.
+- `lookup/CC/finals/韻 齊合.md`: size 6 = ruby 6 = corpus 6, groups 5 ⼔ㄧ / 1 ㄨㄧ, row 040 of 文法 - 99韻図 (`wei`) cited; added 閨 ≡ 圭 (all four daughters) against 桂, and that ㄍㄨㄧ is also held on 脂A合; stamped 2026-11-14.
 - `lookup/CC/finals/韻 黠開.md`: size 3 = ruby 3 = corpus 3, all on ㄚㄊ, row 071 of 文法 - 99韻図 (`at`) cited; added the daughter readings (擦/刹 share Cantonese, Korean and Vietnamese); stamped 2026-11-14.
 - `lookup/CC/finals/韻 黠合.md`: size 2 = ruby 2 = corpus 2, both on ⺢ㄊ, row 072 of 文法 - 99韻図 (`wat`) cited; added the daughter readings of 刷 and 刮; stamped 2026-11-14.
 - `lookup/CC/finals/韻 麻二開.md`: size 48 = ruby 48 = corpus 48, groups 45 ㄚ / 2 ⼘ / 1 ⺢, crowd counts (ㄏㄚ 5, ㄐㄚ 3) verified, row 098 of 文法 - 99韻図 (`a`) cited; added the daughter readings (夏 ≡ 下, 紗 ≡ 沙, 渣/査); stamped 2026-11-14.
