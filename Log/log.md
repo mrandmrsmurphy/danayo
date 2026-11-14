@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 夬合.md`: size 2 = ruby 2 = corpus 2, both on ⺢ㄧ, row 030 of 文法 - 99韻図 (`wai`) checked; dropped the "in this sweep" wording and added the daughter readings of 快 and 話; row 029 (夬開) still carries `wai` and is flagged on 韻 夬開; stamped 2026-11-13.
+- `lookup/CC/finals/韻 嚴.md`: size 2 = ruby 2 = corpus 2, one character per group (⼘ㄇ, ⼶ㄇ), row 145 of 文法 - 99韻図 (`yam/yem`) checked; added the daughter readings of 欠 and 杴 from the character files; stamped 2026-11-13.
+- `lookup/CC/finals/韻 唐開.md`: size 50 = ruby 50 = corpus 50, groups 44 ㄚㄫ / 5 ⺢ㄫ / 1 ⼘ㄫ re-counted, row 101 of 文法 - 99韻図 (`ang`) checked; the aspiration remark narrowed to the aspirated affricate t͡sʰ (the stops pʰ, kʰ, tʰ stay in the main group), and 芒's homophone claim corrected (茫/忙 exact, 莽 differs in tone); stamped 2026-11-13.
+- `lookup/CC/finals/韻 唐合.md`: size 15 = ruby 15 = corpus 15, all on ⺢ㄫ, row 102 of 文法 - 99韻図 (`wang`) checked; added the daughter-coda summary (all four keep -ng) from the character files; stamped 2026-11-13.
 - `lookup/CC/finals/韻 咸.md`: size 6 = ruby 6 = corpus 6, all on ㄚㄇ, row 151 of 文法 - 99韻図 (`am`) checked; added the daughter-coda summary (Cantonese -aam, Korean -m, Mandarin -n, Vietnamese mixed) from the character files; stamped 2026-11-13.
 - `lookup/CC/finals/韻 咍.md`: size 62 = ruby 62 = corpus 62, groups 57 ㄚㄧ / 4 ㄛㄧ / 1 ㄧ re-counted, finals-only labels, row 041 of 文法 - 99韻図 checked; the Cantonese remark now carries counts from the corpus (43 of 57 regular characters are `-oi` like the three attested ㄛㄧ ones; eight are `-aai`) and 啡's diagnosis adds its Cantonese *fe1*; stamped 2026-11-13.
 - `lookup/CC/finals/韻 合.md`: size 16 = ruby 16 = corpus 16, groups 9 ㄚㄆ / 7 ㄛㄆ re-counted, finals-only labels, row 160 (`ap/op`) of 文法 - 99韻図 checked; 䏜 note now cites its Vietnamese *mạp*; new data-quality flag for 显, whose readings are those of 顕 (-n coda) against its ʌp tag (character page left unedited); stamped 2026-11-13.
