@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 清開.md`: size 43 = ruby 43 = corpus 43, groups 35 ㄧㄫ / 6 ㄝㄫ / 2 ⼶ㄫ, row 121 of 文法 - 99韻図 (`ing`) checked; the ㄝㄫ group re-diagnosed from "arbitrary same-initial" to crowding escapes: 精 ≡ 晶/睛, 静/浄 ≡ 靖, 征 ≡ 鉦 in all four daughters, 整/鄭 near-homophones of 正/政; 嬴/盈 shown identical in all four; "seen elsewhere in this sweep" dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 清合.md`: size 5 = ruby 5 = corpus 5, groups 3 ⼶ㄫ / 2 ㄝㄫ, row 122 of 文法 - 99韻図 (`yeng/eng`) cited; 頃/傾 relabelled near-homophones (tone only) with the daughter readings, 瓊's shared Korean 경 and Cantonese `king` noted, "elsewhere in this sweep" dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 添.md`: size 10 = ruby 10 = corpus 10, groups 8 ㄝㄇ / 2 ㄧㄇ, row 157 of 文法 - 99韻図 (`em`) checked; added the daughter evidence for 忝/甜 (near-homophones of 添, Korean 첨 shared); stamped 2026-11-14.
+- `lookup/CC/finals/韻 洽.md`: size 6 = ruby 6 = corpus 6, groups 5 ㄚㄆ / 1 ⼘ㄆ, row 152 of 文法 - 99韻図 (`ap`) checked; 夹 re-diagnosed from "unconditioned" to a crowding escape (ㄍㄚㄆ is held by 甲, 鉀, 劫 on other finals; shares Cantonese *gaap3* and Vietnamese *giáp* with 甲/鉀); stamped 2026-11-14.
 - `lookup/CC/finals/韻 泰開.md`: size 19 = ruby 19 = corpus 19, groups 18 ㄚㄧ / 1 ⼘ㄧ, row 025 of 文法 - 99韻図 (`ai`) cited; 奈 re-diagnosed from "unconditioned" to a true homophone of 耐 (ㄋㄚㄧ, held by 耐 and 乃 on 咍), "in this sweep" and "simplicity principle" wording dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 泰合.md`: size 7 = ruby 7 = corpus 7, groups 5 ⺢ㄧ / 2 ⼔, row 026 of 文法 - 99韻図 (`wai`) cited; the prose now names the page's character 会 (alias 會), and 会/絵 are shown to share Mandarin, Korean and Vietnamese readings (true-homophone split); stamped 2026-11-14.
 - `lookup/CC/finals/韻 沒.md`: size 12 = ruby 12 = corpus 12, groups 11 ㄛㄊ / 1 ㄨㄊ, row 056 of 文法 - 99韻図 now `ot` (the page's `~ot~` updated); 肭/訥 diagnosed as true homophones in Cantonese and Korean; stamped 2026-11-14.
