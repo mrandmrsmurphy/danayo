@@ -1,23 +1,25 @@
 ---
 size: 24
 middle_chinese_final: iᴇm
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
-> **Final 鹽A三** actually converges more on a plain group than its own documented y-glide winner (see below)
+> **Final 鹽A三** splits 13–8 between ㄝㄇ and ⼶ㄇ, with three singletons (see below)
 
 ## CJKV Evolution
-鹽A三 [iᴇm] splits 12–8 between **ㄝㄇ** (plain, matching the Vowels table's documented value `em`, row 153 of 文法 - 99韻図) and **⼶ㄇ** (y-glide), the plurality group and the minority respectively.
+鹽A三 [iᴇm] splits 13–8 between **ㄝㄇ** (plain, matching the Vowels table's documented value `em`, row 153 of 文法 - 99韻図) and **⼶ㄇ** (y-glide), the plurality group and the minority respectively, plus three singletons.
 
-**冉**, **染**, and **髯** all share the same phonetic root (冉) and the same ȵ initial — 冉 and 染 are even true homophones (both Mandarin *rǎn*, Cantonese *jim5*, Korean 염) — yet all three land on three different groups: 冉 on ⼶ㄇ, 染 on **⼄ㄇ**, and 髯 on **ㄛㄇ**. A three-way phonetic-family scatter, deliberately avoiding convergence, matching the pattern documented on [[韻 豪|豪]]'s 喿/竃/藻.
+The split is not decided by the daughters: 掩 and 奄 are identical in Mandarin (*yǎn*), Cantonese (*jim2*) and Korean (엄) yet take ㄝㄇ and ⼶ㄇ, and 鎌 and 廉 share Mandarin *lián*, Cantonese *lim4* and Vietnamese *liêm* yet split the same way.
 
-**㑒** shares its initial (t͡sʰ) with 鹸 on the main ㄝㄇ group and dodges via vowel-shift, landing alone on **ㄨㄇ**.
+**冉**, **染** and **髯** share the same phonetic root (冉) and the same ȵ initial, and land on three different groups: 冉 on ⼶ㄇ, 染 on **⼄ㄇ**, and 髯 on **ㄛㄇ**. 冉 and 染 are identical in all four daughters (Mandarin *rǎn*, Cantonese *jim5*, Korean 염, Vietnamese *nhiễm*) and 髯 is a near-homophone (*rán*, *jim4*, 염).
+
+**㑒** (t͡sʰ-initial) shares its initial letter with 鹸 on the main ㄝㄇ group, with which it shares Korean 첨, and lands alone on **ㄨㄇ**.
 
 ## Characters
 ### In Use
 - ㄝㄇ: <ruby>[[占 (char)|占]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[鎌 (char)|鎌]]<rt>ㄌㄝㄇ</rt></ruby>, <ruby>[[鹸 (char)|鹸]]<rt>ㄑㄝㄇ</rt></ruby>, <ruby>[[尖]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[漸]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[潜]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[瞻]]<rt>ㄐㄝㄇ</rt></ruby>, <ruby>[[簾]]<rt>ㄌㄝㄇ</rt></ruby>, <ruby>[[繊]]<rt>ㄙㄝㄇ</rt></ruby>, <ruby>[[閃]]<rt>ㄙㄝㄇ</rt></ruby>, <ruby>[[陝]]<rt>ㄙㄝㄇ</rt></ruby>, <ruby>[[掩]]<rt>ㄝㄇ</rt></ruby>, <ruby>[[暹]]<rt>ㄙㄝㄇ</rt></ruby>
-- ⼶ㄇ: <ruby>[[㪘 (char)|㪘]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[塩 (char)|塩]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[廉 (char)|廉]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[艶]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[閻]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[冉]]<rt>ㄋ⼶ㄇ</rt></ruby>, <ruby>[[奄]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[焰]]<rt>⼶ㄇ</rt></ruby>
+- ⼶ㄇ: <ruby>[[㪘 (char)|㪘]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[塩 (char)|塩]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[廉 (char)|廉]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[艶 (char)|艶]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[閻 (char)|閻]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[冉]]<rt>ㄋ⼶ㄇ</rt></ruby>, <ruby>[[奄]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[焰]]<rt>⼶ㄇ</rt></ruby>
 - ㄨㄇ: <ruby>[[㑒]]<rt>ㄑㄨㄇ</rt></ruby>
 - ⼄ㄇ: <ruby>[[染]]<rt>ㄋ⼄ㄇ</rt></ruby>
 - ㄛㄇ: <ruby>[[髯]]<rt>ㄋㄛㄇ</rt></ruby>
