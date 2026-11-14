@@ -2,6 +2,16 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content. Older entries are in the archive files beside this one (`Log/log YYYY-MM-DD to YYYY-MM-DD.md`); the log rolls over to a new file at about 300 KB.
 
+## 2026-11-14
+
+### CC initials and finals pass
+
+- `lookup/CC/finals/韻 江.md`: size 14 = ruby 14 = corpus 14, groups 11 ㄚㄫ / 3 ⺢ㄫ, retroflex conditioning re-verified from the initials, row 009 of 文法 - 99韻図 (`ang`, the larger group) cited in place of the claim that the table anticipated a dual outcome; added the Cantonese `-oeng` evidence for 双/窓; stamped 2026-11-14.
+- `lookup/CC/finals/韻 歌.md`: size 43 = ruby 43 = corpus 43, groups 35 ㄚ / 6 ㄜ / 1 ㄛ / 1 ㄨㄛ, crowd of four on ㄌㄚ verified, row 094 of 文法 - 99韻図 (`a`) checked; the ㄜ group's "arbitrary" diagnosis now carries the daughter readings (珂/柯 vs 哥/歌 differ in Cantonese and Vietnamese; 他/蛇 identical), 羅 shown as a true homophone of 邏/蘿/鑼, 儺 compared with 梛, "throughout this sweep" wording dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 欣.md`: size 10 = ruby 10 = corpus 10, groups 8 ㄧㄋ / 2 ㄜㄋ, row 057 of 文法 - 99韻図 (`in`) checked; replaced the "already confirmed on 支B三開" wording and added the daughter readings of 殷/隠 against 欣/勤; stamped 2026-11-14.
+- `lookup/CC/finals/韻 櫛.md`: size 3 = ruby 3 = corpus 3, groups 2 ㄜㄊ / 1 ㄛㄊ, row 051 of 文法 - 99韻図 (`ǝt`) checked; 瑟/虱 now shown to share Cantonese *sat1*, Korean 슬 and Vietnamese *sắt* (only Mandarin differs), 櫛's readings added; stamped 2026-11-14.
+- `lookup/CC/finals/韻 模.md`: size 103 = ruby 103 = corpus 103, groups 91 ㄛ / 6 ㄛㄨ / 3 ㄜ / 1 ㄨㄛ / 1 ㄛㄇ / 1 ㄛㄊ re-counted, row 023 of 文法 - 99韻図 (`o`) checked; fixed the ㄏㄛ crowd (12, not 13: 雇 is on ㄎㄛ) and dropped the unverified "most crowded anywhere" claim, added the daughter readings making 魯/鹵 and 溥/普 true homophones and tying 租/組/祖 to Korean 조, removed "already seen/documented" cross-references; stamped 2026-11-14.
+
 ## 2026-11-13
 
 ### History sentences removed from content pages
