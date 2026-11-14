@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 鈬開.md`: size 34 = ruby 34 = corpus 34, all on ㄚㄎ, row 103 of 文法 - 99韻図 (`ak`) cited; added daughter readings and the counts of the shared syllables (ㄌㄚㄎ 6, ㄇㄚㄎ 5, ㄚㄎ 5, ㄍㄚㄎ 4, ㄐㄚㄎ 4); stamped 2026-11-14.
+- `lookup/CC/finals/韻 鈬合.md`: size 10 = ruby 10 = corpus 10, groups 5 ⺢ㄎ / 4 ㄚㄎ / 1 ㄛㄎ, row 104 of 文法 - 99韻図 (`wak/ak`) cited; 爆's vowel shift tied to Korean 폭 and to ㄅㄚㄎ also held by 駁 on 覺, 博 ≡ 駁 and 穫 ≡ 蠖 homophones added, "first documented on 戈一合" dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 迄.md`: size 2 = ruby 2 = corpus 2, both on ㄧㄊ, row 058 of 文法 - 99韻図 (`it`) checked; added the daughter readings of 乞 and 迄; stamped 2026-11-14.
+- `lookup/CC/finals/韻 質開.md`: size 6 = ruby 6 = corpus 6, groups 4 ㄧㄊ / 1 ㄨㄊ / 1 ㄜㄊ, row 049 of 文法 - 99韻図 (`it`) cited; 筆 and 乙 re-diagnosed from "unconditioned simplicity principle" to escapes from syllables held on 質三 (ㄆㄧㄊ, ㄧㄊ), with the daughter readings; stamped 2026-11-14.
 - `lookup/CC/finals/韻 質合.md`: size 0 = ruby 0 = corpus 0 (no character carries ɣiuɪt), row 050 of 文法 - 99韻図 (`yut`, no daughter data) cited; dropped the unverified statements about the rime's Middle Chinese inventory and about other marginal rounded finals; stamped 2026-11-14.
 - `lookup/CC/finals/韻 質三.md`: size 27 = ruby 27 = corpus 27, groups 26 ㄧㄊ / 1 ㄜㄊ, the four-member ㄙㄧㄊ crowd verified, row 048 of 文法 - 99韻図 (`it`) cited; 膝's ㄜㄊ tied to its Korean 슬 and Cantonese *sat1* (shared with 瑟, 虱) in place of a bare vowel-shift dodge; stamped 2026-11-14.
 - `lookup/CC/finals/韻 豪.md`: size 87 = ruby 87 = corpus 87, groups 83 ㄚㄨ / 1 each ⼘ㄨ, ⺢ㄨ, ⺢, ㄛㄨ, row 089 of 文法 - 99韻図 (`au`) cited; corrected the ㄐㄚㄨ crowd (10 members, 漕 was missing) and added the daughter readings that make 竃 ≡ 躁, 藻 ~ 早/蚤 and 喿 ≡ 燥 homophone escapes; stamped 2026-11-14.
