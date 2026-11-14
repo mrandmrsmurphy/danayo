@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 幽.md`: size 6 = ruby 6 = corpus 6 after pipe-aliasing 幽's ruby link; groups 4 ⼜ㄛ / 2 ⼜, row 138 of 文法 - 99韻図 (`yu/yuu`) checked; 赳/糾 homophony confirmed in all four daughters (added Vietnamese *củ*), 謬's Korean 류 noted as unexplained; stamped 2026-11-13.
+- `lookup/CC/finals/韻 帖.md`: size 18 = ruby 18 = corpus 18, groups 15 ㄝㄆ / 2 ㄧㄆ / 1 ㄛㄆ, the six-member d/tʰ cluster re-counted, row 158 of 文法 - 99韻図 (`ep`) checked; 帖 and 怗 now diagnosed as true homophones of 貼 from the daughter readings (tip3, 첩, thiếp); stamped 2026-11-13.
+- `lookup/CC/finals/韻 山開.md`: size 16 = ruby 16 = corpus 16, groups 13 ㄚㄋ / 3 ⼘ㄋ, row 073 of 文法 - 99韻図 (`an`) checked; rewrote the exceptions paragraph: 柬/揀 are true homophones of 簡 (crowding escape), 弁 has no collision (ㄅㄚㄋ holds only 辦) and follows its front-vowel Cantonese *bin6*/Korean 변; dropped the 魂 cross-reference; stamped 2026-11-13.
+- `lookup/CC/finals/韻 山合.md`: size 1 = ruby 1 = corpus 1 (幻 on ⺢ㄋ), row 074 of 文法 - 99韻図 (`wan`) checked; added the daughter readings of 幻; stamped 2026-11-13.
 - `lookup/CC/finals/韻 屑開.md`: size 22 = ruby 22 = corpus 22, groups 20 ㄝㄊ / 1 ㄛㄊ / 1 ㄚㄊ, ㄉㄝㄊ crowd of three and 截's unique d͡ʒ initial re-verified, row 087 of 文法 - 99韻図 (`et`) checked; fixed a typo (迭itself), added the daughter readings that make 迭 a true homophone and show nothing explains 截; stamped 2026-11-13.
 - `lookup/CC/finals/韻 屑合.md`: size 4 = ruby 4 = corpus 4, all on ⼔ㄊ, row 088 of 文法 - 99韻図 (`wet`) checked; added the daughter readings and a note that 決/訣 (same k initial, identical readings) are spelled ㄎ vs ㄍ on their character pages (left unedited); stamped 2026-11-13.
 - `lookup/CC/finals/韻 屋三.md`: size 45 = ruby 45 = corpus 45, 育/郁 correctly folded into ㄨㄎ (initial-driven glide), row 004 of 文法 - 99韻図 (`uk`) checked; 尗/叔 now shown as a true-homophone divergence across all four daughters (suk1, 숙, thúc), 偪's daughter codas added; stamped 2026-11-13.
