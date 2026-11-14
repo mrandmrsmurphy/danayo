@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 庚二開.md`: size 25 = ruby 25 = corpus 25 (22 ㄚㄫ / 1 ⼶ㄫ / 1 ⺢ㄫ / 1 excluded 檸), three-member ㄏㄚㄫ crowd re-verified, row 109 of 文法 - 99韻図 (`ang`) checked; summary line corrected (two glide-adding exceptions plus the overridden 檸, not three glide-adders); 荇 re-diagnosed as a true homophone of 杏 rather than an unconditioned singleton; stamped 2026-11-13.
+- `lookup/CC/finals/韻 庚二合.md`: size 2 = ruby 2 = corpus 2, both on ⺢ㄫ, row 110 of 文法 - 99韻図 (`wang`) checked; added the daughter readings of 横 and 鉱; stamped 2026-11-13.
+- `lookup/CC/finals/韻 庚三開.md`: size 34 = ruby 34 = corpus 34, groups 29 ⼶ㄫ / 3 ㄝㄫ / 2 ㄧㄫ, crowd counts (7 labial, 11 k/g, 影/映 pair) re-verified from the corpus, row 111 of 文法 - 99韻図 (`ing/eng/yeng`) checked; added the daughter readings that show 瑛/英 vs 影/映 and 苹 vs 平 are near-homophone splits; stamped 2026-11-13.
+- `lookup/CC/finals/韻 庚三合.md`: size 7 = ruby 7 = corpus 7, groups 4 ㄨㄧㄫ / 3 ⼄ㄫ, every daughter reading in the prose re-checked against the character files (all correct), row 112 of 文法 - 99韻図 (`wing`) checked; added the Vietnamese split (v- vs h-/qu-/c-); stamped 2026-11-13.
 - `lookup/CC/finals/韻 幽.md`: size 6 = ruby 6 = corpus 6 after pipe-aliasing 幽's ruby link; groups 4 ⼜ㄛ / 2 ⼜, row 138 of 文法 - 99韻図 (`yu/yuu`) checked; 赳/糾 homophony confirmed in all four daughters (added Vietnamese *củ*), 謬's Korean 류 noted as unexplained; stamped 2026-11-13.
 - `lookup/CC/finals/韻 帖.md`: size 18 = ruby 18 = corpus 18, groups 15 ㄝㄆ / 2 ㄧㄆ / 1 ㄛㄆ, the six-member d/tʰ cluster re-counted, row 158 of 文法 - 99韻図 (`ep`) checked; 帖 and 怗 now diagnosed as true homophones of 貼 from the daughter readings (tip3, 첩, thiếp); stamped 2026-11-13.
 - `lookup/CC/finals/韻 山開.md`: size 16 = ruby 16 = corpus 16, groups 13 ㄚㄋ / 3 ⼘ㄋ, row 073 of 文法 - 99韻図 (`an`) checked; rewrote the exceptions paragraph: 柬/揀 are true homophones of 簡 (crowding escape), 弁 has no collision (ㄅㄚㄋ holds only 辦) and follows its front-vowel Cantonese *bin6*/Korean 변; dropped the 魂 cross-reference; stamped 2026-11-13.
