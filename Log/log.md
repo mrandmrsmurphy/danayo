@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 麻三開.md`: size 27 = ruby 27 = corpus 27, groups 20 ⼘ / 5 ㄚ / 1 ⼶ / 1 ⺢, row 100 of 文法 - 99韻図 (`ya`) cited; added 耶 ≡ 爺/椰 (Cantonese, Korean), 車's readings and the 者/遮 initial-letter difference; stamped 2026-11-14.
+- `lookup/CC/finals/韻 麧.md`: size 1 = ruby 1 = corpus 1 (紇 on ㄜㄊ), row 054 of 文法 - 99韻図 (`ǝt`) cited; added 紇's daughter readings; stamped 2026-11-14.
+- `lookup/CC/finals/韻 麥開.md`: size 13 = ruby 13 = corpus 13 after pipe-aliasing 軛 and 隔; groups 11 ㄚㄎ / 1 ㄜㄎ / 1 ㄧㄎ, row 119 of 文法 - 99韻図 (`ak`) cited; added the Vietnamese and Cantonese readings for 厄/軛 and 革/隔, reworded "a reading-tradition-only distinction"; stamped 2026-11-14.
+- `lookup/CC/finals/韻 麥合.md`: size 4 = ruby 4 = corpus 4, all on ⺢ㄎ, row 120 of 文法 - 99韻図 (`wak`) cited; added the daughter readings (劃/画 identical, 獲 ≡ 穫 on 鈬合 sharing ㄏ⺢ㄎ); stamped 2026-11-14.
 - `lookup/CC/finals/韻 鹽B三.md`: size 13 = ruby 13 = corpus 13, groups 10 ㄝㄇ / 2 ⼶ㄇ / 1 ⼘ㄇ, the four-member ㄍㄝㄇ crowd verified, row 154 of 文法 - 99韻図 (`em`) cited; 砭/窆 relabelled near-homophones (tone only, ㄆ/ㄅ letters differ) with the daughter readings, 芡's readings added; stamped 2026-11-14.
 - `lookup/CC/finals/韻 鹽A三.md`: size 24 = ruby 24 = corpus 24 after pipe-aliasing 艶 and 閻; groups 13 ㄝㄇ / 8 ⼶ㄇ / 1 each ㄨㄇ, ⼄ㄇ, ㄛㄇ (the prose said 12–8), row 153 of 文法 - 99韻図 (`em`) cited; summary line corrected (it still said the documented winner was the y-glide), added 掩 ≡ 奄 and 鎌 ~ 廉, 冉 ≡ 染 across all four daughters, 㑒/鹸 shared Korean 첨, dropped the "deliberately avoiding convergence" and 豪 cross-reference; stamped 2026-11-14.
 - `lookup/CC/finals/韻 魚.md`: size 75 = ruby 75 = corpus 75, groups 44 ⼄ / 21 ㄛ / 6 ㄜ / 1 each ⺢, ㄛㄨ, ㄛㄧ, ㄝㄧ, row 022 of 文法 - 99韻図 (`yo`) cited; replaced the "dual outcome the table already documents" claim, added the daughter evidence (梳/蔬/疎 identical, 疋 with unrelated readings, 如/汝, 箸/貯, 俎/阻, 除/儲/佇), dropped "first spotted on 之" and "this sweep" wording; stamped 2026-11-14.
