@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 黠開.md`: size 3 = ruby 3 = corpus 3, all on ㄚㄊ, row 071 of 文法 - 99韻図 (`at`) cited; added the daughter readings (擦/刹 share Cantonese, Korean and Vietnamese); stamped 2026-11-14.
+- `lookup/CC/finals/韻 黠合.md`: size 2 = ruby 2 = corpus 2, both on ⺢ㄊ, row 072 of 文法 - 99韻図 (`wat`) cited; added the daughter readings of 刷 and 刮; stamped 2026-11-14.
+- `lookup/CC/finals/韻 麻二開.md`: size 48 = ruby 48 = corpus 48, groups 45 ㄚ / 2 ⼘ / 1 ⺢, crowd counts (ㄏㄚ 5, ㄐㄚ 3) verified, row 098 of 文法 - 99韻図 (`a`) cited; added the daughter readings (夏 ≡ 下, 紗 ≡ 沙, 渣/査); stamped 2026-11-14.
+- `lookup/CC/finals/韻 麻二合.md`: size 16 = ruby 16 = corpus 16 after pipe-aliasing 誇 and 跨; groups 14 ⺢ / 1 ⺢ㄊ / 1 ⺢ㄨ, row 099 of 文法 - 99韻図 (`wa`) cited; added Vietnamese readings (哇 ≡ 窪/蛙 in all four, 佤/瓦 differ), dropped "richest concentration found in this sweep"; stamped 2026-11-14.
 - `lookup/CC/finals/韻 麻三開.md`: size 27 = ruby 27 = corpus 27, groups 20 ⼘ / 5 ㄚ / 1 ⼶ / 1 ⺢, row 100 of 文法 - 99韻図 (`ya`) cited; added 耶 ≡ 爺/椰 (Cantonese, Korean), 車's readings and the 者/遮 initial-letter difference; stamped 2026-11-14.
 - `lookup/CC/finals/韻 麧.md`: size 1 = ruby 1 = corpus 1 (紇 on ㄜㄊ), row 054 of 文法 - 99韻図 (`ǝt`) cited; added 紇's daughter readings; stamped 2026-11-14.
 - `lookup/CC/finals/韻 麥開.md`: size 13 = ruby 13 = corpus 13 after pipe-aliasing 軛 and 隔; groups 11 ㄚㄎ / 1 ㄜㄎ / 1 ㄧㄎ, row 119 of 文法 - 99韻図 (`ak`) cited; added the Vietnamese and Cantonese readings for 厄/軛 and 革/隔, reworded "a reading-tradition-only distinction"; stamped 2026-11-14.
