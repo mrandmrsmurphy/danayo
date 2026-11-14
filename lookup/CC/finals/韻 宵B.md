@@ -1,14 +1,14 @@
 ---
 size: 20
 middle_chinese_final: ɣiᴇu
-date-last-perfect: 2026-10-05
+date-last-perfect: 2026-11-13
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 宵B** splits by initial type: ⼘ㄨ (default) vs ㄚㄨ (retroflex initials) (see below)
 
 ## CJKV Evolution
-宵B [ɣiᴇu] lands 14 of 20 characters on **⼘ㄨ**, matching the y-glide quality of the Vowels table's documented winner (`yau`). The remaining 6 form a genuinely clean initial-conditioned group: every single one (趙, 潮, 肇, 超, 兆, 朝) has a retroflex MC initial (ɖ or ʈʰ), and no retroflex-initial character appears anywhere in the main ⼘ㄨ group — a real rule, not homophony overflow.
+宵B [ɣiᴇu] lands 14 of 20 characters on **⼘ㄨ**, matching the y-glide quality of the Vowels table's documented winner (`yau`). The remaining 6 form a genuinely clean initial-conditioned group: every single one (趙, 潮, 肇, 超, 兆, 朝) has a retroflex MC initial (ɖ or ʈʰ), and no retroflex-initial character appears anywhere in the main ⼘ㄨ group — a real rule, not homophony overflow. The corpus check agrees: the other 14 carry p, pʰ, m, k, g or ʔ initials. The daughters don't mark the split: Cantonese is `-iu` throughout (*ziu6*, *ciu1*, *miu4*, *kiu4*, *jiu1*), Korean 조/초 against 묘/표/교/요, and Mandarin *zhào*/*cháo* against *miáo*/*qiáo*, so the retroflex condition comes from the middle-chinese initial alone.
 
 ## Characters
 ### In Use
