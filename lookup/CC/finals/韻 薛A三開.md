@@ -1,14 +1,14 @@
 ---
 size: 13
 middle_chinese_final: iᴇt
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 薛A三開** evolved into ㄝㄊ, with one exception (see below)
 
 ## CJKV Evolution
-薛A三開 [iᴇt] is nearly uniform: 11 of 12 characters land on **ㄝㄊ**, matching the Vowels table's documented winner (`et`). **熱**, the only palatal-nasal (ȵ) initial character on this final, lands on **⼶ㄊ** with no same-initial neighbor to collide with — an unconditioned singleton.
+薛A三開 [iᴇt] is nearly uniform: 12 of 13 characters land on **ㄝㄊ**, matching the Vowels table's documented winner (`et`, row 081 of 文法 - 99韻図). **熱**, the only palatal-nasal (ȵ) initial character on this final, lands on **⼶ㄊ**; there is no same-initial neighbour to collide with, and its readings (Mandarin *rè*, Cantonese *jit6*, Korean 열, Vietnamese *nhiệt*) do not point to a glide, so it is an unconditioned singleton. 烈, 列 and 裂 are identical in every daughter (*liè*, *lit6*, 렬, *liệt*) and share the syllable ㄌㄝㄊ.
 
 ## Characters
 ### In Use
