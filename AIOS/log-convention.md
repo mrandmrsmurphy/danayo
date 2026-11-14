@@ -16,6 +16,10 @@ The vault's change history is **`Log/log.md`**: one append-mostly file where eve
 - One section per date, `## YYYY-MM-DD` (ISO, local timezone), **newest date first** — a new date goes immediately under the header, not at the bottom.
 - Bullets under each date, **newest entries first within the day**.
 
+## Rolling over
+
+Standing rule (user, 2026-11-13): keep each log file to about 300 KB. When `Log/log.md` approaches that size, move the oldest whole date sections into an archive file beside it, named `Log/log YYYY-MM-DD to YYYY-MM-DD.md` (first and last date it holds, same newest-first order, a short header that points back to `Log/log.md`), and leave the newest dates in `Log/log.md`. Cut only at a date heading, never inside a day. Check the size (`ls -l Log`) at the start of any session that writes the log.
+
 ## Entry format
 
 One bullet per logical change, not per file:
