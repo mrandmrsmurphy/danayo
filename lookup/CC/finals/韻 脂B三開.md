@@ -1,18 +1,18 @@
 ---
 size: 26
 middle_chinese_final: ɣiɪ
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 脂B三開** evolved into ㄧㄜ, with a labial-initial subgroup on bare ㄧ (see below)
 
 ## CJKV Evolution
-脂B三開 [ɣiɪ] converges cleanly: 23 of 26 characters land on **ㄧㄜ**, matching the Vowels table's documented winner (`iə`) — a "B"-grade chongniu final converging about as tightly as its "A"-grade counterpart [[韻 脂A三開|脂A三開]] did, which softens the earlier hypothesis that A always converges more cleanly than B; rhyme-class history (脂 vs 支) may matter more than chongniu grade alone.
+脂B三開 [ɣiɪ] converges cleanly: 23 of 26 characters land on **ㄧㄜ**, matching the Vowels table's documented winner (`iǝ`, row 017 of 文法 - 99韻図).
 
-The 3 exceptions — 美, 丕, 砒 — all drop the trailing ㄜ and land on bare **ㄧ**, echoing the labial-drops-ㄜ pattern already seen on 脂A三開 (鼻/琵) and the 皮/疲/被 finding on [[聲 並|聲並]]. 美 has a clean homophony explanation: its regular ㄇㄧㄜ slot already holds 4 characters (眉, 寐, 薇, 魅), the most crowded syllable on the page. 丕 and 砒 share an identical MC initial (pʰ) and would collide directly with *each other* at ㄆㄧㄜ if both took the regular form — though moving both to bare ㄧ doesn't actually separate them from one another, so this pair may simply be an unconditioned "simplicity principle" pick rather than true avoidance.
+The 3 exceptions — 美, 丕, 砒 — all drop the trailing ㄜ and land on bare **ㄧ**. 美's regular ㄇㄧㄜ slot already holds 4 characters (眉, 寐, 薇, 魅), the most crowded syllable on the page, and 美 is a near-homophone of 眉 (Korean 미, Cantonese *mei5* against *mei4*, Mandarin *měi* against *méi*). 丕 and 砒 are identical in every daughter (Mandarin *pī*, Cantonese *pei1*, Korean 비) and share the syllable ㄆㄧ, so they are not separated from each other; their regular ㄆㄧㄜ is held by characters of other finals (屁, 匕), which accounts for the shift.
 
-Worth flagging separately: **鄙**'s 注音 (ㄈㄧㄜ) uses the labiodental ㄈ, but its MC initial is the plain bilabial stop *p*, and every daughter reading (Mandarin bǐ, Cantonese pei2, Korean 비) points to a bilabial, not a labiodental, onset. This looks like a likely 注音 typo in the corpus (expected something like ㄅㄧㄜ or ㄆㄧㄜ) rather than a genuine outcome — similar to the 屎/靡/豕 anomalies flagged earlier in this sweep.
+Data-quality flag: **鄙**'s 注音 (ㄈㄧㄜ) uses the labiodental ㄈ, but its MC initial is the plain bilabial stop *p*, and every daughter reading (Mandarin *bǐ*, Cantonese *pei2*, Korean 비, Vietnamese *bỉ*) points to a bilabial, not a labiodental, onset. This looks like a 注音 typo in the corpus (expected ㄅㄧㄜ or ㄆㄧㄜ) rather than a genuine outcome.
 
 ## Characters
 ### In Use

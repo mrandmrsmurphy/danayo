@@ -1,14 +1,14 @@
 ---
 size: 2
 middle_chinese_final: ɣiᴇp
-date-last-perfect: 2026-10-06
+date-last-perfect: 2026-11-14
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
 > **Final 葉B三** has two ʈ-initial characters, each landing on a different group
 
 ## CJKV Evolution
-葉B三 [ɣiᴇp] has only two characters, 耴 and 輒 — both ʈ-initial, both Cantonese *zip3*, both Korean 첩 — yet they land on two different groups: 耴 on **ㄨㄆ**, 輒 on **ㄛㄆ** (the latter matching the ㄛ quality documented on the closely related [[韻 葉三|葉三]]). A same-initial, near-homophone split with only two members.
+葉B三 [ɣiᴇp] has only two characters, 耴 and 輒 — both ʈ-initial, both Cantonese *zip3*, both Korean 첩 — yet they land on two different groups: 耴 on **ㄨㄆ**, 輒 on **ㄛㄆ** (the Vowels table's documented value for this final is `up/op`, row 156 of 文法 - 99韻図, covering both, and 輒's ㄛ is also the main outcome on the related [[韻 葉三|葉三]]). They are a same-initial, near-homophone split: they share Cantonese and Korean, but Mandarin differs (*yì* against *zhé*) and so does Vietnamese (*ngất* against *triếp*).
 
 ## Characters
 ### In Use
