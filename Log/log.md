@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 泰開.md`: size 19 = ruby 19 = corpus 19, groups 18 ㄚㄧ / 1 ⼘ㄧ, row 025 of 文法 - 99韻図 (`ai`) cited; 奈 re-diagnosed from "unconditioned" to a true homophone of 耐 (ㄋㄚㄧ, held by 耐 and 乃 on 咍), "in this sweep" and "simplicity principle" wording dropped; stamped 2026-11-14.
+- `lookup/CC/finals/韻 泰合.md`: size 7 = ruby 7 = corpus 7, groups 5 ⺢ㄧ / 2 ⼔, row 026 of 文法 - 99韻図 (`wai`) cited; the prose now names the page's character 会 (alias 會), and 会/絵 are shown to share Mandarin, Korean and Vietnamese readings (true-homophone split); stamped 2026-11-14.
+- `lookup/CC/finals/韻 沒.md`: size 12 = ruby 12 = corpus 12, groups 11 ㄛㄊ / 1 ㄨㄊ, row 056 of 文法 - 99韻図 now `ot` (the page's `~ot~` updated); 肭/訥 diagnosed as true homophones in Cantonese and Korean; stamped 2026-11-14.
+- `lookup/CC/finals/韻 沃.md`: size 7 = ruby 7 = corpus 7, all on ㄛㄎ, row 006 of 文法 - 99韻図 (`ok`) cited; replaced the inaccurate "one row up" (屋一 is row 003) and added the daughter readings, 督/篤 as near-homophones; stamped 2026-11-14.
 - `lookup/CC/finals/韻 江.md`: size 14 = ruby 14 = corpus 14, groups 11 ㄚㄫ / 3 ⺢ㄫ, retroflex conditioning re-verified from the initials, row 009 of 文法 - 99韻図 (`ang`, the larger group) cited in place of the claim that the table anticipated a dual outcome; added the Cantonese `-oeng` evidence for 双/窓; stamped 2026-11-14.
 - `lookup/CC/finals/韻 歌.md`: size 43 = ruby 43 = corpus 43, groups 35 ㄚ / 6 ㄜ / 1 ㄛ / 1 ㄨㄛ, crowd of four on ㄌㄚ verified, row 094 of 文法 - 99韻図 (`a`) checked; the ㄜ group's "arbitrary" diagnosis now carries the daughter readings (珂/柯 vs 哥/歌 differ in Cantonese and Vietnamese; 他/蛇 identical), 羅 shown as a true homophone of 邏/蘿/鑼, 儺 compared with 梛, "throughout this sweep" wording dropped; stamped 2026-11-14.
 - `lookup/CC/finals/韻 欣.md`: size 10 = ruby 10 = corpus 10, groups 8 ㄧㄋ / 2 ㄜㄋ, row 057 of 文法 - 99韻図 (`in`) checked; replaced the "already confirmed on 支B三開" wording and added the daughter readings of 殷/隠 against 欣/勤; stamped 2026-11-14.
