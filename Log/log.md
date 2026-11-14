@@ -6,6 +6,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ### CC initials and finals pass
 
+- `lookup/CC/finals/韻 陌二合.md`: size 1 = ruby 1 = corpus 1 (硅 on ⼜ㄎ), row 114 of 文法 - 99韻図 (`yuk` = ⼜ㄎ, so the page's "not matching" claim was wrong and is removed); added 硅's daughter readings (no stop coda in any); removed the data-quality note about a corrected diacritic order and the note about dropped stub names, which were page history; stamped 2026-11-14.
+- `lookup/CC/finals/韻 陌三開.md`: size 4 = ruby 4 = corpus 4 after pipe-aliasing 逆's ruby link, all on ㄝㄎ, row 115 of 文法 - 99韻図 (`ek`) cited; added the daughter readings (劇/戟/隙 share Korean 극); stamped 2026-11-14.
+- `lookup/CC/finals/韻 陌三合.md`: size 0 = ruby 0 = corpus 0 (no character carries ɣwiæk), row 116 of 文法 - 99韻図 (`wak`, no daughter data) cited; dropped the unverified statement about the rime's Middle Chinese inventory and other marginal finals; stamped 2026-11-14.
+- `lookup/CC/finals/韻 鎋開.md`: size 9 = ruby 9 = corpus 9 after pipe-aliasing 紮's ruby link, all on ㄚㄊ, row 075 of 文法 - 99韻図 (`at`) cited; added the daughter readings and shared-syllable homophones (八/捌/叭, 札/紮/察 in Korean); stamped 2026-11-14.
 - `lookup/CC/finals/韻 鎋合.md`: size 1 = ruby 1 = corpus 1 (滑 on ⺢ㄊ), row 076 of 文法 - 99韻図 (`wat`) cited; added 滑's daughter readings and dropped "already confirmed across this sweep"; stamped 2026-11-14.
 - `lookup/CC/finals/韻 鍾.md`: size 50 = ruby 50 = corpus 50, groups 28 ㄛㄫ / 20 ⼄ㄫ / 1 ⼜ㄫ / 1 ㄛㄇ, row 007 of 文法 - 99韻図 (`ong/yong`) cited; replaced the "no rule, simplicity principle" account with the verified partial initial rule (all ㄐ/ㄑ/ㄅ/ㄆ/ㄈ characters take ㄛㄫ), added 凶 ≡ 匈/胸 and 縦/踪 readings, dropped the unverified "largest split on this project" claim; stamped 2026-11-14.
 - `lookup/CC/finals/韻 錫開.md`: size 23 = ruby 23 = corpus 23, groups 21 ㄝㄎ / 2 ㄧㄎ, row 127 of 文法 - 99韻図 (`ek`) cited; corrected the ㄉㄝㄎ crowd (six members: 敵, 翟, 迪, 笛, 滴, 的, not four) and added the Vietnamese readings of 冪/覓 and 荻; stamped 2026-11-14.
