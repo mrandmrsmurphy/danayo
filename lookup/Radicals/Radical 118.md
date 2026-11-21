@@ -1,5 +1,5 @@
 ---
-size: 43
+size: 44
 radical: 竹
 date-last-perfect: 2026-11-11
 tags:
@@ -111,14 +111,15 @@ tags:
 
 ### +14 Strokes
 41. <ruby>[籍](../../characters/籍.md)<rt>ㄐㄝㄎ</rt></ruby> - record
+42. <ruby>[簪](../../characters/簪.md)<rt>ㄑ⺢ㄇ</rt></ruby> - hairpin
 - ¡籏! - 違法字
 
 ### +15 Strokes
-42. <ruby>[籃](../../characters/籃.md)<rt>ㄌㄚㄇ</rt></ruby> - basket
+43. <ruby>[籃](../../characters/籃.md)<rt>ㄌㄚㄇ</rt></ruby> - basket
 - 籐 --> 藤
 
 ### +16 Strokes
-43. <ruby>[籠](../../characters/籠%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - basket
+44. <ruby>[籠](../../characters/籠%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - basket
 - ¡籡! - 違法字
 
 ### +17 Strokes

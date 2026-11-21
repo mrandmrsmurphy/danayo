@@ -2,6 +2,15 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content. Older entries are in the archive files beside this one (`Log/log YYYY-MM-DD to YYYY-MM-DD.md`); the log rolls over to a new file at about 300 KB.
 
+## 2026-11-21
+
+- **`translation/Classical Poetry.md` (ruby pass, user request):** every Chinese character outside headings now carries ruby from its `characters/` page 注音, and traditional or variant forms were converted to the vault's filenames (e.g. 舉→挙, 黃→黄, 樓→楼, 國→国, 獨→独, 渾→混 via 混's alias). Wikilinks and the 挙 link were replaced by ruby. The 月下獨酌 heading was left as it was. The pinyin and English text were not touched.
+- **Six characters missing from the poems resolved (user decisions):** 渙→alias of 換, 濺→alias of 浅, 邈→alias of 遠, 邀→alias of 要, 烽→alias of 峰, 簪 created. Added `### 渙`/`### 濺`/`### 邀`/`### 邈`/`### 烽` alias subsections on the parent pages, the unlinked redirects on the matching Stroke, SKIP-leaf and Radical pages, and set 換's `mc_id` to 2240 (渙's rank) and 峰's to 3092 (烽's rank). `要.md` gained an `## Aliases` section.
+- **`characters/簪.md` created (名専字, danayo_id 8829, mc_id 2922, SKIP 2-6-14, 20 strokes per EDRDG):** syllable ㄑ⺢ㄇ (cwam, 촴) as specified by the user. Added to `lookup/Grade Name.md` (size 829, 形声 count 684), `lookup/List of 名専字.md` (size 448, 形声 count 337), Stroke 20, SKIP-2-6-14, SKIP-2-6, Radical 118 (+Radicals.md count 44), Hyōgai, HSK No, SKIP.md size 3387, and the Korean Name ㅈ entry, which had pointed at 鈿's page and now links 簪.
+- **`syllables/ㄑ⺢ㄇ.md` created and linked on `syllables/Syllables.md`:** one Naming entry (簪), stamped.
+- **`words/浅浅.md` created (擬詞, cencen / ㄑㄝㄋㄑㄝㄋ / 천천):** ideophone for a light splash of shallow water, modelled on 淺淺/濺濺 (aliases 淺淺, 濺濺); Mandarin jiānjiān and Cantonese zin1 zin1 from Wiktionary, Japanese せんせん and Korean 천천 compositional and flagged as such in Notes, Vietnamese omitted. Back-linked from `characters/浅 (char).md` and listed in `lexipedia/Sensation.md`.
+- **`lookup/CC/initials/聲 精.md` and `lookup/CC/finals/韻 覃.md`:** added 簪 as an outlier on ㄑ⺢ㄇ (sizes 100 and 24, counts "97 of 100" and "20 of 24", summary line and one exception sentence each); `lint_cc.py` passes. The ㄑ⺢ㄇ syllable for 簪 is not supported by its Mandarin, Cantonese, Korean or Vietnamese readings, which all point to ㄐㄚㄇ; the pages say so.
+
 ## 2026-11-14
 
 ### CC initials and finals pass

@@ -195,6 +195,7 @@ tags:
 - 缕 --> 婁
 - 衖 --> 巷
 - 猴 --> 猿
+- 渙 --> 換
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

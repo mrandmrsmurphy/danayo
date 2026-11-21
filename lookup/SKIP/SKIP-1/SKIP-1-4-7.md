@@ -66,6 +66,7 @@ tags:
 - 辅 --> 輔
 - 晚 --> 晩
 - 桮 --> 杯
+- 烽 --> 峰
 
 ## Datacheck
 ```dataview

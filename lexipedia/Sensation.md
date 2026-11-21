@@ -56,6 +56,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: a sound. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[丁丁](../words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>: clang, clash — a specific onomatopoeia for a sharp, repeated striking sound (chopping, metal clanging), not a general-purpose "noise" word.
 - <ruby>[噌噌](../words/噌噌.md)<rt>ㄑㄨㄫㄑㄨㄫ</rt></ruby>: whoosh, scraping sound — an onomatopoeia for a quick sharp friction noise, like claws scrabbling up bark; the reduplicated syllable gives repeated, rapid motion; a sibling of [[丁丁]]'s clang.
+- <ruby>[浅浅](../words/浅浅.md)<rt>ㄑㄝㄋㄑㄝㄋ</rt></ruby>: splashing sound, shallow splash — an ideophone for the light, quick splash of water over a shallow bed (modelled on 淺淺/濺濺); a watery counterpart to [[噌噌]]'s scrape.
 - <ruby>[軣軣](../words/軣軣.md)<rt>ㄍ⼔ㄫㄍ⼔ㄫ</rt></ruby>: rumbling, booming, roaring — the reduplicated sound of something large thundering or echoing (machinery, explosions, drums, a train, fire); its standard written form is 轟轟, and Japanese ごうごう is a very common onomatopoeia.
 - <ruby>[騒](../words/騒.md)<rt>ㄙㄚㄨ</rt></ruby>: boisterous, noisy commotion (騒動, "disturbance"; 騒音, "noise") — resolves this page's own previously-flagged "noise" gap; "loud" is <ruby>[[大声]]<rt>ㄉㄚㄧㄙㄧㄫ</rt></ruby>, "a loud voice."
 - <ruby>[聴](../words/聴.md)<rt>ㄑㄝㄫ</rt></ruby>: to listen.

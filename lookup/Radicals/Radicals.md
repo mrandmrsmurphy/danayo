@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-11-11
+date-last-perfect: 2026-11-21
 tags: [lookup]
 ---
 
@@ -170,7 +170,7 @@ __Combining or simplified radicals with 5 strokes__
 
 
 ### 6 strokes
-- [[Radical 118]] 竹 (43 characters)
+- [[Radical 118]] 竹 (44 characters)
 - [[Radical 119]] 米 (19 characters)
 - [[Radical 120]] 糸 or combining as 糹 or 纟 (84 characters)
 - [[Radical 121]] 缶 (4 characters)

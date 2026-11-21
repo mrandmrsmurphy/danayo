@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-11-11
-size: 121
+size: 122
 tags: [lookup]
 
 ---
@@ -21,7 +21,7 @@ Top component has 6 strokes. Dominant components: 竹, 糸, 艸, 言.
 11. [SKIP-2-6-11](lookup/SKIP/SKIP-2/SKIP-2-6-11.md): 篠, 糞, 繊, 翼, 鵉
 12. [SKIP-2-6-12](lookup/SKIP/SKIP-2/SKIP-2-6-12.md): 簞, 簡, 覆
 13. [SKIP-2-6-13](lookup/SKIP/SKIP-2/SKIP-2-6-13.md): 簫, 簾, 簿, 蟹, 覇
-14. [SKIP-2-6-14](lookup/SKIP/SKIP-2/SKIP-2-6-14.md): 籍, 纂
+14. [SKIP-2-6-14](lookup/SKIP/SKIP-2/SKIP-2-6-14.md): 籍, 簪, 纂
 15. [SKIP-2-6-15](lookup/SKIP/SKIP-2/SKIP-2-6-15.md): 籃
 16. [SKIP-2-6-16](lookup/SKIP/SKIP-2/SKIP-2-6-16.md): 籠
 17. [SKIP-2-6-17](lookup/SKIP/SKIP-2/SKIP-2-6-17.md): ø

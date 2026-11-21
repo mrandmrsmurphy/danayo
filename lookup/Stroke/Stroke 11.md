@@ -262,6 +262,7 @@ tags:
 - 桮 --> 杯
 - 蛎 --> 厉
 - 從 --> 従
+- 烽 --> 峰
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -154,6 +154,8 @@ tags: [lookup]
 ### +14 Strokes
 67. <ruby>[遽](../../characters/遽.md)<rt>ㄍ⼄</rt></ruby> - in a hurry
 68. <ruby>[邁](../../characters/邁.md)<rt>ㄇㄚㄧ</rt></ruby> - take a big stride
+- 邈 --> 遠
+- 邀 --> 要
 
 ### +20 Strokes
 69. <ruby>[邏](../../characters/邏.md)<rt>ㄌㄚ</rt></ruby> - patrol

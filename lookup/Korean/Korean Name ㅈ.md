@@ -14,7 +14,7 @@ These have been checked for redirects
 [[孱]] [棧](characters/桟.md) [[潺]] [盞](characters/盞.md)
 
 ### 잠
-[[箴]] [[岑]] [簪](characters/鈿.md) [蠶](characters/蚕%20(char).md) 
+[[箴]] [[岑]] [[簪]] [蠶](characters/蚕%20(char).md) 
 
 ### 장
 [匠](characters/匠.md) [杖 (char)](characters/杖%20(char).md) [[奘]] [[漳]] [樟](characters/樟.md) [[璋]] [[暲]] [薔](characters/薔.md) [蔣](characters/蒋.md) [仗](characters/仗.md) [[檣]] !欌! [漿](characters/将%20(char).md) [狀](characters/状.md) [[獐]] [臧](characters/臓.md) [[贓]] [醬](characters/醤.md) 

@@ -26,7 +26,7 @@ joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4122
-mc_id: 4851
+mc_id: 2240
 graphemic_classification: 奐
 stand_in: 換
 aliases:
@@ -49,13 +49,16 @@ date-last-perfect: 2026-11-08
 ## Notes
 - 形声 (OC *ɢʷaːns): semantic [[Radical 064|手]] ("hand") + phonetic [[煥|奐]] (OC *qʰʷaːns) — to exchange, to change.
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 4851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄏ⺢ㄇ](../syllables/ㄏ⺢ㄇ.md)
+- 2240th most used character in Classical Chinese, recorded under the alias 渙. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄏ⺢ㄇ](../syllables/ㄏ⺢ㄇ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Aliases
 
 ### 换
 Simplified Chinese form of 換. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 渙
+"To disperse, scatter"; kept as an alias of 換, which supplies its reading (huàn, KAN, 환, hoán) because 渙 shares the phonetic 奐. Radical 085 (水); SKIP 1-3-9; 12 strokes. It ranks 2240 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[換]]<rt>ㄏ⺢ㄇ</rt></ruby> "interchange, exchange" (stand-in for 換)

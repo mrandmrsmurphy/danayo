@@ -1,8 +1,8 @@
 ---
-mandarin: "yuǎn"
+mandarin: yuǎn
 cantonese: jyun5
-korean: "원"
-korean_native: "멀"
+korean: 원
+korean_native: 멀
 japanese:
   - EN
   - ON
@@ -12,27 +12,28 @@ vietnamese:
   - viễn
   - vẻn
   - vỏn
-middle_chinese_initial: "ø"
-middle_chinese_final: "ʉɐn"
+middle_chinese_initial: ø
+middle_chinese_final: ʉɐn
 stroke_count: 13
-radical: "辵"
+radical: 辵
 skip_number: 3-3-10
 grade_level: "1"
 pos: 性詞
 english:
   - far
 羅馬字: "'on"
-諺文: "온"
+諺文: 온
 joyo_level: "2"
 hsk_level: "1"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 239
 mc_id: 284
-graphemic_classification: "袁"
-stand_in: "遠"
+graphemic_classification: 袁
+stand_in: 遠
 aliases:
   - 远
-注音: "ㄛㄋ"
+  - 邈
+注音: ㄛㄋ
 date-last-perfect: 2026-11-09
 kwin: false
 tags:
@@ -56,6 +57,9 @@ boundedness: 90
 
 ### 远
 Simplified Chinese form of 遠. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 邈
+"Distant, remote"; kept as an alias of 遠, which supplies its reading (yuǎn, EN/ON, 원, viễn). SKIP 3-3-14; 17 strokes. It ranks 3290 in the Classical Chinese lists, which is not the lowest among the page's forms, so 遠's own rank of 284 sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[遠]]<rt>ㄛㄋ</rt></ruby> "far" (stand-in for 遠)

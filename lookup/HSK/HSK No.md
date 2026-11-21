@@ -1100,3 +1100,4 @@ views:
 [檻 (char)](../../characters/檻%20(char).md)
 [裙 (char)](../../characters/裙%20(char).md)
 [耆](../../characters/耆.md)
+[[簪]]

@@ -220,6 +220,7 @@ tags: [lookup]
 - 渧 --> 啼
 - 溉 --> 漑
 - 溃 --> 潰
+- 渙 --> 換
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
@@ -330,6 +331,7 @@ tags: [lookup]
 - ¡濺! - 違法字
 - 瀋 --> 沈
 - 瀆 --> 涜
+- 濺 --> 浅
 
 ### +15 Strokes
 170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade

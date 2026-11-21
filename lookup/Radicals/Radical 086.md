@@ -68,6 +68,7 @@ tags: [lookup]
 - 焔 --> 炎
 - 焔 --> 焰
 - ¡焊! - 違法字
+- 烽 --> 峰
 
 ### +8 Strokes
 20. <ruby>[焚](../../characters/焚.md)<rt>ㄅㄨㄋ</rt></ruby> - burn

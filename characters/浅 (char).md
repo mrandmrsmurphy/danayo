@@ -55,6 +55,10 @@ boundedness: 80
 ### 淺
 The traditional form ("shallow; superficial"); Wiktionary lists 淺 and 浅 together as one character, with 浅 as the Japanese shinjitai (戔 replaced by 㦮) and a Chinese simplification (戋). It carries the classical rank of 1412, which is the page's `mc_id`. SKIP 1-3-8; 11 strokes. It ranks 1412 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
+### 濺
+"To splash"; kept as an alias of 浅, which supplies its reading (qiǎn/jiàn, SEN, 천, thiển) because 濺 shares the phonetic 戔. SKIP 1-3-15; 18 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[浅]]<rt>ㄑㄝㄋ</rt></ruby> "shallow" (stand-in for 浅)
 - <ruby>[[浅薄]]<rt>ㄑㄝㄋㄅㄚㄎ</rt></ruby> "superficial; shallow"
+- <ruby>[[浅浅]]<rt>ㄑㄝㄋㄑㄝㄋ</rt></ruby> "splashing sound; shallow splash"
