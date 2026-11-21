@@ -1,8 +1,8 @@
 ---
-mandarin: "huàn"
+mandarin: huàn
 cantonese: wun6
-korean: "환"
-korean_native: "바꿀"
+korean: 환
+korean_native: 바꿀
 japanese:
   - KAN
 japanese_native:
@@ -10,10 +10,10 @@ japanese_native:
   - か-わる
 vietnamese:
   - hoán
-middle_chinese_initial: "ɣ"
-middle_chinese_final: "uɑn"
+middle_chinese_initial: ɣ
+middle_chinese_final: uɑn
 stroke_count: 12
-radical: "手"
+radical: 手
 skip_number: 1-3-9
 grade_level: "4"
 pos: 事詞
@@ -21,17 +21,18 @@ english:
   - interchange
   - exchange
 羅馬字: hwam
-諺文: "홤"
-joyo_level: "高等"
+諺文: 홤
+joyo_level: 高等
 hsk_level: "2"
-hanmun_edu_level: "高等"
+hanmun_edu_level: 高等
 danayo_id: 4122
 mc_id: 4851
-graphemic_classification: "奐"
-stand_in: "換"
+graphemic_classification: 奐
+stand_in: 換
 aliases:
   - 换
-注音: "ㄏ⺢ㄇ"
+  - 渙
+注音: ㄏ⺢ㄇ
 kwin: false
 tags:
   - character

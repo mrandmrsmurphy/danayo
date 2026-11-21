@@ -29,6 +29,7 @@ graphemic_classification: 㦮
 stand_in: 浅
 aliases:
   - 淺
+  - 濺
 注音: ㄑㄝㄋ
 date-last-perfect: 2026-11-08
 kwin: true
