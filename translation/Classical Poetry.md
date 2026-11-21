@@ -1,10 +1,10 @@
 
 ## Thinking on a Quiet Night
-靜夜思 (jìng yè sī), by Lǐ Baí (李白) 
-- 床前明月光， Chúang qián míng yuè guāng Light from the bright moon lands in front of my bed 
-- 疑是地上霜。 Yí shì dì shàng shuāng. It makes the ground look like frost 
-- 舉頭望明月， Jŭ tóu wàng míng yuè, I raise my head to look at the bright moon 
-- 低頭思故鄉。 Dī tóu sī gù xiāng. Lowering it again, I think of my hometown.
+<ruby>静<rt>ㄐㄝㄫ</rt></ruby><ruby>夜<rt>⼘</rt></ruby><ruby>思<rt>ㄙㄚ</rt></ruby>, by <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>白<rt>ㄅㄚㄎ</rt></ruby>
+- <ruby>床<rt>ㄙ⼘ㄇ</rt></ruby><ruby>前<rt>ㄐㄝㄋ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>光<rt>ㄎ⺢ㄫ</rt></ruby>， syam jen myeng 'wed kwang Light from the bright moon lands in front of my bed 
+- [[疑]][[是]][[地]][[上]][[霜]]。 Yí shì dì shàng shuāng. It makes the ground look like frost 
+- [舉](../characters/挙%20(char).md)[[頭]][[望]][[明]][[月]]， Jŭ tóu wàng míng yuè, I raise my head to look at the bright moon 
+- [[低]][[頭]][[思]][[故郷]]。 Dī tóu sī gù xiāng. Lowering it again, I think of my hometown.
 
 ## Stork Tower
 登鸛雀樓 （dēng guàn què lóu), by Wáng Zhīhuàn (王之渙) 
