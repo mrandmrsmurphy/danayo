@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **`translation/Classical Poetry.md` 望 → 仰望 in 挙頭望明月 (user decision):** used the attested word for gazing upward and verified its 注音 ⼘ㄫㄇㄚㄫ against `words/仰望.md`.
+
+- **`translation/Classical Poetry.md` 疑 → 懐疑 (user decision):** used the vault spelling of 懷疑 and verified the word’s 注音 ㄏ⺢ㄧ·ㄧ. Retained the English gloss.
+
+- **`translation/Classical Poetry.md` stand-in pass (user authorized):** replaced standalone 思 in 低頭思故郷, 暁 in the 春暁 title and first line, 落 in 花落, and standalone 影, 身, 暫 and 舞 in 月下獨酌 with their recorded stand-ins 思考, 破暁, 落下, 陰影, 身体, 暫時 and 跳舞. Checked each replacement against the word entry and used its 注音. Preserved personal names and compounds, and deferred substitutions that would change the local sense or grammatical role.
+
 - **`translation/Classical Poetry.md` (ruby pass, user request):** every Chinese character outside headings now carries ruby from its `characters/` page 注音, and traditional or variant forms were converted to the vault's filenames (e.g. 舉→挙, 黃→黄, 樓→楼, 國→国, 獨→独, 渾→混 via 混's alias). Wikilinks and the 挙 link were replaced by ruby. The 月下獨酌 heading was left as it was. The pinyin and English text were not touched.
 - **Six characters missing from the poems resolved (user decisions):** 渙→alias of 換, 濺→alias of 浅, 邈→alias of 遠, 邀→alias of 要, 烽→alias of 峰, 簪 created. Added `### 渙`/`### 濺`/`### 邀`/`### 邈`/`### 烽` alias subsections on the parent pages, the unlinked redirects on the matching Stroke, SKIP-leaf and Radical pages, and set 換's `mc_id` to 2240 (渙's rank) and 峰's to 3092 (烽's rank). `要.md` gained an `## Aliases` section.
 - **`characters/簪.md` created (名専字, danayo_id 8829, mc_id 2922, SKIP 2-6-14, 20 strokes per EDRDG):** syllable ㄑ⺢ㄇ (cwam, 촴) as specified by the user. Added to `lookup/Grade Name.md` (size 829, 形声 count 684), `lookup/List of 名専字.md` (size 448, 形声 count 337), Stroke 20, SKIP-2-6-14, SKIP-2-6, Radical 118 (+Radicals.md count 44), Hyōgai, HSK No, SKIP.md size 3387, and the Korean Name ㅈ entry, which had pointed at 鈿's page and now links 簪.
