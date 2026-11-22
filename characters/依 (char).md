@@ -53,6 +53,7 @@ boundedness: 80
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[依傍]]<rt>ㄧㄜㄆㄚㄫ</rt></ruby> "lie against, be close beside"
 - <ruby>[[依]]<rt>ㄧㄜ</rt></ruby> "rely on, accord with" (stand-in for 依)
 - <ruby>[[依存]]<rt>ㄧㄜㄐㄛㄋ</rt></ruby> "dependence, to depend on"
 - <ruby>[[依拠]]<rt>ㄧㄜㄍ⼄</rt></ruby> "depend, be the basis for"

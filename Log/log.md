@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **`translation/Classical Poetry.md` 尽 → 用尽 (user decision):** used the recorded stand-in in 白日依傍山用尽 and verified its 注音 ⼄ㄫㄐㄧㄋ against the word entry.
+
+- **New word 依傍 (user decision):** added `words/依傍.md` as a 事詞 for lying against or being close beside a landmark, with 注音 ㄧㄜㄆㄚㄫ. Checked Mandarin against Wiktionary and the Ministry of Education, Cantonese against CC-Canto, Japanese against Kotobank, Korean against an attested 의방 gloss, and Vietnamese against a Buddhist text. Added both character backlinks and the Locatives entry, and used 依傍 in the opening line of Stork Tower in `translation/Classical Poetry.md`.
+
+- **Poetic 実詞 rule (user decision):** added the rule to `grammar/文法 - 04句法.md` and `grammar/文法 - 04句法.en.md`. Used the approved example 低下頭 in `translation/Classical Poetry.md` and verified the stand-in’s 注音 ㄉㄝㄧㄏㄚ.
+
 - **`translation/Classical Poetry.md` 望 → 仰望 in 挙頭望明月 (user decision):** used the attested word for gazing upward and verified its 注音 ⼘ㄫㄇㄚㄫ against `words/仰望.md`.
 
 - **`translation/Classical Poetry.md` 疑 → 懐疑 (user decision):** used the vault spelling of 懷疑 and verified the word’s 注音 ㄏ⺢ㄧ·ㄧ. Retained the English gloss.

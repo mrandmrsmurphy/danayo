@@ -45,6 +45,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 ## Intermediate (B1–B2)
 
 ### Position & Place
+- <ruby>[依傍](../words/依傍.md)<rt>ㄧㄜㄆㄚㄫ</rt></ruby>: lie against, be close beside a landmark.
 
 - <ruby>[処](../words/処.md)<rt>ㄑㄛ</rt></ruby>: a place — demonstrative in flavor ("this place"), not a general noun.
 - <ruby>[所在](../words/所在.md)<rt>ㄙㄜㄐㄚㄧ</rt></ruby>: whereabouts, location — more formal and abstract than [[位置]], often used of where something *is to be found* rather than its bare coordinates.

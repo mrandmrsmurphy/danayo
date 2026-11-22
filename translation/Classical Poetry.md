@@ -4,11 +4,11 @@
 - <ruby>床<rt>ㄙ⼘ㄇ</rt></ruby><ruby>前<rt>ㄐㄝㄋ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>光<rt>ㄎ⺢ㄫ</rt></ruby>， Light from the bright moon lands in front of my bed 
 - <ruby>懐疑<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby><ruby>是<rt>ㄙㄝ</rt></ruby><ruby>地<rt>ㄉㄧㄜ</rt></ruby><ruby>上<rt>ㄙ⼘ㄫ</rt></ruby><ruby>霜<rt>ㄙ⺢ㄫ</rt></ruby>。 It makes the ground look like frost 
 - <ruby>挙<rt>ㄍ⼄</rt></ruby><ruby>頭<rt>ㄊㄛㄨ</rt></ruby><ruby>仰望<rt>⼘ㄫㄇㄚㄫ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby>，  I raise my head to look at the bright moon 
-- <ruby>低<rt>ㄉㄝㄧ</rt></ruby><ruby>頭<rt>ㄊㄛㄨ</rt></ruby><ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby><ruby>故<rt>ㄍㄛ</rt></ruby><ruby>郷<rt>ㄏ⼘ㄫ</rt></ruby>。 Lowering it again, I think of my hometown.
+- <ruby>低下<rt>ㄉㄝㄧㄏㄚ</rt></ruby><ruby>頭<rt>ㄊㄛㄨ</rt></ruby><ruby>思考<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby><ruby>故<rt>ㄍㄛ</rt></ruby><ruby>郷<rt>ㄏ⼘ㄫ</rt></ruby>。 Lowering it again, I think of my hometown.
 
 ## Stork Tower
 <ruby>登<rt>ㄉㄨㄫ</rt></ruby><ruby>鸛<rt>ㄍ⺢ㄋ</rt></ruby><ruby>雀<rt>ㄐㄚㄎ</rt></ruby><ruby>楼<rt>ㄌㄛㄨ</rt></ruby> by <ruby>王<rt>⺢ㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>換<rt>ㄏ⺢ㄇ</rt></ruby>
-- <ruby>白<rt>ㄅㄚㄎ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>依<rt>ㄧㄜ</rt></ruby><ruby>山<rt>ㄙㄚㄋ</rt></ruby><ruby>尽<rt>ㄐㄧㄋ</rt></ruby>， The white sun drops behind the mountains 
+- <ruby>白<rt>ㄅㄚㄎ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>依傍<rt>ㄧㄜㄆㄚㄫ</rt></ruby><ruby>山<rt>ㄙㄚㄋ</rt></ruby><ruby>用尽<rt>⼄ㄫㄐㄧㄋ</rt></ruby>， The white sun drops behind the mountains 
 - <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby><ruby>河<rt>ㄏㄚ</rt></ruby><ruby>入<rt>ㄋㄧㄆ</rt></ruby><ruby>海<rt>ㄏㄚㄧ</rt></ruby><ruby>流<rt>ㄌ⼜</rt></ruby>。 The Yellow River flows into the sea 
 - <ruby>欲<rt>⼄ㄎ</rt></ruby><ruby>窮<rt>ㄍㄨㄫ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby><ruby>目<rt>ㄇㄨㄎ</rt></ruby>， If you want a view that stretches one thousand miles 
 - <ruby>更<rt>ㄍㄚㄫ</rt></ruby><ruby>上<rt>ㄙ⼘ㄫ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>層<rt>ㄑㄜㄫ</rt></ruby><ruby>楼<rt>ㄌㄛㄨ</rt></ruby>。 Ascend to a higher level of the tower.

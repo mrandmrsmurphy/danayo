@@ -52,6 +52,7 @@ date-last-perfect: 2026-10-20
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[依傍]]<rt>ㄧㄜㄆㄚㄫ</rt></ruby> "lie against, be close beside"
 - <ruby>[[傍]]<rt>ㄆㄚㄫ</rt></ruby> "beside, close" (stand-in for 傍)
 
 ## Chengyu
