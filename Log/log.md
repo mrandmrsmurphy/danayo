@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **Spring Scene duration in `translation/Classical Poetry.md` (user decision):** reordered 三月 as 月三段, with 段 as the time-interval classifier and the verified 注音 ㄉ⺢ㄋ.
+
+- **Spring Scene in `translation/Classical Poetry.md` (user decision):** used the splash ideophone 浅浅 in 感時花浅浅涙 and verified its 注音 ㄑㄝㄋㄑㄝㄋ against the word entry.
+
+- **Dawn at Spring closing line in `translation/Classical Poetry.md` (user decision):** added 誰 with 注音 ㄙ⼶ㄧ and punctuated the question 花落下，誰知多少？. Retained 夜来 as the poetic expression for last night by user decision.
+
+- **Stork Tower closing line in `translation/Classical Poetry.md` (user decision):** changed 更上一層楼 to 更登一層楼 and verified 登’s 注音 ㄉㄨㄫ against the word entry.
+
 - **Stork Tower lines two and three in `translation/Classical Poetry.md`:** used 流動, the recorded stand-in for 流, and changed 欲窮千里目 to 欲眺望千里 (user decision). Checked the 注音 of both words against their entries.
 
 - **`translation/Classical Poetry.md` 尽 → 用尽 (user decision):** used the recorded stand-in in 白日依傍山用尽 and verified its 注音 ⼄ㄫㄐㄧㄋ against the word entry.
