@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **Stork Tower lines two and three in `translation/Classical Poetry.md`:** used 流動, the recorded stand-in for 流, and changed 欲窮千里目 to 欲眺望千里 (user decision). Checked the 注音 of both words against their entries.
+
 - **`translation/Classical Poetry.md` 尽 → 用尽 (user decision):** used the recorded stand-in in 白日依傍山用尽 and verified its 注音 ⼄ㄫㄐㄧㄋ against the word entry.
 
 - **New word 依傍 (user decision):** added `words/依傍.md` as a 事詞 for lying against or being close beside a landmark, with 注音 ㄧㄜㄆㄚㄫ. Checked Mandarin against Wiktionary and the Ministry of Education, Cantonese against CC-Canto, Japanese against Kotobank, Korean against an attested 의방 gloss, and Vietnamese against a Buddhist text. Added both character backlinks and the Locatives entry, and used 依傍 in the opening line of Stork Tower in `translation/Classical Poetry.md`.

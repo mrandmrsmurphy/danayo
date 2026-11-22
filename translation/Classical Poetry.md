@@ -9,8 +9,8 @@
 ## Stork Tower
 <ruby>登<rt>ㄉㄨㄫ</rt></ruby><ruby>鸛<rt>ㄍ⺢ㄋ</rt></ruby><ruby>雀<rt>ㄐㄚㄎ</rt></ruby><ruby>楼<rt>ㄌㄛㄨ</rt></ruby> by <ruby>王<rt>⺢ㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>換<rt>ㄏ⺢ㄇ</rt></ruby>
 - <ruby>白<rt>ㄅㄚㄎ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>依傍<rt>ㄧㄜㄆㄚㄫ</rt></ruby><ruby>山<rt>ㄙㄚㄋ</rt></ruby><ruby>用尽<rt>⼄ㄫㄐㄧㄋ</rt></ruby>， The white sun drops behind the mountains 
-- <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby><ruby>河<rt>ㄏㄚ</rt></ruby><ruby>入<rt>ㄋㄧㄆ</rt></ruby><ruby>海<rt>ㄏㄚㄧ</rt></ruby><ruby>流<rt>ㄌ⼜</rt></ruby>。 The Yellow River flows into the sea 
-- <ruby>欲<rt>⼄ㄎ</rt></ruby><ruby>窮<rt>ㄍㄨㄫ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby><ruby>目<rt>ㄇㄨㄎ</rt></ruby>， If you want a view that stretches one thousand miles 
+- <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby><ruby>河<rt>ㄏㄚ</rt></ruby><ruby>入<rt>ㄋㄧㄆ</rt></ruby><ruby>海<rt>ㄏㄚㄧ</rt></ruby><ruby>流動<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby>。 The Yellow River flows into the sea 
+- <ruby>欲<rt>⼄ㄎ</rt></ruby><ruby>眺望<rt>ㄊㄛㄨㄇㄚㄫ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby>， If you want a view that stretches one thousand miles 
 - <ruby>更<rt>ㄍㄚㄫ</rt></ruby><ruby>上<rt>ㄙ⼘ㄫ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>層<rt>ㄑㄜㄫ</rt></ruby><ruby>楼<rt>ㄌㄛㄨ</rt></ruby>。 Ascend to a higher level of the tower.
 
 ## Dawn at Spring
