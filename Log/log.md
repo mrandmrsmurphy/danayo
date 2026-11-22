@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **Moon and drinking in `translation/Classical Poetry.md` (user decision):** changed 月既不解飲 to 月既不理解飲, with 飲 as the object “drinking” under the poetic 実詞 rule and the verified 注音 ㄌㄧ·ㄍ⼘ㄧ.
+
+- **Invitation to the moon in `translation/Classical Poetry.md` (user decision):** replaced 要 with Dan’a’yo 請 “invite” in 挙杯請明月 and verified 注音 ㄑㄧㄫ.
+
+- **Moon and shadow in `translation/Classical Poetry.md` (user decision):** replaced classical conjunctive 将 with Dan’a’yo 与 in 暫時伴月与陰影 and verified the word’s 注音 ⼄.
+
 - **Spring Scene duration in `translation/Classical Poetry.md` (user decision):** reordered 三月 as 月三段, with 段 as the time-interval classifier and the verified 注音 ㄉ⺢ㄋ.
 
 - **Spring Scene in `translation/Classical Poetry.md` (user decision):** used the splash ideophone 浅浅 in 感時花浅浅涙 and verified its 注音 ㄑㄝㄋㄑㄝㄋ against the word entry.

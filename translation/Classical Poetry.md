@@ -35,11 +35,11 @@
  Drinking Alone Under the Moon 
 - <ruby>花<rt>ㄏ⺢</rt></ruby><ruby>間<rt>ㄍㄚㄋ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>壷<rt>ㄏㄛ</rt></ruby><ruby>酒<rt>ㄐㄨㄛ</rt></ruby>， I’m among the flowers, with a jug of wine. 
 - <ruby>独<rt>ㄉㄛㄎ</rt></ruby><ruby>酌<rt>ㄐㄚㄎ</rt></ruby><ruby>無<rt>ㄇㄜ</rt></ruby><ruby>相<rt>ㄙㄚㄫ</rt></ruby><ruby>親<rt>ㄑㄧㄋ</rt></ruby>。 I drink alone, with no companions to share it with. 
-- <ruby>挙<rt>ㄍ⼄</rt></ruby><ruby>杯<rt>ㄅㄛㄧ</rt></ruby><ruby>要<rt>⼄ㄨ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby>，  I raise my glass to invite the moon. 
+- <ruby>挙<rt>ㄍ⼄</rt></ruby><ruby>杯<rt>ㄅㄛㄧ</rt></ruby><ruby>請<rt>ㄑㄧㄫ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby>，  I raise my glass to invite the moon. 
 - <ruby>対<rt>ㄉㄛㄧ</rt></ruby><ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby><ruby>成<rt>ㄙㄧㄫ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby>。 With my shadow, there’s now three of us. 
-- <ruby>月<rt>⼔ㄊ</rt></ruby><ruby>既<rt>ㄍㄧㄜ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>解<rt>ㄍ⼘ㄧ</rt></ruby><ruby>飲<rt>ㄨㄇ</rt></ruby>， The moon knows not of drinking 
+- <ruby>月<rt>⼔ㄊ</rt></ruby><ruby>既<rt>ㄍㄧㄜ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>理解<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby><ruby>飲<rt>ㄨㄇ</rt></ruby>， The moon knows not of drinking 
 - <ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby><ruby>徒<rt>ㄉㄛ</rt></ruby><ruby>随<rt>ㄙㄨㄧ</rt></ruby><ruby>我<rt>ㄚ</rt></ruby><ruby>身体<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>。  And the shadow follows me in vain.
-- <ruby>暫時<rt>ㄐㄚㄇㄙㄧ</rt></ruby><ruby>伴<rt>ㄅㄚㄋ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>将<rt>ㄐ⺢ㄫ</rt></ruby><ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby>，  I decide to just keep them with me for now 
+- <ruby>暫時<rt>ㄐㄚㄇㄙㄧ</rt></ruby><ruby>伴<rt>ㄅㄚㄋ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>与<rt>⼄</rt></ruby><ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby>，  I decide to just keep them with me for now 
 - <ruby>行<rt>ㄏㄚㄫ</rt></ruby><ruby>楽<rt>ㄌㄚㄎ</rt></ruby><ruby>須<rt>ㄙㄨ</rt></ruby><ruby>及<rt>ㄍㄨㄆ</rt></ruby><ruby>春<rt>ㄑㄨㄋ</rt></ruby>。 Merriment is better experienced in spring 
 - <ruby>我<rt>ㄚ</rt></ruby><ruby>歌<rt>ㄍㄜ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>徘<rt>ㄈㄛㄧ</rt></ruby><ruby>徊<rt>ㄏㄛㄧ</rt></ruby>， I sang, and the moon hangs around 
 - <ruby>我<rt>ㄚ</rt></ruby><ruby>跳舞<rt>ㄊㄛㄨㄇㄨ</rt></ruby><ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>乱<rt>ㄌㄚㄋ</rt></ruby>。  I dance, and my shadow makes wild movements 
