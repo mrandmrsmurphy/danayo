@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-21
 
+- **Hairpin line in `translation/Classical Poetry.md` (user decision):** recast 混欲不勝簪 as 幾乎不可保持簪, with the hair supplied by the preceding line. Verified the 注音 of 幾乎, 可 and 保持 against their word entries.
+
+- **The letter from home in `translation/Classical Poetry.md` (user decision):** replaced 抵 with 相等 “equal to” in 家書相等萬金 and verified 注音 ㄙㄚㄫㄉㄨㄫ.
+
+- **Parting in `translation/Classical Poetry.md` (user decision):** replaced 別 with 離別 “depart, leave” in 恨離別鳥驚心, using the event as the object of 恨 under the poetic 実詞 rule. Verified 注音 ㄌㄝㄧㄅㄝㄊ.
+
 - **Moon and drinking in `translation/Classical Poetry.md` (user decision):** changed 月既不解飲 to 月既不理解飲, with 飲 as the object “drinking” under the poetic 実詞 rule and the verified 注音 ㄌㄧ·ㄍ⼘ㄧ.
 
 - **Invitation to the moon in `translation/Classical Poetry.md` (user decision):** replaced 要 with Dan’a’yo 請 “invite” in 挙杯請明月 and verified 注音 ㄑㄧㄫ.

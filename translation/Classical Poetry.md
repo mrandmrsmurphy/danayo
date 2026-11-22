@@ -25,11 +25,11 @@
 - <ruby>国<rt>ㄍㄛㄎ</rt></ruby><ruby>破<rt>ㄆㄜ</rt></ruby><ruby>山<rt>ㄙㄚㄋ</rt></ruby><ruby>河<rt>ㄏㄚ</rt></ruby><ruby>在<rt>ㄐㄚㄧ</rt></ruby>， The country is wrecked, but the mountains and rivers remain 
 - <ruby>城<rt>ㄙㄧㄫ</rt></ruby><ruby>春<rt>ㄑㄨㄋ</rt></ruby><ruby>草<rt>ㄑㄚㄨ</rt></ruby><ruby>木<rt>ㄇㄛㄎ</rt></ruby><ruby>深<rt>ㄙㄧㄇ</rt></ruby>。  It’s spring in the city and vegetation lies thick 
 - <ruby>感<rt>ㄍㄚㄇ</rt></ruby><ruby>時<rt>ㄙㄧ</rt></ruby><ruby>花<rt>ㄏ⺢</rt></ruby><ruby>浅浅<rt>ㄑㄝㄋㄑㄝㄋ</rt></ruby><ruby>涙<rt>ㄌㄨㄧ</rt></ruby>，  The time moves me; flowers bring me to tears 
-- <ruby>恨<rt>ㄏㄚㄋ</rt></ruby><ruby>別<rt>ㄅㄝㄊ</rt></ruby><ruby>鳥<rt>ㄑㄛㄨ</rt></ruby><ruby>驚<rt>ㄍ⼶ㄫ</rt></ruby><ruby>心<rt>ㄙㄧㄇ</rt></ruby>。Separation pains me; a bird can make my heart jump 
+- <ruby>恨<rt>ㄏㄚㄋ</rt></ruby><ruby>離別<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby><ruby>鳥<rt>ㄑㄛㄨ</rt></ruby><ruby>驚<rt>ㄍ⼶ㄫ</rt></ruby><ruby>心<rt>ㄙㄧㄇ</rt></ruby>。Separation pains me; a bird can make my heart jump 
 - <ruby>峰<rt>ㄈㄛㄫ</rt></ruby><ruby>火<rt>ㄏ⺢</rt></ruby><ruby>連<rt>ㄌ⼶ㄋ</rt></ruby><ruby>月<rt>⼔ㄊ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>段<rt>ㄉ⺢ㄋ</rt></ruby>， The flames of war have raged for three straight months 
-- <ruby>家<rt>ㄍㄚ</rt></ruby><ruby>書<rt>ㄙ⼄</rt></ruby><ruby>抵<rt>ㄉㄝㄧ</rt></ruby><ruby>萬<rt>ㄇㄛㄋ</rt></ruby><ruby>金<rt>ㄍㄧㄇ</rt></ruby>。 A letter from home is worth a fortune 
+- <ruby>家<rt>ㄍㄚ</rt></ruby><ruby>書<rt>ㄙ⼄</rt></ruby><ruby>相等<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby><ruby>萬<rt>ㄇㄛㄋ</rt></ruby><ruby>金<rt>ㄍㄧㄇ</rt></ruby>。 A letter from home is worth a fortune 
 - <ruby>白<rt>ㄅㄚㄎ</rt></ruby><ruby>頭<rt>ㄊㄛㄨ</rt></ruby><ruby>掻<rt>ㄙㄚㄨ</rt></ruby><ruby>更<rt>ㄍㄚㄫ</rt></ruby><ruby>短<rt>ㄉ⺢ㄋ</rt></ruby>，  My hair is now grey, and my scratching it has made it thinner 
-- <ruby>混<rt>ㄏㄛㄋ</rt></ruby><ruby>欲<rt>⼄ㄎ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>勝<rt>ㄙㄨㄫ</rt></ruby><ruby>簪<rt>ㄑ⺢ㄇ</rt></ruby>。 Soon I won’t even be able to put a hair stick in it.
+- <ruby>幾乎<rt>ㄍㄧㄜㄏㄛ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>可<rt>ㄎㄜ</rt></ruby><ruby>保持<rt>ㄅㄚㄨㄉㄧ</rt></ruby><ruby>簪<rt>ㄑ⺢ㄇ</rt></ruby>。 Soon I won’t even be able to put a hair stick in it.
 
 ## 月下獨酌 
  Drinking Alone Under the Moon 
