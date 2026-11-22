@@ -45,5 +45,5 @@
 - <ruby>我<rt>ㄚ</rt></ruby><ruby>跳舞<rt>ㄊㄛㄨㄇㄨ</rt></ruby><ruby>陰影<rt>ㄧㄇ·⼶ㄫ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>乱<rt>ㄌㄚㄋ</rt></ruby>。  I dance, and my shadow makes wild movements 
 - <ruby>醒<rt>ㄙㄝㄫ</rt></ruby><ruby>時<rt>ㄙㄧ</rt></ruby><ruby>同<rt>ㄉㄛㄫ</rt></ruby><ruby>交<rt>ㄍ⼄ㄨ</rt></ruby><ruby>歓<rt>ㄏ⺢ㄋ</rt></ruby>，  When sober, we have fun together 
 - <ruby>酔<rt>ㄐㄨㄧ</rt></ruby><ruby>後<rt>ㄏㄨㄛ</rt></ruby><ruby>各<rt>ㄍㄚㄎ</rt></ruby><ruby>分<rt>ㄅㄨㄋ</rt></ruby><ruby>散<rt>ㄙㄚㄋ</rt></ruby>。 After I get drunk, we part 
-- <ruby>永<rt>ㄨㄧㄫ</rt></ruby><ruby>結<rt>ㄍㄝㄊ</rt></ruby><ruby>無<rt>ㄇㄜ</rt></ruby><ruby>情<rt>ㄑㄧㄫ</rt></ruby><ruby>遊<rt>⼜ㄛ</rt></ruby>， Yǒng jié wú qíng yóu, I wish to forever be united with these emotionless friends 
+- <ruby>永<rt>ㄨㄧㄫ</rt></ruby><ruby>結<rt>ㄍㄝㄊ</rt></ruby><ruby>無<rt>ㄇㄜ</rt></ruby><ruby>情<rt>ㄑㄧㄫ</rt></ruby><ruby>遊<rt>⼜ㄛ</rt></ruby>, I wish to forever be united with these emotionless friends 
 - <ruby>相<rt>ㄙㄚㄫ</rt></ruby><ruby>期<rt>ㄎㄧ</rt></ruby><ruby>遠<rt>ㄛㄋ</rt></ruby><ruby>雲<rt>ㄨㄋ</rt></ruby><ruby>漢<rt>ㄏㄚㄋ</rt></ruby>。 We’ll meet again in a distant galaxy
