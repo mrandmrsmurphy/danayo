@@ -70,15 +70,21 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 11. All the people shouted.
 
-    **Translation:**
+    **Translation:** <ruby>皆人<rt>ㄍ⼶·ㄋㄧㄋ</rt></ruby> <ruby>叫喚<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+    **Commentary:** 皆人 refers to everyone in the group. 叫喚 “cry out” is an intransitive 性詞, and the perfective suffix –已 presents the shouting as completed.
 
 12. Some of the people shouted.
 
-    **Translation:**
+    **Translation:** <ruby>或者<rt>ㄏㄛㄎㄑㄚ</rt></ruby> <ruby>叫喚<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+    **Commentary:** 或者 means “some people.” Context supplies the group they belong to. As in #11, the perfective suffix –已 presents the shouting as completed.
 
 13. Many of the people shouted twice.
 
-    **Translation:**
+    **Translation:** <ruby>多人<rt>ㄉㄜㄋㄧㄋ</rt></ruby> <ruby>二度<rt>ㄋㄧㄜㄉㄛ</rt></ruby><ruby>叫喚<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+    **Commentary:** 多人 means “many people.” Context supplies the group they belong to. 二度 “twice” goes immediately before 叫喚 and counts the occasions of shouting. The perfective suffix –已 presents the shouting as completed.
 
 14. Happy people often shout.
 
