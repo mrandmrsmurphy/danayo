@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences #6 and ruby by word and affix (user approved)** — entered 太陽 再度照中。 and its commentary in `lexipedia/218 Sentences.md`. Gave each word and affix its own ruby span in #6 and applied the same format to #2–5 to allow line wrapping.
+
+- **218 Sentences #5 (user approved)** — entered 太陽 照中已。 in `lexipedia/218 Sentences.md` and explained how the continuous and perfective suffixes combine.
+
+- **218 Sentences #4 (user approved)** — entered 太陽 照将。 in `lexipedia/218 Sentences.md` and noted the predictive use of prospective –将.
+
+- **218 Sentences #3 (user approved)** — entered 太陽 照已。 in `lexipedia/218 Sentences.md` and noted that –已 presents the shining as completed before the reference time.
+
 - **218 Sentences #2 (user approved)** — entered 太陽 照中。 in `lexipedia/218 Sentences.md` and noted that –中 marks ongoing aspect relative to the reference time.
 
 - **218 Sentences #1 (user approved)** — entered 太陽 照。 in `lexipedia/218 Sentences.md` and noted that context supplies the tense and aspect of the bare predicate.

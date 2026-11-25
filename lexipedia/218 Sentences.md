@@ -16,25 +16,33 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 2. The sun is shining.
 
-   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照中<rt>ㄐㄛㄨㄐㄨㄫ</rt></ruby>。
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby><ruby>中<rt>ㄐㄨㄫ</rt></ruby>。
 
    **Commentary:** The suffix –中 marks the shining as ongoing at the reference time, which is understood as now in this prompt.
 
 3. The sun shone.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+   **Commentary:** The perfective suffix –已 presents the shining as completed before the reference time. With the reference time understood as now, it reads “The sun shone.” Context can also give it the reading “The sun has shone.”
 
 4. The sun will shine.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby><ruby>将<rt>ㄐ⺢ㄫ</rt></ruby>。
+
+   **Commentary:** The prospective suffix –将 places the shining after the reference time. Here it expresses a prediction.
 
 5. The sun has been shining.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby><ruby>中<rt>ㄐㄨㄫ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+   **Commentary:** The suffixes follow the order –中已. –中 presents the shining as ongoing over an interval, and –已 marks that interval as completed by the reference time. This fits a reading where the sun was shining for a while and may have just stopped. If the shining is definitely still ongoing, –已 makes that reading less direct.
 
 6. The sun is shining again.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>再度<rt>ㄐㄚㄧㄉㄛ</rt></ruby><ruby>照<rt>ㄐㄛㄨ</rt></ruby><ruby>中<rt>ㄐㄨㄫ</rt></ruby>。
+
+   **Commentary:** 再度 means “again” or “once more” and goes immediately before 照. The suffix –中 marks this new spell of shining as ongoing.
 
 7. The sun will shine tomorrow.
 
