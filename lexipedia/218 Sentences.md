@@ -88,11 +88,15 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 14. Happy people often shout.
 
-    **Translation:**
+    **Translation:** <ruby>歓喜<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby> <ruby>常常<rt>ㄙ⼘ㄫㄙ⼘ㄫ</rt></ruby><ruby>叫喚<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby>。
+
+    **Commentary:** 歓喜 directly modifies 人. 常常 “often,” like Japanese よく, Korean 자주, or Vietnamese thường, comes before the bare predicate 叫喚. The sentence expresses a general tendency without placing the shouting at a particular time.
 
 15. The kitten jumped up.
 
-    **Translation:**
+    **Translation:** <ruby>小<rt>ㄙㄛ</rt></ruby><ruby>猫<rt>ㄇ⼘ㄨ</rt></ruby> <ruby>上<rt>ㄙ⼘ㄫ</rt></ruby><ruby>向<rt>ㄏ⼘ㄫ</rt></ruby> <ruby>跳躍<rt>ㄊㄛㄨ⼘ㄎ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby>。
+
+    **Commentary:** 小猫 literally means “little cat” and serves for “kitten” here. 上向 means “upward” and gives the direction of the jump. 跳躍 is an intransitive 性詞, and –已 marks the jump as completed.
 
 16. The kitten jumped onto the table.
 

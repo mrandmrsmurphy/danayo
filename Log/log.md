@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences #15 (user approved)** — entered 小猫 上向 跳躍已。 in `lexipedia/218 Sentences.md` and explained the directional phrase 上向 and the perfective suffix.
+
+- **218 Sentences #14 (user approved)** — entered 歓喜人 常常叫喚。 in `lexipedia/218 Sentences.md` and noted the gnomic reading of the bare predicate with the frequency adverb 常常 and its Japanese, Korean, and Vietnamese parallels.
+
 - **218 Sentences #13 (user approved)** — entered 多人 二度叫喚已。 in `lexipedia/218 Sentences.md`, grouped 多人 in one ruby span per the user, and noted the placement of 二度 and the completed reading of –已.
 
 - **218 Sentences #12 (user approved)** — entered 或者 叫喚已。 in `lexipedia/218 Sentences.md` with commentary on the contextually defined group and perfective –已.
