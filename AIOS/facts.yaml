@@ -3,13 +3,13 @@ vault: danayo
 language: Dan'a'yo (単亜語)
 hub: README.md
 counts:
-  characters: 3372  # characters/*.md; `X (char).md` files are characters, not words
-  words: 6546  # words/*.md, includes affix pages and single-character words
-  syllables: 903  # includes the Syllables.md index
-  chengyu: 241  # includes the grouping pages
-  lexipedia_pages: 64
+  characters: 3387  # characters/*.md; `X (char).md` files are characters, not words
+  words: 7666  # words/*.md, includes affix pages and single-character words
+  syllables: 910  # includes the Syllables.md index
+  chengyu: 250  # includes the grouping pages
+  lexipedia_pages: 66
 progress:
-  lessons_written: 3
+  lessons_written: 4
   lessons_planned: 20
   grammar_chapters_with_english_mirror: 5
 key_pages:
@@ -20,4 +20,4 @@ key_pages:
   vault_structure: AIOS/vault-structure.md
   memory_index: AIOS/memory-index.md
 source_record: none
-generated: 2026-10-29
+generated: 2026-11-25

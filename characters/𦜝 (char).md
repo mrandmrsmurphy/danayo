@@ -27,7 +27,7 @@ hanmun_edu_level: 名
 danayo_id: 8326
 mc_id: 3429
 graphemic_classification: 斉
-stand_in: 名専字
+stand_in: 𦜝
 aliases:
   - 臍
   - 脐
@@ -58,4 +58,4 @@ date-last-perfect: 2026-11-10
 Simplified Chinese form of 臍. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
-- [[List of 名専字|Just a 名専字]]
+- <ruby>[[𦜝]]<rt>ㄐㄝㄧ</rt></ruby> "navel" (stand-in for 𦜝)

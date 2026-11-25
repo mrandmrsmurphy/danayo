@@ -63,6 +63,10 @@ Rosenfelder's helpful book
 - [[lexipedia/Sophomore List|Sophomore List]] — Mark Rosenfelder’s supplementary vocabulary.
 - [[lexipedia/Leipzig–Jakarta List|Leipzig–Jakarta List]] — 100 basic vocabulary concepts selected for stability and resistance to borrowing.
 
+## Translation exercises
+
+- [[lexipedia/218 Sentences|218 Sentences]] — Fiziwig’s syntax test prompts.
+
 ## Others
 Most of these lists are intended for authors, sometimes of science-fiction and other hypothetical words.  As a functional IAL, Dan'a'yo self-describes:
 * [Geography](lexipedia/Geography.md)

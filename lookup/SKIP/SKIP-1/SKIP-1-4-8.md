@@ -43,7 +43,7 @@ tags:
 31. <ruby>[脹](characters/脹.md)<rt>ㄑㄚㄫ</rt></ruby> "swell"
 32. <ruby>[脾](characters/脾.md)<rt>ㄅㄧ</rt></ruby> "spleen"
 33. <ruby>[腔](characters/腔.md)<rt>ㄎㄚㄫ</rt></ruby> "chest cavity"
-34. <ruby>[𦜝](characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> "navel"
+34. <ruby>[𦜝](characters/𦜝%20(char).md)<rt>ㄐㄝㄧ</rt></ruby> "navel"
 35. <ruby>[雄](characters/雄%20(char).md)<rt>ㄨㄫ</rt></ruby> "manly"
 
 ### Forbidden

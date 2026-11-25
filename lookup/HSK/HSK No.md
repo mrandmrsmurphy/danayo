@@ -818,7 +818,7 @@ tags: [lookup]
 [砥](../../characters/砥.md)
 [籃](../../characters/籃.md)
 [錀 (char)](../../characters/錀%20(char).md)
-[𦜝](../../characters/𦜝.md)
+[𦜝](../../characters/𦜝%20(char).md)
 [槐](../../characters/槐.md)
 [栾](../../characters/栾.md)
 [蘭](../../characters/蘭.md)

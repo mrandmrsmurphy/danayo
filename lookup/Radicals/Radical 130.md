@@ -94,7 +94,7 @@ tags: [lookup]
 45. <ruby>[脾](../../characters/脾.md)<rt>ㄅㄧ</rt></ruby> - spleen
 46. <ruby>[腔](../../characters/腔.md)<rt>ㄎㄚㄫ</rt></ruby> - chest cavity
 47. <ruby>[腕](../../characters/腕%20(char).md)<rt>⺢ㄋ</rt></ruby> - arm
-48. <ruby>[𦜝](../../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> - navel
+48. <ruby>[𦜝](../../characters/𦜝%20(char).md)<rt>ㄐㄝㄧ</rt></ruby> - navel
 - 腑 --> 府
 - 腊 --> 臘
 - 腱 --> 建

@@ -545,7 +545,7 @@ tags: [lookup]
 532. <ruby>[[脆]]<rt>ㄑㄝ</rt></ruby> - brittle, fragile
 533. <ruby>[[脛]]<rt>ㄏㄝㄫ</rt></ruby> - shinbone
 534. <ruby>[[腔]]<rt>ㄎㄚㄫ</rt></ruby> - chest cavity
-535. <ruby>[[𦜝]]<rt>ㄐㄝㄧ</rt></ruby> - navel
+535. <ruby>[[𦜝 (char)|𦜝]]<rt>ㄐㄝㄧ</rt></ruby> - navel
 536. <ruby>[[脾]]<rt>ㄅㄧ</rt></ruby> - spleen
 537. <ruby>[[腽]]<rt>⺢ㄆ</rt></ruby> - fur seal
 538. <ruby>[[膏]]<rt>ㄍㄚㄨ</rt></ruby> - grease, oil

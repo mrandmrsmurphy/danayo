@@ -37,7 +37,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[早](../words/早.md)<rt>ㄐㄚㄨ</rt></ruby>: early.
 - <ruby>[遅](../words/遅.md)<rt>ㄑㄧㄜ</rt></ruby>: late. See [Movement](../lexipedia/Movement.md) for its own citation there.
 
-**How Dan'a'yo says these, the CJKV way**: "abrupt" is <ruby>[[突然]]<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby> or <ruby>[[忽然]]<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>; "elder" is <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> ("old person") or <ruby>[[長老]]<rt>ㄐㄚㄫㄌㄚㄨ</rt></ruby>; "haste" is <ruby>[[急遽]]<rt>ㄍㄧㄆㄍ⼄</rt></ruby>, with <ruby>[[緊急]]<rt>ㄍㄧㄋㄍㄧㄆ</rt></ruby> for urgency; "immediate" and "immediately" are <ruby>[[即時]]<rt>ㄐㄜㄎㄙㄧ</rt></ruby>; "meanwhile" is <ruby>[[同時]]<rt>ㄉㄛㄫㄙㄧ</rt></ruby>, "at the same time"; and "soon" is <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby>.
+**How Dan'a'yo says these, the CJKV way**: "abrupt" is <ruby>[[突然]]<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby> or <ruby>[[忽然]]<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>; "elder" is <ruby>[[老人]]<rt>ㄌㄚㄨㄋㄧㄋ</rt></ruby> ("old person") or <ruby>[[長老]]<rt>ㄐㄚㄫㄌㄚㄨ</rt></ruby>; "haste" is <ruby>[[急遽]]<rt>ㄍㄧㄆㄍ⼄</rt></ruby>, with <ruby>[[緊急]]<rt>ㄍㄧㄋㄍㄧㄆ</rt></ruby> for urgency; "immediate" and "immediately" are <ruby>[[即時]]<rt>ㄐㄜㄎㄙㄧ</rt></ruby>; "meanwhile" is <ruby>[[同時]]<rt>ㄉㄛㄫㄙㄧ</rt></ruby>, "at the same time"; and "soon" is <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby>.
 
 ## Intermediate (B1–B2)
 
@@ -45,7 +45,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 
 - <ruby>[時代](../words/時代.md)<rt>ㄙㄧㄉㄚㄧ</rt></ruby>: time, age, epoch — a historical period, the "age" sense; see [Calendar](../lexipedia/Calendar.md)'s own Eras section for the specific named periods this generalizes over.
 - <ruby>[寿命](../words/寿命.md)<rt>ㄙ⼜·ㄇ⼶ㄫ</rt></ruby>: age, lifespan — specifically how long a life lasts, distinct from [[時代]]'s historical-period sense.
-- <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: an old person, age — a Swadesh word, the seniority/elderliness sense.
+- <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: old or aged, of a person. [[老人]] is an old person.
 - <ruby>[年齢](../words/年齢.md)<rt>ㄋㄝㄋㄌㄝㄫ</rt></ruby>: age — someone's years.
 - <ruby>[古希](../words/古希.md)<rt>ㄍㄛㄏㄧㄜ</rt></ruby>: seventy years of age — the congratulatory name for a seventieth birthday, from Du Fu's line 人生七十古來稀 ("it has been rare since antiquity to reach seventy").
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.

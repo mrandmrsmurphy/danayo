@@ -55,7 +55,7 @@ boundedness: 100
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> "old person; age" (stand-in for 老)
+- <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> "old; aged" (stand-in for 老)
 - <ruby>[[老師]]<rt>ㄌㄚㄨㄙㄧㄜ</rt></ruby> "sage, elder monk"
 - <ruby>[[老爺]]<rt>ㄌㄚㄨ⼘</rt></ruby> "grandfather; master"
 - <ruby>[[老子]]<rt>ㄌㄚㄨㄐㄜ</rt></ruby> "Laotzi; old man"

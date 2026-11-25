@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences blank copy (user request)** — copied `lexipedia/218 Sentences.md` from the UL vault, adapted its introduction for Dan’a’yo, and linked it from `lexipedia/Lexipedia.md`. Verified all 218 prompts and blank translation fields against the UL copy.
+
+- **Leipzig–Jakarta List perfected (user request)** — stamped `lexipedia/Leipzig–Jakarta List.md` after checking all 100 glosses in source order, all 107 word links and 注音, and the 性詞 classifications for 燃焼, 老, 吹, and 落下. The commentary records the scope of the chosen equivalents.
+
+- **落下 is intransitive (user decision)** — set `words/落下.md` to 性詞 and updated row 82 in `lexipedia/Leipzig–Jakarta List.md` to match.
+
+- **Leipzig–Jakarta vocabulary decisions (user)** — created standalone `words/𦜝.md` “navel” (ㄐㄝㄧ), renamed its character note, and updated the character lookups, Body, syllable page, and 済 homophone. Checked the source readings against Wiktionary and the Hán Nôm dictionary. Set 老 to 性詞 “old, aged” and updated its gloss references. In the Leipzig–Jakarta table, used 卵子 for egg and 取得 for take, and reflected the user's existing 性詞 edits to 燃焼 and 吹. Verified all 100 rows have word links. Word lint passed and stamped the word index.
+
 - **Leipzig–Jakarta Dan’a’yo forms and commentary (user request)** — populated 99 of 100 rows in `lexipedia/Leipzig–Jakarta List.md` from existing word files and verified their linked 注音. Added brief sense and usage notes, left ‘navel’ open, and flagged provisional matches for ‘egg’, ‘burn’, ‘take’, ‘old’, and wind ‘blow’. Preserved all English prompts and their order.
 
 - **Leipzig–Jakarta fill-in page (user request)** — added `lexipedia/Leipzig–Jakarta List.md` and linked it in `lexipedia/Lexipedia.md`. Verified all 100 English prompts in the UL source order. Dan’a’yo forms are left blank for completion.

@@ -1,5 +1,6 @@
 ---
 language: English
+date-last-perfect: 2026-11-25
 ---
 
 # Leipzig–Jakarta List
@@ -53,7 +54,7 @@ The list comes from Uri Tadmor (2009), “Loanwords in the world’s languages: 
 | 41 | yesterday | <ruby>[昨日](../words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby> |  |
 | 42 | to drink | <ruby>[飲](../words/飲.md)<rt>ㄨㄇ</rt></ruby> |  |
 | 43 | black | <ruby>[黒](../words/黒.md)<rt>ㄏㄨㄎ</rt></ruby> |  |
-| 44 | navel |  | **Gap.** [𦜝](../characters/𦜝.md) is a character entry with no lexical stand-in for this sense. |
+| 44 | navel | <ruby>[𦜝](../words/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> |  |
 | 45 | to stand | <ruby>[立](../words/立.md)<rt>ㄌㄧㄆ</rt></ruby> |  |
 | 46 | to bite | <ruby>[咬](../words/咬.md)<rt>⼘ㄨ</rt></ruby> |  |
 | 47 | back | <ruby>[背](../words/背.md)<rt>ㄅㄛㄧ</rt></ruby> |  |
@@ -61,10 +62,10 @@ The list comes from Uri Tadmor (2009), “Loanwords in the world’s languages: 
 | 49 | smoke | <ruby>[煙気](../words/煙気.md)<rt>ㄝㄋㄎㄧㄜ</rt></ruby> |  |
 | 50 | what? | <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby> |  |
 | 51 | child (kin term) | <ruby>[孩子](../words/孩子.md)<rt>ㄏㄚㄧㄐㄜ</rt></ruby>, <ruby>[子子](../words/子子.md)<rt>ㄐㄜㄐㄜ</rt></ruby> | 孩子 can mean one’s child at any age. 子子 is affectionate for one’s own child. 児子 also means son. |
-| 52 | egg | <ruby>[鶏卵](../words/鶏卵.md)<rt>ㄍㄝㄧㄌㄚㄋ</rt></ruby> | **Provisional.** 鶏卵 is a chicken egg. Swadesh uses 卵子, whose word page specifies an ovum. |
+| 52 | egg | <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby> | Also used in Swadesh. The word page gives the biological sense ‘ovum’. |
 | 53 | to give | <ruby>[送](../words/送.md)<rt>ㄙㄛㄫ</rt></ruby> | 送 covers give or send. Swadesh uses the more formal 贈与, ‘bestow, donate’. |
 | 54 | new | <ruby>[新](../words/新.md)<rt>ㄙㄧㄋ</rt></ruby> |  |
-| 55 | to burn (intr.) | <ruby>[燃焼](../words/燃焼.md)<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | **Provisional.** 燃焼 names combustion, but its word page tags it as eventive. The prompt requires intransitive use. |
+| 55 | to burn (intr.) | <ruby>[燃焼](../words/燃焼.md)<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> | Intransitive stative ‘burn, combust’. |
 | 56 | not | <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby> |  |
 | 57 | good | <ruby>[好](../words/好.md)<rt>ㄏㄚㄨ</rt></ruby> |  |
 | 58 | to know | <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby> |  |
@@ -82,16 +83,16 @@ The list comes from Uri Tadmor (2009), “Loanwords in the world’s languages: 
 | 70 | to carry | <ruby>[携帯](../words/携帯.md)<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby>, <ruby>[負](../words/負.md)<rt>ㄅ⼜</rt></ruby> | 携帯 is carry along with oneself. 負 is bear a load or burden. |
 | 71 | ant | <ruby>[蟻](../words/蟻.md)<rt>ㄜㄧ</rt></ruby> |  |
 | 72 | heavy | <ruby>[重](../words/重.md)<rt>ㄑㄛㄫ</rt></ruby> |  |
-| 73 | to take | <ruby>[把握](../words/把握.md)<rt>ㄅㄚㄚㄎ</rt></ruby> | **Provisional.** 把握 can mean grasp firmly. The prompt expects taking a concrete object into one’s hand. [WOLD sense](https://wold.clld.org/meaning/11-13) |
-| 74 | old | <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby> | **Provisional.** 老 is glossed as age or an old person. The prompt calls for an adjective for an aged person. [WOLD sense](https://wold.clld.org/meaning/14-15) |
+| 73 | to take | <ruby>[取得](../words/取得.md)<rt>ㄑㄛㄨㄊㄜㄎ</rt></ruby> | ‘Take, acquire, obtain’. The source prompt specifies taking a concrete object into one’s hand. |
+| 74 | old | <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby> | Adjective ‘old, aged’, of a person. |
 | 75 | to eat | <ruby>[食](../words/食.md)<rt>ㄙㄧㄎ</rt></ruby> |  |
 | 76 | thigh | <ruby>[大腿](../words/大腿.md)<rt>ㄉㄚㄧㄊㄧㄜ</rt></ruby> |  |
 | 77 | thick | <ruby>[厚](../words/厚.md)<rt>ㄏㄛㄨ</rt></ruby> |  |
 | 78 | long | <ruby>[長](../words/長.md)<rt>ㄐㄚㄫ</rt></ruby> |  |
-| 79 | to blow | <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby> | **Provisional.** The source means wind blowing. 吹 is tagged eventive and its primary gloss is blowing air through the mouth. |
+| 79 | to blow | <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby> | Intransitive stative, as in ‘the wind blows’. |
 | 80 | wood | <ruby>[木](../words/木.md)<rt>ㄇㄛㄎ</rt></ruby> |  |
 | 81 | to run | <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby> |  |
-| 82 | to fall | <ruby>[落下](../words/落下.md)<rt>ㄌㄚㄎㄏㄚ</rt></ruby> | 落下 covers downward falling. Its eventive tag leaves the objectless construction to verify. |
+| 82 | to fall | <ruby>[落下](../words/落下.md)<rt>ㄌㄚㄎㄏㄚ</rt></ruby> | Intransitive stative ‘fall downward’. |
 | 83 | eye | <ruby>[目](../words/目.md)<rt>ㄇㄨㄎ</rt></ruby> |  |
 | 84 | ash | <ruby>[灰](../words/灰.md)<rt>ㄏㄛㄧ</rt></ruby> |  |
 | 85 | tail | <ruby>[尾](../words/尾.md)<rt>ㄇㄨㄧ</rt></ruby> |  |

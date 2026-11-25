@@ -230,7 +230,7 @@ Body vocabulary covers the parts of the human body inside and out — limbs, tor
 - <ruby>[堕胎](../words/堕胎.md)<rt>ㄉ⺢·ㄊㄚㄧ</rt></ruby>: to abort; abortion.
 - <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>: womb.
 - <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>: menstruation.
-- <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
+- <ruby>[𦜝](../words/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
 - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.
 - <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>: vagina.
 - <ruby>[陰核](../words/陰核.md)<rt>ㄧㄇㄏㄚㄎ</rt></ruby>: clitoris.
