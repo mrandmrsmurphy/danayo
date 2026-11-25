@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences #2 (user approved)** — entered 太陽 照中。 in `lexipedia/218 Sentences.md` and noted that –中 marks ongoing aspect relative to the reference time.
+
+- **218 Sentences #1 (user approved)** — entered 太陽 照。 in `lexipedia/218 Sentences.md` and noted that context supplies the tense and aspect of the bare predicate.
+
 - **218 Sentences blank copy (user request)** — copied `lexipedia/218 Sentences.md` from the UL vault, adapted its introduction for Dan’a’yo, and linked it from `lexipedia/Lexipedia.md`. Verified all 218 prompts and blank translation fields against the UL copy.
 
 - **Leipzig–Jakarta List perfected (user request)** — stamped `lexipedia/Leipzig–Jakarta List.md` after checking all 100 glosses in source order, all 107 word links and 注音, and the 性詞 classifications for 燃焼, 老, 吹, and 落下. The commentary records the scope of the chosen equivalents.

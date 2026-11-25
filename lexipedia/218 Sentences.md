@@ -10,11 +10,15 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 1. The sun shines.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby>。
+
+   **Commentary:** The bare predicate 照 leaves tense and aspect underspecified. In context it can describe a general fact, a habitual action, or shining at a present, past, or future reference time.
 
 2. The sun is shining.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照中<rt>ㄐㄛㄨㄐㄨㄫ</rt></ruby>。
+
+   **Commentary:** The suffix –中 marks the shining as ongoing at the reference time, which is understood as now in this prompt.
 
 3. The sun shone.
 
