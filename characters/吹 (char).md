@@ -1,8 +1,8 @@
 ---
-mandarin: "chuī"
+mandarin: chuī
 cantonese: ceoi1
-korean: "취"
-korean_native: "불"
+korean: 취
+korean_native: 불
 japanese:
   - SUI
 japanese_native: ふ
@@ -24,31 +24,31 @@ vietnamese:
   - xơi
   - xỉ
   - xủi
-middle_chinese_initial: "t͡ɕʰ"
-middle_chinese_final: "iuᴇ"
+middle_chinese_initial: t͡ɕʰ
+middle_chinese_final: iuᴇ
 stroke_count: 7
-radical: "口"
+radical: 口
 skip_number: 1-3-4
 grade_level: "3"
-pos: 事詞
+pos: 性詞
 english:
   - blow
   - puff
   - bluster
 羅馬字: cui
-諺文: "취"
-joyo_level: "高等"
+諺文: 취
+joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: "中"
+hanmun_edu_level: 中
 danayo_id: 3054
 mc_id: 1838
-graphemic_classification: "会意"
-stand_in: "吹"
+graphemic_classification: 会意
+stand_in: 吹
 aliases:
   - 䶳
   - 龡
   - 䶴
-注音: "ㄑㄨㄧ"
+注音: ㄑㄨㄧ
 date-last-perfect: 2026-11-08
 kwin: true
 tags:
