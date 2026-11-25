@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **Leipzig–Jakarta Dan’a’yo forms and commentary (user request)** — populated 99 of 100 rows in `lexipedia/Leipzig–Jakarta List.md` from existing word files and verified their linked 注音. Added brief sense and usage notes, left ‘navel’ open, and flagged provisional matches for ‘egg’, ‘burn’, ‘take’, ‘old’, and wind ‘blow’. Preserved all English prompts and their order.
+
 - **Leipzig–Jakarta fill-in page (user request)** — added `lexipedia/Leipzig–Jakarta List.md` and linked it in `lexipedia/Lexipedia.md`. Verified all 100 English prompts in the UL source order. Dan’a’yo forms are left blank for completion.
 
 ## 2026-11-21
