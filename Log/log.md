@@ -2,6 +2,10 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content. Older entries are in the archive files beside this one (`Log/log YYYY-MM-DD to YYYY-MM-DD.md`); the log rolls over to a new file at about 300 KB.
 
+## 2026-11-25
+
+- **Leipzig–Jakarta fill-in page (user request)** — added `lexipedia/Leipzig–Jakarta List.md` and linked it in `lexipedia/Lexipedia.md`. Verified all 100 English prompts in the UL source order. Dan’a’yo forms are left blank for completion.
+
 ## 2026-11-21
 
 - **Hairpin line in `translation/Classical Poetry.md` (user decision):** recast 混欲不勝簪 as 幾乎不可保持簪, with the hair supplied by the preceding line. Verified the 注音 of 幾乎, 可 and 保持 against their word entries.

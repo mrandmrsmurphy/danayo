@@ -57,10 +57,11 @@ Rosenfelder's helpful book
 * [[lexipedia/Water]]
 * [[lexipedia/Work]]
 
-## Swadesh
-Rosenfelder's book includes these two lists, but neither is one of the ~50 Lexipedia domain categories proper: Swadesh is the standard core-vocabulary list used across comparative linguistics generally, and the Sophomore List is his own supplementary list that follows directly after it.
-- [[Swadesh]]
-- [[lexipedia/Sophomore List]]
+## Vocabulary lists
+
+- [[Swadesh]] — comparative core vocabulary.
+- [[lexipedia/Sophomore List|Sophomore List]] — Mark Rosenfelder’s supplementary vocabulary.
+- [[lexipedia/Leipzig–Jakarta List|Leipzig–Jakarta List]] — 100 basic vocabulary concepts selected for stability and resistance to borrowing.
 
 ## Others
 Most of these lists are intended for authors, sometimes of science-fiction and other hypothetical words.  As a functional IAL, Dan'a'yo self-describes:
