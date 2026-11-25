@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences #10 and 上昇 (user approved)** — entered 太陽 今於 上昇中。 in `lexipedia/218 Sentences.md` and documented the explicit time frame and ongoing aspect. Set `words/上昇.md` to 性詞 for intransitive ‘rise, ascend’.
+
+- **218 Sentences #9 (user approved)** — entered 明太陽 照。 in `lexipedia/218 Sentences.md` with separate ruby for each word and commentary on 明 as a noun modifier.
+
 - **218 Sentences #8 (user approved)** — entered 太陽 明様照。 in `lexipedia/218 Sentences.md` with separate ruby for 明, 様, and 照 and commentary on the manner suffix –様.
 
 - **218 Sentences #7 (user approved)** — entered 太陽 来日於 照。 in `lexipedia/218 Sentences.md`. Recorded that 来日 supplies the future time without –将 and added the user’s Korean parallels for the time frame and topic orders.

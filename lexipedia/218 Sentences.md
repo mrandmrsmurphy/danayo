@@ -58,11 +58,15 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 9. The bright sun shines.
 
-   **Translation:**
+   **Translation:** <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby>。
+
+   **Commentary:** The stative 明 “bright” directly modifies 太陽 “sun,” making 明太陽 the topic. In #8, 明様 modifies 照 and describes how the sun shines.
 
 10. The sun is rising now.
 
-    **Translation:**
+    **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>今<rt>ㄍㄧㄇ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>上昇<rt>ㄙ⼘ㄫㄙㄨㄫ</rt></ruby><ruby>中<rt>ㄐㄨㄫ</rt></ruby>。
+
+    **Commentary:** 今於 explicitly marks “now” as the time frame. 上昇 is an intransitive 性詞 “rise, ascend,” and –中 marks the ascent as ongoing.
 
 11. All the people shouted.
 
