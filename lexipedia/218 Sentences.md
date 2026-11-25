@@ -52,7 +52,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 8. The sun shines brightly.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>様<rt>⼘ㄫ</rt></ruby><ruby>照<rt>ㄐㄛㄨ</rt></ruby>。
+
+   **Commentary:** The suffix –様 turns 明 “bright” into 明様 “brightly.” 明様 goes immediately before 照 and describes how the sun shines.
 
 9. The bright sun shines.
 

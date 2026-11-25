@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-25
 
+- **218 Sentences #8 (user approved)** — entered 太陽 明様照。 in `lexipedia/218 Sentences.md` with separate ruby for 明, 様, and 照 and commentary on the manner suffix –様.
+
 - **218 Sentences #7 (user approved)** — entered 太陽 来日於 照。 in `lexipedia/218 Sentences.md`. Recorded that 来日 supplies the future time without –将 and added the user’s Korean parallels for the time frame and topic orders.
 
 - **218 Sentences #6 and ruby by word and affix (user approved)** — entered 太陽 再度照中。 and its commentary in `lexipedia/218 Sentences.md`. Gave each word and affix its own ruby span in #6 and applied the same format to #2–5 to allow line wrapping.
