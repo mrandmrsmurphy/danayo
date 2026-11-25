@@ -46,7 +46,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 7. The sun will shine tomorrow.
 
-   **Translation:**
+   **Translation:** <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> <ruby>来日<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>照<rt>ㄐㄛㄨ</rt></ruby>。
+
+   **Commentary:** 来日於 is the time frame between the topic 太陽 and the comment 照, as in Korean 해가 내일에 비칠 것이다. 来日 already supplies the future time, so –将 is unnecessary. When “tomorrow” is the topic, it moves to the front and 太陽照 forms the comment: <ruby>来日<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby> <ruby>太陽<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby><ruby>照<rt>ㄐㄛㄨ</rt></ruby>。 Compare Korean 내일은 해가 비칠 것이다.
 
 8. The sun shines brightly.
 
